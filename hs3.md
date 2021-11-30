@@ -7,4 +7,4 @@ written by Jón Þorláksson's fellow scribe
 - number of fragmentary sequences: 12
 - number of incipits: 2
 
-
+Of the 17 sequences that are not incipits 10 are edited in CM
