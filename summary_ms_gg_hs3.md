@@ -1,4 +1,4 @@
-# Sammendrag
+# Summary
 
 ## Missale Scardense
 written by 2 scribes: Jón Þorláksson and the scribe of HS 3
