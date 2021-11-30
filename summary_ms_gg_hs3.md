@@ -1,7 +1,7 @@
 # Summary
 
 ## Missale Scardense
-written by 2 scribes: Jón Þorláksson and the scribe of HS 3
+two scribes: Jón Þorláksson and the scribe of HS 3
 
 - number of complete sequences: 16
 - number of sequences with lacunae: 10
@@ -11,7 +11,7 @@ written by 2 scribes: Jón Þorláksson and the scribe of HS 3
 Sum (without incipits): 40
 
 ## Graduale Gufudalense
-written by Jón Þorláksson
+scribe: Jón Þorláksson
 
 - number of complete sequences: 3
 - number of sequences with lacunae: 17
@@ -21,7 +21,7 @@ written by Jón Þorláksson
 Sum (without incipits): 33
 
 ## HS 3 (gradual)
-written by Jón Þorláksson's fellow scribe
+scribe: Jón Þorláksson's fellow scribe
 
 - number of complete sequences: 2
 - number of sequences with lacunae: 5
