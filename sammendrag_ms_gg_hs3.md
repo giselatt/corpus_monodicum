@@ -16,7 +16,7 @@ written by Jón Þorláksson
 - number of fragmentray sequences: 13
 - number of incipits: not counted
 
-## HS 3
+## HS 3 (gradual)
 written by Jón Þorláksson's fellow scribe
 
 - number of complete sequences: 2
