@@ -10,4 +10,4 @@ written by Jón Þorláksson
 
 
 
-of these are 17 edited in CM (per 30.11.2021)
+of the sequences that are not incipits 17 are edited in CM (per 30.11.2021)
