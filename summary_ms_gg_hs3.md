@@ -1,7 +1,7 @@
 # Summary
 
 ## Missale Scardense
-two scribes: Jón Þorláksson and the scribe of HS 3
+two scribes: Jón Þorláksson (main scribe) and the scribe of HS 3
 
 - number of complete sequences: 16
 - number of sequences with lacunae: 10
