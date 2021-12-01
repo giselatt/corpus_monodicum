@@ -38,4 +38,5 @@ Sum (without incipits): 19
 - number of incipits: not counted
 
 Sum (without incipits): 92
+
 NB: not unique items
