@@ -39,4 +39,4 @@ Sum (without incipits): 19
 
 Sum (without incipits): 92
 
-NB: not unique items
+NB: not 92 unique items
