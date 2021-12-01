@@ -1,1 +1,1 @@
-Her legger jeg filer som er relevante
+Her legger jeg filer som er relevante for min del av prosjektet
