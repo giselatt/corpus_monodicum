@@ -55,7 +55,27 @@ Einband nicht erhalten.
 
     - Magnus deus in universa terra (AH 7:201, 53:220) (Eggen 1968 I, S. 128-31, ms i)
     - Virgo mater gratuletur (AH 40:246 1-11b) (Eggen 1968 I, S. 182-184, ms i)
-    
+
+- 3r-4v
+
+- 5r-v
+
+- 6r-7v
+
+8r-v
+
+9r-13v
+
+- 9r-v
+
+- 10r-v
+
+- 11r-v
+
+- 12r-v
+
+- 13r-v
+
 
 --- mehr ---
 
