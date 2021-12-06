@@ -77,8 +77,6 @@ Einband nicht erhalten.
 - 13r-v
 
 
---- mehr ---
-
 
 ## Herkunft und Geschichte
 
