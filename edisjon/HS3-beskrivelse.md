@@ -165,6 +165,17 @@ Einband nicht erhalten.
 
 - 13r-v
 
+    Feste:
+    
+    - Eadmundi (20.11.)
+    - Ceciliae (22.11.)
+    
+    Sequenzen:
+    
+    - Omnis fidelium (AH 40:191 9a-11) (Eggen 1968 I, S. 275-277, ms i)
+    - Eia christi concio (nicht in AH) (Eggen 1968 I, S. 277-78, ms i)
+    - Sponsa christo dilecta (AH 40:176) (Eggen 1968 I, S. 297, ms i)
+
 
 
 ## Herkunft und Geschichte
