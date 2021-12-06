@@ -47,7 +47,10 @@ Einband nicht erhalten.
 1r - 7v Temporale
 
 - 1r-2v
-    - In nativitate domini  ad tertiam missam  (25.12.) (off.)
+    
+    Feste:
+    
+    - In nativitate domini  ad tertiam missam  (25.12.) (Off.)
     - In festo s. Stephani (26.12.)
     - In festo s. Iohannis apl. et ev. (27.12.)
     
@@ -59,12 +62,14 @@ Einband nicht erhalten.
 - 3r-4v
     
     Feste:
+    
     - In oct. s. Stephani (2.1.)
     - In oct. s. Iohannis apl. et ev. (3.1.)
     - In oct. Innocentium (4.1.)
     - In vigilia epiphaniae (5.1.)
     
     Sequenzen:
+    
     - Hanc concordi famulatu (AH 53:215 9-12) (Eggen 1968 I, S. 31-33, ms i)
     - Virgo mater gratuletur (Incipit) (AH 40: 246) (Eggen 1968 I, S. 182-184, ms i)
     - Ioannes ihesu christo (AH 53:168) (Eggen 1968 I, S. 33-35, ms i)
@@ -73,6 +78,17 @@ Einband nicht erhalten.
     - Epiphaniam domino (AH 7:37 1a-6a, AH 53:28 1-11) (Eggen 1968 I, S. 44-47, ms i)
 
 - 5r-v
+
+    Feste:
+    
+    - Dominica VII [post trinitatem] (Offm.)
+    - Dominica VIII
+    - Dominica IX (Gr.)
+    
+    Sequenzen:
+    
+    - O alma trinitas (Incipit) (AH---
+    - Voce iubilantes (Incipit) (AH---
 
 - 6r-7v
 
