@@ -103,7 +103,7 @@ Einband nicht erhalten.
     
     - Stans a longe (AH 7:231, AH 53:93) (Eggen 1968 I, S. 125-126, ms i)
 
-8r-v Commune Sanctorum: Alleluia- und Offertorieserie
+8r-v Commune Sanctorum: Alleluia- und Offertorienserie
 
 9r-13v Sanctorale
 
@@ -116,17 +116,38 @@ Einband nicht erhalten.
     - In festo Bartholomaei apl. (24.8.)
     - Audoeni ep. et cf. (24.8.)
     - Hermetis (28.8.)
-    - Augustini (28.8. (seq.)
+    - Augustini (28.8. (Seq.)
 
     Sequenzen:
     
-    - Alla cantabiloe sonet (AH 8:137, AH 53:129) (Eggen 1968 I, S. 239-341, ms i)
+    - Alla cantabile sonet (AH 8:137, AH 53:129) (Eggen 1968 I, S. 239-341, ms i)
     - De profundis tenebrarum (AH 55:75 1-5) (Eggen 1968 I, S. 241,243, ms i)
     
     
 - 10r-v
 
+    Feste:
+    
+    - Decollatio b. Iohannis baptistae (29.8.) (Seq.)
+    - Egidii abb. (1.9.)
+
+    Sequenzen:
+    
+    - Precursorum summi regis (AH 55:179 7-18) (Eggen 1968 I, S. 245-346, ms i)
+    - Sancti baptiste (AH 53:163) (Eggen 1968 I, S. 189-191, ms i)
+    - Exultet in gloris (nicht in AH) (Eggen 1968 I, S. 246-347, ms i)
+
 - 11r-v
+
+    Feste:
+    
+    - In nativitate b. Mariae (8.9.) (Seq.)
+    - In exaltatione s. Crucis (14.9.) (Seq.)
+
+    Sequenzen:
+    
+    - Alle celeste nec non (AH 7:98 6a-13) (Eggen 1968 I, S. 250-253, ms i)
+    - Salve lignum sancte crucis (AH 54:122) (Eggen 1968 I, S. 256-257, ms i)
 
 - 12r-v
 
