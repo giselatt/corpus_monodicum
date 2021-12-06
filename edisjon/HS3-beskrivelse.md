@@ -57,13 +57,14 @@ Einband nicht erhalten.
     - Virgo mater gratuletur (AH 40:246 1-11b) (Eggen 1968 I, S. 182-184, ms i)
 
 - 3r-4v
+    
+    Feste:
     - In oct. s. Stephani (2.1.)
     - In oct. s. Iohannis apl. et ev. (3.1.)
     - In oct. Innocentium (4.1.)
     - In vigilia epiphaniae (5.1.)
     
     Sequenzen:
-    
     - Hanc concordi famulatu (AH 53:215 9-12) (Eggen 1968 I, S. 31-33, ms i)
     - Virgo mater gratuletur (Incipit) (AH 40: 246) (Eggen 1968 I, S. 182-184, ms i)
     - Ioannes ihesu christo (AH 53:168) (Eggen 1968 I, S. 33-35, ms i)
