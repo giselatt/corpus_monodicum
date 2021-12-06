@@ -16,7 +16,7 @@ Pergament, 13 Bl. (ein Dobbeltblatt, 11 Einzelblätter og ein kleines Fragment),
     
 ## Ausstattung
 
-Durchgehend rubriziert. Anmerkungen für den Rubrikenschreiber an mehreren Stellen in den Margen erhalten (cursiva).  Sechzeilige historisierte Initiale für den Introitus "Ecce advenit dominator" (Die heiligen drei Könige überreichen Gaben an Maria mit dem Kind)(4r). Vierzeilige gespaltete Initiale in rubinrot udn azurblau mit Palmettenmuster und Margausläufer in rot und gelb (12r). Zwei- bis vierzeilige Initialen in rot, grün, blau, rubinrot, starkgrün oder okerbraun, teilweise mit Palmettenmuster in gegenteiliger Farbe.
+Durchgehend rubriziert. Anmerkungen für den Rubrikenschreiber an mehreren Stellen in den Seitenrändern erhalten (cursiva).  Sechzeilige historisierte Initiale für den Introitus "Ecce advenit dominator" (Die heiligen drei Könige überreichen Gaben an Maria mit dem Kind)(4r). Vierzeilige gespaltete Initiale in rubinrot und azurblau mit Palmettenmuster und Ausläufer in den Seitenrand in rot und gelb (12r). Zwei- bis vierzeilige Initialen in rot, grün, blau, rubinrot, starkgrün oder okerbraun, teilweise mit Palmettenmuster in gegenteiliger Farbe. Einzeilige rote Initialen [Lombarden?]. Rote Linienfüller. 
 
 ## Einband
 
