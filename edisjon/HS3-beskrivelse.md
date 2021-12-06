@@ -77,7 +77,7 @@ Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand des Origi
 
 ## Literatur
 
-Attinger 2006. Gisela Attinger. Sequences in Two Icelandic Mass Books from the Later Middle Ages. In: The Sequences of Nidaros. A Nordic Repertory & Its European Context, S. 165-82. Trondheim 2006.
+Attinger 2006. Gisela Attinger. Sequences in Two Icelandic Mass Books from the Later Middle Ages, in: The Sequences of Nidaros. A Nordic Repertory & Its European Context, S. 165-82. Trondheim 2006.
 
 Eggen 1968 I. Erik Eggen, Bibliotheca Arnamagnæana, Bd. 21: The Sequences of the Archbishopric of Nidarós 1. Text.  Hafniae 1968.
 
