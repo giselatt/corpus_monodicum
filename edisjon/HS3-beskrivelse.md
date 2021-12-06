@@ -62,7 +62,7 @@ Einband nicht erhalten.
 
 - 6r-7v
 
-8r-v Commune Sanctorum, Alleluia- und Offertorieserie
+8r-v Commune Sanctorum: Alleluia- und Offertorieserie
 
 9r-13v
 
