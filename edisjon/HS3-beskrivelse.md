@@ -151,6 +151,18 @@ Einband nicht erhalten.
 
 - 12r-v
 
+    Feste:
+    
+    - Mauricii soc. eius (22.9.) (Seq.)
+    - Firmini (25.9.)
+    - Cosmae et Damiani (27.9.)
+    - Michaelis (29.9) (Seq.)
+
+    Sequenzen:
+    
+    - Alludat letus ordo (AH 7:176 7a-10, AH 53 189) (Eggen 1968 I, S. 258-259, ms i)
+    - Ad celebres rex celice (AH 53:190 1-9) (Eggen 1968 I, S. 259-262, ms i)
+
 - 13r-v
 
 
