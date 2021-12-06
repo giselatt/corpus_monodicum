@@ -12,11 +12,11 @@ Pergament, 13 Bl. (ein Dobbeltblatt, 11 Einzelblätter og ein kleines Fragment),
     
 ## Schriftraum – Notation – Textschrift
 
-27/28 x 18/18,5 cm, dreizehn Notensysteme. Quadratnotation auf vier roten Linien, Schlüssel: F, c, b, g, auch Kombination von c-Schlüssel und b (D-Schlüssel in einem Gradualegesang). Textualis formata.
+27/28 x 18/18,5 cm, dreizehn Notensysteme. Quadratnotation auf vier roten Linien, Schlüssel: F-, c-, b- und g-Schlüssel, c-Schlüssel auch in Verbindung mit b-Vorzeichen (D-Schlüssel in einem Gradualegesang). Textualis formata.
     
 ## Ausstattung
 
-Anmerkungen für den Rubrikenschreiber an mehreren Stellen in den Margen erhalten (cursiva).
+Durchgehend rubriziert. Anmerkungen für den Rubrikenschreiber an mehreren Stellen in den Margen erhalten (cursiva).  Historizierte Initiale über 6 Zeilen (Die heiligen drei Könige überreichen Gaben an Maria mit dem Kind).
 
 ## Einband
 
