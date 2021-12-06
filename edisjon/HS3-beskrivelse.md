@@ -36,7 +36,7 @@ Die Blätter waren früher zum Einbinden folgender arnamagnæanischer Handschrif
     
 ## Ausstattung
 
-Durchgehend rubriziert. Anmerkungen für den Rubrikenschreiber an mehreren Stellen in den Seitenrändern erhalten (cursiva).  Sechszeilige historisierte Initiale für den Introitus "Ecce advenit dominator" (Die heiligen drei Könige überreichen Gaben an Maria mit dem Kind)(4r). Vierzeilige gespaltete Initiale in rubinrot und azurblau mit Palmettenmuster und Ausläufer in den Seitenrand in rot und gelb (12r). Zwei- bis vierzeilige Initialen in rot, grün, blau, rubinrot, starkgrün oder okerbraun, teilweise mit Palmettenmuster in gegenteiliger Farbe. Einzeilige rote Initialen [Lombarden?]. Rote Linienfüller. 
+Durchgehend rubriziert. Anmerkungen für den Rubrikenschreiber an mehreren Stellen in den Seitenrändern erhalten (cursiva).  Sechszeilige historisierte Initiale für den Introitus "Ecce advenit dominator" (Motiv: die heiligen drei Könige überreichen Gaben an Maria mit dem Kind)(4r). Vierzeilige gespaltete Initiale in rubinrot und azurblau mit Palmettenmuster und Ausläufer in den Seitenrand in rot und gelb (12r). Zwei- bis vierzeilige Initialen in rot, grün, blau, rubinrot, starkgrün oder okerbraun, teilweise mit Palmettenmuster in gegenteiliger Farbe. Einzeilige rote Initialen [Lombarden?]. Rote Linienfüller. 
 
 ## Einband
 
