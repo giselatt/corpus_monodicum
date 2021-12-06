@@ -4,7 +4,7 @@ langt navn
     
 type ms
     
-Proveniens | datering
+proveniens | datering
     
 pergament, antall bl., bladstørrelse
     
