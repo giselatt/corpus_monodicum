@@ -64,12 +64,12 @@ Einband nicht erhalten.
     
     Sequenzen:
     
-    - Hanc concordi famulatu (AH 53:215 9-12) (Eggen 1968 I, S. 31-33)
-    - Virgo mater gratuletur (Incipit) (AH 40: 246) (Eggen 1968 I, S. 182-184)
-    - Ioannes ihesu christo (AH 53:168) (Eggen 1968 I, S. 33-35)
-    - Laus tibi christe tui sapit (AH 53:156) (Eggen 1968 I, S. 38-40)
-    - Letabundus exultet (AH 54:2) (Eggen 1968 I, S. 18-21)
-    - Epiphaniam domino (AH 7:37 1a-6a, AH 53:28 1-11) (Eggen 1968 I, S. 44-47)
+    - Hanc concordi famulatu (AH 53:215 9-12) (Eggen 1968 I, S. 31-33, ms i)
+    - Virgo mater gratuletur (Incipit) (AH 40: 246) (Eggen 1968 I, S. 182-184, ms i)
+    - Ioannes ihesu christo (AH 53:168) (Eggen 1968 I, S. 33-35, ms i)
+    - Laus tibi christe tui sapit (AH 53:156) (Eggen 1968 I, S. 38-40, ms i)
+    - Letabundus exultet (AH 54:2) (Eggen 1968 I, S. 18-21, ms i)
+    - Epiphaniam domino (AH 7:37 1a-6a, AH 53:28 1-11) (Eggen 1968 I, S. 44-47, ms i)
 
 - 5r-v
 
