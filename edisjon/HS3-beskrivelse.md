@@ -63,4 +63,6 @@ Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand des Origi
 
 ## Literatur
 
---- kommt ---
+Andersen 2008. Merete Geert Andersen, Bibliotheca Arnamagnæana, Bd 46: Katalog over AM Accessoria 7. De Latinske Fragmenter, København 2008.
+
+--- mehr kommt ---
