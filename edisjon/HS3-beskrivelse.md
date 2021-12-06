@@ -6,7 +6,7 @@ Graduale (Fragment)
     
 Island | 3/4 15. Jahrhundert
     
-Pergament, 13 Bl. (ein Dobbeltblatt, 11 Einzelblätter og ein kleines Fragment),  ca 39 x 28 cm
+Pergament, 13 Bl. (ein Dobbeltblatt, 11 Einzelblätter und ein kleines Fragment),  ca 39 x 28 cm
     
 ## Lagen – Foliierung
 
