@@ -44,7 +44,7 @@ Einband nicht erhalten.
 
 ## Inhalt
 
-- kommt -
+--- kommt ---
 
 ## Herkunft und Geschichte
 
