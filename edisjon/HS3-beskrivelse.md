@@ -77,6 +77,10 @@ Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand des Origi
 
 ## Literatur
 
-Geert Andersen 2008. Merete Geert Andersen, Bibliotheca Arnamagnæana, Bd 46: Katalog over AM Accessoria 7. De Latinske Fragmenter, København 2008.
+Eggen 1968 I. Erik Eggen, Bibliotheca Arnamagnæana, Bd. 21: The Sequences of the Archbishopric of Nidarós 1. Text.  Hafniae 1968.
+
+Eggen 1968 II. Erik Eggen, Bibliotheca Arnamagnæana, Bd. 22: The Sequences of the Archbishopric of Nidarós 2. Facsimiles.  Hafniae 1968.
+
+Geert Andersen 2008. Merete Geert Andersen, Bibliotheca Arnamagnæana, Bd 46: Katalog over AM Accessoria 7. De Latinske Fragmenter, Hafniae 2008.
 
 --- mehr ---
