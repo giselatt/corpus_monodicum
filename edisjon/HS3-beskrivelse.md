@@ -44,7 +44,11 @@ Einband nicht erhalten.
 
 ## Inhalt
 
+- kommt -
+
 ## Herkunft und Geschichte
+
+- kommt -
 
 ## Vorlagen
 
@@ -58,3 +62,5 @@ Online (Stand: 20211206):
 Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand des Originals [hoffentlich].
 
 ## Literatur
+
+- kommt -
