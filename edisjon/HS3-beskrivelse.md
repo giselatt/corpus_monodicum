@@ -1,6 +1,6 @@
-# AM Acc. 7 HS3
+# AM Acc. 7 HS 3
 
-Den Arnamagnæanske Håndskriftsamling
+Den Arnamagnæanske Håndskriftsamling, Accessoria 7, HS 3
     
 Graduale (Fragment)
     
