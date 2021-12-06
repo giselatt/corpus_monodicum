@@ -6,9 +6,27 @@ Graduale (Fragment)
     
 Island | 3/4 15. Jahrhundert
     
-Pergament, 13 Bl. (ein Dobbeltblatt, 11 Einzelblätter og ein kleines Fragment),  bladstørrelse
+Pergament, 13 Bl. (ein Dobbeltblatt, 11 Einzelblätter og ein kleines Fragment),  ca 39 x 28 cm
     
 ## Lagen – Foliierung
+
+Alte Signatur: "Codex A".  Zu diesem Codex gehören drei weitere Blätter und ein kleines Fragment (AM 117 fol^1, AM 724 4to, AM 146 4to und AM 171 8vo), alle in Accessoria 7b gefunden.  Die Blätter waren früher zum Einbinden folgender arnamagnæanischer Handschriften verwendet:
+
+- AM 257 fol^2 (f.1)
+- AM 258 fol^2 (f.2)
+- AM 257 fol^1 (f.3)
+- AM 258 fol^1 (f.4)
+- AM 117 fol^1 (f.5)
+- AM 111 4to (f.6)
+- AM 724 4to (f.7)
+- AM 146 4to (f.8)
+- AM 213 fol (f.9)
+- AM 256 fol^1 (f.10)
+- AM 256 fol^2 (f.11)
+- AM 213 fol + AM 171 8vo (f.12)
+- AM 515 4to (f.13)
+
+
     
 ## Schriftraum – Notation – Textschrift
 
