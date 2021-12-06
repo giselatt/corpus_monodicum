@@ -1,10 +1,10 @@
-# AM Access 7 HS3
+# AM Acc. 7 HS3
 
-langt navn
+Den Arnamagnæanske Håndskriftsamling
     
-Graduale
+Graduale (Fragment)
     
-arkiv | datering
+Proveniens | datering
     
 pergament, antall bl., bladstørrelse
     
