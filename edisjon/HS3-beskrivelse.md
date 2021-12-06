@@ -6,7 +6,7 @@ Graduale (Fragment)
     
 Proveniens | datering
     
-pergament, antall bl., bladstørrelse
+Pergament, 13 Bl., bladstørrelse
     
 ## Lagen – Foliierung
     
