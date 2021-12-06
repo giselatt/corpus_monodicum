@@ -48,7 +48,7 @@ Einband nicht erhalten.
 
 ## Herkunft und Geschichte
 
-- kommt -
+--- kommt ---
 
 ## Vorlagen
 
@@ -63,4 +63,4 @@ Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand des Origi
 
 ## Literatur
 
-- kommt -
+--- kommt ---
