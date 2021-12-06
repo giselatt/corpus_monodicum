@@ -4,7 +4,7 @@ langt navn
     
 type ms
     
-arkiv | datering
+Proveniens | datering
     
 pergament, antall bl., bladstørrelse
     
