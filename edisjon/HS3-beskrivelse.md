@@ -44,7 +44,21 @@ Einband nicht erhalten.
 
 ## Inhalt
 
---- kommt ---
+1r - 7v Temporale
+
+- 1r-2v
+    - In nativitate domini  ad tertiam missam  (25.12.) (off.)
+    - In festo s. Stephani (26.12.)
+    - In festo s. Iohannis apl. et ev. (27.12.)
+    
+Sequenzen:
+
+    - Magnus deus in universa terra (AH 7:201, 53:220) (Eggen 1968 I, S. 128-31, ms i)
+    - Virgo mater gratuletur (AH 40:246 1-11b) (Eggen 1968 I, S. 182-184, ms i)
+    
+
+--- mehr ---
+
 
 ## Herkunft und Geschichte
 
