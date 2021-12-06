@@ -19,7 +19,9 @@ Pergament, 13 Bl. (ein Dobbeltblatt, 11 Einzelblätter og ein kleines Fragment),
 Anmerkungen für den Rubrikenschreiber an mehreren Stellen in den Margen erhalten (cursiva).
 
 ## Einband
-    
+
+Einband nicht erhalten.
+
 ## Inhalt
 
 ## Herkunft und Geschichte
