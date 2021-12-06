@@ -92,12 +92,38 @@ Einband nicht erhalten.
 
 - 6r-7v
 
+    Feste:
+    
+    - Dominica XI [post trinitatem] (all.)
+    - Dominica XII
+    - Dominica XIII
+    - Dominica XIIII (Off.)
+    
+    Sequenzen:
+    
+    - Stans a longe (AH 7:231, AH 53:93) (Eggen 1968 I, S. 125-126, ms i)
+
 8r-v Commune Sanctorum: Alleluia- und Offertorieserie
 
-9r-13v
+9r-13v Sanctorale
 
 - 9r-v
 
+    Feste:
+    
+    - Octava assumptionis Mariae (22.8.) (All.)
+    - In vigilia Bartholomaei apl. (23.8.)
+    - In festo Bartholomaei apl. (24.8.)
+    - Audoeni ep. et cf. (24.8.)
+    - Hermetis (28.8.)
+    - Augustini (28.8. (seq.)
+
+    Sequenzen:
+    
+    - Alla cantabiloe sonet (AH 8:137, AH 53:129) (Eggen 1968 I, S. 239-341, ms i)
+    - De profundis tenebrarum (AH 55:75 1-5) (Eggen 1968 I, S. 241,243, ms i)
+    
+    
 - 10r-v
 
 - 11r-v
