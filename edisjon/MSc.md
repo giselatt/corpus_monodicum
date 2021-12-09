@@ -13,9 +13,13 @@ Missale (Fragment)
     
 Island | 3/4 15. Jahrhundert
     
-Pergament, 65 Bl., alle Blätter sind beschnitten und die originale Blattgröße ist nicht erschließbar
-    
+Pergament, 65 Bl., alle Blätter sind beschnitten, oft mit Textverlust
+
 ## Lagen – Foliierung
+
+Die Handschrift ist von 2 Schreibern geschrieben:
+
+
 
 Alte Signatur: "Codex A".  Zu diesem Codex gehören drei weitere Blätter und ein kleines Fragment (AM 117 fol^1, AM 724 4to, AM 146 4to und AM 171 8vo), alle in Accessoria 7b gefunden.
 
