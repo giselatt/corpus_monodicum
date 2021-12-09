@@ -13,7 +13,9 @@ Missale (Fragment)
     
 Island | 3/4 15. Jahrhundert
     
-Pergament, 65 Bl., alle Blätter sind beschnitten, oft mit Textverlust [må sjekke bokbindene - kanskje de er hele og bladstørrelsen kan måles der?]
+Pergament, 65 Bl., alle Blätter sind beschnitten, oft mit Textverlust
+
+[må sjekke bokbindene - kanskje de er hele og bladstørrelsen kan måles der?]
 
 ## Lagen – Foliierung
 
