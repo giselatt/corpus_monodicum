@@ -87,8 +87,8 @@ Einband nicht erhalten.
     
     Sequenzen:
     
-    - O alma trinitas (Incipit) (AH---
-    - Voce iubilantes (Incipit) (AH---
+    - O alma [trinitas] (Incipit) (AH---
+    - Voce iubi[lantes] (Incipit) (AH---
 
 - 6r-7v
 
@@ -102,6 +102,7 @@ Einband nicht erhalten.
     Sequenzen:
     
     - Stans a longe (AH 7:231, AH 53:93) (Eggen 1968 I, S. 125-126, ms i)
+    - Keine Sequenzen angegegeben für Sonntag XII bis XIIII
 
 8r-v Commune Sanctorum: Alleluia- und Offertorienserie
 
@@ -134,8 +135,8 @@ Einband nicht erhalten.
     Sequenzen:
     
     - Precursorum summi regis (AH 55:179 7-18) (Eggen 1968 I, S. 245-346, ms i)
-    - <i>alia</i> Sancti baptiste (AH 53:163) (Eggen 1968 I, S. 189-191, ms i)
-    - Exultet in gloris (nicht in AH) (Eggen 1968 I, S. 246-347, ms i)
+    - <i>alia</i> Sancti baptiste (Incipit) (AH 53:163) (Eggen 1968 I, S. 189-191, ms i)
+    - Exultet in gloria (nicht in AH) (Eggen 1968 I, S. 246-347, ms i)
 
 - 11r-v
 
