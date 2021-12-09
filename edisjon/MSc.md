@@ -2,11 +2,11 @@
 
 <b>Handschriften:</b>
 
-- AM Acc. 7 HS 1: Den Arnamagnæanske Håndskriftsamling, Accessoria 7, a alpha, HS 1 (59 Bl.)
-- Lbs fragm. 19 I-III: ---  (2 Bl. und ein kleineres Fragment eines dritten Blattes)
-- Lbs fragm. 27: ---  (1 Bl.)
-- [bokbind]: ---  (2 Bl.)
-- NKS 1265 II, fol: ---  (1 Bl.)
+- AM Acc. 7 HS 1: Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7, a alpha, HS 1 (59 Bl.)
+- Lbs fragm. 19 I-III: Reykjavik, Landsbókasafn, Lbs fragm. 19 (2 Bl. und ein kleineres Fragment eines dritten Blattes)
+- Lbs fragm. 27: Reykjavik, Landsbókasafn, Lbs fragm. 27 (1 Bl.)
+- [bokbind]: Kopenhagen, Den Arnamagnæanske Håndskriftsamling, --- (2 Bl.)
+- NKS 1265 IIa, fol: Kopenhagen, Den Kongelige Bibliotek NKS 1265 IIa, fol (1 Bl.)
 
     
 Missale (Fragment)
