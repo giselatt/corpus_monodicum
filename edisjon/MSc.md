@@ -86,11 +86,13 @@ Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand des Origi
 
 ## Literatur
 
-Attinger 2006. Gisela Attinger. Sequences in Two Icelandic Mass Books from the Later Middle Ages, in: The Sequences of Nidaros. A Nordic Repertory & Its European Context, S. 165-82. Trondheim 2006.
+Attinger 2006. Gisela Attinger, Sequences in Two Icelandic Mass Books from the Later Middle Ages, in: The Sequences of Nidaros. A Nordic Repertory & Its European Context, S. 165-82. Trondheim 2006.
 
 Eggen 1968 I. Erik Eggen, Bibliotheca Arnamagnæana, Bd. 21: The Sequences of the Archbishopric of Nidarós 1. Text.  Hafniae 1968.
 
 Eggen 1968 II. Erik Eggen, Bibliotheca Arnamagnæana, Bd. 22: The Sequences of the Archbishopric of Nidarós 2. Facsimiles.  Hafniae 1968.
+
+Geert Andersen 1979. Merete Geert Andersen, Colligere fragmenta, ne pereant, in: Opuscula VII. Vol. 34. Bibliotheca Arnamagnæana, S. 1-35, København[?]C 1979.
 
 Geert Andersen 2008. Merete Geert Andersen, Bibliotheca Arnamagnæana, Bd 46: Katalog over AM Accessoria 7. De Latinske Fragmenter, Hafniae 2008.
 
