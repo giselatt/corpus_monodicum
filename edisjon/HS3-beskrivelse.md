@@ -87,8 +87,8 @@ Einband nicht erhalten.
     
     Sequenzen:
     
-    - O alma [trinitas] (Incipit) (AH---
-    - Voce iubi[lantes] (Incipit) (AH---
+    - Sonntag VIII: O alma [trinitas] (Incipit) (AH---
+    - Sonntag IX: Voce iubi[lantes] (Incipit) (AH---
 
 - 6r-7v
 
