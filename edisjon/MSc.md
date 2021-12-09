@@ -3,10 +3,10 @@
 <b>Handschriften:</b>
 
 - AM Acc. 7 HS 3: Den Arnamagnæanske Håndskriftsamling, Accessoria 7, a alpha, HS 1 (59 Bl.)
-- Lbs fragm. 19 I-III (2 Bl. und ein kleineres Fragment eines dritten Blattes)
-- Lbs fragm. 27 (1 Bl.)
-- [bokbind] (2 Bl.)
-- NKS 1265 II, fol (1 Bl.)
+- Lbs fragm. 19 I-III: ---  (2 Bl. und ein kleineres Fragment eines dritten Blattes)
+- Lbs fragm. 27: ---  (1 Bl.)
+- [bokbind]: ---  (2 Bl.)
+- NKS 1265 II, fol: ---  (1 Bl.)
 
     
 Missale (Fragment)
@@ -17,7 +17,7 @@ Pergament, 65 Bl., alle Blätter sind beschnitten, oft mit Textverlust
 
 ## Lagen – Foliierung
 
-Alte Signaturen: "Cod. Scard", "Codex B", "Codex D".  Zu diesen Codices gehören fünf weitere Blätter und ein kleines Fragment in anderen Samlungen (s.o).
+Alte Signaturen: "Cod. Scard", "Codex B", "Codex D".  Zu diesen Codices gehören fünf weitere Blätter und ein kleines Fragment aus anderen Archiven (s.o).
 Die meisten Blätter waren früher zum Einbinden arnamagnæanischer Handschriften verwendet.
 
 Rekonstruktion nach Merete Geert Andersen (1979):
