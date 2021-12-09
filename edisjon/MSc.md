@@ -37,7 +37,22 @@ Rekonstruktion nach Merete Geert Andersen (1979):
 - f(12) am 368 fol^2
 - f(13) am 371 fol^1
 - f(14) am 370 fol^2
-- f(15) (f. 14), am 389 4° (f. 15), am 363 [4°] (f. 16), am 259 fol1 (f. 17), am 493 4° (f. 18), am 205 fol2 (f. 19), am 261 fol2 (f. 20), am 375 4° (f. 21), am 205 fol1 (f. 22), am 30 fol2 (f. 23), am 144 fol2 (f. 24), am 261 fol1 (f. 25), am 637 4° (f. 26), am 204 fol1 (f. 27), am 209 fol2 (f. 28), am 30 fol1 (f. 29), am 204 fol2 (f. 30), am 209 fol1 (f. 31), am 117 fol2 (f. 32), am 118 fol1 (f. 33), am 328 4° (f. 34), am 118 fol2 (f. 35), am 259 fol2 (f.36),am1804°(f.37),am1794°(f.38),am176afol1(f.39),am4914° (f. 40), am 528 4° (f. 41), am 540 4° (f. 42), am 539 4° (f. 43), am 523 4° (f.44),am5374°(f.45),am5094°(f.46),am4924°(f.47),am297a4° (f. 48), am 522 4° (f. 49), am 156 fol2 (f. 50), am 156 fol1 (f. 51), am 530 4° (f. 52), am 176a fol2 (f. 53), am 446 4° (f. 54), am 728 4° (f. 55), am 485 4° (f. 56), am 402 4° (f. 57) og am 446 [4°] (f. 58).
+- f(15) (f. 14), am 389 4° (f. 15), am 363 [4°] (f. 16), am 259 fol1 (f. 17), am 493 4° (f. 18), am 205 fol2 (f. 19), am 261 fol2 (f. 20), am 375 4° (f. 21), am 205 fol1 (f. 22), am 30 fol2 (f. 23), am 144 fol2 (f. 24), am 261 fol1 (f. 25)
+- f(26) Sg. 21701 (Vorderseite)
+- f(27) am 637 4°
+- f(28) am 204 fol^1 (f. 27), am 209 fol2 (f. 28), am 30 fol1 (f. 29), am 204 fol2 (f. 30)
+- f(32) Sg. 21701 (Rückseite)
+- f(33) am 209 fol^1
+- f(34) am 117 fol2 (f. 32), am 118 fol1 (f. 33), am 328 4° (f. 34), am 118 fol2 (f. 35), am 259 fol2 (f.36),am1804°(f.37),am1794°(f.38),am176afol1(f.39),am4914° (f. 40)
+- f(43) am 528 4°
+- f(44) Lbs fragm. 27
+- f(45) am 540 4° (f. 42), am 539 4° (f. 43), am 523 4° (f.44),am5374°(f.45),am5094°(f.46),am4924°(f.47),am297a4° (f. 48), am 522 4° (f. 49), am 156 fol2 (f. 50), am 156 fol1 (f. 51), am 530 4° (f. 52), am 176a fol2 (f. 53), am 446 4° (f. 54), am 728 4° (f. 55), am 485 4° (f. 56),
+- f(60) am 402 4°
+- f(61) NKS 1365 IIa fol
+- f(62) am 446 [4°]
+- Lbs fragm. 19 I
+- Lbs fragm. 19 III
+- Lbs fragm. 19 II
 
     
 ## Schriftraum – Notation – Textschrift
