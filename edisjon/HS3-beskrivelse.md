@@ -134,7 +134,7 @@ Einband nicht erhalten.
     Sequenzen:
     
     - Precursorum summi regis (AH 55:179 7-18) (Eggen 1968 I, S. 245-346, ms i)
-    - Sancti baptiste (AH 53:163) (Eggen 1968 I, S. 189-191, ms i)
+    - <i>alia</i> Sancti baptiste (AH 53:163) (Eggen 1968 I, S. 189-191, ms i)
     - Exultet in gloris (nicht in AH) (Eggen 1968 I, S. 246-347, ms i)
 
 - 11r-v
