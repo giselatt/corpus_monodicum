@@ -2,7 +2,7 @@
 
 <b>Handschriften:</b>
 
-- AM Acc. 7 HS 3: Den Arnamagnæanske Håndskriftsamling, Accessoria 7, a alpha, HS 1 (59 Bl.)
+- AM Acc. 7 HS 1: Den Arnamagnæanske Håndskriftsamling, Accessoria 7, a alpha, HS 1 (59 Bl.)
 - Lbs fragm. 19 I-III: ---  (2 Bl. und ein kleineres Fragment eines dritten Blattes)
 - Lbs fragm. 27: ---  (1 Bl.)
 - [bokbind]: ---  (2 Bl.)
@@ -76,13 +76,16 @@ Einband nicht erhalten.
 
 ## Vorlagen
 
-Transkription anhand von Digitalisat von schwarz-weiß Photographien, am Original überprüft [hoffentlich].
+Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand der Originale [hoffentlich].
+
+Transkription hauptsächlich anhand von Digitalisat von schwarz-weiß Photographien, am Original überprüft [hoffentlich].
 
 Online (Stand: 20211209):
 
 - https://digitalesamlinger.hum.ku.dk/Home/Samlingerne/13154
+- https://www.ismus.is/i/book/uid-5fe4aecf-f675-4a98-94b4-211964b263e9
 
-Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand des Originals [hoffentlich].
+
 
 ## Literatur
 
