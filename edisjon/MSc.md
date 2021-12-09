@@ -81,13 +81,13 @@ Rekonstruktion nach Merete Geert Andersen (1979):
 
 Das Missale ist von 2 Schreibern geschrieben:
 
-### 1) f(1)r-f(15)r, f(41)r^19-f(65)v
+### 1) f(1)r-f(15)r, f(41)r<sup>19</sup>-f(65)v
 
 Schreiber: Jón Þorláksson (gleicher Schreiber wie Graduale Gufudalense)
 
 [27/28 x 18/18,5 cm, dreizehn Notensysteme. Quadratnotation auf vier roten Linien, Schlüssel: F-, c-, b- und g-Schlüssel, c-Schlüssel auch in Verbindung mit b-Vorzeichen, außerdem D-Schlüssel in einem Gradualegesang. Textualis formata.]
     
-### 2) f(15)v-f(41)^19
+### 2) f(15)v-f(41)<sup>19</sup>
     
 Schreiber: gleicher Schreiber wie AM Acc. 7 HS 3   
     
