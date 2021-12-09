@@ -41,8 +41,17 @@ Die Blätter  waren früher zum Einbinden folgender arnamagnæanischer Handschri
 
 Die Handschrift ist von 2 Schreibern geschrieben:
 
-### 1) Jón 
+### 1) f(1)r-f(15)r, f(41)r^19-f(65)v
+
+Schreiber: Jón Þorláksson
+
 27/28 x 18/18,5 cm, dreizehn Notensysteme. Quadratnotation auf vier roten Linien, Schlüssel: F-, c-, b- und g-Schlüssel, c-Schlüssel auch in Verbindung mit b-Vorzeichen, außerdem D-Schlüssel in einem Gradualegesang. Textualis formata.
+    
+### 2) f(15)v-f(41)^19
+    
+Schreiber: unbekannt   
+    
+    
     
 ## Ausstattung
 
