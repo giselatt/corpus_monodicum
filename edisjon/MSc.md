@@ -40,7 +40,7 @@ Schreiber: Jón Þorláksson
     
 ### 2) f(15)v-f(41)^19
     
-Schreiber: unbekannt   
+Schreiber: gleicher Schreiber wie AM Acc. 7 HS 3   
     
     
     
