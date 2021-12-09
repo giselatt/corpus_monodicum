@@ -50,17 +50,31 @@ Rekonstruktion nach Merete Geert Andersen (1979):
 - f(38) am 259 fol<sup>2</sup>
 - f(39) am 180 4°
 - f(40) am 179 4°
-- f(41) am 176a fol1<sup>1</sup>
+- f(41) am 176a fol<sup>1</sup>
 - f(42) am 491 4°
 - f(43) am 528 4°
 - f(44) Lbs fragm. 27
-- f(45) am 540 4° (f. 42), am 539 4° (f. 43), am 523 4° (f.44),am 537 4°(f.45),am 509 4°(f.46),am 492 4°(f.47),am 297a 4° (f. 48), am 522 4° (f. 49), am 156 fol<sup>2</sup> (f. 50), am 156 fol<sup>1</sup> (f. 51), am 530 4° (f. 52), am 176a fol<sup>2</sup> (f. 53), am 446 4° (f. 54), am 728 4° (f. 55), am 485 4° (f. 56),
+- f(45) am 540 4°
+- f(46) am 539 4°
+- f(47) am 523 4°
+- f(48) am 537 4°
+- f(49) am 509 4°
+- f(50) am 492 4°
+- f(51) am 297a 4°
+- f(52) am 522 4°
+- f(53) am 156 fol<sup>2</sup>
+- f(54) am 156 fol<sup>1</sup>
+- f(55) am 530 4°
+- f(56) am 176a fol<sup>2</sup>
+- f(57) am 446 4°
+- f(58) am 728 4°
+- f(59) am 485 4°
 - f(60) am 402 4°
 - f(61) NKS 1365 IIa fol
 - f(62) am 446 [4°]
-- Lbs fragm. 19 I
-- Lbs fragm. 19 III
-- Lbs fragm. 19 II
+- f(63) Lbs fragm. 19 I
+- f(64) Lbs fragm. 19 III
+- f(65) Lbs fragm. 19 II
 
     
 ## Schriftraum – Notation – Textschrift
