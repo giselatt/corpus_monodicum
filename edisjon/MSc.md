@@ -1,9 +1,11 @@
 # Missale Scardense
 
+<b>Handschriften:</b>
+
 - AM Acc. 7 HS 3: Den Arnamagnæanske Håndskriftsamling, Accessoria 7, a alpha, HS 1 (59 Bl.)
-- Lbs fragm. 27 (1 Bl.)
 - Lbs fragm. 19 I-III (2 Bl. und ein kleineres Fragment eines dritten Blattes)
-- bokbind (2 Bl.)
+- Lbs fragm. 27 (1 Bl.)
+- [bokbind] (2 Bl.)
 - NKS 1265 II, fol (1 Bl.)
 
     
@@ -11,7 +13,7 @@ Missale (Fragment)
     
 Island | 3/4 15. Jahrhundert
     
-Pergament, 13 Bl. (ein Dobbeltblatt, 11 Einzelblätter und ein kleines Fragment),  ca 39 x 28 cm
+Pergament, 65 Bl., alle Blätter sind beschnitten und die originale Blattgröße ist nicht erschließbar
     
 ## Lagen – Foliierung
 
