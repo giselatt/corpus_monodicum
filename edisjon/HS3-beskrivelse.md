@@ -94,7 +94,7 @@ Einband nicht erhalten.
 
     Feste:
     
-    - Dominica XI [post trinitatem] (all.)
+    - Dominica XI [post trinitatem] (All.)
     - Dominica XII
     - Dominica XIII
     - Dominica XIIII (Off.)
@@ -102,7 +102,9 @@ Einband nicht erhalten.
     Sequenzen:
     
     - Stans a longe (AH 7:231, AH 53:93) (Eggen 1968 I, S. 125-126, ms i)
-    - Keine Sequenzen angegegeben für Sonntag XII bis XIIII
+    - [Sonntag XII: ingen sekvens antydet, skulle vært «Benedicta semper sancta - muligens klippet vekk]
+    - [Sonntag XIII: ingen sekvens antydet, skulle vært «O alma]
+    - [Sonntag XIIII: ingen sekvens antydet, skulle vært «Voces iubilantes]
 
 8r-v Commune Sanctorum: Alleluia- und Offertorienserie
 
