@@ -13,14 +13,14 @@ Missale (Fragment)
     
 Island | 3/4 15. Jahrhundert
     
-Pergament, 65 Bl., alle Blätter sind beschnitten, oft mit Textverlust
+Pergament, 65 Bl., alle[?] Blätter sind beschnitten, in der Regel mit Textverlust
 
 [må sjekke bokbindene - kanskje de er hele og bladstørrelsen kan måles der?]
 
 ## Lagen – Foliierung
 
 Alte Signaturen: "Cod. Scard", "Codex B", "Codex D".  Zu diesen Codices gehören fünf weitere Blätter und ein kleines Fragment aus anderen Archiven (s.o).
-Die meisten Blätter waren früher zum Einbinden arnamagnæanischer Handschriften verwendet.
+Die meisten Blätter waren früher zum Einbinden von arnamagnæanischen Handschriften verwendet.
 
 Rekonstruktion nach Merete Geert Andersen (1979):
 
