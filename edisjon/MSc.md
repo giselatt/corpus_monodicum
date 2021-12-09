@@ -24,7 +24,7 @@ Alte Signaturen: "Cod. Scard", "Codex B", "Codex D", "Codex J".  Diese Blätter 
 Rekonstruktion nach Merete Geert Andersen (1979):
 
 - f(1) AM 166 4to
-- f(2) am 371 fol^2
+- f(2) am 371 fol<sup>2</sup>
 - f(3) am 366 fol^2 
 - f(4) am 369 fol^2
 - f(5) am 369 fol^1
