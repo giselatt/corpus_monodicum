@@ -17,10 +17,6 @@ Pergament, 65 Bl., alle Blätter sind beschnitten, oft mit Textverlust
 
 ## Lagen – Foliierung
 
-Die Handschrift ist von 2 Schreibern geschrieben:
-
-
-
 Alte Signatur: "Codex A".  Zu diesem Codex gehören drei weitere Blätter und ein kleines Fragment (AM 117 fol^1, AM 724 4to, AM 146 4to und AM 171 8vo), alle in Accessoria 7b gefunden.
 
 Die Blätter  waren früher zum Einbinden folgender arnamagnæanischer Handschriften verwendet:
@@ -43,6 +39,9 @@ Die Blätter  waren früher zum Einbinden folgender arnamagnæanischer Handschri
     
 ## Schriftraum – Notation – Textschrift
 
+Die Handschrift ist von 2 Schreibern geschrieben:
+
+### 1) Jón 
 27/28 x 18/18,5 cm, dreizehn Notensysteme. Quadratnotation auf vier roten Linien, Schlüssel: F-, c-, b- und g-Schlüssel, c-Schlüssel auch in Verbindung mit b-Vorzeichen, außerdem D-Schlüssel in einem Gradualegesang. Textualis formata.
     
 ## Ausstattung
