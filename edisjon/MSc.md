@@ -23,8 +23,8 @@ Alte Signaturen: "Cod. Scard", "Codex B", "Codex D", "Codex J".  Diese Blätter 
 
 Rekonstruktion nach Merete Geert Andersen (1979):
 
-f(1) AM 166 4to
-f(2) ---
+- f(1) AM 166 4to
+- f(2) ---
 
     
 ## Schriftraum – Notation – Textschrift
