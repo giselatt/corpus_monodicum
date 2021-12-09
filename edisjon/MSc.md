@@ -34,7 +34,7 @@ Die Handschrift ist von 2 Schreibern geschrieben:
 
 ### 1) f(1)r-f(15)r, f(41)r^19-f(65)v
 
-Schreiber: Jón Þorláksson
+Schreiber: Jón Þorláksson (wie gleicher Schreiber wie Graduale Gufudalense)
 
 27/28 x 18/18,5 cm, dreizehn Notensysteme. Quadratnotation auf vier roten Linien, Schlüssel: F-, c-, b- und g-Schlüssel, c-Schlüssel auch in Verbindung mit b-Vorzeichen, außerdem D-Schlüssel in einem Gradualegesang. Textualis formata.
     
