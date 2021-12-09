@@ -14,19 +14,19 @@ Alte Signatur: "Codex A".  Zu diesem Codex gehören drei weitere Blätter und ei
 
 Die Blätter waren früher zum Einbinden folgender arnamagnæanischer Handschriften verwendet:
 
-- AM 257 fol^2 (f.1)
-- AM 258 fol^2 (f.2)
-- AM 257 fol^1 (f.3)
-- AM 258 fol^1 (f.4)
-- AM 117 fol^1 (f.5)
-- AM 111 4to (f.6)
-- AM 724 4to (f.7)
-- AM 146 4to (f.8)
-- AM 213 fol (f.9)
-- AM 256 fol^1 (f.10)
-- AM 256 fol^2 (f.11)
-- AM 213 fol + AM 171 8vo (f.12)
-- AM 515 4to (f.13)
+- AM 257 fol^2 (f1)
+- AM 258 fol^2 (f2)
+- AM 257 fol^1 (f3)
+- AM 258 fol^1 (f4)
+- AM 117 fol^1 (f5)
+- AM 111 4to (f6)
+- AM 724 4to (f7)
+- AM 146 4to (f8)
+- AM 213 fol (f9)
+- AM 256 fol^1 (f10)
+- AM 256 fol^2 (f11)
+- AM 213 fol + AM 171 8vo (f12)
+- AM 515 4to (f13)
 
 
     
