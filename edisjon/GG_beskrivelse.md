@@ -83,7 +83,7 @@ Einband nicht erhalten.
 
 f(1)r-f(2)v [må sjekkes]
 
-f(3)r–f(10)v Temporale
+### f(3)r–f(10)v Temporale
 
 - f(2)r–f(6)v In die s. trinitatis (off.) – In festo corporis christi – Dominica I post oct. corporis christi – Dominica II – Dominica III – Dominica IIII (Int.). Mit den Sequenzen <i>Lauda syon salvatorem</i> (AH 50:385), <i>Benedicta semper sancta</i> (AH 7:95, 53:81), <i>O alma trinitas</i> (AH 7:97), <i>Voce iubilantes magna</i> (AH 10:37). Gedruckt: Eggen 1968 I, A. 121–123, 109–112, 118–120, 116–118 (ms h).
 
@@ -93,7 +93,7 @@ f(3)r–f(10)v Temporale
 
 - f(10)r–v Dominica XXI [post oct. corporis christi] (Gr.) – Dominica XXII – Dominica XXIII – Dominica XXIIII – Dominica XXV (All.). Mit den Sequenzen <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81). Gedruckt: Eggen 1968 I, S. 106–109, 109–112.
 
-f(11)r–f(23)v Commune Sanctorum
+### f(11)r–f(23)v Commune Sanctorum
 
 - f(11)r–f(13)v Introitusserie – (f(11)r) Gradualserie.
 
@@ -109,7 +109,7 @@ f(11)r–f(23)v Commune Sanctorum
 
 - f(23)r–v <i>De beata Maria</i> Offertorieserie (Lac.); (f(23)v) Communioserie.
 
-f(24)r–f(37)v Sanctorale
+### f(24)r–f(37)v Sanctorale
 
 - f(24)r–v In die s. Andreae (30/11) (Seq.) – Infra oct. Andreae apl. – In festo s. Barbarae v. (4/12) – In festo s. Nicholai ep. (6/12) (Seq.). Mit den Sequenzen <i>Sacrosancta hodierne</i> (AH 54:30 14–19), <i>Virginis venerande</i> (Incipit) (AH 53:246), <i>Congaudentes exultemus</i> (AH 54:66 1–21). Gedruckt: Eggen 1968 I, S. 129–131, 305–306, 131–135 (ms m).
 
