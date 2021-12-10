@@ -6,12 +6,12 @@
 - <b>UB J 1650 8vo ex. 2</b>: Kopenhagen, Universitetsbibliotek J 1650 8vo ex. 2, (Bucheinband um <i>Catalogus Selectiorum omnis generis variique idiomatis Librorum, quorum Auctio, volente Deo, habibetur</i>, Hafniæ 1723) (1 Bl.)
 - <b>AM 266 4to</b>: Reykjavik, Stofnun Árna Magnússonar 266 4to (2 Bl.)
 
-    
 Graduale (Fragment)
     
 Island | 3/4 15. Jahrhundert
     
 Pergament,  37 Bl.
+
 
 ## Lagen – Foliierung
 
