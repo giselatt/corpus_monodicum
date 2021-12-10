@@ -2,8 +2,8 @@
 
 <b>Handschriften:</b>
 
-- <b>AM Acc. 7 HS 2</b>: Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7, a alpha, HS 1 (59 Bl.)
-- 
+- <b>AM Acc. 7 HS 2</b>: Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7, a alpha, HS 2 (34 Bl.)
+- <b>UB J 1650 8vo ex. 2: Kopenhagen, Universitetsbibliotek 
 
     
 Graduale (Fragment)
