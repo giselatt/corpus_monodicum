@@ -173,35 +173,35 @@ f(1)r–f(43)r Temporale
 
 - f(40)r–v Feria VI [quattuor temporum septembris] (Ep.) – In sabbato (Gr.).
 
-- f(41)r1–19 In sabbato [quattuor temporum septembris] (Ev.–Postcom.).
+- f(41)r<sup>1-19</sup> In sabbato [quattuor temporum septembris] (Ev.–Postcom.).
 
-- f(42)r19–f(43)r32 Missa pro defunctis (Int.) – Feria III – Feria IIII – Feria V – Feria VI – Sabbato (Secr.). [sjekk om linje 32 er korrekt]
+- f(42)r<sup>19</sup>–f(43)r<sup>32</sup> Missa pro defunctis (Int.) – Feria III – Feria IIII – Feria V – Feria VI – Sabbato (Secr.). [sjekk om linje 32 er korrekt]
 
 
  
 f(43)r<sup>31</sup>–f(55)v Commune Sanctorum [sjekk om linje 31 er korrekt]
 
-- f(43)r31–f(44)v Officieserie.
+- f(43)r<sup>31</sup>–f(44)v Officieserie.
 
-- f(45)r–f(51)v Epistelserie – (f(46)v) GradualSerie – (f(49)r) Alleluiaserie.
+- f(45)r–f(51)v Epistelserie – (f(46)v) Gradualserie – (f(49)r) Alleluiaserie.
 
 - f(52)r–v Alleluiaserie – (f(52)r) Sequenzserie. Mit den Sequenzen <i>Celi enarrant gloriam</i> (AH 50:267), <i>Clare sanctorum senatus</i> (AH 53:228 1–5). Gedruckt: Eggen 1968 I, S. 201–205, 285–286 (ms l). [sjekk hvor sekvensene begynner - f(52)recto eller verso?]
 
 - f(53)r–f(54)v Sequenzserie. Mit den Sequenzen <i>Virginis venerande</i> (AH 53:246 2–12), <i>Laudes debitas deo nostro</i> (AH 54:62 1–14). Gedruckt: Eggen 1968 I, S. 305–306, 307–309.
  
-– (53r) Tractusserie – (54r) evangeliese- rie.
+– f(53r) Traktserie – f(54r) Evangelienserie.
 
-- f(55)r–v Offertorieserie – (f(55)r) secretaserie – (f(56)v) communioserie.
+- f(55)r–v Offertorieserie – (f(55)r) Sekretserie – (f(56)v) Communioserie.
 
-- f(56)r–v28 in dedicatione ecclesiae (all.–postcom.). Mit der Sequenz Sancte syon assunt (ah 55:33). Trykt: Eggen i, s. 311–313 (ms h). [sjekk linjenummer]
+- f(56)r–v<sup>28</sup> In dedicatione ecclesiae (All.–Postcom.). Mit der Sequenz <i>Sancte syon assunt</i> (AH 55:33). Gedruckt: Eggen 1968 I, S. 311–313 (ms h). [sjekk linjenummer]
 
-f(56)v27–f(65)v sanctorale [sjekk linjenummer]
+f(56)v<sup>27</sup>–f(65)v Sanctorale [sjekk linjenummer]
 
-- f(56)v27–f(60)v In vigilia Andreae apl. (29/11) (offm.) – Saturnini (29/11) – ›In die sancto‹ (30/11) – Festum Barbarae v. et m. (4/12) – In festo Nicholai (6/12) – Octava Andreae apl. (7/12) – Conceptio b. Mariae v. (8/12) – Damasi pp. (11/12) – ›De martiribus‹ [Victorici et Fusciani m.] (11/12) – Luciae v. et m. (13/12) – In festo Magni ducis m. (13/12) (seq.). Mit den Sequenzen Sacrosancta hodierne (ah 54:30), Laudes debi- tas (incipit) (ah 54:62), Congaudentes exultemus (ah 54:66), Conceptio marie virginis (ah 54:188), Regem celi cantico (÷ ah), Comitis generosi (÷ ah). Trykt: Eggen i, s. 129–131, 307–309, 131–135, 135–137, 140–141, 141–143.
+- f(56)v<sup>27</sup>–f(60)v In vigilia Andreae apl. (29/11) (Int.) – Saturnini (29/11) – ›In die sancto‹ (30/11) – Festum Barbarae v. et m. (4/12) – In festo Nicholai (6/12) – Octava Andreae apl. (7/12) – Conceptio b. Mariae v. (8/12) – Damasi pp. (11/12) – <i>›De martiribus‹</i> [Victorici et Fusciani m.] (11/12) – Luciae v. et m. (13/12) – In festo Magni ducis m. (13/12) (Seq.). Mit den Sequenzen <i>Sacrosancta hodierne</i> (AH 54:30), <i>Laudes debitas</i> (Incipit) (AH 54:62), <i>Congaudentes exultemus</i> (AH 54:66), <i>Conceptio marie virginis</i> (AH 54:188), <i>Regem celi cantico</i> (nicht in AH), <i>Comitis generosi</i> (nicht in AH). Gedruckt: Eggen 1968 I, S. 129–131, 307–309, 131–135, 135–137, 140–141, 141–143.
 
 - f(61) NKS 1265 IIa
 
-- f(62)r–v Policarpi ep. m. (26/1) (offm.) – In oct. s. Agnetis (28/1) (coll.) (lac.); (f(62)v) In purificatione b. Mariae (2/2) (coll.–ep.).
+- f(62)r–v Policarpi ep. m. (26/1) (Int.) – In oct. s. Agnetis (28/1) (Coll.) (lac.); (f(62)v) In purificatione b. Mariae (2/2) (Coll.–Ep.).
 
 f(63)-f(65) Lbs fragm. 19 I-III
 
