@@ -52,9 +52,9 @@ Einband nicht erhalten.
 
 - 3r–4v In oct. s. Stephani (2/1) (Seq.) – In oct. s. Iohannis apl. et ev. (3/1) – In oct. Innocentium (4/1) – In vigilia epiphaniae (5/1) – In die s. epiphaniae domini (6/1) (Seq.). Mit den Sequenzen <i>Hanc concordi famulatu</i> (AH 53:215 9–12), <i>Virgo mater gratuletur</i> (Incipit) (AH 40:246), <i>Iohannes ihesu christo</i> (AH 53:168), <i>Laus tibi christe cui sapit</i> (AH 53:156), <i>Letabundus exultet</i> (AH 54:2), <i>Epiphaniam domino</i> (AH 7:37 1a–6a, 53:28 1–11). Gedruckt: Eggen 1968 I, S. 31–33, 182–184, 33–35, 38–40, 18–21, 44–47 (ms i).
 
-- 5r–v Dominica VII [post trinitatem] (Int.) – Dominica VIII – Dominica ix (Gr.).
+- 5r–v Dominica VII [post trinitatem] (Int.) – Dominica VIII – Dominica ix (Gr.). Mit den Sequenzen <i>O alma</i> (Incipit) (AH ---), <i>Voce iubi[lantes]</i> (Incipit) (AH ---).
 
-- 6r–7v Dominica XI [post trinitatem] (All.) – Dominica XII – Dominica XII – Dominica XIIII (Off.). Mit den Sequenzen <i>Stans a longe</i> (für Dominica XI) (AH 7:231, 53:93). Gedruckt: Eggen 1968 I, S. 125–126 (ms i).
+- 6r–7v Dominica XI [post trinitatem] (All.) – Dominica XII – Dominica XII – Dominica XIIII (Off.). Mit der Sequenz <i>Stans a longe</i> (für Dominica XI) (AH 7:231, 53:93). Gedruckt: Eggen 1968 I, S. 125–126 (ms i).
 
 8r–v Commune Sanctorum: Alleluia- und Offertorieserie.
 
