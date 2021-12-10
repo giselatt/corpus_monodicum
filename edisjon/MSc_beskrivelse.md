@@ -139,13 +139,13 @@ f(1)r–f(43)r Temporale
 
 - f(12)r–f(14)v Dominica palmarum (Ev.) – Feria II – Feria III (Ev.).
 
-- f(15)r–f(16)v <i>De beata virgine tempore paschali</i> (Introitus <i>Salve sancta parens</i>) (Seq.–Postcom.) – (15v) In die s. resurrectionis domini nostri (Int.-Seq.). Mit den Sequenzen <i>Virgini marie laudes concinant</i> (AH 54:21 6–7), <i>Virgini marie laudes intonent</i> (AH 54:18), <i>Surgit christus cum  tropheo</i> (AH 54:230), <i>Resurrexit leo fortis</i> (nicht in AH), <i>Fulgens preclara</i> (AH 7:44 1–5b, 53:35 1–9). Gedruckt: Eggen 1968 I, S. 167–168, 168–169, 63–66, 66–68, 68–71 (ms h).
+- f(15)r–f(16)v De beata virgine tempore paschali (Introitus <i>Salve sancta parens</i>) (Seq.–Postcom.) – (15v) In die s. resurrectionis domini nostri (Int.-Seq.). Mit den Sequenzen <i>Virgini marie laudes concinant</i> (AH 54:21 6–7), <i>Virgini marie laudes intonent</i> (AH 54:18), <i>Surgit christus cum  tropheo</i> (AH 54:230), <i>Resurrexit leo fortis</i> (nicht in AH), <i>Fulgens preclara</i> (AH 7:44 1–5b, 53:35 1–9). Gedruckt: Eggen 1968 I, S. 167–168, 168–169, 63–66, 66–68, 68–71 (ms h).
 
-- f(17)r–v Feria ii [post pascha] (ep.–seq.). Mit der Sequenz Zima vetus expurgetur (ah 54:149 str. 1–17). Trykt: Eggen i, s. 71–74 (ms j).
+- f(17)r–v Feria II [post pascha] (Ep.–Seq.). Mit der Sequenz <i>Zima vetus expurgetur</i> (AH 54:149 1–17). Gedruckt: Eggen 1968 I, S. 71–74 (ms j).
 
-- f(18)r–v Feria iii [post pascha] (com.) – Feria iv (ev.). Mit der Sequenz Laudes christo redempti (ah 53:45). Trykt: Eggen i, s. 76–78 (ms j).
+- f(18)r–v Feria III [post pascha] (Com.) – Feria IV (Ev.). Mit der Sequenz <i>Laudes christo redempti</i> (AH 53:45). Gedruckt: Eggen 1968 I, S. 76–78 (ms j).
 
-- f(19)r–f(21)v Feria vi [post pascha] (ep.) – Sabbato – Dominica in oct. paschae (seq.). Mit den Sequenzen Sancta cunctis leticia (ah 40:24), Pangamus creatoris (ah 53:46), Laudes salvatori (ah 53:36 str. 1–14). Trykt: Eggen i, s. 78–80, 80–81, 82–85 (ms j).
+- f(19)r–f(21)v Feria VI [post pascha] (Ep.) – Sabbato – Dominica in oct. paschae (Seq.). Mit den Sequenzen <i>Sancta cunctis leticia</i> (AH 40:24), <i>Pangamus creatoris</i> (AH 53:46), <i>Laudes salvatori</i> (AH 53:36 1–14). Gedruckt: Eggen 1968 I, S. 78–80, 80–81, 82–85 (ms j).
 
 - f(22)r–v Feria ii [post dominicam iii post pascha] (offm.) – Dominica iv – ›In diebus ferialibus‹ (coll. (rubrik)). Mit der Sequenz Pangamus crea- toris (incipit) (ah 53:46). Trykt: Eggen i, s. 80–81.
 
