@@ -15,7 +15,7 @@ Pergament,  37 Bl.
 
 ## Lagen – Foliierung
 
-Alte Signaturen:   Diese Blätter waren früher zum Einbinden von arnamagnæanischen Handschriften verwendet. Zu diesen Codices gehören fünf weitere Blätter und ein kleines Fragment, zum größten Teil aus anderen Archiven (s.o).
+Alte Signaturen: "Cod. Scard.", "Codex E", "Codex F", "Codex G", "Codex J".  Diese Blätter waren früher zum Einbinden von arnamagnæanischen Handschriften verwendet. Zu diesen Codices gehören drei weitere Blätter , die in Reyjavik bzw. der Universitätsbibliothek in Kopenhagen aufbewahrt werden.
 
 Rekonstruktion nach Geert Andersen (1979):
 
