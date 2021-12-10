@@ -17,7 +17,9 @@ Pergament, 65 Bl., alle[?] Blätter sind beschnitten, in der Regel mit Textverlu
 
 ## Lagen – Foliierung
 
-Alte Signaturen: "Cod. Scard", "Codex B", "Codex D", "Codex J".  Diese Blätter waren früher zum Einbinden von arnamagnæanischen Handschriften verwendet. Zu diesen Codices gehören fünf weitere Blätter und ein kleines Fragment, zum größten Teil aus anderen Archiven (s.o).
+Alte Signaturen: "Cod. Scard", "Codex B", "Codex D", "Codex J".  Diese Blätter waren früher zum Einbinden von arnamagnæanischen Handschriften verwendet.
+
+Zu diesen Codices gehören fünf weitere Blätter und ein kleines Fragment, zum größten Teil aus anderen Archiven (s.o).
 
 Rekonstruktion nach Geert Andersen (1979):
 
@@ -98,7 +100,7 @@ Schreiber A: Jón Þorláksson (gleicher Schreiber wie Graduale Gufudalense)
 
 28/29 x 19/19,5 cm, 32 Linien oder 16 Notensysteme. Quadratnotation auf vier schwarzen Linien (rote Linien auf f(42)v-f(43)v), Schlüssel: c- und F-Schlüssel [må sjekkes], vertikale Striche. Textualis formata.
 
-[sjekk: F-Schlüssel für die Sequenz <i>Comitis generosi</i> (f()) ist die Hand von Schreiber 2?]
+[sjekk: F-Schlüssel für die Sequenz <i>Comitis generosi</i> (f()) ist die Hand von Schreiber B?]
     
 ### 2) f(15)v-f(41)<sup>19</sup>
     
@@ -106,6 +108,7 @@ Schreiber B: gleicher Schreiber wie AM Acc. 7 HS 3
     
 26,5/27 x 17,5/18,5 cm, 28 Linien (27 und 29 kommen vor) oder 14 Notensysteme. Quadratnotation auf vier roten Linien, Schlüssel: c- und F-Schlüssel [må sjekkes. Rezitationszeichen: c + s, vertikale Striche. Textualis formata.
     
+
 ## Ausstattung
 
 Durchgehend rubriziert von Jón Þorláksson. Rote Rubriken. Anmerkungen für den Rubrikenschreiber an mehreren Stellen in den Seitenrändern erhalten (cursiva, schwarze Tinte).  Korrekturen von Jón Þorlákssons Hand.
@@ -118,13 +121,14 @@ Sechszeilige Initiale in rot, grün og gold mit Palmettenmuster in rot und blau 
 
 Zehnzeilige Initiale mit Ranken, Farben: gold, rot, grün, azurblau (f(15)v).  Zwei- bis fünfzeilige Lombarden in gold, blau, grün oder rot. Rote Linienfüller.
 
+
 ## Einband
 
 Einband nicht erhalten.
 
+
 ## Inhalt
 
-1r–58v [missale scardense]
 1r–40r temporale
 1r–8v Thomae protom. (29/12) (offm.) – Sexto die natalis domini (30/12) – In festo s. Silvestri (31/12) – Circumcisio domini (1/1) – De s. Maria (1/1) – Octava Stephani (2/1) – Octava Iohannis apl. et ev. (3/1) – Octava Innocentium (4/1) – In vigilia epiphaniae domini (5/1) – (6r) Epiphania domini (6/1) – Dominica ina oct. epiphaniae – Octava epiphaniae (13/1) (seq.). Med sekvenserne Spe mercedis et corone (ah 55:9), Lux fulget hodierna (ah 8:6), Pangat nos a concio (ah 9:390), Eia recolamus (ah 53:16), Hanc concordi famulatu (ah 53:215), Iohannes ihesu christo (ah 53:168), Laus tibi christe cui sapit (ah 53:156), Letabun- dus exultet (ah 54:2), Epiphaniam domino (ah 7:37, ah 53:28), O mira domini pietas (cf. ah 53:24), Festa christi omnis (ah 53:29 str. 1–8). Trykt: Eggen i, s. 40–42, 26–28, 302–305, 16–18, 31–33, 33–35, 38–40, 18–21, 44–47, 55–56, 47–49 (ms h).
 9r–11v Feria vi [post dominicam passionis] (postcom.) – Sabbato – Dominica palmarum (ev.).
@@ -151,26 +155,10 @@ Feria v – Feria vi – Sabbato (secr.).
 58r–v Policarpi ep. m. (26/1) (offm.) – In oct. s. Agnetis (28/1) (coll.) (lac.); (58v) In purificatione b. Mariae (2/2) (coll.–ep.).
 
 
-1r - 7v Temporale
-
-- 1r-2v
-    
-    Feste:
-    
-    - In nativitate domini  ad tertiam missam  (25.12.) (Off.)
-    - In festo s. Stephani (26.12.)
-    - In festo s. Iohannis apl. et ev. (27.12.)
-    
-    Sequenzen:
-
-    - Magnus deus in universa terra (AH 7:201, 53:220) (Eggen 1968 I, S. 128-31, ms i)
-    - Virgo mater gratuletur (AH 40:246 1-11b) (Eggen 1968 I, S. 182-184, ms i)
-
-
-
 ## Herkunft und Geschichte
 
---- kommt ---
+--- kommt ingendwann ---
+
 
 ## Vorlagen
 
@@ -182,7 +170,6 @@ Online (Stand: 20211209):
 
 - https://digitalesamlinger.hum.ku.dk/Home/Samlingerne/13154
 - https://www.ismus.is/i/book/uid-5fe4aecf-f675-4a98-94b4-211964b263e9
-
 
 
 ## Literatur
