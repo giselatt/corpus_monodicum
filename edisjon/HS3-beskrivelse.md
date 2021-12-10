@@ -58,7 +58,7 @@ Einband nicht erhalten.
     
     Sequenzen:
 
-    - Magnus deus in universa terra (AH 7:201, 53:220) (Eggen 1968 I, S. 128-31, ms i)
+    - Magnus deus in universa terra (AH 7:201, 53:220) (Eggen 1968 I, S. 128-131, ms i)
     - Virgo mater gratuletur (AH 40:246 1-11b) (Eggen 1968 I, S. 182-184, ms i)
 
 - 3r-4v
