@@ -46,19 +46,32 @@ Einband nicht erhalten.
 
 ## Inhalt
 
-1r–13v [graduale]
-1r–7v temporale
-1r–2v In nativitate domini ad tertiam missam (25/12) (off.) – In festo s. Stephani (26/12) – In festo s. Iohannis apl. et ev. (27/12) (seq.). Med sekvenserne Magnus deus in universa terra (ah 7:201, ah 53:220), Virgo mater gratuletur (ah 40:246 str. 1–11b). Trykt: Eggen i, s. 128–31, 182–184 (ms i).
-3r–4v In oct. s. Stephani (2/1) (seq.) – In oct. s. Iohannis apl. et ev. (3/1) – In oct. Innocentium (4/1) – In vigilia epiphaniae (5/1) – In die s. epiphaniae domini (6/1) (seq.). Med sekvenserne Hanc concordi famulatu (ah 53:215 str. 9–12), Virgo mater gratuletur (incipit) (ah 40:246), Iohannes ihesu christo (ah 53:168), Laus tibi christe cui sapit (ah 53:156), Letabundus exultet (ah 54:2), Epiphaniam domino (ah 7:37 str. 1a–6a, ah 53:28 str. 1–11). Trykt: Eggen i, s. 31–33, 182–184, 33–35, 38–40, 18–21, 44–47 (ms i).
-5r–v Dominica vii [post trinitatem] (Int.) – Dominica viii – Domi- nica ix (gr.).
-6r–7v Dominica xi [post trinitatem] (all.) – Dominica xii – Dominica xiii – Dominica xiiii (off.). Med sekvensen Stans a longe til Dominica xi (ah 7:231, ah 53:93). Trykt: Eggen i, s. 125–126 (ms i).
-8r–v commune sanctorum Alleluia- og offertorieserie.
-9r–13v sanctorale
-9r–v Octava assumptionis Mariae (22/8) (all.) – In vigilia Bartholo- maei apl. (23/8) – In festo s. Bartholomaei apl. (24/8) – Audoeni ep. et cf. (24/8) – Hermetis (28/8) – Augustini (28/8) (seq.). Med sekvenserne Alle cantabile sonet (ah 8:137, ah 53:129), De profundis tenebrarum (ah 55:75 str. 1–5). Trykt: Eggen i, s. 239–241, 241–243 (ms i).
-10r–v Decollatio b. Iohannis baptistae (29/8) (seq.) – Egidii abb. (1/9) (seq.). Med sekvenserne Precursorem summi regis (ah 55:179 str. 7–18), Sancti baptiste (incipit) (ah 53:163), Exultet in gloria (÷ ah). Trykt: Eggen i, s. 245–246, 189–191, 246–247 (ms i).
-11r–v In nativitate b. Mariae (8/9) (seq.) – In exaltatione s. Crucis (14/9) (seq.). Med sekvenserne Alle celeste nec non (ah 7:98 str. 6a–13, ah 53:97), Salve lignum sancte crucis (cf. ah 54:122). Trykt: Eggen i, s. 250–253, 256–257 (ms i).
-12r–v Mauricii soc. eius (22/9) (seq.) – Firmini (25/9) – Cosmae et Damiani (27/9) – Michaelis (29/9) (seq.). Med sekvenserne Al- ludat letus ordo (ah 7:176 str. 7a–10, ah 53:189), Ad celebres rex celice (ah 53:190 str. 1–9). Trykt: Eggen i, s. 258–259, 259–262 (ms i). 13r–v Eadmundi (20/11) (seq.) – Ceciliae (22/11) (seq.). Med sekven- serne Omnis fidelium ecclesia (ah 40:191 str. 9a–11), Eia christi concio (÷ ah), Sponsa christo dilecta (ah 40:176 str. 1–3a). Trykt: Eggen i
-275–277, 277–278, 279 (ms i).
+1r–7v Temporale
+
+- 1r–2v In nativitate domini ad tertiam missam (25/12) (Off.) – In festo s. Stephani (26/12) – In festo s. Iohannis apl. et ev. (27/12) (Seq.). Mit den Sequenzen <i>Magnus deus in universa terra</i> (AH 7:201, 53:220), <i>Virgo mater gratuletur</i> (AH 40:246 1–11b). Gedruckt: Eggen 1968 I, S. 128–31, 182–184 (ms i).
+
+- 3r–4v In oct. s. Stephani (2/1) (Seq.) – In oct. s. Iohannis apl. et ev. (3/1) – In oct. Innocentium (4/1) – In vigilia epiphaniae (5/1) – In die s. epiphaniae domini (6/1) (Seq.). Mit den Sequenzen <i>Hanc concordi famulatu</i> (AH 53:215 9–12), <i>Virgo mater gratuletur</i> (Incipit) (AH 40:246), <i>Iohannes ihesu christo</i> (AH 53:168), <i>Laus tibi christe cui sapit</i> (AH 53:156), <i>Letabundus exultet</i> (AH 54:2), <i>Epiphaniam domino</i> (AH 7:37 1a–6a, 53:28 1–11). Gedruckt: Eggen 1968 I, S. 31–33, 182–184, 33–35, 38–40, 18–21, 44–47 (ms i).
+
+- 5r–v Dominica VII [post trinitatem] (Int.) – Dominica VIII – Dominica ix (Gr.).
+
+- 6r–7v Dominica XI [post trinitatem] (All.) – Dominica XII – Dominica XII – Dominica XIIII (Off.). Mit den Sequenzen <i>Stans a longe</i> (für Dominica XI) (AH 7:231, 53:93). Gedruckt: Eggen 1968 I, S. 125–126 (ms i).
+
+- 8r–v Commune Sanctorum: Alleluia- und Offertorieserie.
+
+9r–13v Sanctorale
+
+- 9r–v Octava assumptionis Mariae (22/8) (All.) – In vigilia Bartholo- maei apl. (23/8) – In festo s. Bartholomaei apl. (24/8) – Audoeni ep. et cf. (24/8) – Hermetis (28/8) – Augustini (28/8) (Seq.). Mit den Sequenzen <i>Alle cantabile sonet</i> (AH 8:137, 53:129), <i>De profundis tenebrarum</i> (AH 55:75 1–5). Gedruckt: Eggen 1968 I, S. 239–241, 241–243 (ms i).
+
+- 10r–v Decollatio b. Iohannis baptistae (29/8) (Seq.) – Egidii abb. (1/9) (Seq.). Mit den Sequenzen <i>Precursorem summi regis</i> (AH 55:179 7–18), <i>Sancti baptiste</i> (Incipit) (AH 53:163), <i>Exultet in gloria</i> (nicht in AH). Gedruckt: Eggen 1968 I, S. 245–246, 189–191, 246–247 (ms i).
+
+- 11r–v In nativitate b. Mariae (8/9) (Seq.) – In exaltatione s. Crucis (14/9) (Seq.). Mit den Sequenzen <i>Alle celeste nec non</i> (AH 7:98 6a–13, 53:97), <i>Salve lignum sancte crucis</i> (siehe AH 54:122). Gedruck: Eggen 1968 I, S. 250–253, 256–257 (ms i).
+
+- 12r–v Mauricii soc. eius (22/9) (Seq.) – Firmini (25/9) – Cosmae et Damiani (27/9) – Michaelis (29/9) (Seq.). Mit den Sequenzen <i>Alludat letus ordo</i> (AH 7:176 7a–10, 53:189), <i>Ad celebres rex celice</i> (AH 53:190 1–9). Gedruckt: Eggen 1968 I, S. 258–259, 259–262 (ms i).
+
+- 13r–v Eadmundi (20/11) (Seq.) – Ceciliae (22/11) (Seq.). Mit den Sequenzen <i>Omnis fidelium ecclesia</i> (AH 40:191 9a–11), <i>Eia christi concio</i> (nicht in AH), <i>Sponsa christo dilecta</i> (AH 40:176 1–3a). Gedruckt: Eggen 1968 I, S. 275–277, 277–278, 279 (ms i).
+
+
+
 
 1r - 7v Temporale
 
