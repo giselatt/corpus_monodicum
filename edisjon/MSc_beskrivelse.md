@@ -157,25 +157,25 @@ f(1)r–f(43)r Temporale
 
 - f(26) [UB Sg. 21701 - bare én side synlig? recto eller verso? innhold: Lauda sion]
 
-- f(27)r–v Dominica i [post trinitatem] (ev.) – Dominica ii (seq.). Mit der Sequenz O alma  initas (ah 7:97 str. 1–4a). Trykt: Eggen i, s. 118–120 (ms j).
+- f(27)r–v Dominica I [post trinitatem] (Ev.) – Dominica II (Seq.). Mit der Sequenz <i>O alma trinitas</i> (AH 7:97 1–4a). Gedruckt: Eggen 1968 I, S. 118–120 (ms j).
 
-- f(28)r–v Dominica iii [post trinitatem] (gr.) – Dominica iiii (ep.). Mit der Sequenz Voce iubilantes magna (ah 10:37). Trykt: Eggen i, s. 116–118 (ms j).
+- f(28)r–v Dominica III [post trinitatem] (Gr.) – Dominica IIII (Ep.). Mit der Sequenz <i>Voce iubilantes magna</i> (AH 10:37). Gedruckt: Eggen 1968 I, S. 116–118 (ms j).
 
-- f(29)r–f(31)v Dominica vii [post trinitatem] (ep.) – Dominica viii – Do- minica ix – Dominica x (postcom.). Mit den Sequenzen O alma  initas deitas (incipit) (ah 7:97), Voce iubilantes magna (incipit) (ah 10:37), Iu- bilemus cordis (incipit) (ah 54:165), Benedicta sit beata (incipit) (ah 7:96, ah 53:81b). Trykt: Eggen i, s. 118–120, 116–118, 112–114, 106–109.
+- f(29)r–f(31)v Dominica VII [post trinitatem] (Ep.) – Dominica VIII – Dominica IX – Dominica X (Postcom.). Mit den Sequenzen  <i>O alma trinitas deitas</i> (Incipit) (AH 7:97), <i>Voce iubilantes magna</i> (Incipit) (AH 10:37), <i>Iubilemus cordis<i> (Incipit) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b). Gedruckt: Eggen 1968 I, S. 118–120, 116–118, 112–114, 106–109.
 
 - f(32) [UB... - bare én side synlig? recto eller verso? innhold?]
 
-- f(33)r–v Dominica xi [post trinitatem] (com.) – Dominica xii – Do- minica xiii (offm.). Mit der Sequenz Benedicta semper sancta (incipit) (ah 7:95, ah 53:81). Trykt: Eggen i, s. 109–112.
+- f(33)r–v Dominica XI [post trinitatem] (Com.) – Dominica XII – Dominica XIII (Int.). Mit der Sequenz <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81). Gedruckt: Eggen 1968 I, S. 109–112.
 
-- f(34)r–f(35)v Dominica xiii [post trinitatem] (postcom.) – Dominica xiiii– Dominica xv – Dominica xvi (coll.). Mit den Sequenzen Voce iubi- lantes magna (incipit) (ah 10:37), Iubilemus cordis (incipit) (ah 54:165). Trykt: Eggen i, s. 116–118, 112–114.
+- f(34)r–f(35)v Dominica XIII [post trinitatem] (Postcom.) – Dominica XIIII– Dominica XV – Dominica XVI (Coll.). Mit den Sequenzen <i>Voce iubilantes magna</i> (Incipit) (AH 10:37), <i>Iubilemus cordis</i> (Incipit) (AH 54:165). Gedruckt: Eggen 1968 I, S. 116–118, 112–114.
 
-- f(36)r–f(39)v Dominica xviii [post trinitatem] (ev.) – Dominica xix – Dominica xx – Dominica xxi – Dominica xxii (seq.). Mit den Sequenzen Voce iubilantes (incipit) (ah 10:37), Iubilemus cordis (incipit) (ah 54:165), Benedicta sit beata (incipit) (ah 7:96, ah 53:81b), Benedicta semper (incipit) (ah 7:95, ah 53:81), O alma  initas (incipit) (ah 7:97). Trykt: Eggen i, s. 116–118, 112–114, 106–109, 109–112, 118–120.
+- f(36)r–f(39)v Dominica XVIII [post trinitatem] (Ev.) – Dominica XIX – Dominica XX – Dominica XXI – Dominica XXII (Seq.). Mit den Sequenzen <i>Voce iubilantes</i> (Incipit) (AH 10:37), <i>Iubilemus cordis</i> (Incipit) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Benedicta semper</i> (Incipit) (AH 7:95, 53:81), <i>O alma trinitas</i> (Incipit) (AH 7:97). Gedruckt: Eggen 1968 I, S. 116–118, 112–114, 106–109, 109–112, 118–120.
 
-- f(40)r–v Feria vi [quattuor temporum septembris] (ep.) – In sabbato (gr.).
+- f(40)r–v Feria VI [quattuor temporum septembris] (Ep.) – In sabbato (Gr.).
 
-- f(41)r1–19 In sabbato [quattuor temporum septembris] (ev.–postcom.).
+- f(41)r1–19 In sabbato [quattuor temporum septembris] (Ev.–Postcom.).
 
-- f(42)r19–f(43)r32 missa pro defunctis (offm.) – Feria iii – Feria iiii – Feria v – Feria vi – Sabbato (secr.). [sjekk om linje 32 er korrekt]
+- f(42)r19–f(43)r32 Missa pro defunctis (Int.) – Feria III – Feria IIII – Feria V – Feria VI – Sabbato (Secr.). [sjekk om linje 32 er korrekt]
 
 
  
@@ -183,11 +183,11 @@ f(43)r<sup>31</sup>–f(55)v Commune Sanctorum [sjekk om linje 31 er korrekt]
 
 - f(43)r31–f(44)v Officieserie.
 
-- f(45)r–f(51)v Epistelserie – (f(46)v) gradualeserie – (f(49)r) alleluiaserie.
+- f(45)r–f(51)v Epistelserie – (f(46)v) GradualSerie – (f(49)r) Alleluiaserie.
 
-- f(52)r–v Alleluiaserie – (f(52)r) sekvensserie. Mit den Sequenzen Celi enar- rant gloriam (ah 50:267), Clare sanctorum senatus (ah 53:228 str. 1–5). Trykt: Eggen i, s. 201–205, 285–286 (ms l). [sjekk hvor sekvensene begynner - f(52)recto eller verso?]
+- f(52)r–v Alleluiaserie – (f(52)r) Sequenzserie. Mit den Sequenzen <i>Celi enarrant gloriam</i> (AH 50:267), <i>Clare sanctorum senatus</i> (AH 53:228 1–5). Gedruckt: Eggen 1968 I, S. 201–205, 285–286 (ms l). [sjekk hvor sekvensene begynner - f(52)recto eller verso?]
 
-- f(53)r–f(54)v Sekvensserie. Mit den Sequenzen Virginis venerande (ah 53:246 str. 2–12), Laudes debitas deo nos o (ah 54:62 str. 1–14). Trykt: Eg- gen i, s. 305–306, 307–309.
+- f(53)r–f(54)v Sequenzserie. Mit den Sequenzen <i>Virginis venerande</i> (AH 53:246 2–12), <i>Laudes debitas deo nostro</i> (AH 54:62 1–14). Gedruckt: Eggen 1968 I, S. 305–306, 307–309.
  
 – (53r) Tractusserie – (54r) evangeliese- rie.
 
