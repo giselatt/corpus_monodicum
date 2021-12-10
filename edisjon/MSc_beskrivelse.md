@@ -129,35 +129,67 @@ Einband nicht erhalten.
 
 ## Inhalt
 
-1r–40r temporale
-1r–8v Thomae protom. (29/12) (offm.) – Sexto die natalis domini (30/12) – In festo s. Silvestri (31/12) – Circumcisio domini (1/1) – De s. Maria (1/1) – Octava Stephani (2/1) – Octava Iohannis apl. et ev. (3/1) – Octava Innocentium (4/1) – In vigilia epiphaniae domini (5/1) – (6r) Epiphania domini (6/1) – Dominica ina oct. epiphaniae – Octava epiphaniae (13/1) (seq.). Med sekvenserne Spe mercedis et corone (ah 55:9), Lux fulget hodierna (ah 8:6), Pangat nos a concio (ah 9:390), Eia recolamus (ah 53:16), Hanc concordi famulatu (ah 53:215), Iohannes ihesu christo (ah 53:168), Laus tibi christe cui sapit (ah 53:156), Letabun- dus exultet (ah 54:2), Epiphaniam domino (ah 7:37, ah 53:28), O mira domini pietas (cf. ah 53:24), Festa christi omnis (ah 53:29 str. 1–8). Trykt: Eggen i, s. 40–42, 26–28, 302–305, 16–18, 31–33, 33–35, 38–40, 18–21, 44–47, 55–56, 47–49 (ms h).
-9r–11v Feria vi [post dominicam passionis] (postcom.) – Sabbato – Dominica palmarum (ev.).
-12r–14v Dominica palmarum (ev.) – Feria ii – Feria iii (ev.). 15r–16v De beata virgine tempore paschali (officiet Salve sancta pa- rens) (seq.–postcom.) – (15v) In die s. resurrectionis domini no- stri (offm.–seq.). Med sekvenserne Virgini marie laudes concinant (ah 54:21 str. 6–7), Virgini marie laudes intonent (ah 54:18), Surgit christus cum  opheo (ah 54:230), Resurrexit leo fortis (÷ ah), Fulgens preclara (ah 7:44 str. 1–5b, ah 53:35 str. 1–9). Trykt: Eggen i, s. 167–168, 168–169, 63–66, 66–68, 68–71 (ms h).
-17r–v Feria ii [post pascha] (ep.–seq.). Med sekvensen Zima vetus expurgetur (ah 54:149 str. 1–17). Trykt: Eggen i, s. 71–74 (ms j). 18r–v Feria iii [post pascha] (com.) – Feria iv (ev.). Med sekvensen Laudes christo redempti (ah 53:45). Trykt: Eggen i, s. 76–78 (ms j). 19r–21v Feria vi [post pascha] (ep.) – Sabbato – Dominica in oct. paschae (seq.). Med sekvenserne Sancta cunctis leticia (ah 40:24), Pangamus creatoris (ah 53:46), Laudes salvatori (ah 53:36 str. 1–14). Trykt: Eggen i, s. 78–80, 80–81, 82–85 (ms j).
-22r–v Feria ii [post dominicam iii post pascha] (offm.) – Dominica iv – ›In diebus ferialibus‹ (coll. (rubrik)). Med sekvensen Pangamus crea- toris (incipit) (ah 53:46). Trykt: Eggen i, s. 80–81.
-23r–v In die s. pentecosten (ep.–ev.). Med sekvensen Sancti spiritus assit (ah 53:70). Trykt: Eggen i, s. 92–98 (ms j).
-24r–v Feria iv [post pentecosten] (all.) – Feria v (seq.). Med sekven- serne Almiphona iam gaudia (ah 7:79, ah 53:76), Veni spiritus eternorum (ah 53:71 str. 1–3). Trykt: Eggen i, s. 104–105, 105–106 (ms j). 25r–v Sabbato [post pentecosten] (ep.–seq. (rubrik)).
-26r–v Dominica i [post trinitatem] (ev.) – Dominica ii (seq.). Med se- kvensen O alma  initas (ah 7:97 str. 1–4a). Trykt: Eggen i, s. 118–120 (ms j).
-27r–v Dominica iii [post trinitatem] (gr.) – Dominica iiii (ep.). Med sekvensen Voce iubilantes magna (ah 10:37). Trykt: Eggen i, s. 116–118 (ms j).
-28r–30v Dominica vii [post trinitatem] (ep.) – Dominica viii – Do- minica ix – Dominica x (postcom.). Med sekvenserne O alma  initas deitas (incipit) (ah 7:97), Voce iubilantes magna (incipit) (ah 10:37), Iu- bilemus cordis (incipit) (ah 54:165), Benedicta sit beata (incipit) (ah 7:96, ah 53:81b). Trykt: Eggen i, s. 118–120, 116–118, 112–114, 106–109. 31r–v Dominica xi [post trinitatem] (com.) – Dominica xii – Do- minica xiii (offm.). Med sekvensen Benedicta semper sancta (incipit) (ah 7:95, ah 53:81). Trykt: Eggen i, s. 109–112.
-32r–33v Dominica xiii [post trinitatem] (postcom.) – Dominica xiiii– Dominica xv – Dominica xvi (coll.). Med sekvenserne Voce iubi- lantes magna (incipit) (ah 10:37), Iubilemus cordis (incipit) (ah 54:165). Trykt: Eggen i, s. 116–118, 112–114.
-34r–37v Dominica xviii [post trinitatem] (ev.) – Dominica xix – Dominica xx – Dominica xxi – Dominica xxii (seq.). Med se- kvenserne Voce iubilantes (incipit) (ah 10:37), Iubilemus cordis (incipit) (ah 54:165), Benedicta sit beata (incipit) (ah 7:96, ah 53:81b), Benedicta semper (incipit) (ah 7:95, ah 53:81), O alma  initas (incipit) (ah 7:97). Trykt: Eggen i, s. 116–118, 112–114, 106–109, 109–112, 118–120. 38r–v Feria vi [quattuor temporum septembris] (ep.) – In sabbato (gr.).
-39r1–19 In sabbato [quattuor temporum septembris] (ev.–postcom.). 39r19–40r32 missa pro defunctis (offm.) – Feria iii – Feria iiii –
-Feria v – Feria vi – Sabbato (secr.).
-40r31–52v commune sanctorum
-40r31–41v Officieserie.
-42r–48v Epistelserie – (44v) gradualeserie – (47r) alleluiaserie. 49r–v Alleluiaserie – (49r) sekvensserie. Med sekvenserne Celi enar- rant gloriam (ah 50:267), Clare sanctorum senatus (ah 53:228 str. 1–5). Trykt: Eggen i, s. 201–205, 285–286 (ms l).
-50r–51v Sekvensserie. Med sekvenserne Virginis venerande (ah 53:246 str. 2–12), Laudes debitas deo nos o (ah 54:62 str. 1–14). Trykt: Eg- gen i, s. 305–306, 307–309. – (50r) Tractusserie – (51r) evangeliese- rie.
-52r–v Offertorieserie – (52r) secretaserie – (52v) communioserie.
-53r–v28 in dedicatione ecclesiae (all.–postcom.). Med sekvensen Sancte syon assunt (ah 55:33). Trykt: Eggen i, s. 311–313 (ms h).
+1r–40r Temporale
+
+- 1r–8v Thomae protom. (29/12) (offm.) – Sexto die natalis domini (30/12) – In festo s. Silvestri (31/12) – Circumcisio domini (1/1) – De s. Maria (1/1) – Octava Stephani (2/1) – Octava Iohannis apl. et ev. (3/1) – Octava Innocentium (4/1) – In vigilia epiphaniae domini (5/1) – (6r) Epiphania domini (6/1) – Dominica ina oct. epiphaniae – Octava epiphaniae (13/1) (seq.). Med sekvenserne Spe mercedis et corone (ah 55:9), Lux fulget hodierna (ah 8:6), Pangat nos a concio (ah 9:390), Eia recolamus (ah 53:16), Hanc concordi famulatu (ah 53:215), Iohannes ihesu christo (ah 53:168), Laus tibi christe cui sapit (ah 53:156), Letabun- dus exultet (ah 54:2), Epiphaniam domino (ah 7:37, ah 53:28), O mira domini pietas (cf. ah 53:24), Festa christi omnis (ah 53:29 str. 1–8). Trykt: Eggen i, s. 40–42, 26–28, 302–305, 16–18, 31–33, 33–35, 38–40, 18–21, 44–47, 55–56, 47–49 (ms h).
+
+- 9r–11v Feria vi [post dominicam passionis] (postcom.) – Sabbato – Dominica palmarum (ev.).
+
+- 12r–14v Dominica palmarum (ev.) – Feria ii – Feria iii (ev.). 15r–16v De beata virgine tempore paschali (officiet Salve sancta pa- rens) (seq.–postcom.) – (15v) In die s. resurrectionis domini no- stri (offm.–seq.). Med sekvenserne Virgini marie laudes concinant (ah 54:21 str. 6–7), Virgini marie laudes intonent (ah 54:18), Surgit christus cum  opheo (ah 54:230), Resurrexit leo fortis (÷ ah), Fulgens preclara (ah 7:44 str. 1–5b, ah 53:35 str. 1–9). Trykt: Eggen i, s. 167–168, 168–169, 63–66, 66–68, 68–71 (ms h).
+
+- 17r–v Feria ii [post pascha] (ep.–seq.). Med sekvensen Zima vetus expurgetur (ah 54:149 str. 1–17). Trykt: Eggen i, s. 71–74 (ms j).
+
+- 18r–v Feria iii [post pascha] (com.) – Feria iv (ev.). Med sekvensen Laudes christo redempti (ah 53:45). Trykt: Eggen i, s. 76–78 (ms j).
+
+- 19r–21v Feria vi [post pascha] (ep.) – Sabbato – Dominica in oct. paschae (seq.). Med sekvenserne Sancta cunctis leticia (ah 40:24), Pangamus creatoris (ah 53:46), Laudes salvatori (ah 53:36 str. 1–14). Trykt: Eggen i, s. 78–80, 80–81, 82–85 (ms j).
+
+- 22r–v Feria ii [post dominicam iii post pascha] (offm.) – Dominica iv – ›In diebus ferialibus‹ (coll. (rubrik)). Med sekvensen Pangamus crea- toris (incipit) (ah 53:46). Trykt: Eggen i, s. 80–81.
+
+- 23r–v In die s. pentecosten (ep.–ev.). Med sekvensen Sancti spiritus assit (ah 53:70). Trykt: Eggen i, s. 92–98 (ms j).
+
+- 24r–v Feria iv [post pentecosten] (all.) – Feria v (seq.). Med sekven- serne Almiphona iam gaudia (ah 7:79, ah 53:76), Veni spiritus eternorum (ah 53:71 str. 1–3). Trykt: Eggen i, s. 104–105, 105–106 (ms j).
+
+- 25r–v Sabbato [post pentecosten] (ep.–seq. (rubrik)).
+
+- 
+- 26r–v Dominica i [post trinitatem] (ev.) – Dominica ii (seq.). Med se- kvensen O alma  initas (ah 7:97 str. 1–4a). Trykt: Eggen i, s. 118–120 (ms j).
+
+- 27r–v Dominica iii [post trinitatem] (gr.) – Dominica iiii (ep.). Med sekvensen Voce iubilantes magna (ah 10:37). Trykt: Eggen i, s. 116–118 (ms j).
+
+- 28r–30v Dominica vii [post trinitatem] (ep.) – Dominica viii – Do- minica ix – Dominica x (postcom.). Med sekvenserne O alma  initas deitas (incipit) (ah 7:97), Voce iubilantes magna (incipit) (ah 10:37), Iu- bilemus cordis (incipit) (ah 54:165), Benedicta sit beata (incipit) (ah 7:96, ah 53:81b). Trykt: Eggen i, s. 118–120, 116–118, 112–114, 106–109. 31r–v Dominica xi [post trinitatem] (com.) – Dominica xii – Do- minica xiii (offm.). Med sekvensen Benedicta semper sancta (incipit) (ah 7:95, ah 53:81). Trykt: Eggen i, s. 109–112.
+
+- 32r–33v Dominica xiii [post trinitatem] (postcom.) – Dominica xiiii– Dominica xv – Dominica xvi (coll.). Med sekvenserne Voce iubi- lantes magna (incipit) (ah 10:37), Iubilemus cordis (incipit) (ah 54:165). Trykt: Eggen i, s. 116–118, 112–114.
+
+- 34r–37v Dominica xviii [post trinitatem] (ev.) – Dominica xix – Dominica xx – Dominica xxi – Dominica xxii (seq.). Med se- kvenserne Voce iubilantes (incipit) (ah 10:37), Iubilemus cordis (incipit) (ah 54:165), Benedicta sit beata (incipit) (ah 7:96, ah 53:81b), Benedicta semper (incipit) (ah 7:95, ah 53:81), O alma  initas (incipit) (ah 7:97). Trykt: Eggen i, s. 116–118, 112–114, 106–109, 109–112, 118–120. 38r–v Feria vi [quattuor temporum septembris] (ep.) – In sabbato (gr.).
+
+- 39r1–19 In sabbato [quattuor temporum septembris] (ev.–postcom.).
+
+- 39r19–40r32 missa pro defunctis (offm.) – Feria iii – Feria iiii – Feria v – Feria vi – Sabbato (secr.).
+
+40r31–52v Commune Sanctorum
+
+- 40r31–41v Officieserie.
+
+- 42r–48v Epistelserie – (44v) gradualeserie – (47r) alleluiaserie.
+
+- 49r–v Alleluiaserie – (49r) sekvensserie. Med sekvenserne Celi enar- rant gloriam (ah 50:267), Clare sanctorum senatus (ah 53:228 str. 1–5). Trykt: Eggen i, s. 201–205, 285–286 (ms l).
+
+- 50r–51v Sekvensserie. Med sekvenserne Virginis venerande (ah 53:246 str. 2–12), Laudes debitas deo nos o (ah 54:62 str. 1–14). Trykt: Eg- gen i, s. 305–306, 307–309. – (50r) Tractusserie – (51r) evangeliese- rie.
+
+- 52r–v Offertorieserie – (52r) secretaserie – (52v) communioserie.
+
+- 53r–v28 in dedicatione ecclesiae (all.–postcom.). Med sekvensen Sancte syon assunt (ah 55:33). Trykt: Eggen i, s. 311–313 (ms h).
+
 53v27–58v sanctorale
-53v27–57v In vigilia Andreae apl. (29/11) (offm.) – Saturnini (29/11) – ›In die sancto‹ (30/11) – Festum Barbarae v. et m. (4/12) – In festo Nicholai (6/12) – Octava Andreae apl. (7/12) – Conceptio b. Mariae v. (8/12) – Damasi pp. (11/12) – ›De martiribus‹ [Victorici et Fusciani m.] (11/12) – Luciae v. et m. (13/12) – In festo Magni ducis m. (13/12) (seq.). Med sekvenserne Sacrosancta hodierne (ah 54:30), Laudes debi- tas (incipit) (ah 54:62), Congaudentes exultemus (ah 54:66), Conceptio marie virginis (ah 54:188), Regem celi cantico (÷ ah), Comitis generosi (÷ ah). Trykt: Eggen i, s. 129–131, 307–309, 131–135, 135–137, 140–141, 141–143.
-58r–v Policarpi ep. m. (26/1) (offm.) – In oct. s. Agnetis (28/1) (coll.) (lac.); (58v) In purificatione b. Mariae (2/2) (coll.–ep.).
+
+- 53v27–57v In vigilia Andreae apl. (29/11) (offm.) – Saturnini (29/11) – ›In die sancto‹ (30/11) – Festum Barbarae v. et m. (4/12) – In festo Nicholai (6/12) – Octava Andreae apl. (7/12) – Conceptio b. Mariae v. (8/12) – Damasi pp. (11/12) – ›De martiribus‹ [Victorici et Fusciani m.] (11/12) – Luciae v. et m. (13/12) – In festo Magni ducis m. (13/12) (seq.). Med sekvenserne Sacrosancta hodierne (ah 54:30), Laudes debi- tas (incipit) (ah 54:62), Congaudentes exultemus (ah 54:66), Conceptio marie virginis (ah 54:188), Regem celi cantico (÷ ah), Comitis generosi (÷ ah). Trykt: Eggen i, s. 129–131, 307–309, 131–135, 135–137, 140–141, 141–143.
+
+- 58r–v Policarpi ep. m. (26/1) (offm.) – In oct. s. Agnetis (28/1) (coll.) (lac.); (58v) In purificatione b. Mariae (2/2) (coll.–ep.).
 
 
 ## Herkunft und Geschichte
 
---- kommt ingendwann ---
+--- kommt irgendwann ---
 
 
 ## Vorlagen
