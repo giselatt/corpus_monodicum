@@ -8,7 +8,7 @@
 
 Graduale (Fragment)
     
-Island | 3/4 15. Jahrhundert
+Gufurdalur, Barðastrandarsýsla, Island | 3/4 15. Jahrhundert
     
 Pergament,  37 Bl.
 
