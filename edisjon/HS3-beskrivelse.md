@@ -19,14 +19,14 @@ Die Blätter waren früher zum Einbinden folgender arnamagnæanischer Handschrif
 - AM 257 fol<sup>1</sup> (f3)
 - AM 258 fol<sup>1</sup> (f4)
 - AM 117 fol<sup>1</sup> (f5)
-- AM 111 4to (f6)
-- AM 724 4to (f7)
-- AM 146 4to (f8)
+- AM 111 4° (f6)
+- AM 724 4° (f7)
+- AM 146 4° (f8)
 - AM 213 fol (f9)
 - AM 256 fol<sup>1</sup>  (f10)
 - AM 256 fol<sup>2</sup>  (f11)
 - AM 213 fol + AM 171 8vo (f12)
-- AM 515 4to (f13)
+- AM 515 4° (f13)
 
 
     
