@@ -56,7 +56,7 @@ Einband nicht erhalten.
 
 - 6r–7v Dominica XI [post trinitatem] (All.) – Dominica XII – Dominica XII – Dominica XIIII (Off.). Mit den Sequenzen <i>Stans a longe</i> (für Dominica XI) (AH 7:231, 53:93). Gedruckt: Eggen 1968 I, S. 125–126 (ms i).
 
-- 8r–v Commune Sanctorum: Alleluia- und Offertorieserie.
+8r–v Commune Sanctorum: Alleluia- und Offertorieserie.
 
 9r–13v Sanctorale
 
