@@ -11,7 +11,7 @@
     
 Missale (Fragment)
     
-Island | 3/4 15. Jahrhundert
+Skarð á Skarðsströnd, Dalasýsla, Island | 3/4 15. Jahrhundert
     
 Pergament, 65 Bl., alle[?] Blätter sind beschnitten, in der Regel mit Textverlust [må sjekke bokbindene - kanskje de er hele og bladstørrelsen kan måles der?]
 
