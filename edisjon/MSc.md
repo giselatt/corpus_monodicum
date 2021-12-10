@@ -13,15 +13,13 @@ Missale (Fragment)
     
 Island | 3/4 15. Jahrhundert
     
-Pergament, 65 Bl., alle[?] Blätter sind beschnitten, in der Regel mit Textverlust
-
-[må sjekke bokbindene - kanskje de er hele og bladstørrelsen kan måles der?]
+Pergament, 65 Bl., alle[?] Blätter sind beschnitten, in der Regel mit Textverlust [må sjekke bokbindene - kanskje de er hele og bladstørrelsen kan måles der?]
 
 ## Lagen – Foliierung
 
 Alte Signaturen: "Cod. Scard", "Codex B", "Codex D", "Codex J".  Diese Blätter waren früher zum Einbinden von arnamagnæanischen Handschriften verwendet. Zu diesen Codices gehören fünf weitere Blätter und ein kleines Fragment, zum größten Teil aus anderen Archiven (s.o).
 
-Rekonstruktion nach Merete Geert Andersen (1979):
+Rekonstruktion nach Geert Andersen (1979):
 
 - f(1) AM 166 4to
 - f(2) AM 371 fol<sup>2</sup>
@@ -158,7 +156,7 @@ Eggen 1968 I. Erik Eggen, Bibliotheca Arnamagnæana, Bd. 21: The Sequences of th
 
 Eggen 1968 II. Erik Eggen, Bibliotheca Arnamagnæana, Bd. 22: The Sequences of the Archbishopric of Nidarós 2. Facsimiles.  Hafniae 1968.
 
-Geert Andersen 1979. Merete Geert Andersen, Colligere fragmenta, ne pereant, in: Opuscula VII. Vol. 34. Bibliotheca Arnamagnæana, S. 1-35, København[?]C 1979.
+Geert Andersen 1979. Merete Geert Andersen, Colligere fragmenta, ne pereant, in: Bibliotheca Arnamagnæana, Bd. 34: Opuscula VII,  S. 1-35, København[?] 1979.
 
 Geert Andersen 2008. Merete Geert Andersen, Bibliotheca Arnamagnæana, Bd 46: Katalog over AM Accessoria 7. De Latinske Fragmenter, Hafniae 2008.
 
