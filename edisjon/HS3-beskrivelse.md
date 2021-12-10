@@ -33,6 +33,8 @@ Die Blätter waren früher zum Einbinden folgender arnamagnæanischer Handschrif
 ## Schriftraum – Notation – Textschrift
 
 27/28 x 18/18,5 cm, dreizehn Notensysteme. Quadratnotation auf vier roten Linien, Schlüssel: F-, c-, b- und g-Schlüssel, c-Schlüssel auch in Verbindung mit b-Vorzeichen, außerdem D-Schlüssel in einem Gradualegesang. Textualis formata.
+
+Der Schreiber hat auch Teile des Missale Scardense (MSc) geschrieben.
     
 ## Ausstattung
 
