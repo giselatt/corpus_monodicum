@@ -88,7 +88,7 @@ Einband nicht erhalten.
 
 - 7r–v Dominica V [post oct. corporis christi] (All.) – Dominica VI – Dominica VII – Dominica VIII (Offm.).  Mit den Sequenzen <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81), <i>O alma</i> (Incipit) (AH 7:97). Gedruckt: Eggen 1968 I, S. 106–109, 109–112, 118–120.
 
-- 8r–9v Dominica XII [post oct. corporis christi] (Gr.) – Dominica XIII – Dominica XIIII – Dominica XV – Dominica XVI (Int.). Mit den Sequenzen <i>O alma</i> (Incipit) (AH 7:97), <i>Voce iubilantes</i> (Incipit) (AH 10:37), <i>Iubilemus</i> (incipit; am Schreibrand vom Schreiber hinzugefügt) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b). Gedruckt: Eggen 1968 I, S. 118–120, 116–118, 112–114, 106–109.
+- 8r–9v Dominica XII [post oct. corporis christi] (Gr.) – Dominica XIII – Dominica XIIII – Dominica XV – Dominica XVI (Off.). Mit den Sequenzen <i>O alma</i> (Incipit) (AH 7:97), <i>Voce iubilantes</i> (Incipit) (AH 10:37), <i>Iubilemus</i> (incipit; am Schreibrand vom Schreiber hinzugefügt) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b). Gedruckt: Eggen 1968 I, S. 118–120, 116–118, 112–114, 106–109.
 
 - 10r–v Dominica XXI [post oct. corporis christi] (Gr.) – Dominica XXII – Dominica XXIII – Dominica XXIIII – Dominica XXV (All.). Mit den Sequenzen <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81). Gedruckt: Eggen 1968 I, S. 106–109, 109–112.
 
@@ -106,29 +106,29 @@ Einband nicht erhalten.
 
 - 22r–v Communioserie – (22v) <i>In commemoratione beate marie virginis</i> (Int. <i>Salve sancta parens</i> (Inc.), Gr, <i>Benedicta et venerabilis</i> (Inc.), Alleluia <i>Post partum virgo</i>, Offm. <i>Felix namque es</i> (Inc.), Com. <i>Beata viscera</i> (Inc.)) – Alleluiaserie.
 
-- 23r–v <i>De beata Maria</i> Offertorieserie (lac.); (23v) Communioserie.
+- 23r–v <i>De beata Maria</i> Offertorieserie (Lac.); (23v) Communioserie.
 
 24r–37v Sanctorale
 
-- 24r–v In die s. Andreae (30/11) (seq.) – Ina oct. Andreae apl. – In festo s. Barbarae v. (4/12) – In festo s. Nicholai ep. (6/12) (seq.). Med sekvenserne Sacrosancta hodierne (ah 54:30 str. 14–19), Virginis venerande (incipit) (ah 53:246), Congaudentes exultemus (ah 54:66 str. 1–21). Trykt: Eggen i, s. 129–131, 305–306, 131–135 (ms m).
+- 24r–v In die s. Andreae (30/11) (Seq.) – Infra oct. Andreae apl. – In festo s. Barbarae v. (4/12) – In festo s. Nicholai ep. (6/12) (Seq.). Mit den Sequenzen <i>Sacrosancta hodierne</i> (AH 54:30 14–19), <i>Virginis venerande</i> (Incipit) (AH 53:246), <i>Congaudentes exultemus</i> (AH 54:66 1–21). Gedruckt: Eggen 1968 I, S. 129–131, 305–306, 131–135 (ms m).
 
-- 25r–26v Conceptio b. Mariae (8/12) (gr.) – Luciae v. et m. (13/12) – Translatio Magni m. (13/12) – In vigilia Thomae apl. (20/12) – In die s. Thomae apl. (21/12) (rubrik). Med sekvenserne Conceptio marie virginis (ah 54:188), Regem celi cantico (÷ ah), Comitis generosi (÷ ah). Trykt: Eggen i, s. 135–137, 140–141 + li, 141–143 (ms m).
+- 25r–26v Conceptio b. Mariae (8/12) (Gr.) – Luciae v. et m. (13/12) – Translatio Magni m. (13/12) – In vigilia Thomae apl. (20/12) – In die s. Thomae apl. (21/12) (Rubrik). Mit den Sequenzen <i>Conceptio marie virginis</i> (AH 54:188), <i>Regem celi cantico</i> (nixht in AH), <i>Comitis generosi</i> (nicht in AH). Gedruckt: Eggen 1968 I, S. 135–137, 140–141 + li, 141–143 (ms m).
 
-- 27r–28v Agnetis v. et m. (21/1) (seq.) – In festo s. Vincentii (22/1) – Babillae ep. m. (24/1) – In conversione Pauli apl. (25/1) (med lac.) – Policarpi ep. m. (26/1) – Agnetis v. secundo (28/1) – Iohan- nis Crisostomi (27/1) (sic) – Brigidae v. non m. (1/2) – In purifi- catione b. Mariae (2/2) (gr.). Med sekvenserne Pure mentis gaudia (ah 40:138 str. 8a–12b), Martiris egregii (ah 55:340), Dixit dominus ex basan (ah 50:269 str. 1–7b, lac., 9a–10), O vere gratissima (incipit) (ah 40:138 divisio), Pangat nos a (incipit) (ah 9:390), Virginis vene- rande (incipit) (ah 53:246). Trykt: Eggen i, s. 146–147, 147–150, 151–153, 146–147, 302–305, 305–306 (ms h).
+- 27r–28v Agnetis v. et m. (21/1) (Seq.) – In festo s. Vincentii (22/1) – Babillae ep. m. (24/1) – In conversione Pauli apl. (25/1) (Mit Lakunen) – Policarpi ep. m. (26/1) – Agnetis v. secundo (28/1) – Iohannis Crisostomi (27/1) (sic) – Brigidae v. non m. (1/2) – In purificatione b. Mariae (2/2) (Gr.). Mit den Sequenzen <i>Pure mentis gaudia</i> (AH 40:138 8a–12b), <i>Martiris egregii</i> (AH 55:340), <i>Dixit dominus ex basan</i> (AH 50:269 1–7b, lac., 9a–10), <i>O vere gratissima</i> (Incipit) (AH 40:138 divisio), <i>Pangat nos a</i> (Incipit) (AH 9:390), <i>Virginis venerande</i> (Incipit) (AH 53:246). Gedruckt: Eggen 1968 I, S. 146–147, 147–150, 151–153, 146–147, 302–305, 305–306 (ms h).
 
-- 29r–v Scolasticae v. (10/2) (tr.) – Valentini (14/2) – Iulianae v. (16/2) – In cathedra s. Petri apl. (22/2) – In vigilia b. Mathiae apl. (23/2) – Mathiae apl. (24/2) – Translatio Iohannis ep. (3/3) – Gregorii pp. cf. (12/3) – Cuthberti ep. (20/3) – Benedicti abb. cf. (21/3) – ›In annunciacione beatissime virginis Marie‹ (25/3) (gr.).
+- 29r–v Scolasticae v. (10/2) (Tr.) – Valentini (14/2) – Iulianae v. (16/2) – In cathedra s. Petri apl. (22/2) – In vigilia b. Mathiae apl. (23/2) – Mathiae apl. (24/2) – Translatio Iohannis ep. (3/3) – Gregorii pp. cf. (12/3) – Cuthberti ep. (20/3) – Benedicti abb. cf. (21/3) – <i>In annunciacione beatissime virginis Marie</i> (25/3) (Gr.).
 
-- 30r–v In vigilia s. Iohannis baptistae (23/6) (offm.) – In die s. Io- hannis baptistae (24/6) (seq.). Med sekvensen Exulta celum (ah 9:243 str. 1–9a). Trykt: Eggen i, s. 191–193 (ms h).
+- 30r–v In vigilia s. Iohannis baptistae (23/6) (Offm.) – In die s. Iohannis baptistae (24/6) (Seq.). Mit der Sequenz <i>Exulta celum</i> (AH 9:243 1–9a). Gedruckt: Eggen 1968 I, S. 191–193 (ms h).
 
-- 31r–32v In vigilia apostolorum Petri et Pauli (28/6) (offm.) – In die sanctorum apostolorum Petri et Pauli (29/6) – In celebratione s. Pauli (30/6) – (In oct. s. Iohannis baptistae) (1/7) (seq.). Med sekvenserne Pe e summe christi pastor (ah 53:210), Sollempnitas sancti pauli (ah 53:205), Precursorem summi regis (ah 42:252 str. 1–10a). Trykt: Eggen i, s. 197–198, 199–201, 193–196 (ms h).
+- 31r–32v In vigilia apostolorum Petri et Pauli (28/6) (Offm.) – In die sanctorum apostolorum Petri et Pauli (29/6) – In celebratione s. Pauli (30/6) – (In oct. s. Iohannis baptistae) (1/7) (Seq.). Mit den Sequenzen <i>Petre summe christi pastor</i> (AH 53:210), <i>Sollempnitas sancti pauli</i> (AH 53:205), <i>Precursorem summi regis</i> (AH 42:252 1–10a). Gedruckt: Eggen 1968 I, S. 197–198, 199–201, 193–196 (ms h).
 
-- 33r–v In translatione Martini (4/7) (all., med lac.) – In oct. aposto- lorum Petri et Pauli (6/7) (seq.). Med sekvenserne Sacerdotem christi martinum (ah 53:181 str. 1–6, lac., 17–18), Iubar mundo geminatur (ah 42:312 str. 1a–2b). Trykt: Eggen i, s. 273–275, 198–199 (ms h).
+- 33r–v In translatione Martini (4/7) (All., mit Lac.) – In oct. apostolorum Petri et Pauli (6/7) (Seq.). Mit den Sequenzen <i>Sacerdotem christi martinum</i> (AH 53:181 1–6, Lac., 17–18), <i>Iubar mundo geminatur</i> (AH 42:312 1a–2b). Gedruckt: Eggen 1968 I, S. 273–275, 198–199 (ms h).
 
-- 34r–35v Laurentii (10/8) (seq.) – Ypoliti sociorumque eius m. (13/8) – ›In vigilia assumpcionis s. Marie ma is domini nos i ihesu christi‹ (14/8) – ›In sollempnitate assumpcionis b. Marie virginis‹ (15/8) (med lac.) – Ina oct. Secunda die (16/8) – Octava Laurentii archidiaconi m. (17/8) (seq.). Med sekvenserne Laurenti david magni (ah 53:173 str. 12–14), Agone  iumphali (incipit) (ah 53:229), Area virga prime (ah 7:107, ah 53:106a), Stola iocunditatis (ah 54:61 str. 1–12). Trykt: Eggen i, s. 232, 292–293, 236–239, 234–235 (ms h).
+- 34r–35v Laurentii (10/8) (Seq.) – Ypoliti sociorumque eius m. (13/8) – <i>In vigilia assumpcionis s. Marie matris domini nostri ihesu christi</i> (14/8) – <i>In sollempnitate assumpcionis b. Marie virginis</i>(15/8) (mit Lac.) – Infra oct. Secunda die (16/8) – Octava Laurentii archidiaconi m. (17/8) (Seq.). Mit den Sequenzen <i>Laurenti david magni</i> (AH 53:173 12–14), <i>Agone  triumphali</i> (Incipit) (AH 53:229), <i>Area virga prime</i> (AH 7:107, 53:106a), <i>Stola iocunditatis</i> (AH 54:61 1–12). Gedruckt: Eggen 1968 I, S. 232, 292–293, 236–239, 234–235 (ms h).
 
-- 36r–v In commemoratione animarum (2/11) (off.) – Eustachii m. (2/11) – Leonardi abb. (6/11) – De quattuor coronatorum (8/11) – Villehadi ep. cf. (8/11) – Theodori m. (9/11) – Mennae m. (11/11) – Martini ep. cf. (11/11) (seq. (rubrik)). Med sekvensen Mera promat uranica til Leonardi abb. (÷ ah). Trykt: Eggen i, s. 270–272 (ms h).
+- 36r–v In commemoratione animarum (2/11) (Off.) – Eustachii m. (2/11) – Leonardi abb. (6/11) – De quattuor coronatorum (8/11) – Villehadi ep. cf. (8/11) – Theodori m. (9/11) – Mennae m. (11/11) – Martini ep. cf. (11/11) (Seq. (Rubrik)). Mit den Sequenzen <i>Mera promat uranica</i> (für Leonardi abb.) (nixht in AH). Gedruckt: Eggen 1968 I, S. 270–272 (ms h).
 
-- 37r–v Ina oct. s. Martini (offm.) – Brictii ep. cf. (13/11) – Eadmundi m. (20/11) (med lac.) – In festo Ceciliae v. et m. (22/11) (seq.). Med sekvenserne Pangat nos a (incipit) (ah 9:390), Omnis fidelium ecclesia (ah 40:191 str. 3a–11), E(ia christi concio) (÷ ah). Trykt: Eggen i, s. 302–305, 275–277, 277–278 (ms h).
+- 37r–v Infra oct. s. Martini (Int.) – Brictii ep. cf. (13/11) – Eadmundi m. (20/11) (med lac.) – In festo Ceciliae v. et m. (22/11) (Seq.). Mit den Sequenzen <i>Pangat nos a</i> (Incipit) (AH 9:390), <i>Omnis fidelium ecclesia</i> (AH 40:191 3a–11), <i>E(ia christi concio)</i> (nixht in AH). Gedruckt: Eggen 1968 I, S. 302–305, 275–277, 277–278 (ms h).
 
 
 ## Herkunft und Geschichte
