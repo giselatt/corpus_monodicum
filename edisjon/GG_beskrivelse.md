@@ -99,7 +99,7 @@ f(11)r–f(23)v Commune Sanctorum
 
 - f(11)r–f(13)v Introitusserie – (f(11)r) Gradualserie.
 
-- f(14)r–f(16)v Gradualserie – (f(12)r) Alleluiaserie – (14r) Tractusserie.
+- f(14)r–f(16)v Gradualserie – (f(12)r) Alleluiaserie – (14r) Traktsserie.
 
 - f(17)r-v [bokbind, må sjekkes]
 
