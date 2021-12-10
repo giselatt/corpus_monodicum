@@ -102,13 +102,13 @@ Einband nicht erhalten.
 
 - 18r–20v Sequenzserie. Mit den Sequenzen <i>Celi enarrant gloriam</i> (AH 50:267 11a–13), <i>Clare sanctorum senatus</i> (AH 53:228), <i>Iocundare plebs fidelis</i> (AH 55:7), <i>Unus amor et una concordia</i> (AH 8:281, 54:79), <i>Adest nobis dies alma</i> (AH 53:241), <i>Ecce pulcra</i> (AH 7:116, 53:114), <i>Agone  triumphali</i> (AH 53:229), <i>Superne matris gaudia</i> (AH 55:37 1–2). Gedruckt: Eggen 1968 I, S. 201–205, 285–286, 288–291, 295–296, 296–299, 264–266, 292–293, 270 (ms h).
 
-- 21r–v Sekvensserie – (21v) offertorieserie. Med sekvenserne Rex regum deus noster (ah 53:243 str. 15–18), Virginis venerande (ah 53:246), Laudes debitas deo nos o (ah 54:62). Trykt: Eggen i, s. 301–302, 305–306, 307–309 (ms h).
+- 21r–v Sequenzserie – (21v) Offertorieserie. Mit den Sequenzen <i>Rex regum deus noster</i> (AH 53:243 15–18), <i>Virginis venerande</i> (AH 53:246), <i>Laudes debitas deo nostro</i> (AH 54:62). Gedruckt: Eggen 1968 I, S. 301–302, 305–306, 307–309 (ms h).
 
-- 22r–v Communioserie – (22v) ›In commemoratione beate marie virginis‹ (officiet Salve sancta parens) – alleluiaserie.
+- 22r–v Communioserie – (22v) <i>In commemoratione beate marie virginis</i> (Int. <i>Salve sancta parens</i> (Inc.), Gr, <i>Benedicta et venerabilis</i> (Inc.), Alleluia <i>Post partum virgo</i>, Offm. <i>Felix namque es</i> (Inc.), Com. <i>Beata viscera</i> (Inc.)) – Alleluiaserie.
 
-- 23r–v De beata Maria offertorieserie (lac.); (23v) communioserie.
+- 23r–v <i>De beata Maria</i> Offertorieserie (lac.); (23v) Communioserie.
 
-24r–37v sanctorale
+24r–37v Sanctorale
 
 - 24r–v In die s. Andreae (30/11) (seq.) – Ina oct. Andreae apl. – In festo s. Barbarae v. (4/12) – In festo s. Nicholai ep. (6/12) (seq.). Med sekvenserne Sacrosancta hodierne (ah 54:30 str. 14–19), Virginis venerande (incipit) (ah 53:246), Congaudentes exultemus (ah 54:66 str. 1–21). Trykt: Eggen i, s. 129–131, 305–306, 131–135 (ms m).
 
