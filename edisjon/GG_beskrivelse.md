@@ -89,11 +89,11 @@ Einband nicht erhalten.
     Feste:
     
     - In die s. trinitatis (off.)
-    – In festo corporis christi 
+    - In festo corporis christi 
     - Dominica i post oct. corporis christi
-    – Dominica ii
-    – Dominica iii
-    – Dominica iiii (offm.).
+    - Dominica ii
+    - Dominica iii
+    - Dominica iiii (offm.).
     
     Sequenzen:
     
