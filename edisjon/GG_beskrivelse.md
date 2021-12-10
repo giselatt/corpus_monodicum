@@ -120,6 +120,12 @@ Einband nicht erhalten.
     
     Trykt: Eggen i, s. 106–109, 109–112, 118–120.
 
+1r–34v [graduale gufudalense]
+1r–8v temporale
+1r–4v In die s. trinitatis (off.) – In festo corporis christi – Dominica i post oct. corporis christi – Dominica ii – Dominica iii – Dominica iiii (offm.). Med sekvenserne Lauda syon salvatorem (ah 50:385), Benedicta semper sancta (ah 7:95, ah 53:81), O alma  initas (ah 7:97), Voce iubilantes magna (ah 10:37). Trykt: Eggen i, s. 121–123, 109–112, 118–120, 116–118 (ms h).
+5r–v Dominica v [post oct. corporis christi] (all.) – Dominica vi – Dominica vii – Dominica viii (offm.). Med sekvenserne Benedicta sit beata (incipit) (ah 7:96, ah 53:81b), Benedicta semper sancta (incipit) (ah 7:95, ah 53:81), O alma (incipit) (ah 7:97). Trykt: Eggen i, s. 106–109, 109–112, 118–120.
+
+
 - 8r–9v Dominica xii [post oct. corporis christi] (gr.) – Dominica xiii – Dominica xiiii – Dominica xv – Dominica xvi (off.). Med sekvenser- ne O alma (incipit) (ah 7:97), Voce iubilantes (incipit) (ah 10:37), Iubi- lemus (incipit; af skriveren tilskrevet i margin) (ah 54:165), Benedicta sit beata (incipit) (ah 7:96, ah 53:81b). Trykt: Eggen i, s. 118–120, 116–118, 112–114, 106–109.
 
 - 10r–v Dominica xxi [post oct. corporis christi] (gr.) – Dominica xxii – Dominica xxiii – Dominica xxiiii – Dominica xxv (all.). Med sekvenserne Benedicta sit beata (incipit) (ah 7:96, ah 53:81b), Benedicta semper sancta (incipit) (ah 7:95, ah 53:81). Trykt: Eggen i, s. 106–109, 109–112.
