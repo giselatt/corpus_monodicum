@@ -3,13 +3,15 @@
 <b>Handschriften:</b>
 
 - <b>AM Acc. 7 HS 2</b>: Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7, a alpha, HS 1 (59 Bl.)
+- 
 
     
 Graduale (Fragment)
     
 Island | 3/4 15. Jahrhundert
     
-Pergament,  Bl., alle[?] Blätter sind beschnitten, in der Regel mit Textverlust
+Pergament,  37 Bl.
+
 ## Lagen – Foliierung
 
 Alte Signaturen:   Diese Blätter waren früher zum Einbinden von arnamagnæanischen Handschriften verwendet. Zu diesen Codices gehören fünf weitere Blätter und ein kleines Fragment, zum größten Teil aus anderen Archiven (s.o).
@@ -25,7 +27,7 @@ Rekonstruktion nach Geert Andersen (1979):
 
 Schreiber A: Jón Þorláksson
 
-[28/29 x 19/19,5 cm, 32 Linien oder 16 Notensysteme. Quadratnotation auf vier schwarzen Linien (rote Linien auf f(42)v-f(43)v), Schlüssel: c- und F-Schlüssel [må sjekkes]. Textualis formata.]
+[28/29 x 19/19,5 cm, 32 Linien oder 16 Notensysteme. Quadratnotation auf vier schwarzen Linien (rote Linien auf f(42)v-f(43)v), Schlüssel: c- und F-Schlüssel [må sjekkes], vertikale Striche. Textualis formata.]
 
 
 
