@@ -37,10 +37,23 @@ Rekonstruktion nach Merete Geert Andersen (1979):
 - f(12) AM 368 fol<sup>2</sup>
 - f(13) AM 371 fol<sup>1</sup>
 - f(14) AM 370 fol<sup>2</sup>
-- f(15) (f. 14), am 389 4° (f. 15), am 363 [4°] (f. 16), am 259 fol<sup>1</sup> (f. 17), am 493 4° (f. 18), am 205 fol<sup>2</sup> (f. 19), am 261 fol<sup>2</sup> (f. 20), AM 375 4° (f. 21), am 205 fol<sup>1</sup> (f. 22), am 30 fol<sup>2</sup> (f. 23), am 144 fol<sup>2</sup> (f. 24), am 261 fol<sup>1</sup> (f. 25)
+- f(15) AM 389 4°
+- f(16) AM 363 [4°]
+- f(17) AM 259 fol<sup>1</sup>
+- f(18) AM 493 4°
+- f(19) AM 205 fol<sup>2</sup>
+- f(20) AM 261 fol<sup>2</sup>
+- f(21) AM 375 4°
+- f(22) AM 205 fol<sup>1</sup> 
+- f(23) AM 30 fol<sup>2</sup>
+- f(24) AM 144 fol<sup>2</sup>
+- f(25) AM 261 fol<sup>1</sup>
 - f(26) UB Sg. 21701 (Vorderseite)
 - f(27) AM 637 4°
-- f(28) AM 204 fol<sup>1</sup> (f. 27), am 209 fol<sup>2</sup> (f. 28), am 30 fol<sup>1</sup> (f. 29), am 204 fol<sup>2</sup> (f. 30)
+- f(28) AM 204 fol<sup>1</sup>
+- f(29) AM 209 fol<sup>2</sup>
+- f(30) AM 30 fol<sup>1</sup>
+- f(31) AM 204 fol<sup>2</sup>
 - f(32) UB Sg. 21701 (Rückseite)
 - f(33) AM 209 fol<sup>1</sup>
 - f(34) AM 117 fol<sup>2</sup>
