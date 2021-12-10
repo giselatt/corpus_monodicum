@@ -110,7 +110,7 @@ Durchgehend rubriziert von Jón Þorláksson. Anmerkungen für den Rubrikenschre
 
 ### 1) f(1)r-f(15)r, f(41)r<sup>19</sup>-f(65)v
 
-
+Sechszeilige Initiale in rot, grün og gold mit Palmettenmuster in rot und blau (f(6)r). Ein- bis fünfzeilige Lombarden in grün, blau, rot, rubinrot oder gold, mehrere mit Palmettenmuster in gegenteiliger Farbe.
     
 ### 2) f(15)v-f(41)<sup>19</sup>
 
