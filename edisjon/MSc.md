@@ -102,11 +102,20 @@ Schreiber: Jón Þorláksson (gleicher Schreiber wie Graduale Gufudalense)
     
 Schreiber: gleicher Schreiber wie AM Acc. 7 HS 3   
     
-26,5/27 x 17,5/18,5 cm, 28 Linien (27 und 29 kommen vor) oder 14 Notensysteme. Quadratnotation aud fier roten Linien, [Schlüssel: må sjekkes]. Textualis formata.
+26,5/27 x 17,5/18,5 cm, 28 Linien (27 und 29 kommen vor) oder 14 Notensysteme. Quadratnotation aud fier roten Linien, [Schlüssel: må sjekkes]. Rezitationszeichen: c + s. Textualis formata.
     
 ## Ausstattung
 
-[Durchgehend rubriziert. Anmerkungen für den Rubrikenschreiber an mehreren Stellen in den Seitenrändern erhalten (cursiva).  Sechszeilige historisierte Initiale für den Introitus "Ecce advenit dominator" (4r) (Motiv: die heiligen drei Könige überreichen Gaben an Maria mit dem Kind). Vierzeilige Initiale in rubinrot und azurblau mit Palmettenmuster und Ausläufer in den Seitenrand in rot und gelb (12r). Zwei- bis vierzeilige Initialen in rot, grün, blau, rubinrot, starkgrün oder okerbraun, teilweise mit Palmettenmuster in gegenteiliger Farbe. Einzeilige rote Initialen [Lombarden?]. Rote Linienfüller.]
+Durchgehend rubriziert von Jón Þorláksson. Anmerkungen für den Rubrikenschreiber an mehreren Stellen in den Seitenrändern erhalten (cursiva, schwarze Tinte).  Korrekturen von Jón Þorlákssons Hand.
+
+### 1) f(1)r-f(15)r, f(41)r<sup>19</sup>-f(65)v
+
+
+    
+### 2) f(15)v-f(41)<sup>19</sup>
+
+
+[Sechszeilige historisierte Initiale für den Introitus "Ecce advenit dominator" (4r) (Motiv: die heiligen drei Könige überreichen Gaben an Maria mit dem Kind). Vierzeilige Initiale in rubinrot und azurblau mit Palmettenmuster und Ausläufer in den Seitenrand in rot und gelb (12r). Zwei- bis vierzeilige Initialen in rot, grün, blau, rubinrot, starkgrün oder okerbraun, teilweise mit Palmettenmuster in gegenteiliger Farbe. Einzeilige rote Initialen [Lombarden?]. Rote Linienfüller.]
 
 ## Einband
 
