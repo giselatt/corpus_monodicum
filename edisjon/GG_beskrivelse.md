@@ -126,25 +126,9 @@ Einband nicht erhalten.
 
 - 34r–35v Laurentii (10/8) (seq.) – Ypoliti sociorumque eius m. (13/8) – ›In vigilia assumpcionis s. Marie ma is domini nos i ihesu christi‹ (14/8) – ›In sollempnitate assumpcionis b. Marie virginis‹ (15/8) (med lac.) – Ina oct. Secunda die (16/8) – Octava Laurentii archidiaconi m. (17/8) (seq.). Med sekvenserne Laurenti david magni (ah 53:173 str. 12–14), Agone  iumphali (incipit) (ah 53:229), Area virga prime (ah 7:107, ah 53:106a), Stola iocunditatis (ah 54:61 str. 1–12). Trykt: Eggen i, s. 232, 292–293, 236–239, 234–235 (ms h).
 
-36r–v In commemoratione animarum (2/11) (off.) – Eustachii m. (2/11) – Leonardi abb. (6/11) – De quattuor coronatorum (8/11) – Villehadi ep. cf. (8/11) – Theodori m. (9/11) – Mennae m. (11/11) – Martini ep. cf. (11/11) (seq. (rubrik)). Med sekvensen Mera promat uranica til Leonardi abb. (÷ ah). Trykt: Eggen i, s. 270–272 (ms h).
+- 36r–v In commemoratione animarum (2/11) (off.) – Eustachii m. (2/11) – Leonardi abb. (6/11) – De quattuor coronatorum (8/11) – Villehadi ep. cf. (8/11) – Theodori m. (9/11) – Mennae m. (11/11) – Martini ep. cf. (11/11) (seq. (rubrik)). Med sekvensen Mera promat uranica til Leonardi abb. (÷ ah). Trykt: Eggen i, s. 270–272 (ms h).
 
 - 37r–v Ina oct. s. Martini (offm.) – Brictii ep. cf. (13/11) – Eadmundi m. (20/11) (med lac.) – In festo Ceciliae v. et m. (22/11) (seq.). Med sekvenserne Pangat nos a (incipit) (ah 9:390), Omnis fidelium ecclesia (ah 40:191 str. 3a–11), E(ia christi concio) (÷ ah). Trykt: Eggen i, s. 302–305, 275–277, 277–278 (ms h).
-
-1r - 7v Temporale
-
-- 1r-2v
-    
-    Feste:
-    
-    - In nativitate domini  ad tertiam missam  (25.12.) (Off.)
-    - In festo s. Stephani (26.12.)
-    - In festo s. Iohannis apl. et ev. (27.12.)
-    
-    Sequenzen:
-
-    - Magnus deus in universa terra (AH 7:201, 53:220) (Eggen 1968 I, S. 128-31, ms i)
-    - Virgo mater gratuletur (AH 40:246 1-11b) (Eggen 1968 I, S. 182-184, ms i)
-
 
 
 ## Herkunft und Geschichte
