@@ -15,14 +15,47 @@ Pergament,  37 Bl.
 
 ## Lagen – Foliierung
 
-Alte Signaturen: "Cod. Scard.", "Codex E", "Codex F", "Codex G", "Codex J".  Diese Blätter waren früher zum Einbinden von arnamagnæanischen Handschriften verwendet. Zu diesen Codices gehören drei weitere Blätter, die in Reyjavik bzw. der Universitätsbibliothek in Kopenhagen aufbewahrt werden (s.o.).
+Alte Signaturen: "Cod. Scard.", "Codex E", "Codex F", "Codex G", "Codex J".  Diese Blätter waren früher zum Einbinden von arnamagnæanischen Handschriften und einem Buch an der Königlichen Bibliothek in Kopenhagen verwendet. Zu diesen Codices gehören drei weitere Blätter, die in Reyjavik bzw. der Universitätsbibliothek in Kopenhagen aufbewahrt werden (s.o.).
 
 Rekonstruktion nach Geert Andersen (1979):
 
-- f(1)
-- f(2)
-
-am 83 fol2 (f. 1), am 3 fol2 (f. 2), am 83 fol1 (f. 3), kb 2, -30 (ff. 4–5), am 3 fol1 (f. 6), am 102 fol (f. 7), am 102 fol (f. 8), am 255 fol1 (f. 9), am 144 fol1 (f. 10), am 255 fol2 (f. 11), am 339 fol2 (f. 12), am 626 4° (f. 13), am 112 4° (f. 14), am 333 fol1 (f. 15), am 333 fol2 (f. 16), am 381 4° (f. 17), am 376 4° (f. 18), am 108 fol1 (f. 19), am u. sek. prov. (f. 20), am 532 4° (f. 21), am 8 fol1 (f. 22), am 1dα fol (f. 23), am 8 fol2 (f. 24), am 105 4° (f. 25), am 166 fol1 (f. 26), am 166 fol2 (f. 27), am 339 fol1 (f. 28), am 108 fol2 (f. 29), am 105 4° (f. 30), am 248 fol1 (f. 31), am 248 fol2 (f. 32), am 514 4° (f. 33) og am 732 v 4° (f. 34).
+- f(1) AM 266 4to
+- f(2) AM 266 4to
+- f(3) am 83 fol2,
+- f(4) am 3 fol2
+- f(5) am 83 fol1
+- f(6) KB 2-30 fol
+- f(7) KB 2-30 fol
+- f(8) am 3 fol1
+- f(9) am 102 fol
+- f(10) am 102 fol
+- f(11) am 255 fol1
+- f(12) am 144 fol1
+- f(13) am 255 fol2
+- f(14) am 339 fol2
+- f(15) am 626 4°
+- f(16) am 112 4°
+- f(17) UB J 1650 8vo ex. 2
+- f(18) am 333 fol1
+- f(19) am 333 fol2
+- f(20) am 381 4°
+- f(21) am 376 4°
+- f(22) am 108 fol1
+- f(23) am ohne Sekundärproveniens
+- f(24) am 532 4°
+- f(25) am 8 fol1
+- f(26) am 1dα fol
+- f(27) am 8 fol2
+- f(28) am 105 4°
+- f(29) am 166 fol1
+- f(30) am 166 fol2
+- f(31) am 339 fol1
+- f(32) am 108 fol2
+- f(33) am 105 4°
+- f(34) am 248 fol1
+- f(35) am 248 fol2
+- f(36) am 514 4°
+- f(37) am 732 v 4°
 
 
 
