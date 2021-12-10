@@ -97,12 +97,11 @@ Einband nicht erhalten.
     
     Sequenzen:
     
-    - Lauda syon salvatorem (AH 50:385) (Eggen 1968 I, S. 121-123, ms i)
-    - Benedicta semper sancta (AH 7:95, 53:81)
-    - O alma  initas (AH 7:97)
-    - Voce iubilantes magna (AH 10:37).
-    
-    Trykt: Eggen i, s. 121–123, 109–112, 118–120, 116–118 (ms h).
+    - Lauda syon salvatorem (AH 50:385) (Eggen 1968 I, S. 121-123, ms h)
+    - Benedicta semper sancta (AH 7:95, 53:81) (Eggen 1968 I, S. 109-112, ms h)
+    - O alma  initas (AH 7:97) (Eggen 1968 I, S. 118-120, ms h)
+    - Voce iubilantes magna (AH 10:37) (Eggen 1968 I, S. 116-118, ms h)
+   
 
 - 7r–v Dominica v [post oct. corporis christi] (all.) – Dominica vi – Dominica vii – Dominica viii (offm.). Med sekvenserne Benedicta sit beata (incipit) (ah 7:96, ah 53:81b), Benedicta semper sancta (incipit) (ah 7:95, ah 53:81), O alma (incipit) (ah 7:97). Trykt: Eggen i, s. 106–109, 109–112, 118–120.
 
