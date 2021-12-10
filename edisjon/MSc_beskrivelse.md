@@ -160,39 +160,47 @@ f(1)r–f(43)r Temporale
 - f(29)r–f(31)v Dominica vii [post trinitatem] (ep.) – Dominica viii – Do- minica ix – Dominica x (postcom.). Med sekvenserne O alma  initas deitas (incipit) (ah 7:97), Voce iubilantes magna (incipit) (ah 10:37), Iu- bilemus cordis (incipit) (ah 54:165), Benedicta sit beata (incipit) (ah 7:96, ah 53:81b). Trykt: Eggen i, s. 118–120, 116–118, 112–114, 106–109.
 
 - f(32) [UB... - bare én side synlig? recto eller verso? innhold?]
----------
-- 31r–v Dominica xi [post trinitatem] (com.) – Dominica xii – Do- minica xiii (offm.). Med sekvensen Benedicta semper sancta (incipit) (ah 7:95, ah 53:81). Trykt: Eggen i, s. 109–112.
 
-- 32r–33v Dominica xiii [post trinitatem] (postcom.) – Dominica xiiii– Dominica xv – Dominica xvi (coll.). Med sekvenserne Voce iubi- lantes magna (incipit) (ah 10:37), Iubilemus cordis (incipit) (ah 54:165). Trykt: Eggen i, s. 116–118, 112–114.
+- f(33)r–v Dominica xi [post trinitatem] (com.) – Dominica xii – Do- minica xiii (offm.). Med sekvensen Benedicta semper sancta (incipit) (ah 7:95, ah 53:81). Trykt: Eggen i, s. 109–112.
 
-- 34r–37v Dominica xviii [post trinitatem] (ev.) – Dominica xix – Dominica xx – Dominica xxi – Dominica xxii (seq.). Med se- kvenserne Voce iubilantes (incipit) (ah 10:37), Iubilemus cordis (incipit) (ah 54:165), Benedicta sit beata (incipit) (ah 7:96, ah 53:81b), Benedicta semper (incipit) (ah 7:95, ah 53:81), O alma  initas (incipit) (ah 7:97). Trykt: Eggen i, s. 116–118, 112–114, 106–109, 109–112, 118–120. 38r–v Feria vi [quattuor temporum septembris] (ep.) – In sabbato (gr.).
+- f(34)r–f(35)v Dominica xiii [post trinitatem] (postcom.) – Dominica xiiii– Dominica xv – Dominica xvi (coll.). Med sekvenserne Voce iubi- lantes magna (incipit) (ah 10:37), Iubilemus cordis (incipit) (ah 54:165). Trykt: Eggen i, s. 116–118, 112–114.
 
-- 39r1–19 In sabbato [quattuor temporum septembris] (ev.–postcom.).
+- f(36)r–f(39)v Dominica xviii [post trinitatem] (ev.) – Dominica xix – Dominica xx – Dominica xxi – Dominica xxii (seq.). Med se- kvenserne Voce iubilantes (incipit) (ah 10:37), Iubilemus cordis (incipit) (ah 54:165), Benedicta sit beata (incipit) (ah 7:96, ah 53:81b), Benedicta semper (incipit) (ah 7:95, ah 53:81), O alma  initas (incipit) (ah 7:97). Trykt: Eggen i, s. 116–118, 112–114, 106–109, 109–112, 118–120.
 
-- 39r19–40r32 missa pro defunctis (offm.) – Feria iii – Feria iiii – Feria v – Feria vi – Sabbato (secr.).
+- f(40)r–v Feria vi [quattuor temporum septembris] (ep.) – In sabbato (gr.).
+
+- f(41)r1–19 In sabbato [quattuor temporum septembris] (ev.–postcom.).
+
+- f(42)r19–f(43)r32 missa pro defunctis (offm.) – Feria iii – Feria iiii – Feria v – Feria vi – Sabbato (secr.). [sjekk om linje 32 er korrekt]
 
 
-- f(44)r-v [Lbs fragm. 27 - innhold?]
  
-f(45)r<sup>31</sup>–52v Commune Sanctorum
+f(43)r<sup>31</sup>–f(55)v Commune Sanctorum [sjekk om linje 31 er korrekt]
 
-- 40r31–41v Officieserie.
+- f(43)r31–f(44)v Officieserie.
 
-- 42r–48v Epistelserie – (44v) gradualeserie – (47r) alleluiaserie.
+- f(45)r–f(51)v Epistelserie – (f(46)v) gradualeserie – (f(49)r) alleluiaserie.
 
-- 49r–v Alleluiaserie – (49r) sekvensserie. Med sekvenserne Celi enar- rant gloriam (ah 50:267), Clare sanctorum senatus (ah 53:228 str. 1–5). Trykt: Eggen i, s. 201–205, 285–286 (ms l).
+- f(52)r–v Alleluiaserie – (f(52)r) sekvensserie. Med sekvenserne Celi enar- rant gloriam (ah 50:267), Clare sanctorum senatus (ah 53:228 str. 1–5). Trykt: Eggen i, s. 201–205, 285–286 (ms l). [sjekk hvor sekvensene begynner - f(52)recto eller verso?]
 
-- 50r–51v Sekvensserie. Med sekvenserne Virginis venerande (ah 53:246 str. 2–12), Laudes debitas deo nos o (ah 54:62 str. 1–14). Trykt: Eg- gen i, s. 305–306, 307–309. – (50r) Tractusserie – (51r) evangeliese- rie.
+- f(53)r–f(54)v Sekvensserie. Med sekvenserne Virginis venerande (ah 53:246 str. 2–12), Laudes debitas deo nos o (ah 54:62 str. 1–14). Trykt: Eg- gen i, s. 305–306, 307–309.
+ 
+– (53r) Tractusserie – (54r) evangeliese- rie.
 
-- 52r–v Offertorieserie – (52r) secretaserie – (52v) communioserie.
+- f(55)r–v Offertorieserie – (f(55)r) secretaserie – (f(56)v) communioserie.
 
-- 53r–v28 in dedicatione ecclesiae (all.–postcom.). Med sekvensen Sancte syon assunt (ah 55:33). Trykt: Eggen i, s. 311–313 (ms h).
+- f(56)r–v28 in dedicatione ecclesiae (all.–postcom.). Med sekvensen Sancte syon assunt (ah 55:33). Trykt: Eggen i, s. 311–313 (ms h). [sjekk linjenummer]
 
-53v27–58v sanctorale
+f(56)v27–f(65)v sanctorale [sjekk linjenummer]
 
-- 53v27–57v In vigilia Andreae apl. (29/11) (offm.) – Saturnini (29/11) – ›In die sancto‹ (30/11) – Festum Barbarae v. et m. (4/12) – In festo Nicholai (6/12) – Octava Andreae apl. (7/12) – Conceptio b. Mariae v. (8/12) – Damasi pp. (11/12) – ›De martiribus‹ [Victorici et Fusciani m.] (11/12) – Luciae v. et m. (13/12) – In festo Magni ducis m. (13/12) (seq.). Med sekvenserne Sacrosancta hodierne (ah 54:30), Laudes debi- tas (incipit) (ah 54:62), Congaudentes exultemus (ah 54:66), Conceptio marie virginis (ah 54:188), Regem celi cantico (÷ ah), Comitis generosi (÷ ah). Trykt: Eggen i, s. 129–131, 307–309, 131–135, 135–137, 140–141, 141–143.
+- f(56)v27–f(60)v In vigilia Andreae apl. (29/11) (offm.) – Saturnini (29/11) – ›In die sancto‹ (30/11) – Festum Barbarae v. et m. (4/12) – In festo Nicholai (6/12) – Octava Andreae apl. (7/12) – Conceptio b. Mariae v. (8/12) – Damasi pp. (11/12) – ›De martiribus‹ [Victorici et Fusciani m.] (11/12) – Luciae v. et m. (13/12) – In festo Magni ducis m. (13/12) (seq.). Med sekvenserne Sacrosancta hodierne (ah 54:30), Laudes debi- tas (incipit) (ah 54:62), Congaudentes exultemus (ah 54:66), Conceptio marie virginis (ah 54:188), Regem celi cantico (÷ ah), Comitis generosi (÷ ah). Trykt: Eggen i, s. 129–131, 307–309, 131–135, 135–137, 140–141, 141–143.
 
-- 58r–v Policarpi ep. m. (26/1) (offm.) – In oct. s. Agnetis (28/1) (coll.) (lac.); (58v) In purificatione b. Mariae (2/2) (coll.–ep.).
+- f(61) NKS 1265 IIa
+
+- f(62)r–v Policarpi ep. m. (26/1) (offm.) – In oct. s. Agnetis (28/1) (coll.) (lac.); (58v) In purificatione b. Mariae (2/2) (coll.–ep.).
+
+f(63)-f(65) Lbs fragm. 19 I-III
+
 
 
 ## Herkunft und Geschichte
