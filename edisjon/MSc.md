@@ -2,11 +2,11 @@
 
 <b>Handschriften:</b>
 
-- AM Acc. 7 HS 1: Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7, a alpha, HS 1 (59 Bl.)
-- Lbs fragm. 19 I-III: Reykjavik, Landsbókasafn, Lbs fragm. 19 (2 Bl. und ein kleineres Fragment eines dritten Blattes)
-- Lbs fragm. 27: Reykjavik, Landsbókasafn, Lbs fragm. 27 (1 Bl.)
-- UB Sg. 21701: Kopenhagen, Universitetsbiblioteket, UB Sg. 21701 (Bucheinband um <i>Carolii Lundii Notæ ac Observationes in Literas Rom. Pontificis Agapeti II.de Prærogativa atqve Eminentia Regis Upsalensis sive Svioniæ</i>, Upsalis 1703) (2 Bl.)
-- NKS 1265 IIa, fol: Kopenhagen, Den Kongelige Bibliotek NKS 1265 IIa, fol (1 Bl.)
+- <b>AM Acc. 7 HS 1</b>: Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7, a alpha, HS 1 (59 Bl.)
+- <b>Lbs fragm. 19 I-III</b>: Reykjavik, Landsbókasafn, Lbs fragm. 19 (2 Bl. und ein kleineres Fragment eines dritten Blattes)
+- <b>Lbs fragm. 27</b>: Reykjavik, Landsbókasafn, Lbs fragm. 27 (1 Bl.)
+    - <b>UB Sg. 21701</b>: Kopenhagen, Universitetsbiblioteket, UB Sg. 21701 (Bucheinband um <i>Carolii Lundii Notæ ac Observationes in Literas Rom. Pontificis Agapeti II.de Prærogativa atqve Eminentia Regis Upsalensis sive Svioniæ</i>, Upsalis 1703) (2 Bl.)
+    - <b>NKS 1265 IIa, fol</b>: Kopenhagen, Den Kongelige Bibliotek NKS 1265 IIa, fol (1 Bl.)
 
     
 Missale (Fragment)
