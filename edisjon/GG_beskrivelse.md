@@ -84,9 +84,9 @@ Einband nicht erhalten.
 
 3r–10v Temporale
 
-- 2r–6v In die s. trinitatis (off.) – In festo corporis christi – Dominica I post oct. corporis christi – Dominica II – Dominica III – Dominica IIII (Offm.). Mit den Sequenzen <i>Lauda syon salvatorem</i> (AH 50:385), <i>Benedicta semper sancta</i> (AH 7:95, 53:81), <i>O alma trinitas</i> (AH 7:97), <i>Voce iubilantes magna</i> (AH 10:37). Gedruckt: Eggen 1968 I, A. 121–123, 109–112, 118–120, 116–118 (ms h).
+- 2r–6v In die s. trinitatis (off.) – In festo corporis christi – Dominica I post oct. corporis christi – Dominica II – Dominica III – Dominica IIII (Int.). Mit den Sequenzen <i>Lauda syon salvatorem</i> (AH 50:385), <i>Benedicta semper sancta</i> (AH 7:95, 53:81), <i>O alma trinitas</i> (AH 7:97), <i>Voce iubilantes magna</i> (AH 10:37). Gedruckt: Eggen 1968 I, A. 121–123, 109–112, 118–120, 116–118 (ms h).
 
-- 7r–v Dominica V [post oct. corporis christi] (All.) – Dominica VI – Dominica VII – Dominica VIII (Offm.).  Mit den Sequenzen <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81), <i>O alma</i> (Incipit) (AH 7:97). Gedruckt: Eggen 1968 I, S. 106–109, 109–112, 118–120.
+- 7r–v Dominica V [post oct. corporis christi] (All.) – Dominica VI – Dominica VII – Dominica VIII (Int.).  Mit den Sequenzen <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81), <i>O alma</i> (Incipit) (AH 7:97). Gedruckt: Eggen 1968 I, S. 106–109, 109–112, 118–120.
 
 - 8r–9v Dominica XII [post oct. corporis christi] (Gr.) – Dominica XIII – Dominica XIIII – Dominica XV – Dominica XVI (Off.). Mit den Sequenzen <i>O alma</i> (Incipit) (AH 7:97), <i>Voce iubilantes</i> (Incipit) (AH 10:37), <i>Iubilemus</i> (incipit; am Schreibrand vom Schreiber hinzugefügt) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b). Gedruckt: Eggen 1968 I, S. 118–120, 116–118, 112–114, 106–109.
 
@@ -104,7 +104,7 @@ Einband nicht erhalten.
 
 - 21r–v Sequenzserie – (21v) Offertorieserie. Mit den Sequenzen <i>Rex regum deus noster</i> (AH 53:243 15–18), <i>Virginis venerande</i> (AH 53:246), <i>Laudes debitas deo nostro</i> (AH 54:62). Gedruckt: Eggen 1968 I, S. 301–302, 305–306, 307–309 (ms h).
 
-- 22r–v Communioserie – (22v) <i>In commemoratione beate marie virginis</i> (Int. <i>Salve sancta parens</i> (Inc.), Gr, <i>Benedicta et venerabilis</i> (Inc.), Alleluia <i>Post partum virgo</i>, Offm. <i>Felix namque es</i> (Inc.), Com. <i>Beata viscera</i> (Inc.)) – Alleluiaserie.
+- 22r–v Communioserie – (22v) <i>In commemoratione beate marie virginis</i> (Int. <i>Salve sancta parens</i> (Inc.), Gr, <i>Benedicta et venerabilis</i> (Inc.), Alleluia <i>Post partum virgo</i>, Off. <i>Felix namque es</i> (Inc.), Com. <i>Beata viscera</i> (Inc.)) – Alleluiaserie.
 
 - 23r–v <i>De beata Maria</i> Offertorieserie (Lac.); (23v) Communioserie.
 
