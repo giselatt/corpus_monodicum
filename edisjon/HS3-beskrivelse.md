@@ -50,7 +50,7 @@ Einband nicht erhalten.
 1r–7v temporale
 1r–2v In nativitate domini ad tertiam missam (25/12) (off.) – In festo s. Stephani (26/12) – In festo s. Iohannis apl. et ev. (27/12) (seq.). Med sekvenserne Magnus deus in universa terra (ah 7:201, ah 53:220), Virgo mater gratuletur (ah 40:246 str. 1–11b). Trykt: Eggen i, s. 128–31, 182–184 (ms i).
 3r–4v In oct. s. Stephani (2/1) (seq.) – In oct. s. Iohannis apl. et ev. (3/1) – In oct. Innocentium (4/1) – In vigilia epiphaniae (5/1) – In die s. epiphaniae domini (6/1) (seq.). Med sekvenserne Hanc concordi famulatu (ah 53:215 str. 9–12), Virgo mater gratuletur (incipit) (ah 40:246), Iohannes ihesu christo (ah 53:168), Laus tibi christe cui sapit (ah 53:156), Letabundus exultet (ah 54:2), Epiphaniam domino (ah 7:37 str. 1a–6a, ah 53:28 str. 1–11). Trykt: Eggen i, s. 31–33, 182–184, 33–35, 38–40, 18–21, 44–47 (ms i).
-5r–v Dominica vii [post trinitatem] (offm.) – Dominica viii – Domi- nica ix (gr.).
+5r–v Dominica vii [post trinitatem] (Int.) – Dominica viii – Domi- nica ix (gr.).
 6r–7v Dominica xi [post trinitatem] (all.) – Dominica xii – Dominica xiii – Dominica xiiii (off.). Med sekvensen Stans a longe til Dominica xi (ah 7:231, ah 53:93). Trykt: Eggen i, s. 125–126 (ms i).
 8r–v commune sanctorum Alleluia- og offertorieserie.
 9r–13v sanctorale
