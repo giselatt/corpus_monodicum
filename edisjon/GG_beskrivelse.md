@@ -3,8 +3,8 @@
 <b>Handschriften:</b>
 
 - <b>AM Acc. 7 HS 2</b>: Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7, a alpha, HS 2 (34 Bl.)
-- <b>UB J 1650 8vo ex. 2</b>: Kopenhagen, Universitetsbibliotek J 1650 8vo ex. 2, (Bucheinband um <i>Catalogus Selectiorum omnis generis variique idiomatis Librorum, quorum Auctio, volente Deo, habibetur</i>, Hafniæ 1723) (1 Bl.)
 - <b>AM 266 4to</b>: Reykjavik, Stofnun Árna Magnússonar 266 4to (2 Bl.)
+- <b>UB J 1650 8vo ex. 2</b>: Kopenhagen, Universitetsbibliotek J 1650 8vo ex. 2, (Bucheinband um <i>Catalogus Selectiorum omnis generis variique idiomatis Librorum, quorum Auctio, volente Deo, habibetur</i>, Hafniæ 1723) (1 Bl.)
 
 Graduale (Fragment)
     
@@ -15,9 +15,12 @@ Pergament,  37 Bl.
 
 ## Lagen – Foliierung
 
-Alte Signaturen: "Cod. Scard.", "Codex E", "Codex F", "Codex G", "Codex J".  Diese Blätter waren früher zum Einbinden von arnamagnæanischen Handschriften verwendet. Zu diesen Codices gehören drei weitere Blätter , die in Reyjavik bzw. der Universitätsbibliothek in Kopenhagen aufbewahrt werden.
+Alte Signaturen: "Cod. Scard.", "Codex E", "Codex F", "Codex G", "Codex J".  Diese Blätter waren früher zum Einbinden von arnamagnæanischen Handschriften verwendet. Zu diesen Codices gehören drei weitere Blätter, die in Reyjavik bzw. der Universitätsbibliothek in Kopenhagen aufbewahrt werden (s.o.).
 
 Rekonstruktion nach Geert Andersen (1979):
+
+- f(1)
+- f(2)
 
 
 
@@ -26,7 +29,7 @@ Rekonstruktion nach Geert Andersen (1979):
     
 ## Schriftraum – Notation – Textschrift
 
-Schreiber A: Jón Þorláksson
+Schreiber: Jón Þorláksson
 
 [28/29 x 19/19,5 cm, 32 Linien oder 16 Notensysteme. Quadratnotation auf vier schwarzen Linien (rote Linien auf f(42)v-f(43)v), Schlüssel: c- und F-Schlüssel [må sjekkes], vertikale Striche. Textualis formata.]
 
@@ -70,9 +73,10 @@ Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand der Origi
 
 Transkription anhand von Digitalisat von schwarz-weiß Photographien, am Original überprüft [hoffentlich].
 
-Online (Stand: 20211209):
+Online (Stand: 20211210):
 
 - https://digitalesamlinger.hum.ku.dk/Home/Samlingerne/13178
+- https://www.ismus.is/i/book/id-1001467
 
 
 
