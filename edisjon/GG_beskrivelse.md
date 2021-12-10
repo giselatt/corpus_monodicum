@@ -80,7 +80,7 @@ Einband nicht erhalten.
 
 ## Inhalt
 
-1r-2v
+1r-2v [må sjekkes]
 
 3r–10v Temporale
 
@@ -88,19 +88,19 @@ Einband nicht erhalten.
 
 - 7r–v Dominica V [post oct. corporis christi] (All.) – Dominica VI – Dominica VII – Dominica VIII (Offm.).  Mit den Sequenzen <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81), <i>O alma</i> (Incipit) (AH 7:97). Gedruckt: Eggen 1968 I, S. 106–109, 109–112, 118–120.
 
-- 8r–9v Dominica XII [post oct. corporis christi] (Gr.) – Dominica XIII – Dominica XIIII – Dominica XV – Dominica XVI (Off.). Mit den Sequenzen <i>O alma</i> (Incipit) (AH 7:97), <i>Voce iubilantes</i> (Incipit) (AH 10:37), <i>Iubilemus</i> (incipit; am Schreibrand vom Schreiber hinzugefügt) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b). Gedruckt: Eggen 1968 I, S. 118–120, 116–118, 112–114, 106–109.
+- 8r–9v Dominica XII [post oct. corporis christi] (Gr.) – Dominica XIII – Dominica XIIII – Dominica XV – Dominica XVI (Int.). Mit den Sequenzen <i>O alma</i> (Incipit) (AH 7:97), <i>Voce iubilantes</i> (Incipit) (AH 10:37), <i>Iubilemus</i> (incipit; am Schreibrand vom Schreiber hinzugefügt) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b). Gedruckt: Eggen 1968 I, S. 118–120, 116–118, 112–114, 106–109.
 
 - 10r–v Dominica XXI [post oct. corporis christi] (Gr.) – Dominica XXII – Dominica XXIII – Dominica XXIIII – Dominica XXV (All.). Mit den Sequenzen <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81). Gedruckt: Eggen 1968 I, S. 106–109, 109–112.
 
-11r–23v commune sanctorum
+11r–23v Commune Sanctorum
 
-- 11r–13v Officieserie – (11r) gradualeserie.
+- 11r–13v Introitusserie – (11r) Gradualserie.
 
-- 14r–16v Gradualeserie – (12r) alleluiaserie – (14r) tractusserie.
+- 14r–16v Gradualserie – (12r) Alleluiaserie – (14r) Tractusserie.
 
 - 17r-v [bokbind, må sjekkes]
 
-- 18r–20v Sekvensserie. Med sekvenserne Celi enarrant gloriam (ah 50:267 str. 11a–13), Clare sanctorum senatus (ah 53:228), Iocundare plebs fidelis (ah 55:7), Unus amor et una concordia (ah 8:281, ah 54:79), Adest nobis dies alma (ah 53:241), Ecce pulcra (ah 7:116, ah 53:114), Agone  iumphali (ah 53:229), Superne ma is gaudia (ah 55:37 str. 1–2). Trykt: Eggen i, s. 201–205, 285–286, 288–291, 295–296, 296–299, 264–266, 292–293, 270 (ms h).
+- 18r–20v Sequenzserie. Mit den Sequenzen <i>Celi enarrant gloriam</i> (AH 50:267 11a–13), <i>Clare sanctorum senatus</i> (AH 53:228), <i>Iocundare plebs fidelis</i> (AH 55:7), <i>Unus amor et una concordia</i> (AH 8:281, 54:79), <i>Adest nobis dies alma</i> (AH 53:241), <i>Ecce pulcra</i> (AH 7:116, 53:114), <i>Agone  triumphali</i> (AH 53:229), <i>Superne matris gaudia</i> (AH 55:37 1–2). Gedruckt: Eggen 1968 I, S. 201–205, 285–286, 288–291, 295–296, 296–299, 264–266, 292–293, 270 (ms h).
 
 - 21r–v Sekvensserie – (21v) offertorieserie. Med sekvenserne Rex regum deus noster (ah 53:243 str. 15–18), Virginis venerande (ah 53:246), Laudes debitas deo nos o (ah 54:62). Trykt: Eggen i, s. 301–302, 305–306, 307–309 (ms h).
 
