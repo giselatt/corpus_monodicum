@@ -64,7 +64,7 @@ Einband nicht erhalten.
 
 9r–13v Sanctorale
 
-- 9r–v Octava assumptionis Mariae (22/8) (All.) – In vigilia Bartholo- maei apl. (23/8) – In festo s. Bartholomaei apl. (24/8) – Audoeni ep. et cf. (24/8) – Hermetis (28/8) – Augustini (28/8) (Seq.). Mit den Sequenzen <i>Alle cantabile sonet</i> (AH 8:137, 53:129), <i>De profundis tenebrarum</i> (AH 55:75 1–5). Gedruckt: Eggen 1968 I, S. 239–241, 241–243 (ms i).
+- 9r–v Octava assumptionis Mariae (22/8) (All.) – In vigilia Bartholomaei apl. (23/8) – In festo s. Bartholomaei apl. (24/8) – Audoeni ep. et cf. (24/8) – Hermetis (28/8) – Augustini (28/8) (Seq.). Mit den Sequenzen <i>Alle cantabile sonet</i> (AH 8:137, 53:129), <i>De profundis tenebrarum</i> (AH 55:75 1–5). Gedruckt: Eggen 1968 I, S. 239–241, 241–243 (ms i).
 
 - 10r–v Decollatio b. Iohannis baptistae (29/8) (Seq.) – Egidii abb. (1/9) (Seq.). Mit den Sequenzen <i>Precursorem summi regis</i> (AH 55:179 7–18), <i>Sancti baptiste</i> (Incipit) (AH 53:163), <i>Exultet in gloria</i> (nicht in AH). Gedruckt: Eggen 1968 I, S. 245–246, 189–191, 246–247 (ms i).
 
