@@ -94,15 +94,17 @@ Das Missale ist von 2 Schreibern geschrieben:
 
 ### 1) f(1)r-f(15)r, f(41)r<sup>19</sup>-f(65)v
 
-Schreiber: Jón Þorláksson (gleicher Schreiber wie Graduale Gufudalense)
+Schreiber A: Jón Þorláksson (gleicher Schreiber wie Graduale Gufudalense)
 
-28/29 x 19/19,5 cm, 32 Linien oder 16 Notensysteme. Quadratnotation auf vier schwarzen Linien (rote Linien auf f(42)v-f(43)v), [Schlüssel: må sjekkes]. Textualis formata.
+28/29 x 19/19,5 cm, 32 Linien oder 16 Notensysteme. Quadratnotation auf vier schwarzen Linien (rote Linien auf f(42)v-f(43)v), Schlüssel: c- und F-Schlüssel [må sjekkes]. Textualis formata.
+
+[sjekk: F-Schlüssel für die Sequenz <i>Comitis generosi</i> (f()) ist die Hand von Schreiber 2?]
     
 ### 2) f(15)v-f(41)<sup>19</sup>
     
-Schreiber: gleicher Schreiber wie AM Acc. 7 HS 3   
+Schreiber B: gleicher Schreiber wie AM Acc. 7 HS 3   
     
-26,5/27 x 17,5/18,5 cm, 28 Linien (27 und 29 kommen vor) oder 14 Notensysteme. Quadratnotation aud fier roten Linien, [Schlüssel: må sjekkes]. Rezitationszeichen: c + s. Textualis formata.
+26,5/27 x 17,5/18,5 cm, 28 Linien (27 und 29 kommen vor) oder 14 Notensysteme. Quadratnotation aud fier roten Linien, Schlüssel: c- und F-Schlüssel [må sjekkes. Rezitationszeichen: c + s. Textualis formata.
     
 ## Ausstattung
 
@@ -114,7 +116,7 @@ Sechszeilige Initiale in rot, grün og gold mit Palmettenmuster in rot und blau 
     
 ### 2) f(15)v-f(41)<sup>19</sup>
 
-Zehnzeilige illuminierte Initiale mit Ranken, Farben: gold, rot, grün, azurblau (f(15)v) [motiv?].  Zwei- bis fünfzeilige Lombarden in gold, blau, grün oder rot. Rote Linienfüller.
+Zehnzeilige Initiale mit Ranken, Farben: gold, rot, grün, azurblau (f(15)v).  Zwei- bis fünfzeilige Lombarden in gold, blau, grün oder rot. Rote Linienfüller.
 
 ## Einband
 
