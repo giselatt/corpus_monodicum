@@ -96,7 +96,7 @@ Das Missale ist von 2 Schreibern geschrieben:
 
 Schreiber A: Jón Þorláksson (gleicher Schreiber wie Graduale Gufudalense)
 
-28/29 x 19/19,5 cm, 32 Linien oder 16 Notensysteme. Quadratnotation auf vier schwarzen Linien (rote Linien auf f(42)v-f(43)v), Schlüssel: c- und F-Schlüssel [må sjekkes]. Textualis formata.
+28/29 x 19/19,5 cm, 32 Linien oder 16 Notensysteme. Quadratnotation auf vier schwarzen Linien (rote Linien auf f(42)v-f(43)v), Schlüssel: c- und F-Schlüssel [må sjekkes], vertikale Striche. Textualis formata.
 
 [sjekk: F-Schlüssel für die Sequenz <i>Comitis generosi</i> (f()) ist die Hand von Schreiber 2?]
     
@@ -104,7 +104,7 @@ Schreiber A: Jón Þorláksson (gleicher Schreiber wie Graduale Gufudalense)
     
 Schreiber B: gleicher Schreiber wie AM Acc. 7 HS 3   
     
-26,5/27 x 17,5/18,5 cm, 28 Linien (27 und 29 kommen vor) oder 14 Notensysteme. Quadratnotation aud fier roten Linien, Schlüssel: c- und F-Schlüssel [må sjekkes. Rezitationszeichen: c + s. Textualis formata.
+26,5/27 x 17,5/18,5 cm, 28 Linien (27 und 29 kommen vor) oder 14 Notensysteme. Quadratnotation auf vier roten Linien, Schlüssel: c- und F-Schlüssel [må sjekkes. Rezitationszeichen: c + s, vertikale Striche. Textualis formata.
     
 ## Ausstattung
 
