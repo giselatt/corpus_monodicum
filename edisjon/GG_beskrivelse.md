@@ -19,43 +19,43 @@ Alte Signaturen: "Cod. Scard.", "Codex E", "Codex F", "Codex G", "Codex J".  Die
 
 Rekonstruktion nach Geert Andersen (1979):
 
-- f(1) AM 266 4to
-- f(2) AM 266 4to
-- f(3) am 83 fol2,
-- f(4) am 3 fol2
-- f(5) am 83 fol1
+- f(1) AM 266 4°
+- f(2) AM 266 4°
+- f(3) AM 83 fol<sup>2</sup>,
+- f(4) AM 3 fol<sup>2</sup>
+- f(5) AM 83 fol<sup>1</sup>
 - f(6) KB 2-30 fol
 - f(7) KB 2-30 fol
-- f(8) am 3 fol1
-- f(9) am 102 fol
-- f(10) am 102 fol
-- f(11) am 255 fol1
-- f(12) am 144 fol1
-- f(13) am 255 fol2
-- f(14) am 339 fol2
-- f(15) am 626 4°
-- f(16) am 112 4°
+- f(8) AM 3 fol1
+- f(9) AM 102 fol
+- f(10) AM 102 fol
+- f(11) AM 255 fol<sup>1</sup>
+- f(12) AM 144 fol<sup>1</sup>
+- f(13) AM 255 fol<sup>2</sup>
+- f(14) AM 339 fol<sup>2</sup>
+- f(15) AM 626 4°
+- f(16) AM 112 4°
 - f(17) UB J 1650 8vo ex. 2
-- f(18) am 333 fol1
-- f(19) am 333 fol2
-- f(20) am 381 4°
-- f(21) am 376 4°
-- f(22) am 108 fol1
-- f(23) am ohne Sekundärproveniens
-- f(24) am 532 4°
-- f(25) am 8 fol1
-- f(26) am 1dα fol
-- f(27) am 8 fol2
-- f(28) am 105 4°
-- f(29) am 166 fol1
-- f(30) am 166 fol2
-- f(31) am 339 fol1
-- f(32) am 108 fol2
-- f(33) am 105 4°
-- f(34) am 248 fol1
-- f(35) am 248 fol2
-- f(36) am 514 4°
-- f(37) am 732 v 4°
+- f(18) AM 333 fol<sup>1</sup>
+- f(19) AM 333 fol<sup>2</sup>
+- f(20) AM 381 4°
+- f(21) AM 376 4°
+- f(22) AM 108 fol<sup>1</sup>
+- f(23) AM ohne Sekundärproveniens
+- f(24) AM 532 4°
+- f(25) AM 8 fol<sup>1</sup>
+- f(26) AM 1dα fol
+- f(27) AM 8 fol<sup>2</sup>
+- f(28) AM 105 4°
+- f(29) AM 166 fol<sup>1</sup>
+- f(30) AM 166 fol<sup>2</sup>
+- f(31) AM 339 fol<sup>1</sup>
+- f(32) AM 108 fol<sup>2</sup>
+- f(33) AM 105 4°
+- f(34) AM 248 fol<sup>1</sup>
+- f(35) AM 248 fol<sup>2</sup>
+- f(36) AM 514 4°
+- f(37) AM 732a V 4°
 
 
 
