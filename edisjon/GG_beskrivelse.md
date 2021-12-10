@@ -21,12 +21,12 @@ Rekonstruktion nach Geert Andersen (1979):
 
 - f(1) AM 266 4°
 - f(2) AM 266 4°
-- f(3) AM 83 fol<sup>2</sup>,
+- f(3) AM 83 fol<sup>2</sup>
 - f(4) AM 3 fol<sup>2</sup>
 - f(5) AM 83 fol<sup>1</sup>
 - f(6) KB 2-30 fol
 - f(7) KB 2-30 fol
-- f(8) AM 3 fol1
+- f(8) AM 3 fol<sup>1</sup>
 - f(9) AM 102 fol
 - f(10) AM 102 fol
 - f(11) AM 255 fol<sup>1</sup>
