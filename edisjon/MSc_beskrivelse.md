@@ -133,7 +133,7 @@ Einband nicht erhalten.
 
 f(1)r–f(43)r Temporale
 
-- f(1)r–f(8)v Thomae protom. (29/12) (Int.) – Sexto die natalis domini (30/12) – In festo s. Silvestri (31/12) – Circumcisio domini (1/1) – De s. Maria (1/1) – Octava Stephani (2/1) – Octava Iohannis apl. et ev. (3/1) – Octava Innocentium (4/1) – In vigilia epiphaniae domini (5/1) – (6r) Epiphania domini (6/1) – Dominica ina oct. epiphaniae – Octava epiphaniae (13/1) (Seq.). Mit den Sequenzen <i>Spe mercedis et corone</i> (AH 55:9), <i>Lux fulget hodierna</i> (AH 8:6), <i>Pangat nos a concio</i> (AH 9:390), <i>Eia recolamus</i> (AH 53:16), <i>Hanc concordi famulatu</i> (AH 53:215), <i>Iohannes ihesu christo</i> (AH 53:168), <i>Laus tibi christe cui sapit</i> (AH 53:156), <i>Letabundus exultet</i> (AH 54:2), <i>Epiphaniam domino</i> (AH 7:37, 53:28), <i>O mira domini pietas</i> (siehe AH 53:24), <i>Festa christi omnis</i> (AH 53:29 str. 1–8). Gedruckt: Eggen 1968 I, S. 40–42, 26–28, 302–305, 16–18, 31–33, 33–35, 38–40, 18–21, 44–47, 55–56, 47–49 (ms h).
+- f(1)r–f(8)v Thomae protom. (29/12) (Int.) – Sexto die natalis domini (30/12) – In festo s. Silvestri (31/12) – Circumcisio domini (1/1) – De s. Maria (1/1) – Octava Stephani (2/1) – Octava Iohannis apl. et ev. (3/1) – Octava Innocentium (4/1) – In vigilia epiphaniae domini (5/1) – (6r) Epiphania domini (6/1) – Dominica infra oct. epiphaniae – Octava epiphaniae (13/1) (Seq.). Mit den Sequenzen <i>Spe mercedis et corone</i> (AH 55:9), <i>Lux fulget hodierna</i> (AH 8:6), <i>Pangat nos a concio</i> (AH 9:390), <i>Eia recolamus</i> (AH 53:16), <i>Hanc concordi famulatu</i> (AH 53:215), <i>Iohannes ihesu christo</i> (AH 53:168), <i>Laus tibi christe cui sapit</i> (AH 53:156), <i>Letabundus exultet</i> (AH 54:2), <i>Epiphaniam domino</i> (AH 7:37, 53:28), <i>O mira domini pietas</i> (siehe AH 53:24), <i>Festa christi omnis</i> (AH 53:29 str. 1–8). Gedruckt: Eggen 1968 I, S. 40–42, 26–28, 302–305, 16–18, 31–33, 33–35, 38–40, 18–21, 44–47, 55–56, 47–49 (ms h).
 
 - f(9)r–f(11)v Feria vi [post dominicam passionis] (Postcom.) – Sabbato – Dominica palmarum (Ev.).
 
@@ -147,15 +147,15 @@ f(1)r–f(43)r Temporale
 
 - f(19)r–f(21)v Feria VI [post pascha] (Ep.) – Sabbato – Dominica in oct. paschae (Seq.). Mit den Sequenzen <i>Sancta cunctis leticia</i> (AH 40:24), <i>Pangamus creatoris</i> (AH 53:46), <i>Laudes salvatori</i> (AH 53:36 1–14). Gedruckt: Eggen 1968 I, S. 78–80, 80–81, 82–85 (ms j).
 
-- f(22)r–v Feria ii [post dominicam iii post pascha] (offm.) – Dominica iv – ›In diebus ferialibus‹ (coll. (rubrik)). Mit der Sequenz Pangamus crea- toris (incipit) (ah 53:46). Trykt: Eggen i, s. 80–81.
+- f(22)r–v Feria II [post dominicam iii post pascha] (Int.) – Dominica IV – <i>›In diebus ferialibus‹</i> (Coll. (Rubrik)). Mit der Sequenz <i>Pangamus creatoris</i> (Incipit) (AH 53:46). Gedruckt: Eggen 1968 I, S. 80–81.
 
-- f(23)r–v In die s. pentecosten (ep.–ev.). Mit der Sequenz Sancti spiritus assit (ah 53:70). Trykt: Eggen i, s. 92–98 (ms j).
+- f(23)r–v In die s. pentecosten (Ep.–Ev.). Mit der Sequenz <i>Sancti spiritus assit</i> (AH 53:70). Gedruckt: Eggen 1968 I, S. 92–98 (ms j).
 
-- f(24)r–v Feria iv [post pentecosten] (all.) – Feria v (seq.). Mit den Sequenzen Almiphona iam gaudia (ah 7:79, ah 53:76), Veni spiritus eternorum (ah 53:71 str. 1–3). Trykt: Eggen i, s. 104–105, 105–106 (ms j).
+- f(24)r–v Feria IV [post pentecosten] (All.) – Feria V (Seq.). Mit den Sequenzen <i>Almiphona iam gaudia</i> (AH 7:79, 53:76), <i>Veni spiritus eternorum</i> (AH 53:71 1–3). Gedruckt: Eggen 1968 I, S. 104–105, 105–106 (ms j).
 
-- f(25)r–v Sabbato [post pentecosten] (ep.–seq. (rubrik)).
+- f(25)r–v Sabbato [post pentecosten] (Ep.–Seq. (Rubrik)). [sekvens?]
 
-- f(26) [UB Sg. 21701 - bare én side synlig? recto eller verso? innhold?]
+- f(26) [UB Sg. 21701 - bare én side synlig? recto eller verso? innhold: Lauda sion]
 
 - f(27)r–v Dominica i [post trinitatem] (ev.) – Dominica ii (seq.). Mit der Sequenz O alma  initas (ah 7:97 str. 1–4a). Trykt: Eggen i, s. 118–120 (ms j).
 
