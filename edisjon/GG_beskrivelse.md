@@ -65,13 +65,15 @@ Rekonstruktion nach Geert Andersen (1979):
 
 Schreiber: Jón Þorláksson
 
-[28/29 x 19/19,5 cm, 32 Linien oder 16 Notensysteme. Quadratnotation auf vier schwarzen Linien (rote Linien auf f(42)v-f(43)v), Schlüssel: c- und F-Schlüssel [må sjekkes], vertikale Striche. Textualis formata.]
+28/29 x 17,5/18 cm, 15 Notensysteme. Quadratnotation auf vier schwarzen Linien, Schlüssel: c- und F-Schlüssel [må sjekkes], vertikale Striche. Textualis formata.
 
 
 
 ## Ausstattung
 
-[Durchgehend rubriziert. Rote Rubriken. Anmerkungen für den Rubrikenschreiber an mehreren Stellen in den Seitenrändern erhalten (cursiva, schwarze Tinte).  Korrekturen von Jón Þorlákssons Hand.]
+Durchgehend rubriziert. Rote Rubriken. Anmerkungen für den Rubrikenschreiber an mehreren Stellen in den Seitenrändern erhalten (cursiva, schwarze Tinte).  Korrekturen im Schriftrand von Jón Þorlákssons Hand.
+
+Zwei- bis fünfzeilige Initialen in grün, rot, gold oder blau, mehrere mit Palmettenmuster in gegenteilger Farbe. Rote Linienfüller.
 
 
 ## Einband
