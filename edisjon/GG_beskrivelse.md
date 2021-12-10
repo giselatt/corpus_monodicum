@@ -86,11 +86,11 @@ Einband nicht erhalten.
 
 - 2r–6v In die s. trinitatis (off.) – In festo corporis christi – Dominica I post oct. corporis christi – Dominica II – Dominica III – Dominica IIII (Offm.). Mit den Sequenzen <i>Lauda syon salvatorem</i> (AH 50:385), <i>Benedicta semper sancta</i> (AH 7:95, 53:81), <i>O alma trinitas</i> (AH 7:97), <i>Voce iubilantes magna</i> (AH 10:37). Gedruckt: Eggen 1968 I, A. 121–123, 109–112, 118–120, 116–118 (ms h).
 
-- 7r–v Dominica V [post oct. corporis christi] (All.) – Dominica VI – Dominica VII – Dominica VIII (Offm.).  Mit den Sequenzen <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81), <i>O alma trinitas</i> (Incipit) (AH 7:97). Gedruckt: Eggen 1968 I, S. 106–109, 109–112, 118–120.
+- 7r–v Dominica V [post oct. corporis christi] (All.) – Dominica VI – Dominica VII – Dominica VIII (Offm.).  Mit den Sequenzen <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81), <i>O alma</i> (Incipit) (AH 7:97). Gedruckt: Eggen 1968 I, S. 106–109, 109–112, 118–120.
 
-- 8r–9v Dominica XII [post oct. corporis christi] (Gr.) – Dominica XIII – Dominica XIIII – Dominica XV – Dominica XVI (Off.). Mit den Sequenzen <i>O alma trinitas</i> (Incipit) (AH 7:97), <i>Voce iubilantes</i> (Incipit) (AH 10:37), <i>Iubilemus</i> (incipit; am Schreibrand vom Schreiber hinzugefügt) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b). Gedruckt: Eggen 1968 I, S. 118–120, 116–118, 112–114, 106–109.
+- 8r–9v Dominica XII [post oct. corporis christi] (Gr.) – Dominica XIII – Dominica XIIII – Dominica XV – Dominica XVI (Off.). Mit den Sequenzen <i>O alma</i> (Incipit) (AH 7:97), <i>Voce iubilantes</i> (Incipit) (AH 10:37), <i>Iubilemus</i> (incipit; am Schreibrand vom Schreiber hinzugefügt) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b). Gedruckt: Eggen 1968 I, S. 118–120, 116–118, 112–114, 106–109.
 
-- 10r–v Dominica xxi [post oct. corporis christi] (gr.) – Dominica xxii – Dominica xxiii – Dominica xxiiii – Dominica xxv (all.). Med sekvenserne Benedicta sit beata (incipit) (ah 7:96, ah 53:81b), Benedicta semper sancta (incipit) (ah 7:95, ah 53:81). Trykt: Eggen i, s. 106–109, 109–112.
+- 10r–v Dominica XXI [post oct. corporis christi] (Gr.) – Dominica XXII – Dominica XXIII – Dominica XXIIII – Dominica XXV (All.). Mit den Sequenzen <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81). Gedruckt: Eggen 1968 I, S. 106–109, 109–112.
 
 11r–23v commune sanctorum
 
