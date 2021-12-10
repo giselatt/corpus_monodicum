@@ -106,7 +106,7 @@ Schreiber A: Jón Þorláksson (gleicher Schreiber wie Graduale Gufudalense)
     
 Schreiber B: gleicher Schreiber wie AM Acc. 7 HS 3   
     
-26,5/27 x 17,5/18,5 cm, 28 Linien (27 und 29 kommen vor) oder 14 Notensysteme. Quadratnotation auf vier roten Linien, Schlüssel: c- und F-Schlüssel [må sjekkes. Rezitationszeichen: c + s, vertikale Striche. Textualis formata.
+26,5/27 x 17,5/18,5 cm, 28 Linien (27 und 29 kommen vor) oder 14 Notensysteme. Quadratnotation auf vier roten Linien, Schlüssel: c- und F-Schlüssel [må sjekkes.] Rezitationszeichen: c + s, vertikale Striche. Textualis formata.
     
 
 ## Ausstattung
