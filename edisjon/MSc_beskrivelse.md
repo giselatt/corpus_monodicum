@@ -114,8 +114,7 @@ Sechszeilige Initiale in rot, grün og gold mit Palmettenmuster in rot und blau 
     
 ### 2) f(15)v-f(41)<sup>19</sup>
 
-
-[Sechszeilige historisierte Initiale für den Introitus "Ecce advenit dominator" (4r) (Motiv: die heiligen drei Könige überreichen Gaben an Maria mit dem Kind). Vierzeilige Initiale in rubinrot und azurblau mit Palmettenmuster und Ausläufer in den Seitenrand in rot und gelb (12r). Zwei- bis vierzeilige Initialen in rot, grün, blau, rubinrot, starkgrün oder okerbraun, teilweise mit Palmettenmuster in gegenteiliger Farbe. Einzeilige rote Initialen [Lombarden?]. Rote Linienfüller.]
+Zehnzeilige illuminierte Initiale mit Ranken, Farben: gold, rot, grün, azurblau (f(15)v) [motiv?].  Zwei- bis fünfzeilige Lombarden in gold, blau, grün oder rot. Rote Linienfüller.
 
 ## Einband
 
