@@ -131,7 +131,7 @@ f(24)r–f(37)v Sanctorale
 
 - f(36)r–v In commemoratione animarum (2/11) (Off.) – Eustachii m. (2/11) – Leonardi abb. (6/11) – De quattuor coronatorum (8/11) – Villehadi ep. cf. (8/11) – Theodori m. (9/11) – Mennae m. (11/11) – Martini ep. cf. (11/11) (Seq. (Rubrik)). Mit den Sequenzen <i>Mera promat uranica</i> (für Leonardi abb.) (nixht in AH). Gedruckt: Eggen 1968 I, S. 270–272 (ms h).
 
-- f(37)r–v Infra oct. s. Martini (Int.) – Brictii ep. cf. (13/11) – Eadmundi m. (20/11) (med lac.) – In festo Ceciliae v. et m. (22/11) (Seq.). Mit den Sequenzen <i>Pangat nos a</i> (Incipit) (AH 9:390), <i>Omnis fidelium ecclesia</i> (AH 40:191 3a–11), <i>E(ia christi concio)</i> (nixht in AH). Gedruckt: Eggen 1968 I, S. 302–305, 275–277, 277–278 (ms h).
+- f(37)r–v Infra oct. s. Martini (Int.) – Brictii ep. cf. (13/11) – Eadmundi m. (20/11) (mit Lac.) – In festo Ceciliae v. et m. (22/11) (Seq.). Mit den Sequenzen <i>Pangat nos a</i> (Incipit) (AH 9:390), <i>Omnis fidelium ecclesia</i> (AH 40:191 3a–11), <i>E(ia christi concio)</i> (nicht in AH). Gedruckt: Eggen 1968 I, S. 302–305, 275–277, 277–278 (ms h).
 
 
 ## Herkunft und Geschichte
