@@ -15,7 +15,9 @@ Pergament,  37 Bl.
 
 ## Lagen – Foliierung
 
-Alte Signaturen: "Cod. Scard.", "Codex E", "Codex F", "Codex G", "Codex J".  Diese Blätter waren früher zum Einbinden von arnamagnæanischen Handschriften und einem Buch an der Königlichen Bibliothek in Kopenhagen verwendet. Zu diesen Codices gehören drei weitere Blätter, die in Reyjavik bzw. der Universitätsbibliothek in Kopenhagen aufbewahrt werden (s.o.).
+Alte Signaturen: "Cod. Scard.", "Codex E", "Codex F", "Codex G", "Codex J".  Diese Blätter waren früher zum Einbinden von arnamagnæanischen Handschriften und einem Buch an der Königlichen Bibliothek in Kopenhagen verwendet.
+
+Zu diesen Codices gehören drei weitere Blätter, die in Reyjavik bzw. der Universitätsbibliothek in Kopenhagen aufbewahrt werden (s.o.).
 
 Rekonstruktion nach Geert Andersen (1979):
 
@@ -57,16 +59,12 @@ Rekonstruktion nach Geert Andersen (1979):
 - f(36) AM 514 4°
 - f(37) AM 732a V 4°
 
-
-
-
     
 ## Schriftraum – Notation – Textschrift
 
 Schreiber: Jón Þorláksson
 
 28/29 x 17,5/18 cm, 15 Notensysteme (= 30 Linien). Quadratnotation auf vier schwarzen Linien, Schlüssel: c- und F-Schlüssel [må sjekkes], vertikale Striche. Textualis formata.
-
 
 
 ## Ausstattung
@@ -79,6 +77,7 @@ Zwei- bis fünfzeilige Initialen in grün, rot, gold oder blau, mehrere mit Palm
 ## Einband
 
 Einband nicht erhalten.
+
 
 ## Inhalt
 
@@ -135,7 +134,8 @@ Einband nicht erhalten.
 
 ## Herkunft und Geschichte
 
---- kommt ---
+--- kommt irgendwann ---
+
 
 ## Vorlagen
 
@@ -147,7 +147,6 @@ Online (Stand: 20211210):
 
 - https://digitalesamlinger.hum.ku.dk/Home/Samlingerne/13178
 - https://www.ismus.is/i/book/id-1001467
-
 
 
 ## Literatur
