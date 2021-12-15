@@ -11,7 +11,7 @@
 |AM Acc. 7 HS 3-(5)-?| O alma <...>* | Sequenz | Dominica VI post Pentecostem | AH 7, 97<sup>1</sup> |
 |AM Acc. 7 HS 3-(5)v-?| Voce iubi< lantes >* | Sequenz | Dominica VII post Pentecostem | AH 10, 37 |
 |AM Acc. 7 HS 3-(6)-2| Stans a longe | Sequenz | Dominica X poste Pentecostem | AH 7, 231, AH 53, 93 |
-|AM Acc. 7 HS 3-(9)-8| Alle cantabile sone t| Sequenz | Bartholomaeus | AH 8, 137, AH 53, 129 |
+|AM Acc. 7 HS 3-(9)-8| Alle cantabile sonet| Sequenz | Bartholomaeus | AH 8, 137, AH 53, 129 |
 |AM Acc. 7 HS 3-(9)v-9| De profundis tenebrarum<sup>2</sup> | Sequenz | Augustinus | AH 55, 75 (1-5) |
 |AM Acc. 7 HS 3-(10)-1| Sequenzen Precursorem summi regis | Sequenz | Decollatio Iohannis Baptistae | AH 55, 179 (7-18) |
 |AM Acc. 7 HS 3-(10)-13| Sancti baptiste* | Sequenz | Decollatio Iohannis Baptistae | AH 53, 163 |
