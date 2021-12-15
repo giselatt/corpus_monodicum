@@ -1,6 +1,6 @@
 | Quelle-Folio-Zeile | Textinitium | Gattung | Festtag | Nachweis Text |
 |--|--|--|--|--|
-|AM Acc. 7 HS 3-(1)-11| Magnus deus in universa | Sequenz | Stephanus | AH 7, 201; 53, 220 |
+|AM Acc. 7 HS 3-(1)-11| Magnus deus in universa | Sequenz | Stephanus | AH 7, 201; AH 53, 220 |
 |AM Acc. 7 HS 3-(2)-10| Virgo mater gratuletur || Iohannes Evangelista | AH 40, 246 (1–11b) |
 |AM Acc. 7 HS 3-(3)-1]| Hanc concordi || Octava Stephani | AH 53, 205 (9-12) |
 |AM Acc. 7 HS 3-(3)-5| Virgo mater gratuletur* || Octava Iohannis Evangelistae |AH 40, 246 |
@@ -15,9 +15,9 @@
 |AM Acc. 7 HS 3-(9)v-9| De profundis tenebrarum<sup>2</sup> || Augustinus | AH 55, 75 (1-5) |
 |AM Acc. 7 HS 3-(10)-1| Sequenzen Precursorem summi regis || Decollatio Iohannis Baptistae | AH 55, 179 (7-18) |
 |AM Acc. 7 HS 3-(10)-13| Sancti baptiste* || Decollatio Iohannis Baptistae | AH 53, 163 |
-|AM Acc. 7 HS 3-(10)v-5| Exultet in gloria || Aegidius |  nicht in AH |
-|AM Acc. 7 HS 3| 
-|AM Acc. 7 HS 3|
+|AM Acc. 7 HS 3-(10)v-5| Exultet in gloria || Aegidius | nicht in AH |
+|AM Acc. 7 HS 3-(11)-1| Alle caeleste necnon || Nativitas Mariae | AH 7, 98 (6a-13), AH 53, 97 |
+|AM Acc. 7 HS 3-(11)v-6| Salve lignum sanctae crucis || Exaltatio Crucis | AH 54, 122 |
 |AM Acc. 7 HS 3|    
 |AM Acc. 7 HS 3| 
 |AM Acc. 7 HS 3| 
@@ -38,9 +38,8 @@
 - sollen Initien vervollständigt werden was den Text betrifft?
 - was mit mehreren Bezügen auf AH? was mit der Angabe von Verszeilen (bei fragmentarischen Gesängen) (ser ut til å være gjort ulikt i basen)?
 
-    10r–v Decollatio b. Iohannis baptistae (29/8) (Seq.) – Egidii abb. (1/9) (Seq.). Mit den Sequenzen Precursorem summi regis (AH 55:179 7–18), Sancti baptiste (Incipit) (AH 53:163), Exultet in gloria (nicht in AH). Gedruckt: Eggen 1968 I, S. 245–246, 189–191, 246–247 (ms i).
 
-    11r–v In nativitate b. Mariae (8/9) (Seq.) – In exaltatione s. Crucis (14/9) (Seq.). Mit den Sequenzen Alle celeste nec non (AH 7:98 6a–13, 53:97), Salve lignum sancte crucis (siehe AH 54:122). Gedruck: Eggen 1968 I, S. 250–253, 256–257 (ms i).
+
 
     12r–v Mauricii soc. eius (22/9) (Seq.) – Firmini (25/9) – Cosmae et Damiani (27/9) – Michaelis (29/9) (Seq.). Mit den Sequenzen Alludat letus ordo (AH 7:176 7a–10, 53:189), Ad celebres rex celice (AH 53:190 1–9). Gedruckt: Eggen 1968 I, S. 258–259, 259–262 (ms i).
 
