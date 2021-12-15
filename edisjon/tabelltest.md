@@ -16,6 +16,7 @@
 |AM Acc. 7 HS 3| 
 
 <sup>1</sup>sjekk: CM har AH 7, 219
+    
 <sup>2</sup> samme melodi som <i>Iubar</i>
     
     
