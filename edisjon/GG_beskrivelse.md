@@ -134,6 +134,8 @@ f.(24)r–f.(37)v Sanctorale
 - f.(37)r–v Infra oct. s. Martini (Intr.) – Brictii ep. cf. (13/11) – Eadmundi m. (20/11) (mit Lac.) – In festo Ceciliae v. et m. (22/11) (Seq.). Mit den Sequenzen <i>Pangat nos a</i> (Incipit) (AH 9:390), <i>Omnis fidelium ecclesia</i> (AH 40:191 3a–11), <i>E(ia christi concio)</i> (nicht in AH). Gedruckt: Eggen 1968 I, S. 302–305, 275–277, 277–278 (ms h).
 
 
+[Sequenzen tabellarisch](https://github.com/giselatt/corpus_monodicum/blob/main/edisjon/GG_table.md)
+
 ## Herkunft und Geschichte
 
 --- kommt irgendwann ---
