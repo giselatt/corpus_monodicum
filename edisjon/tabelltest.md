@@ -1,14 +1,14 @@
 | Quelle-Folio-Zeile | Textinitium | Gattung | Festtag | Nachweis Text |
 |--|--|--|--|--|
-|AM Acc. 7 HS 3-1-11| Magnus deus in universa | Sequenz | Stephanus | AH 7, 201; 53, 220 |
-|AM Acc. 7 HS 3-2-10| Virgo mater gratuletur || Iohannes Evangelista | AH 40, 246 1–11b |
-|AM Acc. 7 HS 3-3-1| Hanc concordi || Octava Stephani | AH 53, 205 9-12 |
-|AM Acc. 7 HS 3-3-5| Virgo mater gratuletur* || Octava Iohannis Evangelistae |AH 40, 246|
-|AM Acc. 7 HS 3-3-6| Iohannes Iesu Christo || Octava Iohannis Evangelistae | AH 53, 168 |
-|AM Acc. 7 HS 3v-1| Laus tibi Christe cui sapit|| Octava innocentium | AH 53, 156 |
-|AM Acc. 7 HS 3-4-1| Laetabundus exultet || Vigilia epiphaniae | AH 54, 2 |
-|AM Acc. 7 HS 3-4v-5| Epiphaniam domino || Epiphania | AH 7, 37 1a–6a; 53, 28 1–11
-|AM Acc. 7 HS 3| 
+|AM Acc. 7 HS 3-(1)-11| Magnus deus in universa | Sequenz | Stephanus | AH 7, 201; 53, 220 |
+|AM Acc. 7 HS 3-(2)-10| Virgo mater gratuletur || Iohannes Evangelista | AH 40, 246 (1–11b) |
+|AM Acc. 7 HS 3-(3)-1| Hanc concordi || Octava Stephani | AH 53, 205 (9-12) |
+|AM Acc. 7 HS 3-(3)-5| Virgo mater gratuletur* || Octava Iohannis Evangelistae |AH 40, 246 |
+|AM Acc. 7 HS 3-(3)-6| Iohannes Iesu Christo || Octava Iohannis Evangelistae | AH 53, 168 |
+|AM Acc. 7 HS 3-(3)v-1| Laus tibi Christe cui sapit|| Octava innocentium | AH 53, 156 |
+|AM Acc. 7 HS 3-(4)-1| Laetabundus exultet || Vigilia epiphaniae | AH 54, 2 |
+|AM Acc. 7 HS 3-(4)v-5| Epiphaniam domino || Epiphania | AH 7, 37 (1a–6a), AH 53, 28 (1–11) |
+|AM Acc. 7 HS 3| O alma
 |AM Acc. 7 HS 3| 
 |AM Acc. 7 HS 3| 
 |AM Acc. 7 HS 3| 
