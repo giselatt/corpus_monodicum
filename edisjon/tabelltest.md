@@ -8,8 +8,8 @@
 |AM Acc. 7 HS 3-(3)v-1| Laus tibi Christe cui sapit|| Octava innocentium | AH 53, 156 |
 |AM Acc. 7 HS 3-(4)-1| Laetabundus exultet || Vigilia epiphaniae | AH 54, 2 |
 |AM Acc. 7 HS 3-(4)v-5| Epiphaniam domino || Epiphania | AH 7, 37 (1a–6a), AH 53, 28 (1–11) |
-|AM Acc. 7 HS 3| O alma
-|AM Acc. 7 HS 3| 
+|AM Acc. 7 HS 3-(5)-?| O alma [trinitas]* || Dominica VI post Pentecostem | AH 7, 97 (CM har AH 7, 219) |
+|AM Acc. 7 HS 3-(5)v-?| Voce iubi[lantes]* || Dominica VII post Pentecostem | AH 10, 37 |
 |AM Acc. 7 HS 3| 
 |AM Acc. 7 HS 3| 
 |AM Acc. 7 HS 3| 
