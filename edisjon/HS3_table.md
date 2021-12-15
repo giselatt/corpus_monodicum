@@ -38,7 +38,7 @@
 - sind mit "Linien" Textlinien oder Notensysteme gemeint? (hier angegeben: Nummer des Notensystems)
 - sollen Sequenzen, die auf einer fehlende Seite anfangen, Liniennummer 1 bekommen? (hier so gemacht)
 - sollen Initien vervollständigt werden was den Text betrifft?
-- was mit mehreren Bezügen auf AH? und was mit der Angabe von Verszeilen (bei fragmentarischen Gesängen) (ser ut til å være gjort ulikt i CM)?
+- was mit mehreren Bezügen auf AH? und was mit der Angabe von Verszeilen (bei fragmentarischen Gesängen) (ser ut til å være gjort på forskjellige måter i CM)?
 - Orthographie: e/ae etter kilden (slik som u/v)? har tilpasset Textinititum til skrivemåten i CM
 
 
