@@ -2,28 +2,31 @@
 |--|--|--|--|--|
 |AM Acc. 7 HS 3-(1)-11| Magnus deus in universa | Sequenz | Stephanus | AH 7, 201; 53, 220 |
 |AM Acc. 7 HS 3-(2)-10| Virgo mater gratuletur || Iohannes Evangelista | AH 40, 246 (1–11b) |
-|AM Acc. 7 HS 3-(3)-1| Hanc concordi || Octava Stephani | AH 53, 205 (9-12) |
+|AM Acc. 7 HS 3-(3)-[1]| Hanc concordi || Octava Stephani | AH 53, 205 (9-12) |
 |AM Acc. 7 HS 3-(3)-5| Virgo mater gratuletur* || Octava Iohannis Evangelistae |AH 40, 246 |
 |AM Acc. 7 HS 3-(3)-6| Iohannes Iesu Christo || Octava Iohannis Evangelistae | AH 53, 168 |
 |AM Acc. 7 HS 3-(3)v-1| Laus tibi Christe cui sapit|| Octava innocentium | AH 53, 156 |
 |AM Acc. 7 HS 3-(4)-1| Laetabundus exultet || Vigilia epiphaniae | AH 54, 2 |
 |AM Acc. 7 HS 3-(4)v-5| Epiphaniam domino || Epiphania | AH 7, 37 (1a–6a), AH 53, 28 (1–11) |
-|AM Acc. 7 HS 3-(5)-?| O alma [trinitas]* || Dominica VI post Pentecostem | AH 7, 97 (CM har AH 7, 219) |
-|AM Acc. 7 HS 3-(5)v-?| Voce iubi[lantes]* || Dominica VII post Pentecostem | AH 10, 37 |
+|AM Acc. 7 HS 3-(5)-?| O alma <...>* || Dominica VI post Pentecostem | AH 7, 97 (CM har AH 7, 219) |
+|AM Acc. 7 HS 3-(5)v-?| Voce iubi<lantes>* || Dominica VII post Pentecostem | AH 10, 37 |
+|AM Acc. 7 HS 3-(6)-2| Stans a longe || Dominica X poste Pentecostem | AH 7, 231, AH 53, 93 |
+|AM Acc. 7 HS 3-(9)-8| Alle cantabile sonet|| Bartholomaeus | AH 8, 137, AH 53, 129 |
+|AM Acc. 7 HS 3-(9)v-9| De profundis tenebrarum<sup>1</<sup> | Augustinus [ AH 55, 75 (1-5) |
 |AM Acc. 7 HS 3| 
-|AM Acc. 7 HS 3| 
-|AM Acc. 7 HS 3| 
-|AM Acc. 7 HS 3| 
 
 
+    <sup>1</sup> samme melodi som <i>Iubar</i>
+    
+    
+## Fragen:
 
-    5r–v Dominica VII [post trinitatem] (Int.) – Dominica VIII – Dominica IX (Gr.). Mit den Sequenzen O alma (Incipit) (AH 7:97), Voce iubi[lantes] (Incipit) (AH 10:37).
+- ok å ta med parenteser ved rekonstruerte mss som mangler blader?
+- sind "Linien" Textlinien oder Notensysteme? (hier: letzeres)
+- sollen Initien vervollständigt?
+- was mit mehreren Bezügen auf AH? Verszeilen?
 
-    6r–7v Dominica XI [post trinitatem] (All.) – Dominica XII – Dominica XII – Dominica XIIII (Off.). Mit der Sequenz Stans a longe (für Dominica XI) (AH 7:231, 53:93). Gedruckt: Eggen 1968 I, S. 125–126 (ms i).
 
-8r–v Commune Sanctorum
-
-    Alleluia- und Offertorieserie.
 
 9r–13v Sanctorale
 
