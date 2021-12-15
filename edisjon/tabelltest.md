@@ -39,4 +39,4 @@
 - was mit mehreren Bezügen auf AH? was mit der Angabe von Verszeilen (bei fragmentarischen Gesängen) (ser ut til å være gjort ulikt i basen)?
 
 
-    13r–v Eadmundi (20/11) (Seq.) – Ceciliae (22/11) (Seq.). Mit den Sequenzen Omnis fidelium ecclesia (AH 40:191 9a–11), Eia christi concio (nicht in AH), Sponsa christo dilecta (AH 40:176 1–3a). 
+
