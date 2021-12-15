@@ -25,7 +25,7 @@
 |AM Acc. 7 HS 3-(13)v-11| Sponsa Christo dilecta | Sequenz | Caecilia | AH 40, 176 (1-3a) |   
 
 
-<sup>1</sup> sjekk: CM har AH 7, 219
+<sup>1</sup> sjekk: CM har AH 7, 219 for <i>O alma trinitas</i>
     
 <sup>2</sup> samme melodi som <i>Iubar</i>
 
