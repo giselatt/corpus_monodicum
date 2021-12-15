@@ -6,19 +6,15 @@
 | GG | Voce iubilantes magna || Dominica IV post Pentecostem | AH 10, 37 |
 | GG | Benedicta sit beata* || Dominica VI post Pentecostem | AH 7, 96, AH 53, 81b |
 | GG | Benedicta semper sancta* || Dominica VII post Pentecostem | AH 7, 95, AH 53, 81 |
-| GG | O alma*  || Dominica VIII post Pentecostem | AH 7, 97  (sjekk nummeret, jf. HS 3)|
-| GG | 
-| GG | 
-| GG | 
-| GG | 
+| GG | O alma <...>*  || Dominica VIII post Pentecostem | AH 7, 97  (sjekk nummeret, jf. HS 3)|
+| GG | O alma <...>*  || Dominica XIV post Pentecostem | AH 7, 97  (sjekk nummeret, jf. HS 3)|
+| GG | Voce iubilantes* || Dominica XV post Pentecostem | AH 10, 37 |
+| GG | Iubilemus < cordis >* || Dominica XVI post Pentecostem | AH 54, 165 |
+| GG | Benedicta sit beata* || Dominica XVII post Pentecostem | AH 7, 96, AH 53, 81b | 
 | GG | 
 | GG | 
 | GG | 
 
-
-f(7)r–v Dominica V [post oct. corporis christi] (All.) – Dominica VI – Dominica VII – Dominica VIII (Intr.). Mit den Sequenzen Benedicta sit beata (Incipit) (AH 7:96, 53:81b), Benedicta semper sancta (Incipit) (AH 7:95, 53:81), O alma (Incipit) (AH 7:97). Gedruckt: Eggen 1968 I, S. 106–109, 109–112, 118–120.
-
-f(8)r–f(9)v Dominica XII [post oct. corporis christi] (Gr.) – Dominica XIII – Dominica XIIII – Dominica XV – Dominica XVI (Off.). Mit den Sequenzen O alma (Incipit) (AH 7:97), Voce iubilantes (Incipit) (AH 10:37), Iubilemus (incipit; am Schreibrand vom Schreiber hinzugefügt) (AH 54:165), Benedicta sit beata (Incipit) (AH 7:96, 53:81b). Gedruckt: Eggen 1968 I, S. 118–120, 116–118, 112–114, 106–109.
 
 f(10)r–v Dominica XXI [post oct. corporis christi] (Gr.) – Dominica XXII – Dominica XXIII – Dominica XXIIII – Dominica XXV (All.). Mit den Sequenzen Benedicta sit beata (Incipit) (AH 7:96, 53:81b), Benedicta semper sancta (Incipit) (AH 7:95, 53:81). Gedruckt: Eggen 1968 I, S. 106–109, 109–112.
 
