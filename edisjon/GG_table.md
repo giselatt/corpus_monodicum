@@ -24,15 +24,11 @@ f(18)r–f(20)v Sequenzserie. Mit den Sequenzen Celi enarrant gloriam (AH 50:267
 
 f(21)r–v Sequenzserie – (f(21)v) Offertorieserie. Mit den Sequenzen Rex regum deus noster (AH 53:243 15–18), Virginis venerande (AH 53:246), Laudes debitas deo nostro (AH 54:62). Gedruckt: Eggen 1968 I, S. 301–302, 305–306, 307–309 (ms h).
 
-f(22)r–v Communioserie – (f(22)v) In commemoratione beate marie virginis (Intr. Salve sancta parens (Inc.), Gr, Benedicta et venerabilis (Inc.), Alleluia Post partum virgo, Off. Felix namque es (Inc.), Com. Beata viscera (Inc.)) – Alleluiaserie.
-
 f(24)r–v In die s. Andreae (30/11) (Seq.) – Infra oct. Andreae apl. – In festo s. Barbarae v. (4/12) – In festo s. Nicholai ep. (6/12) (Seq.). Mit den Sequenzen Sacrosancta hodierne (AH 54:30 14–19), Virginis venerande (Incipit) (AH 53:246), Congaudentes exultemus (AH 54:66 1–21). Gedruckt: Eggen 1968 I, S. 129–131, 305–306, 131–135 (ms m).
 
 f(25)r–f(26)v Conceptio b. Mariae (8/12) (Gr.) – Luciae v. et m. (13/12) – Translatio Magni m. (13/12) – In vigilia Thomae apl. (20/12) – In die s. Thomae apl. (21/12) (Rubrik). Mit den Sequenzen Conceptio marie virginis (AH 54:188), Regem celi cantico (nicht in AH), Comitis generosi (nicht in AH). Gedruckt: Eggen 1968 I, S. 135–137, 140–141 + li, 141–143 (ms m).
 
-f(27)r–f(28)v Agnetis v. et m. (21/1) (Seq.) – In festo s. Vincentii (22/1) – Babillae ep. m. (24/1) – In conversione Pauli apl. (25/1) (Mit Lakunen) – Policarpi ep. m. (26/1) – Agnetis v. secundo (28/1) – Iohannis Crisostomi (27/1) (sic) – Brigidae v. non m. (1/2) – In purificatione b. Mariae (2/2) (Gr.). Mit den Sequenzen Pure mentis gaudia (AH 40:138 8a–12b), Martiris egregii (AH 55:340), Dixit dominus ex basan (AH 50:269 1–7b, lac., 9a–10), O vere gratissima (Incipit) (AH 40:138 divisio), Pangat nos a (Incipit) (AH 9:390), Virginis venerande (Incipit) (AH 53:246). Gedruckt: Eggen 1968 I, S. 146–147, 147–150, 151–153, 146–147, 302–305, 305–306 (ms h).
-
-f(29)r–v Scolasticae v. (10/2) (Tr.) – Valentini (14/2) – Iulianae v. (16/2) – In cathedra s. Petri apl. (22/2) – In vigilia b. Mathiae apl. (23/2) – Mathiae apl. (24/2) – Translatio Iohannis ep. (3/3) – Gregorii pp. cf. (12/3) – Cuthberti ep. (20/3) – Benedicti abb. cf. (21/3) – In annunciacione beatissime virginis Marie (25/3) (Gr.).
+f(27)r–f(28)v Agnetis v. et m. (21/1) (Seq.) – In festo s. Vincentii (22/1) – Babillae ep. m. (24/1) – In conversione Pauli apl. (25/1) (Mit Lakunen) – Policarpi ep. m. (26/1) – Agnetis v. secundo (28/1) – Iohannis Crisostomi (27/1) (sic) – Brigidae v. non m. (1/2) – In purificatione b. Mariae (2/2) (Gr.). Mit den Sequenzen Pure mentis gaudia (AH 40:138 8a–12b), Martiris egregii (AH 55:340), Dixit dominus ex basan (AH 50:269 1–7b, lac., 9a–10), O vere gratissima (Incipit) (AH 40:138 divisio (Pure mentis)), Pangat nos a (Incipit) (AH 9:390), Virginis venerande (Incipit) (AH 53:246). Gedruckt: Eggen 1968 I, S. 146–147, 147–150, 151–153, 146–147, 302–305, 305–306 (ms h).
 
 f(30)r–v In vigilia s. Iohannis baptistae (23/6) (Intr.) – In die s. Iohannis baptistae (24/6) (Seq.). Mit der Sequenz Exulta celum (AH 9:243 1–9a). Gedruckt: Eggen 1968 I, S. 191–193 (ms h).
 
