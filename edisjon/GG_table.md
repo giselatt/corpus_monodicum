@@ -1,32 +1,32 @@
 | Quelle-Folio-Zeile | Textinitium | Gattung | Festtag | Nachweis Text |
 |--|--|--|--|--|
 | GG | Lauda Sion | Sequenz | Corpus Christi | AH 50, 385 |
-| GG | Benedicta semper sancta || Dominica II post Pentecostem | AH 7, 95, AH 53, 81 |
-| GG | O alma trinitas || Dominica III post Pentecostem | AH 7, 97  (sjekk nummeret, jf. HS 3)|
-| GG | Voce iubilantes magna || Dominica IV post Pentecostem | AH 10, 37 |
-| GG | Benedicta sit beata* || Dominica VI post Pentecostem | AH 7, 96, AH 53, 81b |
-| GG | Benedicta semper sancta* || Dominica VII post Pentecostem | AH 7, 95, AH 53, 81 |
-| GG | O alma trinitas*  || Dominica VIII post Pentecostem | AH 7, 97  (sjekk nummeret, jf. HS 3)|
-| GG | O alma trinitas*  || Dominica XIV post Pentecostem | AH 7, 97  (sjekk nummeret, jf. HS 3)|
-| GG | Voce iubilantes* || Dominica XV post Pentecostem | AH 10, 37 |
-| GG | Iubilemus cordis* || Dominica XVI post Pentecostem | AH 54, 165 |
-| GG | Benedicta sit beata* || Dominica XVII post Pentecostem | AH 7, 96, AH 53, 81b | 
-| GG | Benedicta sit beata* || Dominica XXII post Pentecostem | AH 7, 96, AH 53, 81b |
-| GG | Benedicta semper sancta* || Dominica XXIII post Pentecostem | AH 7, 95, AH 53, 81 |
-| GG | Celi enarrant gloriam || Apostoli ? | AH 50, 267 (11a–13) |
-| GG | Clare sanctorum senatus || Apostoli | AH 53, 228 |
-| GG | Iocundare plebs fidelis || Evangelistae | AH 55,7 |
-| GG | Unus amor et una concordia || Martyr<sup>1</sup> et episcopus | AH 8, 281, AH 54, 79 |
-| GG | Adest nobis dies alma || Martyr<sup>1</sup> | AH 53:, 241 |
-| GG | Ecce pulcra || Plures martyres et virgines<sup>2</sup> | AH 7, 116, AH 53,114 |
-| GG | Agone triumphali || Plures martyres | AH 53, 229 |
-| GG | Supernae matris || Sancti<sup>3</sup> | AH 55, 37 (1–2) |
-| GG | Rex regum deus noster || Confessor<sup>4</sup> ? | AH 53, 243 (15–18) |
-| GG | Virginis venerandae || Virgo et martyr<sup>5</sup> | AH 53, 246 |
-| GG | Laudes debitas deo nostro || Virgo et martyr<sup>5</sup> | AH 54, 62 |
-| GG | Sacrosancta hodierne || Andreas | AH 54, 30 (14–19) |
-| GG | Virginis venerandae || Barbara | AH 53, 246 |
-| GG | Congaudentes exultemus || Nicholaus | AH 54, 66 (1–21) |
+| GG | Benedicta semper sancta | Sequenz | Dominica II post Pentecostem | AH 7, 95, AH 53, 81 |
+| GG | O alma trinitas | Sequenz | Dominica III post Pentecostem | AH 7, 97  (sjekk nummeret, jf. HS 3)|
+| GG | Voce iubilantes magna | Sequenz | Dominica IV post Pentecostem | AH 10, 37 |
+| GG | Benedicta sit beata* | Sequenz | Dominica VI post Pentecostem | AH 7, 96, AH 53, 81b |
+| GG | Benedicta semper sancta* | Sequenz | Dominica VII post Pentecostem | AH 7, 95, AH 53, 81 |
+| GG | O alma trinitas*  | Sequenz | Dominica VIII post Pentecostem | AH 7, 97  (sjekk nummeret, jf. HS 3)|
+| GG | O alma trinitas*  | Sequenz | Dominica XIV post Pentecostem | AH 7, 97  (sjekk nummeret, jf. HS 3)|
+| GG | Voce iubilantes* | Sequenz | Dominica XV post Pentecostem | AH 10, 37 |
+| GG | Iubilemus cordis* | Sequenz | Dominica XVI post Pentecostem | AH 54, 165 |
+| GG | Benedicta sit beata* | Sequenz | Dominica XVII post Pentecostem | AH 7, 96, AH 53, 81b | 
+| GG | Benedicta sit beata* | Sequenz | Dominica XXII post Pentecostem | AH 7, 96, AH 53, 81b |
+| GG | Benedicta semper sancta* | Sequenz | Dominica XXIII post Pentecostem | AH 7, 95, AH 53, 81 |
+| GG | Celi enarrant gloriam | Sequenz | Apostoli ? | AH 50, 267 (11a–13) |
+| GG | Clare sanctorum senatus | Sequenz | Apostoli | AH 53, 228 |
+| GG | Iocundare plebs fidelis | Sequenz | Evangelistae | AH 55,7 |
+| GG | Unus amor et una concordia | Sequenz | Martyr<sup>1</sup> et episcopus | AH 8, 281, AH 54, 79 |
+| GG | Adest nobis dies alma | Sequenz | Martyr<sup>1</sup> | AH 53:, 241 |
+| GG | Ecce pulcra | Sequenz | Plures martyres et virgines<sup>2</sup> | AH 7, 116, AH 53,114 |
+| GG | Agone triumphali | Sequenz | Plures martyres | AH 53, 229 |
+| GG | Supernae matris | Sequenz | Sancti<sup>3</sup> | AH 55, 37 (1–2) |
+| GG | Rex regum deus noster | Sequenz | Confessor<sup>4</sup> ? | AH 53, 243 (15–18) |
+| GG | Virginis venerandae | Sequenz | Virgo et martyr<sup>5</sup> | AH 53, 246 |
+| GG | Laudes debitas deo nostro | Sequenz | Virgo et martyr<sup>5</sup> | AH 54, 62 |
+| GG | Sacrosancta hodierne | Sequenz | Andreas | AH 54, 30 (14–19) |
+| GG | Virginis venerandae | Sequenz | Barbara | AH 53, 246 |
+| GG | Congaudentes exultemus | Sequenz | Nicholaus | AH 54, 66 (1–21) |
 | GG | 
 | GG | 
 | GG | 
