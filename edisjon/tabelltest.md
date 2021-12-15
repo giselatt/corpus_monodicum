@@ -12,7 +12,7 @@
 |AM Acc. 7 HS 3-(5)v-?| Voce iubi<lantes>* || Dominica VII post Pentecostem | AH 10, 37 |
 |AM Acc. 7 HS 3-(6)-2| Stans a longe || Dominica X poste Pentecostem | AH 7, 231, AH 53, 93 |
 |AM Acc. 7 HS 3-(9)-8| Alle cantabile sonet|| Bartholomaeus | AH 8, 137, AH 53, 129 |
-|AM Acc. 7 HS 3-(9)v-9| De profundis tenebrarum<sup>1</<sup> | Augustinus [ AH 55, 75 (1-5) |
+|AM Acc. 7 HS 3-(9)v-9| De profundis tenebrarum<sup>1</<sup> | Augustinus || AH 55, 75 (1-5) |
 |AM Acc. 7 HS 3| 
 
 
@@ -28,9 +28,7 @@
 
 
 
-9r–13v Sanctorale
 
-    9r–v Octava assumptionis Mariae (22/8) (All.) – In vigilia Bartholomaei apl. (23/8) – In festo s. Bartholomaei apl. (24/8) – Audoeni ep. et cf. (24/8) – Hermetis (28/8) – Augustini (28/8) (Seq.). Mit den Sequenzen Alle cantabile sonet (AH 8:137, 53:129), De profundis tenebrarum (AH 55:75 1–5). Gedruckt: Eggen 1968 I, S. 239–241, 241–243 (ms i).
 
     10r–v Decollatio b. Iohannis baptistae (29/8) (Seq.) – Egidii abb. (1/9) (Seq.). Mit den Sequenzen Precursorem summi regis (AH 55:179 7–18), Sancti baptiste (Incipit) (AH 53:163), Exultet in gloria (nicht in AH). Gedruckt: Eggen 1968 I, S. 245–246, 189–191, 246–247 (ms i).
 
