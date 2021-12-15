@@ -10,7 +10,7 @@
 |AM Acc. 7 HS 3-(4)v-5| Epiphaniam domino | Sequenz | Epiphania | AH 7, 37 (1a–6a), AH 53, 28 (1–11) |
 |AM Acc. 7 HS 3-(5)-?| O alma <...>* | Sequenz | Dominica VIII post Pentecostem | AH 7, 97<sup>1</sup> |
 |AM Acc. 7 HS 3-(5)v-?| Voce iubi< lantes >* | Sequenz | Dominica IX post Pentecostem | AH 10, 37 |
-|AM Acc. 7 HS 3-(6)-2| Stans a longe | Sequenz | Dominica XII poste Pentecostem | AH 7, 231, AH 53, 93 |
+|AM Acc. 7 HS 3-(6)-2| Stans a longe | Sequenz | Dominica XII post Pentecostem | AH 7, 231, AH 53, 93 |
 |AM Acc. 7 HS 3-(9)-8| Alle cantabile sonet| Sequenz | Bartholomaeus | AH 8, 137, AH 53, 129 |
 |AM Acc. 7 HS 3-(9)v-9| De profundis tenebrarum<sup>2</sup> | Sequenz | Augustinus | AH 55, 75 (1-5) |
 |AM Acc. 7 HS 3-(10)-1| Sequenzen Precursorem summi regis | Sequenz | Decollatio Iohannis Baptistae | AH 55, 179 (7-18) |
