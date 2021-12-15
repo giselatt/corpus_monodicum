@@ -1,6 +1,6 @@
 | Quelle-Folio-Zeile | Textinitium | Gattung | Festtag | Nachweis Text |
 |--|--|--|--|--|
-|AM Acc. 7 HS 3-(1)-11| Magnus deus in universa | Sequenz | Stephanus | AH 7, 201; AH 53, 220 |
+|AM Acc. 7 HS 3-(1)-11| Magnus deus in universa | Sequenz | Stephanus | AH 7, 201, AH 53, 220 |
 |AM Acc. 7 HS 3-(2)-10| Virgo mater gratuletur | Sequenz | Iohannes Evangelista | AH 40, 246 (1–11b) |
 |AM Acc. 7 HS 3-(3)-1]| Hanc concordi | Sequenz | Octava Stephani | AH 53, 205 (9-12) |
 |AM Acc. 7 HS 3-(3)-5| Virgo mater gratuletur* | Sequenz | Octava Iohannis Evangelistae |AH 40, 246 |
