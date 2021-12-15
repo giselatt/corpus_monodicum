@@ -5,8 +5,8 @@
 | GG | O alma trinitas || Dominica III post Pentecostem | AH 7, 97  (sjekk nummeret, jf. HS 3)|
 | GG | Voce iubilantes magna || Dominica IV post Pentecostem | AH 10, 37 |
 | GG | Benedicta sit beata* || Dominica VI post Pentecostem | AH 7, 96, AH 53, 81b |
-| GG | Benedicta semper sancta* ||| AH 7, 95, AH 53, 81)
-| GG | 
+| GG | Benedicta semper sancta* || Dominica VII post Pentecostem | AH 7, 95, AH 53, 81 |
+| GG | O alma*  || Dominica VIII post Pentecostem | AH 7, 97  (sjekk nummeret, jf. HS 3)|
 | GG | 
 | GG | 
 | GG | 
