@@ -17,10 +17,10 @@
 | GG | Clare sanctorum senatus || Apostoli | AH 53, 228 |
 | GG | Iocundare plebs fidelis || Evangelistae | AH 55,7 |
 | GG | Unus amor et una concordia || Martyr<sup>1</sup> et episcopus ? | AH 8, 281, AH 54, 79 |
-| GG | Adest nobis dies alma (AH 53:241)
-| GG | Ecce pulcra (AH 7:116, 53:114)
-| GG | Agone triumphali (AH 53:229)
-| GG | Supernae matris (AH 55:37 1–2)
+| GG | Adest nobis dies alma || Martyr<sup>1</sup> | AH 53:, 241 |
+| GG | Ecce pulcra || Plures martyres et virgines<sup>2</sup> | AH 7, 116, AH 53,114 |
+| GG | Agone triumphali || Plures matyres | AH 53, 229 |
+| GG | Supernae matris || Sanci<sup>3</sup> | AH 55, 37 (1–2) |
 | GG | 
 | GG | 
 | GG | 
@@ -30,6 +30,12 @@
 
 
 <sup>1</sup> CM har "Martyres" og "Plures martyres"
+
+<sup>2</sup> CM har ikke denne kombinasjonen
+
+<sup>3</sup> CM har "Sancti" og "Plures sancti"
+
+
 
 
 f(18)r–f(20)v Sequenzserie. Mit den Sequenzen Celi enarrant gloriam (AH 50:267 11a–13), Clare sanctorum senatus (AH 53:228), Iocundare plebs fidelis (AH 55:7), Unus amor et una concordia (AH 8:281, 54:79), Adest nobis dies alma (AH 53:241), Ecce pulcra (AH 7:116, 53:114), Agone triumphali (AH 53:229), Superne matris gaudia (AH 55:37 1–2). Gedruckt: Eggen 1968 I, S. 201–205, 285–286, 288–291, 295–296, 296–299, 264–266, 292–293, 270 (ms h).
