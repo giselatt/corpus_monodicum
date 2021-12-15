@@ -16,7 +16,7 @@
 | GG | Celi enarrant gloriam || Apostoli ? | AH 50, 267 (11a–13) |
 | GG | Clare sanctorum senatus || Apostoli | AH 53, 228 |
 | GG | Iocundare plebs fidelis || Evangelistae | AH 55,7 |
-| GG | Unus amor et una concordia || Martyr<sup>1</sup> et episcopus ? | AH 8, 281, AH 54, 79 |
+| GG | Unus amor et una concordia || Martyr<sup>1</sup> et episcopus | AH 8, 281, AH 54, 79 |
 | GG | Adest nobis dies alma || Martyr<sup>1</sup> | AH 53:, 241 |
 | GG | Ecce pulcra || Plures martyres et virgines<sup>2</sup> | AH 7, 116, AH 53,114 |
 | GG | Agone triumphali || Plures martyres | AH 53, 229 |
@@ -24,9 +24,19 @@
 | GG | Rex regum deus noster || Confessor<sup>4</sup> ? | AH 53, 243 (15–18) |
 | GG | Virginis venerandae || Virgo et martyr<sup>5</sup> | AH 53, 246 |
 | GG | Laudes debitas deo nostro || Virgo et martyr<sup>5</sup> | AH 54, 62 |
+| GG | Sacrosancta hodierne || Andreas | AH 54, 30 (14–19) |
+| GG | Virginis venerandae || Barbara | AH 53, 246 |
+| GG | Congaudentes exultemus || Nicholaus | AH 54, 66 (1–21) |
 | GG | 
 | GG | 
 | GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+
 
 
 <sup>1</sup> CM har "Martyres" og "Plures martyres", ikke entall
@@ -40,9 +50,6 @@
 <sup>5</sup> CM har ikke denne kombinasjonen, har bare "Martyres" og "Virgines" hver for seg, ikke entall
 
 
-
-
-f(24)r–v In die s. Andreae (30/11) (Seq.) – Infra oct. Andreae apl. – In festo s. Barbarae v. (4/12) – In festo s. Nicholai ep. (6/12) (Seq.). Mit den Sequenzen Sacrosancta hodierne (AH 54:30 14–19), Virginis venerande (Incipit) (AH 53:246), Congaudentes exultemus (AH 54:66 1–21). Gedruckt: Eggen 1968 I, S. 129–131, 305–306, 131–135 (ms m).
 
 f(25)r–f(26)v Conceptio b. Mariae (8/12) (Gr.) – Luciae v. et m. (13/12) – Translatio Magni m. (13/12) – In vigilia Thomae apl. (20/12) – In die s. Thomae apl. (21/12) (Rubrik). Mit den Sequenzen Conceptio marie virginis (AH 54:188), Regem celi cantico (nicht in AH), Comitis generosi (nicht in AH). Gedruckt: Eggen 1968 I, S. 135–137, 140–141 + li, 141–143 (ms m).
 
