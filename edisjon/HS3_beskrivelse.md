@@ -76,7 +76,7 @@ Einband nicht erhalten.
 
 
 
-[Sequenzen tabellarisch] (https://github.com/giselatt/corpus_monodicum/blob/main/edisjon/HS3_table.md)
+[Sequenzen tabellarisch](https://github.com/giselatt/corpus_monodicum/blob/main/edisjon/HS3_table.md)
 
 ## Herkunft und Geschichte
 
