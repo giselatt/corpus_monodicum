@@ -32,7 +32,7 @@ under Arbeid...
 | GG | Congaudentes exultemus | Sequenz | Nicholaus | AH 54, 66 (1–21) |
 | GG | Conceptio marie virginis || Conceptio Mariae | AH 54, 188 |
 | GG | Regem coeli cantico || Lucia (nicht in AH)
-| GG | Comitis generosi (nicht in AH)
+| GG | Comitis generosi || Translation Magni | nicht in AH |
 | GG | 
 | GG | 
 | GG | 
