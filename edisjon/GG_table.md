@@ -29,7 +29,7 @@
 | GG | 
 
 
-<sup>1</sup> CM har "Martyres" og "Plures martyres"
+<sup>1</sup> CM har "Martyres" og "Plures martyres", ikke entall
 
 <sup>2</sup> CM har ikke denne kombinasjonen
 
