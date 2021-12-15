@@ -36,9 +36,9 @@
 
 - ok å ta med parenteser ved rekonstruerte mss som mangler blader?
 - sind "Linien" Textlinien oder Notensysteme? (hier: letzeres)
-- sollen Sequenzen, die unvollständig auf einer Seite anfangen, Liniennummer 1 bekommen? (hier so gemacht)
+- sollen Sequenzen, die auf einer fehlende Seite anfangen, Liniennummer 1 bekommen? (hier so gemacht)
 - sollen Initien vervollständigt werden was den Text betrifft?
-- was mit mehreren Bezügen auf AH? was mit der Angabe von Verszeilen (bei fragmentarischen Gesängen) (ser ut til å være gjort ulikt i basen)?
-- Orthographie: e/ae etter kilden (slik som u/v)? har tilpasset Textinititum
+- was mit mehreren Bezügen auf AH? was mit der Angabe von Verszeilen (bei fragmentarischen Gesängen) (ser ut til å være gjort ulikt i CM)?
+- Orthographie: e/ae etter kilden (slik som u/v)? har tilpasset Textinititum til skrivemåten i CM
 
 
