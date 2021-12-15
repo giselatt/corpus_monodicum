@@ -16,7 +16,7 @@ under Arbeid...
 | GG | Benedicta sit beata* | Sequenz | Dominica XVII post Pentecostem | AH 7, 96, AH 53, 81b | 
 | GG | Benedicta sit beata* | Sequenz | Dominica XXII post Pentecostem | AH 7, 96, AH 53, 81b |
 | GG | Benedicta semper sancta* | Sequenz | Dominica XXIII post Pentecostem | AH 7, 95, AH 53, 81 |
-| GG | Celi enarrant gloriam | Sequenz | Apostoli ? | AH 50, 267 (11a–13) |
+| GG | Caeli enarrant gloriam | Sequenz | Apostoli ? | AH 50, 267 (11a–13) |
 | GG | Clare sanctorum senatus | Sequenz | Apostoli | AH 53, 228 |
 | GG | Iocundare plebs fidelis | Sequenz | Evangelistae | AH 55,7 |
 | GG | Unus amor et una concordia | Sequenz | Martyr<sup>1</sup> et episcopus<sup>2</sup> | AH 8, 281, AH 54, 79 |
@@ -27,10 +27,10 @@ under Arbeid...
 | GG | Rex regum deus noster | Sequenz | Confessor<sup>4</sup> ? | AH 53, 243 (15–18) |
 | GG | Virginis venerandae | Sequenz | Virgo et martyr<sup>5</sup> | AH 53, 246 |
 | GG | Laudes debitas deo nostro | Sequenz | Virgo et martyr<sup>5</sup> | AH 54, 62 |
-| GG | Sacrosancta hodierne | Sequenz | Andreas | AH 54, 30 (14–19) |
+| GG | Sacrosancta hodiernae | Sequenz | Andreas | AH 54, 30 (14–19) |
 | GG | Virginis venerandae | Sequenz | Barbara | AH 53, 246 |
 | GG | Congaudentes exultemus | Sequenz | Nicholaus | AH 54, 66 (1–21) |
-| GG | Conceptio marie virginis || Conceptio Mariae | AH 54, 188 |
+| GG | Conceptio mariae virginis || Conceptio Mariae | AH 54, 188 |
 | GG | Regem coeli cantico || Lucia | nicht in AH |
 | GG | Comitis generosi || Translation Magni | nicht in AH |
 | GG | 
