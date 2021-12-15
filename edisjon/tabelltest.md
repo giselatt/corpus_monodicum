@@ -8,15 +8,15 @@
 |AM Acc. 7 HS 3-(3)v-1| Laus tibi Christe cui sapit|| Octava innocentium | AH 53, 156 |
 |AM Acc. 7 HS 3-(4)-1| Laetabundus exultet || Vigilia epiphaniae | AH 54, 2 |
 |AM Acc. 7 HS 3-(4)v-5| Epiphaniam domino || Epiphania | AH 7, 37 (1a–6a), AH 53, 28 (1–11) |
-|AM Acc. 7 HS 3-(5)-?| O alma <...>* || Dominica VI post Pentecostem | AH 7, 97 (CM har AH 7, 219) |
+|AM Acc. 7 HS 3-(5)-?| O alma <...>* || Dominica VI post Pentecostem | AH 7, 97<sup>1</sup> |
 |AM Acc. 7 HS 3-(5)v-?| Voce iubi<lantes>* || Dominica VII post Pentecostem | AH 10, 37 |
 |AM Acc. 7 HS 3-(6)-2| Stans a longe || Dominica X poste Pentecostem | AH 7, 231, AH 53, 93 |
 |AM Acc. 7 HS 3-(9)-8| Alle cantabile sonet|| Bartholomaeus | AH 8, 137, AH 53, 129 |
-|AM Acc. 7 HS 3-(9)v-9| De profundis tenebrarum<sup>1</sup> || Augustinus | AH 55, 75 (1-5) |
+|AM Acc. 7 HS 3-(9)v-9| De profundis tenebrarum<sup>2</sup> || Augustinus | AH 55, 75 (1-5) |
 |AM Acc. 7 HS 3| 
 
-
-<sup>1</sup> samme melodi som <i>Iubar</i>
+<sup>1</sup>sjekk: CM har AH 7, 219
+<sup>2</sup> samme melodi som <i>Iubar</i>
     
     
 ## Fragen:
