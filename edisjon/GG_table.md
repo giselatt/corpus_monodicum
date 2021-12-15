@@ -31,15 +31,26 @@ under Arbeid...
 | GG | Virginis venerandae | Sequenz | Barbara | AH 53, 246 |
 | GG | Congaudentes exultemus | Sequenz | Nicholaus | AH 54, 66 (1–21) |
 | GG | Conceptio marie virginis || Conceptio Mariae | AH 54, 188 |
-| GG | Regem coeli cantico || Lucia (nicht in AH)
+| GG | Regem coeli cantico || Lucia | nicht in AH |
 | GG | Comitis generosi || Translation Magni | nicht in AH |
 | GG | 
 | GG | 
 | GG | 
 | GG | 
 | GG | 
+| GG |
 | GG | 
-
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
 
 
 <sup>1</sup> CM har "Martyres" og "Plures martyres", ikke entall
@@ -52,9 +63,6 @@ under Arbeid...
 
 <sup>5</sup> CM har ikke denne kombinasjonen, har bare "Martyres" og "Virgines" hver for seg, ikke entall
 
-
-
-f(25)r–f(26)v Conceptio b. Mariae (8/12) (Gr.) – Luciae v. et m. (13/12) – Translatio Magni m. (13/12) – In vigilia Thomae apl. (20/12) – In die s. Thomae apl. (21/12) (Rubrik). Mit den Sequenzen Conceptio marie virginis (AH 54:188), Regem celi cantico (nicht in AH), Comitis generosi (nicht in AH). Gedruckt: Eggen 1968 I, S. 135–137, 140–141 + li, 141–143 (ms m).
 
 f(27)r–f(28)v Agnetis v. et m. (21/1) (Seq.) – In festo s. Vincentii (22/1) – Babillae ep. m. (24/1) – In conversione Pauli apl. (25/1) (Mit Lakunen) – Policarpi ep. m. (26/1) – Agnetis v. secundo (28/1) – Iohannis Crisostomi (27/1) (sic) – Brigidae v. non m. (1/2) – In purificatione b. Mariae (2/2) (Gr.). Mit den Sequenzen Pure mentis gaudia (AH 40:138 8a–12b), Martiris egregii (AH 55:340), Dixit dominus ex basan (AH 50:269 1–7b, lac., 9a–10), O vere gratissima (Incipit) (AH 40:138 divisio (Pure mentis)), Pangat nos a (Incipit) (AH 9:390), Virginis venerande (Incipit) (AH 53:246). Gedruckt: Eggen 1968 I, S. 146–147, 147–150, 151–153, 146–147, 302–305, 305–306 (ms h).
 
