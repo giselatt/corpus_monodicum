@@ -39,6 +39,6 @@
 - sollen Sequenzen, die unvollständig auf einer Seite anfangen, Liniennummer 1 bekommen? (hier so gemacht)
 - sollen Initien vervollständigt werden was den Text betrifft?
 - was mit mehreren Bezügen auf AH? was mit der Angabe von Verszeilen (bei fragmentarischen Gesängen) (ser ut til å være gjort ulikt i basen)?
-
+- Orthographie: e/ae etter kilden (slik som u/v)? har tilpasset Textinititum
 
 
