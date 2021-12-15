@@ -39,6 +39,6 @@
 - sollen Sequenzen, die auf einer fehlende Seite anfangen, Liniennummer 1 bekommen? (hier so gemacht)
 - sollen Initien vervollständigt werden was den Text betrifft? (hier so gemacht)
 - was mit mehreren Bezügen auf AH? und was mit der Angabe von Verszeilen (bei fragmentarischen Gesängen) (ser ut til å være gjort på forskjellige måter i CM)?
-- Orthographie: e/ae etter kilden (slik som u/v)? har tilpasset Textinititum til skrivemåten i CM
+- Orthographie: e/ae og e/oe etter kilden (slik som u/v)? har tilpasset Textinititum til skrivemåten i CM
 
 
