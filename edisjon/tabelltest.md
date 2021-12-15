@@ -13,13 +13,18 @@
 |AM Acc. 7 HS 3-(6)-2| Stans a longe || Dominica X poste Pentecostem | AH 7, 231, AH 53, 93 |
 |AM Acc. 7 HS 3-(9)-8| Alle cantabile sonet|| Bartholomaeus | AH 8, 137, AH 53, 129 |
 |AM Acc. 7 HS 3-(9)v-9| De profundis tenebrarum<sup>2</sup> || Augustinus | AH 55, 75 (1-5) |
+|AM Acc. 7 HS 3-(10)-1| Sequenzen Precursorem summi regis || Decollatio Iohannis Baptistae | AH 55, 179 (7-18) |
+|AM Acc. 7 HS 3-(10)-13| Sancti baptiste* || Decollatio Iohannis Baptistae | AH 53, 163 |
+|AM Acc. 7 HS 3-(10)v-5| Exultet in gloria || Aegidius |  nicht in AH |
 |AM Acc. 7 HS 3| 
 |AM Acc. 7 HS 3|
+|AM Acc. 7 HS 3|    
 |AM Acc. 7 HS 3| 
 |AM Acc. 7 HS 3| 
 |AM Acc. 7 HS 3|
 |AM Acc. 7 HS 3|    
-    
+
+
 <sup>1</sup>sjekk: CM har AH 7, 219
     
 <sup>2</sup> samme melodi som <i>Iubar</i>
@@ -31,11 +36,7 @@
 - sind "Linien" Textlinien oder Notensysteme? (hier: letzeres)
 - sollen Sequenzen die unvollständig auf einer Seite anfanger Liniennummer 1 bekommen? (hier so gemacht)
 - sollen Initien vervollständigt werden was den Text betrifft?
-- was mit mehreren Bezügen auf AH? was mit der Angabe von Verszeilen (bei fragmentarischen Gesängen)?
-
-
-
-
+- was mit mehreren Bezügen auf AH? was mit der Angabe von Verszeilen (bei fragmentarischen Gesängen) (ser ut til å være gjort ulikt i basen)?
 
     10r–v Decollatio b. Iohannis baptistae (29/8) (Seq.) – Egidii abb. (1/9) (Seq.). Mit den Sequenzen Precursorem summi regis (AH 55:179 7–18), Sancti baptiste (Incipit) (AH 53:163), Exultet in gloria (nicht in AH). Gedruckt: Eggen 1968 I, S. 245–246, 189–191, 246–247 (ms i).
 
