@@ -8,8 +8,8 @@
 |AM Acc. 7 HS 3-(3)v-1| Laus tibi Christe cui sapit| Sequenz | Octava innocentium | AH 53, 156 |
 |AM Acc. 7 HS 3-(4)-1| Laetabundus exultet | Sequenz | Vigilia epiphaniae | AH 54, 2 |
 |AM Acc. 7 HS 3-(4)v-5| Epiphaniam domino | Sequenz | Epiphania | AH 7, 37 (1a–6a), AH 53, 28 (1–11) |
-|AM Acc. 7 HS 3-(5)-?| O alma <...>* | Sequenz | Dominica VIII post Pentecostem | AH 7, 97<sup>1</sup> |
-|AM Acc. 7 HS 3-(5)v-?| Voce iubi< lantes >* | Sequenz | Dominica IX post Pentecostem | AH 10, 37 |
+|AM Acc. 7 HS 3-(5)-?| O alma trinitas* | Sequenz | Dominica VIII post Pentecostem | AH 7, 97<sup>1</sup> |
+|AM Acc. 7 HS 3-(5)v-?| Voce iubilantes* | Sequenz | Dominica IX post Pentecostem | AH 10, 37 |
 |AM Acc. 7 HS 3-(6)-2| Stans a longe | Sequenz | Dominica XII post Pentecostem | AH 7, 231, AH 53, 93 |
 |AM Acc. 7 HS 3-(9)-8| Alle cantabile sonet| Sequenz | Bartholomaeus | AH 8, 137, AH 53, 129 |
 |AM Acc. 7 HS 3-(9)v-9| De profundis tenebrarum<sup>2</sup> | Sequenz | Augustinus | AH 55, 75 (1-5) |
@@ -37,7 +37,7 @@
 - ta med parenteser rundt folio-nummer ved rekonstruerte mss som mangler blader?
 - sind mit "Linien" Textlinien oder Notensysteme gemeint? (hier angegeben: Nummer des Notensystems)
 - sollen Sequenzen, die auf einer fehlende Seite anfangen, Liniennummer 1 bekommen? (hier so gemacht)
-- sollen Initien vervollständigt werden was den Text betrifft?
+- sollen Initien vervollständigt werden was den Text betrifft? (hier so gemacht)
 - was mit mehreren Bezügen auf AH? und was mit der Angabe von Verszeilen (bei fragmentarischen Gesängen) (ser ut til å være gjort på forskjellige måter i CM)?
 - Orthographie: e/ae etter kilden (slik som u/v)? har tilpasset Textinititum til skrivemåten i CM
 
