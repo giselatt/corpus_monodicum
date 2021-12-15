@@ -16,7 +16,7 @@
 | GG | Celi enarrant gloriam | Sequenz | Apostoli ? | AH 50, 267 (11a–13) |
 | GG | Clare sanctorum senatus | Sequenz | Apostoli | AH 53, 228 |
 | GG | Iocundare plebs fidelis | Sequenz | Evangelistae | AH 55,7 |
-| GG | Unus amor et una concordia | Sequenz | Martyr<sup>1</sup> et episcopus | AH 8, 281, AH 54, 79 |
+| GG | Unus amor et una concordia | Sequenz | Martyr<sup>1</sup> et episcopus<sup>2</sup> | AH 8, 281, AH 54, 79 |
 | GG | Adest nobis dies alma | Sequenz | Martyr<sup>1</sup> | AH 53:, 241 |
 | GG | Ecce pulcra | Sequenz | Plures martyres et virgines<sup>2</sup> | AH 7, 116, AH 53,114 |
 | GG | Agone triumphali | Sequenz | Plures martyres | AH 53, 229 |
