@@ -16,7 +16,7 @@
 |AM Acc. 7 HS 3| 
 
 
-    <sup>1</sup> samme melodi som <i>Iubar</i>
+<sup>1</sup> samme melodi som <i>Iubar</i>
     
     
 ## Fragen:
