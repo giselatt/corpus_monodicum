@@ -2,7 +2,7 @@
 |--|--|--|--|--|
 | GG | Lauda Sion | Sequenz | Corpus Christi | AH 50, 385 |
 | GG | Benedicta semper sancta || Dominica II post Pentecostem | AH 7, 95, AH 53, 81 |
-| GG | O alma trinitas || Dominica III post Pentecostem | AH 7, 97 |
+| GG | O alma trinitas || Dominica III post Pentecostem | AH 7, 97  (sjekk nummerm, jf. HS 3)|
 | GG | Voce iubilantes magna || Dominica IV post Pentecostem  | AH 10, 37 |
 | GG | 
 | GG | 
