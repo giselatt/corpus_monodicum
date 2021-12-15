@@ -1,11 +1,19 @@
 | Quelle-Folio-Zeile | Textinitium | Gattung | Festtag | Nachweis Text |
 |--|--|--|--|--|
-
-
-
-
-
-
+| GG | Lauda Sion | Sequenz | Corpus Christi | AH 50, 385 |
+| GG | Benedicta semper sancta || 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
 
 
     f(2)r–f(6)v In die s. trinitatis (Off.) – In festo corporis christi – Dominica I post oct. corporis christi – Dominica II – Dominica III – Dominica IIII (Intr.). Mit den Sequenzen Lauda syon salvatorem (AH 50:385), Benedicta semper sancta (AH 7:95, 53:81), O alma trinitas (AH 7:97), Voce iubilantes magna (AH 10:37). Gedruckt: Eggen 1968 I, A. 121–123, 109–112, 118–120, 116–118 (ms h).
