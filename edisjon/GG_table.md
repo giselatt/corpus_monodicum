@@ -1,4 +1,7 @@
-under Arbeid...
+mangler folionr./linjenr.:
+
+- folio etter rekonstruksjon?
+- linjenummer eller notestystemnr.?
 
 
 | Quelle-Folio-Zeile | Textinitium | Gattung | Festtag | Nachweis Text |
