@@ -46,8 +46,8 @@
 |MSc| Clare sanctorum || Apostoli | AH 53, 228 (1–5) |
 |MSc| Virginis venerandae || Virgo et martyr<sup>5</sup> ? | AH 53, 246 (2–12) |
 |MSc| Laudes debitas deo nostro || Virgo et martyr<sup>5</sup> | AH 54, 62 (1–14) |
-|MSc| Sancte syon assunt (AH 55:33)
-|MSc| Sacrosancta hodierne (AH 54:30)
+|MSc| Sancte syon assunt || Dedicatio ecclesiae | AH 55, 33 |
+|MSc| Sacrosancta hodiernae<sup>6</sup> || Andreas | AH 54, 30 |
 |MSc| Laudes debitas (Incipit) (AH 54:62)
 |MSc| Congaudentes exultemus (AH 54:66)
 |MSc| Conceptio marie virginis (AH 54:188)
@@ -71,6 +71,7 @@
 
 <sup>5</sup> CM har ikke denne kombinasjonen, har bare "Martyres" og "Virgines" hver for seg, ikke entall
 
+<sup>6</sup> ae?
 
 
 
