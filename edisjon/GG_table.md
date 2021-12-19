@@ -1,11 +1,4 @@
-## Quelle - Folio - Zeile:
-
-- GG?
-- folio etter rekonstruksjon?
-- linjenummer eller notestystemnr.?
-
-
-| Quelle-Folio-Zeile | Textinitium | Gattung | Festtag | Nachweis Text |
+| Quelle-Folio-Zeile<sup>0</sup> | Textinitium | Gattung | Festtag | Nachweis Text |
 |--|--|--|--|--|
 | GG | Lauda Sion | Sequenz | Corpus Christi | AH 50, 385 |
 | GG | Benedicta semper sancta | Sequenz | Dominica II post Pentecostem | AH 7, 95, AH 53, 81 |
@@ -59,6 +52,11 @@
 | GG | Omnis fidelium ecclesia | Sequenz | Edmundus<sup>6</sup> | AH 40, 191 (3a–11) |
 | GG | E< ia christi concio > | Sequenz | Caecilia | nicht in AH |
 
+
+<sup>0</sup>
+- GG?
+- folio etter rekonstruksjon?
+- linjenummer eller notestystemnr.?
 
 <sup>1</sup> CM har "Martyres" og "Plures martyres", ikke entall
 
