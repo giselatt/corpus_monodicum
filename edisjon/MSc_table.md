@@ -20,12 +20,12 @@
 |MSc| Laudes christo redempti || Feria IV post Pascha | AH 53, 45 |
 |MSc| Sancta cunctis leticia || Feria VI post Pascha | AH 40, 24 |
 |MSc| Pangamus creatoris || Sabbatum post Pascha | AH 53, 46 |
-|MSc| Laudes salvatori (AH 53:36 1–14)
-|MSc| Pangamus creatoris* (AH 53:46)
-|MSc| Sancti spiritus assit (AH 53:70)
-|MSc| Almiphona iam gaudia (AH 7:79, 53:76)
-|MSc| Veni spiritus eternorum (AH 53:71 1–3).
-|MSc| rubrikk? jf MSG 2008 || Sabbatum sanctum | ? |
+|MSc| Laudes salvatori || Dominica I post Pascha | AH 53, 36 (1–14) |
+|MSc| Pangamus creatoris* || Dominica IV post Pascha | AH 53, 46 |
+|MSc| Sancti spiritus assit || Pentecoste | AH 53, 70 |
+|MSc| Almiphona iam gaudia || Feria IV post Pentecosten | AH 7, 79, AH 53, 76 |
+|MSc| Veni spiritus eternorum || Feria V post Pentecosten | AH 53, 71 (1–3) |
+|MSc| rubrikk? jf MSG 2008 || Sabbato [post pentecosten] | ? |
 |MSc| Lauda Sion || Corpus Christi | AH 50, 385 |
 |MSc| O alma trinitas (AH 7:97 1–4a)
 |MSc| O alma trinitas deitas (Incipit) (AH 7:97)
