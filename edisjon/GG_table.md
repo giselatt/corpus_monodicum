@@ -1,5 +1,6 @@
-mangler folionr./linjenr.:
+## Quelle - Folio - Zeile:
 
+- GG?
 - folio etter rekonstruksjon?
 - linjenummer eller notestystemnr.?
 
