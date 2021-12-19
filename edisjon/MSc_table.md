@@ -16,10 +16,10 @@
 |MSc| Surgit christus cum || Pascha | AH 54, 230 |
 |MSc| Resurrexit leo fortis || Pascha | nicht in AH |
 |MSc| Fulgens preclara || Pascha | AH 7, 44 (1–5b), AH 53, 35 (1–9) |
-|MSc| Zima vetus expurgetur (AH 54:149 1–17)
-|MSc| Laudes christo redempti (AH 53:45)
-|MSc| Sancta cunctis leticia (AH 40:24)
-|MSc| Pangamus creatoris (AH 53:46)
+|MSc| Zima vetus expurgetur || Feria II post Pascha | AH 54, 149 (1–17) |
+|MSc| Laudes christo redempti || Feria IV post Pascha | AH 53, 45 |
+|MSc| Sancta cunctis leticia || Feria VI post Pascha | AH 40, 24 |
+|MSc| Pangamus creatoris || Sabbatum post Pascha | AH 53, 46 |
 |MSc| Laudes salvatori (AH 53:36 1–14)
 |MSc| Pangamus creatoris* (AH 53:46)
 |MSc| Sancti spiritus assit (AH 53:70)
