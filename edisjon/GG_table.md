@@ -43,8 +43,8 @@ under Arbeid...
 | GG | Petre summe || Petrus et Paulus | AH 53, 210 |
 | GG | Sollempnitas sancti pauli || Paulus | AH 53, 205 |
 | GG | Praecursorem summi regis || Octava Iohannis Baptistae | AH 42, 252 (1–10a) |
-| GG | 
-| GG | 
+| GG | Sacerdotem christi martinum || Translatio Martini |AH 53, 181 (1–6, Lac., 17–18) |
+| GG | Iubar mundo geminatur || Octava Petri et Pauli | AH 42, 312 (1a–2b) |
 | GG | 
 | GG | 
 | GG | 
@@ -66,9 +66,6 @@ under Arbeid...
 <sup>6</sup> stavemåte?
 
 <sup>7</sup> ae?
-
-
-f(33)r–v In translatione Martini (4/7) (All., mit Lac.) – In oct. apostolorum Petri et Pauli (6/7) (Seq.). Mit den Sequenzen Sacerdotem christi martinum (AH 53:181 1–6, Lac., 17–18), Iubar mundo geminatur (AH 42:312 1a–2b). Gedruckt: Eggen 1968 I, S. 273–275, 198–199 (ms h).
 
 f(34)r–f(35)v Laurentii (10/8) (Seq.) – Ypoliti sociorumque eius m. (13/8) – In vigilia assumpcionis s. Marie matris domini nostri ihesu christi (14/8) – In sollempnitate assumpcionis b. Marie virginis(15/8) (mit Lac.) – Infra oct. Secunda die (16/8) – Octava Laurentii archidiaconi m. (17/8) (Seq.). Mit den Sequenzen Laurenti david magni (AH 53:173 12–14), Agone triumphali (Incipit) (AH 53:229), Area virga prime (AH 7:107, 53:106a), Stola iocunditatis (AH 54:61 1–12). Gedruckt: Eggen 1968 I, S. 232, 292–293, 236–239, 234–235 (ms h).
 
