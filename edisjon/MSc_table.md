@@ -47,10 +47,10 @@
 |MSc| Virginis venerandae || Virgo et martyr<sup>5</sup> ? | AH 53, 246 (2–12) |
 |MSc| Laudes debitas deo nostro || Virgo et martyr<sup>5</sup> | AH 54, 62 (1–14) |
 |MSc| Sancte syon assunt || Dedicatio ecclesiae | AH 55, 33 |
-|MSc| Sacrosancta hodiernae<sup>6</sup> || Andreas | AH 54, 30 |
-|MSc| Laudes debitas (Incipit) (AH 54:62)
-|MSc| Congaudentes exultemus (AH 54:66)
-|MSc| Conceptio marie virginis (AH 54:188)
+|MSc| Sacrosancta hodiernae || Andreas | AH 54, 30 |
+|MSc| Laudes debitas* || Barbara | AH 54, 62 |
+|MSc| Congaudentes exultemus || Nicholaus | AH 54, 66 |
+|MSc| Conceptio mariae virginis || Conceptio Mariae | AH 54, 188 |
 |MSc| Regem celi cantico (nicht in AH)
 |MSc| Comitis generosi (nicht in AH)
 |MSc| NKS 1265 IIa ... innhold? || Thorlacus | nicht in AH |
@@ -71,7 +71,6 @@
 
 <sup>5</sup> CM har ikke denne kombinasjonen, har bare "Martyres" og "Virgines" hver for seg, ikke entall
 
-<sup>6</sup> ae?
 
 
 
