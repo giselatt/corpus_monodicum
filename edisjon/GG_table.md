@@ -33,13 +33,13 @@ under Arbeid...
 | GG | Conceptio mariae virginis || Conceptio Mariae | AH 54, 188 |
 | GG | Regem coeli cantico || Lucia | nicht in AH |
 | GG | Comitis generosi || Translation Magni | nicht in AH |
-| GG | Pure mentis gaudia || Agnes | AH 40,138 (8a–12b) |
+| GG | Pure mentis gaudia || Agnes | AH 40, 138 (8a–12b) |
 | GG | Martiris egregii || Vincentius | AH 55, 340 |
 | GG | Dixit dominus ex basan || Conversio Pauli |AH 50, 269 (1–7b, Lac., 9a–10) |
 | GG | O vere gratissima* || Octava Agnetis | AH 40, 138, Divisio: Pure mentis |
 | GG | Pangat nostra* || Iohn Crysostom<sup>6</sup>  | AH 9, 390 |
 | GG | Virginis venerandae* || Brigid<sup>6</sup> | AH 53, 246 |
-| GG | 
+| GG | Exulta celum<sup>7</sup> || Iohannes Baptista | AH 9, 243 (1–9a) |
 | GG | 
 | GG | 
 | GG | 
@@ -65,9 +65,8 @@ under Arbeid...
 
 <sup>6</sup> stavemåte?
 
+<sup>7</sup> caelum?
 
-
-f(30)r–v In vigilia s. Iohannis baptistae (23/6) (Intr.) – In die s. Iohannis baptistae (24/6) (Seq.). Mit der Sequenz Exulta celum (AH 9:243 1–9a). Gedruckt: Eggen 1968 I, S. 191–193 (ms h).
 
 f(31)r–f(32)v In vigilia apostolorum Petri et Pauli (28/6) (Intr.) – In die sanctorum apostolorum Petri et Pauli (29/6) – In celebratione s. Pauli (30/6) – (In oct. s. Iohannis baptistae) (1/7) (Seq.). Mit den Sequenzen Petre summe christi pastor (AH 53:210), Sollempnitas sancti pauli (AH 53:205), Precursorem summi regis (AH 42:252 1–10a). Gedruckt: Eggen 1968 I, S. 197–198, 199–201, 193–196 (ms h).
 
