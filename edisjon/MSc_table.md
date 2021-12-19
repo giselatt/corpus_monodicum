@@ -53,10 +53,12 @@
 |MSc| Conceptio mariae virginis | Sequenz | Conceptio Mariae | AH 54, 188 |
 |MSc| Regem celi cantico | Sequenz | Lucia | nicht in AH |
 |MSc| Comitis generosi | Sequenz | Translatio Magni | nicht in AH |
-|MSc| ? | Sequenz | Thorlacus | nicht in AH |
-|Msc| 
-|MSc| Praecursorum ... en baptista<sup>6</sup>| Iohannes Baptista | ? |
-|MSc| 
+|MSc| ? | Sequenz || Thorlacus | nicht in AH |
+|Msc| Solennitas (solempnitas?) sancti pauli || Paulus | ? |
+|MSc| Praecursorum ... en baptista<sup>6</sup>|| Iohannes Baptista | ? |
+|MSc| Psallat eccelsia mater decora || Swithun<sup>3</sup> | AH 37, 306 |
+|MSc| Iubar mundo || Octava Petri et Pauli | ? |
+
 
 
 
@@ -73,6 +75,6 @@
 
 <sup>5</sup> CM har ikke denne kombinasjonen, har bare "Martyres" og "Virgines" hver for seg, ikke entall
 
-<sup>6</sup> må sjekkes
+<sup>6</sup> initium må sjekkes; melodi: In ecclesia hierarchia (Dominicus)
 
 
