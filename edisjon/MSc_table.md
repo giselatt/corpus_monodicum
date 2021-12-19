@@ -42,9 +42,9 @@
 |MSc| Benedicta sit beata* || Dominica XXII post Pentecosten | AH 7, 96, AH 53, 81b |
 |MSc| Benedicta semper sancta* || Dominica XXIII post Pentecosten | AH 7, 95, AH 53, 81 |
 |MSc| O alma trinitas* || Dominica XXIV post Pentecosten | AH 7, 97<sup>4</sup> |
-|MSc| Celi enarrant gloriam || Apostoli | AH 50, 267 |
-|MSc| Clare sanctorum (AH 53:228 1–5)
-|MSc| Virginis venerandae (AH 53:246 2–12)
+|MSc| Caeli enarrant || Apostoli | AH 50, 267 |
+|MSc| Clare sanctorum || Apostoli | AH 53, 228 (1–5) |
+|MSc| Virginis venerandae  || (AH 53:246 2–12)
 |MSc| Laudes debitas deo nostro (AH 54:62 1–14)
 |MSc| Sancte syon assunt (AH 55:33)
 |MSc| Sacrosancta hodierne (AH 54:30)
