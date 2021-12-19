@@ -33,7 +33,7 @@
 |MSc| Iubilemus cordis* (AH 54:165)
 |MSc| Benedicta sit beata* (AH 7:96, 53:81b)
 |MSc| Voce iubilantes magna* (AH 10:37)
-|MSc| O alma trinitas deitas* (AH 7:97)
+|MSc| O alma trinitas* (AH 7:97)
 |MSc| Voce iubilantes magna* (AH 10:37)
 |MSc| Iubilemus cordis* (AH 54:165)
 |MSc| Benedicta sit beata* (AH 7:96, 53:81b)
