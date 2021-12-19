@@ -3,7 +3,7 @@
 |MSc| Spe mercedis et corone || Thomas Cantuariensis | AH 55, 9 |
 |MSc| Lux fulget hodierna || Dominica infra octavam nativitatis<sup>2</sup> | AH 8, 6 |
 |MSc| Pangat nostra concio || Silvester | AH 9, 390 |
-|MSc| Eia recolamus || Circumcisio domini<sup>3</sup> | AH 53:16 |
+|MSc| Eia recolamus || Circumcisio domini<sup>3</sup> | AH 53, 16 |
 |MSc| Hanc concordi famulatu || Stephanus | AH 53, 215 |
 |MSc| Iohannes ihesu christo || Iohannes Evangelista | AH 53, 168 |
 |MSc| Laus tibi christe cui sapit || Innocentes | AH 53, 156 | 
@@ -27,16 +27,16 @@
 |MSc| Veni spiritus eternorum || Feria V post Pentecosten | AH 53, 71 (1–3) |
 |MSc| rubrikk? jf MSG 2008 || Sabbato [post pentecosten] | ? |
 |MSc| Lauda Sion || Corpus Christi | AH 50, 385 |
-|MSc| O alma trinitas (AH 7:97 1–4a)
-|MSc| O alma trinitas deitas (Incipit) (AH 7:97)
-|MSc| Voce iubilantes magna (Incipit) (AH 10:37)
-|MSc| Iubilemus cordis (Incipit) (AH 54:165)
-|MSc| Benedicta sit beata (Incipit) (AH 7:96, 53:81b)
+|MSc| O alma trinitas || Doninica II post Pentecosten | AH 7, 97 (1–4a) |
+|MSc| O alma trinitas* (AH 7:97)
 |MSc| Voce iubilantes magna (AH 10:37)
-|MSc| O alma trinitas deitas (Incipit) (AH 7:97)
-|MSc| Voce iubilantes magna (Incipit) (AH 10:37)
-|MSc| Iubilemus cordis (Incipit) (AH 54:165)
-|MSc| Benedicta sit beata (Incipit) (AH 7:96, 53:81b)
+|MSc| Iubilemus cordis* (AH 54:165)
+|MSc| Benedicta sit beata* (AH 7:96, 53:81b)
+|MSc| Voce iubilantes magna* (AH 10:37)
+|MSc| O alma trinitas deitas* (AH 7:97)
+|MSc| Voce iubilantes magna* (AH 10:37)
+|MSc| Iubilemus cordis* (AH 54:165)
+|MSc| Benedicta sit beata* (AH 7:96, 53:81b)
 |MSc| UB... innhold?
 |MSc| Benedicta semper sancta (Incipit) (AH 7:95, 53:81)
 |MSc| Voce iubilantes magna (Incipit) (AH 10:37)
