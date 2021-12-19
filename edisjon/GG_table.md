@@ -53,7 +53,7 @@
 | GG | E< ia christi concio > | Sequenz | Caecilia | nicht in AH |
 
 
-<sup>0</sup>
+<sup>0</sup> hvordan skal dette se ut?
 - GG?
 - folio etter rekonstruksjon?
 - linjenummer eller notestystemnr.?
