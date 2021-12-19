@@ -29,7 +29,7 @@
 | GG | Congaudentes exultemus | Sequenz | Nicholaus | AH 54, 66 (1–21) |
 | GG | Conceptio mariae virginis | Sequenz | Conceptio Mariae | AH 54, 188 |
 | GG | Regem coeli cantico | Sequenz | Lucia | nicht in AH |
-| GG | Comitis generosi | Sequenz | Translation Magni | nicht in AH |
+| GG | Comitis generosi | Sequenz | Translatio Magni | nicht in AH |
 | GG | Pure mentis gaudia | Sequenz | Agnes | AH 40, 138 (8a–12b) |
 | GG | Martiris egregii | Sequenz | Vincentius | AH 55, 340 |
 | GG | Dixit dominus ex basan | Sequenz | Conversio Pauli |AH 50, 269 (1–7b, Lac., 9a–10) |
