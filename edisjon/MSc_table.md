@@ -3,7 +3,7 @@
 |MSc| Spe mercedis et corone || Thomas Cantuariensis | AH 55, 9 |
 |MSc| Lux fulget hodierna || Dominica infra octavam nativitatis<sup>2</sup> | AH 8, 6 |
 |MSc| Pangat nostra concio || Silvester | AH 9, 390 |
-|MSc| Eia recolamus || Circumcisio domini<sup>3</sup> | (AH 53:16)
+|MSc| Eia recolamus || Circumcisio domini<sup>3</sup> | AH 53:16 |
 |MSc| Hanc concordi famulatu || Stephanus | AH 53, 215 |
 |MSc| Iohannes ihesu christo || Iohannes Evangelista | AH 53, 168 |
 |MSc| Laus tibi christe cui sapit || Innocentes | AH 53, 156 | 
@@ -11,7 +11,11 @@
 |MSc| Epiphaniam domino || Epiphania | AH 7, 37, AH 53, 28 |
 |MSc| O mira domini pietas || Infra octava Epiphaniae<sup>3</sup> | siehe AH 53:24 |
 |MSc| Festa christi omnis || Octava Epiphaniae | AH 53, 29 (1–8) |
-
+|MSc| Virgini Mariae … O beata || Beata Maria virgo | AH 54, 21 (6–7) |
+|MSc| Virgini mariae … Eva tristis || Beata Maria virgo | AH 54: 18 |
+|MSc| Surgit christus cum || Pascha | AH 54, 230 |
+|MSc| Resurrexit leo fortis || Pascha | nicht in AH |
+|MSc| Fulgens preclara || Pascha | AH 7, 44 (1–5b), AH 53, 35 (1–9) |
 
 
 <sup>1</sup> hvordan skal dette se ut?
@@ -24,11 +28,6 @@
  <sup>3</sup> ikke CM, korrekt?
 
 
-- f.(1)r–f.(8)v Thomae protom. (29/12) (Intr.) – Sexto die natalis domini (30/12) – In festo s. Silvestri (31/12) – Circumcisio domini (1/1) – De s. Maria (1/1) – Octava Stephani (2/1) – Octava Iohannis apl. et ev. (3/1) – Octava Innocentium (4/1) – In vigilia epiphaniae domini (5/1) – (6r) Epiphania domini (6/1) – Dominica infra oct. epiphaniae – Octava epiphaniae (13/1) (Seq.). Mit den Sequenzen Spe mercedis et corone (AH 55:9), Lux fulget hodierna (AH 8:6), Pangat nos a concio (AH 9:390), Eia recolamus (AH 53:16), Hanc concordi famulatu (AH 53:215), Iohannes ihesu christo (AH 53:168), Laus tibi christe cui sapit (AH 53:156), Letabundus exultet (AH 54:2), Epiphaniam domino (AH 7:37, 53:28), O mira domini pietas (siehe AH 53:24), Festa christi omnis (AH 53:29 str. 1–8). Gedruckt: Eggen 1968 I, S. 40–42, 26–28, 302–305, 16–18, 31–33, 33–35, 38–40, 18–21, 44–47, 55–56, 47–49 (ms h).
-
-- f.(9)r–f.(11)v Feria vi [post dominicam passionis] (Postcom.) – Sabbato – Dominica palmarum (Ev.).
-
-- f.(12)r–f.(14)v Dominica palmarum (Ev.) – Feria II – Feria III (Ev.).
 
 - f.(15)r–f.(16)v De beata virgine tempore paschali (Introitus Salve sancta parens) (Seq.–Postcom.) – (15v) In die s. resurrectionis domini nostri (Intr.-Seq.). Mit den Sequenzen Virgini marie laudes concinant (AH 54:21 6–7), Virgini marie laudes intonent (AH 54:18), Surgit christus cum  tropheo (AH 54:230), Resurrexit leo fortis (nicht in AH), Fulgens preclara (AH 7:44 1–5b, 53:35 1–9). Gedruckt: Eggen 1968 I, S. 167–168, 168–169, 63–66, 66–68, 68–71 (ms h).
 
