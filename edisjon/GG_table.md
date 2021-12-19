@@ -54,19 +54,9 @@ mangler folionr./linjenr.:
 | GG | Congaudent angelorum*<sup>9</sup> || | |
 | GG | Stola iocunditatis (AH 54:61 1–12)
 | GG | Mera promat uranica || Leonardus | nicht in AH |
-| GG | 
-| GG | 
-| GG | 
-| GG | 
-| GG | 
-| GG | 
-| GG | 
-| GG | 
-| GG | 
-| GG | 
-| GG | 
-| GG | 
-| GG | 
+| GG | Pangat nostra* (AH 9:390)
+| GG | Omnis fidelium ecclesia (AH 40:191 3a–11)
+| GG | E(ia christi concio) (nicht in AH)
 
 
 <sup>1</sup> CM har "Martyres" og "Plures martyres", ikke entall
