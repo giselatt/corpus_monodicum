@@ -54,7 +54,9 @@
 |MSc| Regem celi cantico | Sequenz | Lucia | nicht in AH |
 |MSc| Comitis generosi | Sequenz | Translatio Magni | nicht in AH |
 |MSc| ? | Sequenz | Thorlacus | nicht in AH |
-|MSc| Lbs fragm. 19 I-III ... innhold? |
+|Msc| 
+|MSc| Praecursorum ... en baptista<sup>6</sup>| Iohannes Baptista | ? |
+|MSc| 
 
 
 
@@ -71,6 +73,6 @@
 
 <sup>5</sup> CM har ikke denne kombinasjonen, har bare "Martyres" og "Virgines" hver for seg, ikke entall
 
-
+<sup>6</sup> må sjekkes
 
 
