@@ -6,7 +6,7 @@
 |AM Acc. 7 HS 3-(3)-5| Virgo mater gratuletur* | Sequenz | Octava Iohannis Evangelistae |AH 40, 246 |
 |AM Acc. 7 HS 3-(3)-6| Iohannes Iesu Christo | Sequenz | Octava Iohannis Evangelistae | AH 53, 168 |
 |AM Acc. 7 HS 3-(3)v-1| Laus tibi Christe cui sapit| Sequenz | Octava innocentium | AH 53, 156 |
-|AM Acc. 7 HS 3-(4)-1| Laetabundus exultet | Sequenz | Vigilia epiphaniae | AH 54, 2 |
+|AM Acc. 7 HS 3-(4)-1| Laetabundus exultet | Sequenz | Vigilia epiphaniae<sup>3</sup> | AH 54, 2 |
 |AM Acc. 7 HS 3-(4)v-5| Epiphaniam domino | Sequenz | Epiphania | AH 7, 37 (1a–6a), AH 53, 28 (1–11) |
 |AM Acc. 7 HS 3-(5)-?| O alma trinitas* | Sequenz | Dominica VIII post Pentecostem | AH 7, 97<sup>1</sup> |
 |AM Acc. 7 HS 3-(5)v-?| Voce iubilantes* | Sequenz | Dominica IX post Pentecostem | AH 10, 37 |
@@ -29,7 +29,7 @@
     
 <sup>2</sup> samme melodi som <i>Iubar</i>
 
-<sup>3</sup> korrekt?
+<sup>3</sup> ikke CM, korrekt?
     
     
 ## Fragen:
