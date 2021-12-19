@@ -68,7 +68,7 @@
 
 <sup>5</sup> CM har ikke denne kombinasjonen, har bare "Martyres" og "Virgines" hver for seg, ikke entall
 
-<sup>6</sup> korrekt?
+<sup>6</sup> ikke CM, korrekt?
 
 <sup>7</sup> ae?
 
