@@ -51,8 +51,8 @@ mangler folionr./linjenr.:
 | GG | Laurenti david magni || Laurentius | AH 53, 173 (12–14) |
 | GG | Agone triumphali* || Hippolytus | AH 53, 229 |
 | GG | Area virga prime || Assumptio Mariae | AH 7, 107, AH 53, 106a |
-| GG | Congaudent angelorum*<sup>9</sup> || | |
-| GG | Stola iocunditatis (AH 54:61 1–12)
+| GG | Congaudent angelorum*<sup>9</sup> || Infra octavam assumptionis Mariae<sup>6</sup> | AH 53, 104 |
+| GG | Stola iocunditatis || Laurentius | AH 54, 61 (1–12) |
 | GG | Mera promat uranica || Leonardus | nicht in AH |
 | GG | Pangat nostra* || Brictius | AH 9, 390 |
 | GG | Omnis fidelium ecclesia || Edmundus<sup>6</sup> | AH 40, 191 (3a–11) |
@@ -69,7 +69,7 @@ mangler folionr./linjenr.:
 
 <sup>5</sup> CM har ikke denne kombinasjonen, har bare "Martyres" og "Virgines" hver for seg, ikke entall
 
-<sup>6</sup> stavemåte?
+<sup>6</sup> korrekt?
 
 <sup>7</sup> ae?
 
