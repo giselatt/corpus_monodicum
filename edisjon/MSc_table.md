@@ -44,8 +44,8 @@
 |MSc| O alma trinitas* || Dominica XXIV post Pentecosten | AH 7, 97<sup>4</sup> |
 |MSc| Caeli enarrant || Apostoli | AH 50, 267 |
 |MSc| Clare sanctorum || Apostoli | AH 53, 228 (1–5) |
-|MSc| Virginis venerandae  || (AH 53:246 2–12)
-|MSc| Laudes debitas deo nostro (AH 54:62 1–14)
+|MSc| Virginis venerandae || Virgo et martyr<sup>5</sup> ? | AH 53, 246 (2–12) |
+|MSc| Laudes debitas deo nostro || Virgo et martyr<sup>5</sup> | AH 54, 62 (1–14) |
 |MSc| Sancte syon assunt (AH 55:33)
 |MSc| Sacrosancta hodierne (AH 54:30)
 |MSc| Laudes debitas (Incipit) (AH 54:62)
@@ -63,13 +63,13 @@
 - folio etter rekonstruksjon?
 - linjenummer eller notestystemnr.?
 
- <sup>2</sup> CM har bare Infra octavam nativitatis
+<sup>2</sup> CM har bare Infra octavam nativitatis
  
- <sup>3</sup> ikke CM, korrekt?
+<sup>3</sup> ikke CM, korrekt?
  
- <sup>4</sup> sjekk: CM har AH 7, 219 for O alma trinitas
+<sup>4</sup> sjekk: CM har AH 7, 219 for O alma trinitas
 
-
+<sup>5</sup> CM har ikke denne kombinasjonen, har bare "Martyres" og "Virgines" hver for seg, ikke entall
 
 
 
