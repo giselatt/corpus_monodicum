@@ -7,10 +7,10 @@
 |MSc| Hanc concordi famulatu || Stephanus | AH 53, 215 |
 |MSc| Iohannes ihesu christo || Iohannes Evangelista | AH 53, 168 |
 |MSc| Laus tibi christe cui sapit || Innocentes | AH 53, 156 | 
-|MSc| Laetabundus exultet || (AH 54:2)
-|MSc| Epiphaniam domino (AH 7:37, 53:28),
-|MSc| O mira domini pietas (siehe AH 53:24)
-|MSc| Festa christi omnis (AH 53:29 str. 1–8)
+|MSc| Laetabundus exultet || Vigilia epiphaniae<sup>3</sup> | AH 54. 2 |
+|MSc| Epiphaniam domino || Epiphania | AH 7, 37, AH 53, 28 |
+|MSc| O mira domini pietas || Infra octava Epiphaniae<sup>3</sup> | siehe AH 53:24 |
+|MSc| Festa christi omnis || Octava Epiphaniae | AH 53, 29 (1–8) |
 
 
 
