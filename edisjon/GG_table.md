@@ -37,8 +37,8 @@ under Arbeid...
 | GG | Martiris egregii || Vincentius | AH 55, 340 |
 | GG | Dixit dominus ex basan || Conversio Pauli |AH 50, 269 (1–7b, Lac., 9a–10) |
 | GG | O vere gratissima* || Octava Agnetis | AH 40, 138, Divisio: Pure mentis |
-| GG | Pangat nostra* || Iohn Crysostom | AH 9, 390 |
-| GG | Virginis venerandae* || Brigid| AH 53, 246 |
+| GG | Pangat nostra* || Iohn Crysostom<sup>6</sup>  | AH 9, 390 |
+| GG | Virginis venerandae* || Brigid<sup>6</sup> | AH 53, 246 |
 | GG | 
 | GG | 
 | GG | 
@@ -63,8 +63,9 @@ under Arbeid...
 
 <sup>5</sup> CM har ikke denne kombinasjonen, har bare "Martyres" og "Virgines" hver for seg, ikke entall
 
+<sup>6</sup> stavemåte?
 
-f(27)r–f(28)v Agnetis v. et m. (21/1) (Seq.) – In festo s. Vincentii (22/1) – Babillae ep. m. (24/1) – In conversione Pauli apl. (25/1) (Mit Lakunen) – Policarpi ep. m. (26/1) – Agnetis v. secundo (28/1) – Iohannis Crisostomi (27/1) (sic) – Brigidae v. non m. (1/2) – In purificatione b. Mariae (2/2) (Gr.). Mit den Sequenzen Pure mentis gaudia (AH 40:138 8a–12b), Martiris egregii (AH 55:340), Dixit dominus ex basan (AH 50:269 1–7b, lac., 9a–10), O vere gratissima (Incipit) (AH 40:138 divisio (Pure mentis)), Pangat nos a (Incipit) (AH 9:390), Virginis venerande (Incipit) (AH 53:246). Gedruckt: Eggen 1968 I, S. 146–147, 147–150, 151–153, 146–147, 302–305, 305–306 (ms h).
+
 
 f(30)r–v In vigilia s. Iohannis baptistae (23/6) (Intr.) – In die s. Iohannis baptistae (24/6) (Seq.). Mit der Sequenz Exulta celum (AH 9:243 1–9a). Gedruckt: Eggen 1968 I, S. 191–193 (ms h).
 
