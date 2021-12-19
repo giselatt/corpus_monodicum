@@ -1,16 +1,16 @@
 | Quelle-Folio-Zeile<sup>1</sup> | Textinitium | Gattung | Festtag | Nachweis Text |
 |--|--|--|--|--|
-|MSc| 
-|MSc| 
-|MSc| 
-|MSc| 
-|MSc| 
-|MSc| 
-|MSc| 
-|MSc| 
-|MSc| 
-|MSc| 
-|MSc| 
+|MSc| Spe mercedis et corone || Thomas Cantuariensis | AH 55, 9 |
+|MSc| Lux fulget hodierna || Dominica infra octavam nativitatis<sup>2</sup> | AH 8, 6 |
+|MSc| Pangat nostra concio || Silvester | AH 9, 390 |
+|MSc| Eia recolamus || Circumcisio domini<sup>3</sup> | (AH 53:16)
+|MSc| Hanc concordi famulatu (AH 53:215)
+|MSc| Iohannes ihesu christo (AH 53:168)
+|MSc| Laus tibi christe cui sapit (AH 53:156)
+|MSc| Letabundus exultet (AH 54:2)
+|MSc| Epiphaniam domino (AH 7:37, 53:28),
+|MSc| O mira domini pietas (siehe AH 53:24)
+|MSc| Festa christi omnis (AH 53:29 str. 1–8)
 |MSc| 
 
 
@@ -18,6 +18,10 @@
 - MSc?
 - folio etter rekonstruksjon?
 - linjenummer eller notestystemnr.?
+
+ <sup>2</sup> CM har bare Infra octavam nativitatis
+ 
+ <sup>3</sup> ikke CM, korrekt?
 
 
 - f.(1)r–f.(8)v Thomae protom. (29/12) (Intr.) – Sexto die natalis domini (30/12) – In festo s. Silvestri (31/12) – Circumcisio domini (1/1) – De s. Maria (1/1) – Octava Stephani (2/1) – Octava Iohannis apl. et ev. (3/1) – Octava Innocentium (4/1) – In vigilia epiphaniae domini (5/1) – (6r) Epiphania domini (6/1) – Dominica infra oct. epiphaniae – Octava epiphaniae (13/1) (Seq.). Mit den Sequenzen <i>Spe mercedis et corone</i> (AH 55:9), <i>Lux fulget hodierna</i> (AH 8:6), <i>Pangat nos a concio</i> (AH 9:390), <i>Eia recolamus</i> (AH 53:16), <i>Hanc concordi famulatu</i> (AH 53:215), <i>Iohannes ihesu christo</i> (AH 53:168), <i>Laus tibi christe cui sapit</i> (AH 53:156), <i>Letabundus exultet</i> (AH 54:2), <i>Epiphaniam domino</i> (AH 7:37, 53:28), <i>O mira domini pietas</i> (siehe AH 53:24), <i>Festa christi omnis</i> (AH 53:29 str. 1–8). Gedruckt: Eggen 1968 I, S. 40–42, 26–28, 302–305, 16–18, 31–33, 33–35, 38–40, 18–21, 44–47, 55–56, 47–49 (ms h).
