@@ -12,10 +12,19 @@
 |MSc| O mira domini pietas || Infra octava Epiphaniae<sup>3</sup> | siehe AH 53:24 |
 |MSc| Festa christi omnis || Octava Epiphaniae | AH 53, 29 (1–8) |
 |MSc| Virgini Mariae … O beata || Beata Maria virgo | AH 54, 21 (6–7) |
-|MSc| Virgini mariae … Eva tristis || Beata Maria virgo | AH 54: 18 |
+|MSc| Virgini Mariae … Eva tristis || Beata Maria virgo | AH 54: 18 |
 |MSc| Surgit christus cum || Pascha | AH 54, 230 |
 |MSc| Resurrexit leo fortis || Pascha | nicht in AH |
 |MSc| Fulgens preclara || Pascha | AH 7, 44 (1–5b), AH 53, 35 (1–9) |
+|MSc| Zima vetus expurgetur (AH 54:149 1–17)
+|MSc| Laudes christo redempti (AH 53:45)
+|MSc| Sancta cunctis leticia (AH 40:24)
+|MSc| Pangamus creatoris (AH 53:46)
+|MSc| Laudes salvatori (AH 53:36 1–14)
+|MSc| Pangamus creatoris* (AH 53:46)
+|MSc| Sancti spiritus assit (AH 53:70)
+|MSc| Almiphona iam gaudia (AH 7:79, 53:76)
+|MSc| Veni spiritus eternorum (AH 53:71 1–3).
 
 
 <sup>1</sup> hvordan skal dette se ut?
@@ -27,21 +36,6 @@
  
  <sup>3</sup> ikke CM, korrekt?
 
-
-
-- f.(15)r–f.(16)v De beata virgine tempore paschali (Introitus Salve sancta parens) (Seq.–Postcom.) – (15v) In die s. resurrectionis domini nostri (Intr.-Seq.). Mit den Sequenzen Virgini marie laudes concinant (AH 54:21 6–7), Virgini marie laudes intonent (AH 54:18), Surgit christus cum  tropheo (AH 54:230), Resurrexit leo fortis (nicht in AH), Fulgens preclara (AH 7:44 1–5b, 53:35 1–9). Gedruckt: Eggen 1968 I, S. 167–168, 168–169, 63–66, 66–68, 68–71 (ms h).
-
-- f.(17)r–v Feria II [post pascha] (Ep.–Seq.). Mit der Sequenz Zima vetus expurgetur (AH 54:149 1–17). Gedruckt: Eggen 1968 I, S. 71–74 (ms j).
-
-- f.(18)r–v Feria III [post pascha] (Com.) – Feria IV (Ev.). Mit der Sequenz Laudes christo redempti (AH 53:45). Gedruckt: Eggen 1968 I, S. 76–78 (ms j).
-
-- f.(19)r–f.(21)v Feria VI [post pascha] (Ep.) – Sabbato – Dominica in oct. paschae (Seq.). Mit den Sequenzen Sancta cunctis leticia (AH 40:24), Pangamus creatoris (AH 53:46), Laudes salvatori (AH 53:36 1–14). Gedruckt: Eggen 1968 I, S. 78–80, 80–81, 82–85 (ms j).
-
-- f.(22)r–v Feria II [post dominicam iii post pascha] (Intr.) – Dominica IV – ›In diebus ferialibus‹ (Coll. (Rubrik)). Mit der Sequenz Pangamus creatoris (Incipit) (AH 53:46). Gedruckt: Eggen 1968 I, S. 80–81.
-
-- f.(23)r–v In die s. pentecosten (Ep.–Ev.). Mit der Sequenz Sancti spiritus assit (AH 53:70). Gedruckt: Eggen 1968 I, S. 92–98 (ms j).
-
-- f.(24)r–v Feria IV [post pentecosten] (All.) – Feria V (Seq.). Mit den Sequenzen Almiphona iam gaudia (AH 7:79, 53:76), Veni spiritus eternorum (AH 53:71 1–3). Gedruckt: Eggen 1968 I, S. 104–105, 105–106 (ms j).
 
 - f.(25)r–v Sabbato [post pentecosten] (Ep.–Seq. (Rubrik)). [sekvens?]
 
