@@ -27,25 +27,22 @@
 |MSc| Veni spiritus eternorum || Feria V post Pentecosten | AH 53, 71 (1–3) |
 |MSc| rubrikk? jf MSG 2008 || Sabbato [post pentecosten] | ? |
 |MSc| Lauda Sion || Corpus Christi | AH 50, 385 |
-|MSc| O alma trinitas || Doninica II post Pentecosten | AH 7, 97 (1–4a) |
-|MSc| O alma trinitas* (AH 7:97)
-|MSc| Voce iubilantes magna (AH 10:37)
-|MSc| Iubilemus cordis* (AH 54:165)
-|MSc| Benedicta sit beata* (AH 7:96, 53:81b)
-|MSc| Voce iubilantes magna* (AH 10:37)
-|MSc| O alma trinitas* (AH 7:97)
-|MSc| Voce iubilantes magna* (AH 10:37)
-|MSc| Iubilemus cordis* (AH 54:165)
-|MSc| Benedicta sit beata* (AH 7:96, 53:81b)
-|MSc| UB... innhold?
-|MSc| Benedicta semper sancta (Incipit) (AH 7:95, 53:81)
-|MSc| Voce iubilantes magna (Incipit) (AH 10:37)
-|MSc| Iubilemus cordis (Incipit) (AH 54:165)
-|MSc| Voce iubilantes magna (Incipit) (AH 10:37)
-|MSc| Iubilemus cordis (Incipit) (AH 54:165)
-|MSc| Benedicta sit beata (Incipit) (AH 7:96, 53:81b)
-|MSc| Benedicta semper (Incipit) (AH 7:95, 53:81)
-|MSc| O alma trinitas (Incipit) (AH 7:97)
+|MSc| O alma trinitas || Dominica III post Pentecosten | AH 7, 97 (1–4a)<sup>4</sup> |
+|MSc| Voce iubilantes magna || Dominica IV post Pentecosten | AH 10, 37 |
+|MSc| O alma trinitas* || Dominica VIII post Pentecosten | AH 7, 97<sup>4</sup> |
+|MSc| Voce iubilantes magna* || Dominica IX post Pentecosten | AH 10, 37 |
+|MSc| Iubilemus cordis* || Dominica X post Pentecosten | AH 54, 165 |
+|MSc| Benedicta sit beata* || Dominica XI post Pentecosten | AH 7, 96, AH 53, 81b |
+|MSc| Stans a longa || Dominica XII post Pentecosten | AH 53, 93 |
+|MSc| Benedicta semper sancta* || Dominica XIII post Pentecosten | AH 7, 95, AH 53, 81 |
+|MSc| Voce iubilantes magna* || Dominica XV post Pentecosten | AH 10, 37 |
+|MSc| Iubilemus cordis* || Dominica XVI post Pentecosten | AH 54, 165 |
+|MSc| Voce iubilantes magna* || Dominica XX post Pentecosten | AH 10, 37 |
+|MSc| Iubilemus cordis* || Dominica XXI post Pentecosten | AH 54, 165 |
+|MSc| Benedicta sit beata* || Dominica XXII post Pentecosten | AH 7, 96, AH 53, 81b |
+|MSc| Benedicta semper sancta* || Dominica XXIII post Pentecosten | AH 7, 95, AH 53, 81 |
+|MSc| O alma trinitas* || Dominica XXIV post Pentecosten | AH 7, 97<sup>4</sup> |
+
 |MSc| Celi enarrant gloriam (AH 50:267)
 |MSc| Clare sanctorum senatus (AH 53:228 1–5)
 |MSc| Virginis venerandae (AH 53:246 2–12)
@@ -70,6 +67,8 @@
  <sup>2</sup> CM har bare Infra octavam nativitatis
  
  <sup>3</sup> ikke CM, korrekt?
+ 
+ <sup>4</sup> sjekk: CM har AH 7, 219 for O alma trinitas
 
 
 
