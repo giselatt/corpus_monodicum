@@ -53,14 +53,14 @@
 |MSc| Conceptio mariae virginis | Sequenz | Conceptio Mariae | AH 54, 188 |
 |MSc| Regem celi cantico | Sequenz | Lucia | nicht in AH |
 |MSc| Comitis generosi | Sequenz | Translatio Magni | nicht in AH |
-|MSc| ? | Sequenz || Thorlacus | nicht in AH |
-|Msc| Solennitas (solempnitas?) sancti pauli || Paulus | ? |
-|MSc| Praecursorum ... en baptista<sup>6</sup>|| Iohannes Baptista | ? |
-|MSc| Psallat eccelsia mater decora || Swithun<sup>3</sup> | AH 37, 306 (...) |
-|MSc| Iubar mundo geminatur || Octava Petri et Pauli | AH 42, 312 (...) |
-|MSc| Ecce pulchra* || Sancti in Selio<sup>3</sup> | ? |
-|MSc| Sancti merita benedicti || Translatio Benedicti | ? |
-|MSc| H< ac in die magnalia > || Margareta<sup>3</sup> | ? |
+|MSc| ? | Sequenz | Thorlacus | nicht in AH |
+|Msc| Solennitas (solempnitas?) sancti pauli | Sequenz | Paulus | ? |
+|MSc| Praecursorum ... en baptista<sup>6</sup>| Sequenz | Iohannes Baptista | ? |
+|MSc| Psallat eccelsia mater decora | Sequenz | Swithun<sup>3</sup> | AH 37, 306 (...) |
+|MSc| Iubar mundo geminatur | Sequenz | Octava Petri et Pauli | AH 42, 312 (...) |
+|MSc| Ecce pulchra* | Sequenz | Sancti in Selio<sup>3</sup> | ? |
+|MSc| Sancti merita benedicti | Sequenz | Translatio Benedicti | ? |
+|MSc| H< ac in die magnalia > | Sequenz | Margareta<sup>3</sup> | ? |
 
 
 
