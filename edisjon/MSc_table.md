@@ -51,9 +51,9 @@
 |MSc| Laudes debitas* || Barbara | AH 54, 62 |
 |MSc| Congaudentes exultemus || Nicholaus | AH 54, 66 |
 |MSc| Conceptio mariae virginis || Conceptio Mariae | AH 54, 188 |
-|MSc| Regem celi cantico (nicht in AH)
-|MSc| Comitis generosi (nicht in AH)
-|MSc| NKS 1265 IIa ... innhold? || Thorlacus | nicht in AH |
+|MSc| Regem celi cantico || Lucia | nicht in AH |
+|MSc| Comitis generosi || Translatio Magni | nicht in AH |
+|MSc| ? || Thorlacus | nicht in AH |
 |MSc| Lbs fragm. 19 I-III ... innhold? |
 
 
