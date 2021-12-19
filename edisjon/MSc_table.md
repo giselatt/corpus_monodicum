@@ -26,7 +26,14 @@
 |MSc| Almiphona iam gaudia (AH 7:79, 53:76)
 |MSc| Veni spiritus eternorum (AH 53:71 1–3).
 |MSc| rubrikk? jf MSG 2008 || Sabbatum sanctum | ? |
-|MSc| Lauda Sion || Corpus Christi | 
+|MSc| Lauda Sion || Corpus Christi | AH 50, 385 |
+O alma trinitas (AH 7:97 1–4a)
+O alma trinitas deitas (Incipit) (AH 7:97)
+Voce iubilantes magna (Incipit) (AH 10:37)
+Iubilemus cordis (Incipit) (AH 54:165)
+Benedicta sit beata (Incipit) (AH 7:96, 53:81b)
+Voce iubilantes magna (AH 10:37)
+
 
 
 <sup>1</sup> hvordan skal dette se ut?
@@ -39,13 +46,7 @@
  <sup>3</sup> ikke CM, korrekt?
 
 
-- f.(25)r–v Sabbato [post pentecosten] (Ep.–Seq. (Rubrik)). [sekvens?]
 
-- f.(26) [UB Sg. 21701 - bare én side synlig? recto eller verso? innhold: Lauda sion]
-
-- f.(27)r–v Dominica I [post trinitatem] (Ev.) – Dominica II (Seq.). Mit der Sequenz O alma trinitas (AH 7:97 1–4a). Gedruckt: Eggen 1968 I, S. 118–120 (ms j).
-
-- f.(28)r–v Dominica III [post trinitatem] (Gr.) – Dominica IIII (Ep.). Mit der Sequenz Voce iubilantes magna (AH 10:37). Gedruckt: Eggen 1968 I, S. 116–118 (ms j).
 
 - f.(29)r–f.(31)v Dominica VII [post trinitatem] (Ep.) – Dominica VIII – Dominica IX – Dominica X (Postcom.). Mit den Sequenzen  O alma trinitas deitas (Incipit) (AH 7:97), Voce iubilantes magna (Incipit) (AH 10:37), Iubilemus cordis (Incipit) (AH 54:165), Benedicta sit beata (Incipit) (AH 7:96, 53:81b). Gedruckt: Eggen 1968 I, S. 118–120, 116–118, 112–114, 106–109.
 
