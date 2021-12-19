@@ -25,6 +25,8 @@
 |MSc| Sancti spiritus assit (AH 53:70)
 |MSc| Almiphona iam gaudia (AH 7:79, 53:76)
 |MSc| Veni spiritus eternorum (AH 53:71 1–3).
+|MSc| rubrikk? jf MSG 2008 || Sabbatum sanctum | ? |
+|MSc| Lauda Sion || Corpus Christi | 
 
 
 <sup>1</sup> hvordan skal dette se ut?
