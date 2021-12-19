@@ -13,7 +13,7 @@
 | GG | Benedicta sit beata* | Sequenz | Dominica XVII post Pentecostem | AH 7, 96, AH 53, 81b | 
 | GG | Benedicta sit beata* | Sequenz | Dominica XXII post Pentecostem | AH 7, 96, AH 53, 81b |
 | GG | Benedicta semper sancta* | Sequenz | Dominica XXIII post Pentecostem | AH 7, 95, AH 53, 81 |
-| GG | Caeli enarrant gloriam | Sequenz | Apostoli ?<sup>9</sup> | AH 50, 267 (11a–13) |
+| GG | Caeli enarrant | Sequenz | Apostoli ?<sup>9</sup> | AH 50, 267 (11a–13) |
 | GG | Clare sanctorum senatus | Sequenz | Apostoli | AH 53, 228 |
 | GG | Iocundare plebs fidelis | Sequenz | Evangelistae | AH 55,7 |
 | GG | Unus amor et una concordia | Sequenz | Martyr<sup>1</sup> et episcopus<sup>2</sup> | AH 8, 281, AH 54, 79 |
