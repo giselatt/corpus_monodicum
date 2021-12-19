@@ -33,30 +33,30 @@ mangler folionr./linjenr.:
 | GG | Sacrosancta hodiernae | Sequenz | Andreas | AH 54, 30 (14–19) |
 | GG | Virginis venerandae | Sequenz | Barbara | AH 53, 246 |
 | GG | Congaudentes exultemus | Sequenz | Nicholaus | AH 54, 66 (1–21) |
-| GG | Conceptio mariae virginis || Conceptio Mariae | AH 54, 188 |
-| GG | Regem coeli cantico || Lucia | nicht in AH |
-| GG | Comitis generosi || Translation Magni | nicht in AH |
-| GG | Pure mentis gaudia || Agnes | AH 40, 138 (8a–12b) |
-| GG | Martiris egregii || Vincentius | AH 55, 340 |
-| GG | Dixit dominus ex basan || Conversio Pauli |AH 50, 269 (1–7b, Lac., 9a–10) |
-| GG | O vere gratissima* || Octava Agnetis | AH 40, 138, Divisio: Pure mentis |
-| GG | Pangat nostra* || Iohn Crysostom<sup>6</sup>  | AH 9, 390 |
-| GG | Virginis venerandae* || Brigid<sup>6</sup> | AH 53, 246 |
-| GG | Exulta celum<sup>7</sup> || Iohannes Baptista | AH 9, 243 (1–9a) |
-| GG | Petre summe || Petrus et Paulus | AH 53, 210 |
-| GG | Sollempnitas sancti pauli || Paulus | AH 53, 205 |
-| GG | Praecursorem summi regis || Octava Iohannis Baptistae | AH 42, 252 (1–10a) |
-| GG | Sacerdotem christi martinum || Translatio Martini |AH 53, 181 (1–6, Lac., 17–18) |
-| GG | Iubar mundo geminatur || Octava Petri et Pauli | AH 42, 312 (1a–2b) |
-| GG | Laurenti david magni || Laurentius | AH 53, 173 (12–14) |
-| GG | Agone triumphali* || Hippolytus | AH 53, 229 |
-| GG | Area virga prime || Assumptio Mariae | AH 7, 107, AH 53, 106a |
-| GG | Congaudent angelorum*<sup>9</sup> || Infra octavam assumptionis Mariae<sup>6</sup> | AH 53, 104 |
-| GG | Stola iocunditatis || Laurentius | AH 54, 61 (1–12) |
-| GG | Mera promat uranica || Leonardus | nicht in AH |
-| GG | Pangat nostra* || Brictius | AH 9, 390 |
-| GG | Omnis fidelium ecclesia || Edmundus<sup>6</sup> | AH 40, 191 (3a–11) |
-| GG | E<ia christi concio> || Caecilia | nicht in AH |
+| GG | Conceptio mariae virginis | Sequenz | Conceptio Mariae | AH 54, 188 |
+| GG | Regem coeli cantico | Sequenz | Lucia | nicht in AH |
+| GG | Comitis generosi | Sequenz | Translation Magni | nicht in AH |
+| GG | Pure mentis gaudia | Sequenz | Agnes | AH 40, 138 (8a–12b) |
+| GG | Martiris egregii | Sequenz | Vincentius | AH 55, 340 |
+| GG | Dixit dominus ex basan | Sequenz | Conversio Pauli |AH 50, 269 (1–7b, Lac., 9a–10) |
+| GG | O vere gratissima* | Sequenz | Octava Agnetis | AH 40, 138, Divisio: Pure mentis |
+| GG | Pangat nostra* | Sequenz | Iohn Crysostom<sup>6</sup>  | AH 9, 390 |
+| GG | Virginis venerandae* | Sequenz | Brigid<sup>6</sup> | AH 53, 246 |
+| GG | Exulta celum<sup>7</sup> | Sequenz | Iohannes Baptista | AH 9, 243 (1–9a) |
+| GG | Petre summe | Sequenz | Petrus et Paulus | AH 53, 210 |
+| GG | Sollempnitas sancti pauli | Sequenz | Paulus | AH 53, 205 |
+| GG | Praecursorem summi regis | Sequenz | Octava Iohannis Baptistae | AH 42, 252 (1–10a) |
+| GG | Sacerdotem christi martinum | Sequenz | Translatio Martini |AH 53, 181 (1–6, Lac., 17–18) |
+| GG | Iubar mundo geminatur | Sequenz | Octava Petri et Pauli | AH 42, 312 (1a–2b) |
+| GG | Laurenti david magni | Sequenz | Laurentius | AH 53, 173 (12–14) |
+| GG | Agone triumphali* | Sequenz | Hippolytus | AH 53, 229 |
+| GG | Area virga prime | Sequenz | Assumptio Mariae | AH 7, 107, AH 53, 106a |
+| GG | Congaudent angelorum*<sup>9</sup> | Sequenz | Infra octavam assumptionis Mariae<sup>6</sup> | AH 53, 104 |
+| GG | Stola iocunditatis | Sequenz | Laurentius | AH 54, 61 (1–12) |
+| GG | Mera promat uranica | Sequenz | Leonardus | nicht in AH |
+| GG | Pangat nostra* | Sequenz | Brictius | AH 9, 390 |
+| GG | Omnis fidelium ecclesia | Sequenz | Edmundus<sup>6</sup> | AH 40, 191 (3a–11) |
+| GG | E< ia christi concio > | Sequenz | Caecilia | nicht in AH |
 
 
 <sup>1</sup> CM har "Martyres" og "Plures martyres", ikke entall
