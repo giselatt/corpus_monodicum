@@ -48,6 +48,19 @@ mangler folionr./linjenr.:
 | GG | Praecursorem summi regis || Octava Iohannis Baptistae | AH 42, 252 (1–10a) |
 | GG | Sacerdotem christi martinum || Translatio Martini |AH 53, 181 (1–6, Lac., 17–18) |
 | GG | Iubar mundo geminatur || Octava Petri et Pauli | AH 42, 312 (1a–2b) |
+| GG | Laurenti david magni || Laurentius | AH 53, 173 (12–14) |
+| GG | Agone triumphali* || Hippolytus | AH 53, 229 |
+| GG | Area virga prime || Assumptio Mariae | AH 7, 107, AH 53, 106a |
+| GG | Congaudent angelorum*<sup>9</sup> || | |
+| GG | Stola iocunditatis (AH 54:61 1–12)
+| GG | Mera promat uranica (für Leonardi abb.)
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
+| GG | 
 | GG | 
 | GG | 
 | GG | 
@@ -70,9 +83,10 @@ mangler folionr./linjenr.:
 
 <sup>7</sup> ae?
 
-f(34)r–f(35)v Laurentii (10/8) (Seq.) – Ypoliti sociorumque eius m. (13/8) – In vigilia assumpcionis s. Marie matris domini nostri ihesu christi (14/8) – In sollempnitate assumpcionis b. Marie virginis(15/8) (mit Lac.) – Infra oct. Secunda die (16/8) – Octava Laurentii archidiaconi m. (17/8) (Seq.). Mit den Sequenzen Laurenti david magni (AH 53:173 12–14), Agone triumphali (Incipit) (AH 53:229), Area virga prime (AH 7:107, 53:106a), Stola iocunditatis (AH 54:61 1–12). Gedruckt: Eggen 1968 I, S. 232, 292–293, 236–239, 234–235 (ms h).
+<sup>8</sup> ikke i MGAs katalog - må tas med i beskrivelsen
 
-f(36)r–v In commemoratione animarum (2/11) (Off.) – Eustachii m. (2/11) – Leonardi abb. (6/11) – De quattuor coronatorum (8/11) – Villehadi ep. cf. (8/11) – Theodori m. (9/11) – Mennae m. (11/11) – Martini ep. cf. (11/11) (Seq. (Rubrik)). Mit den Sequenzen Mera promat uranica (für Leonardi abb.) (nixht in AH). Gedruckt: Eggen 1968 I, S. 270–272 (ms h).
+
+f(36)r–v In commemoratione animarum (2/11) (Off.) – Eustachii m. (2/11) – Leonardi abb. (6/11) – De quattuor coronatorum (8/11) – Villehadi ep. cf. (8/11) – Theodori m. (9/11) – Mennae m. (11/11) – Martini ep. cf. (11/11) (Seq. (Rubrik)). Mit den Sequenzen Mera promat uranica (für Leonardi abb.) (nicht in AH). Gedruckt: Eggen 1968 I, S. 270–272 (ms h).
 
 f(37)r–v Infra oct. s. Martini (Intr.) – Brictii ep. cf. (13/11) – Eadmundi m. (20/11) (mit Lac.) – In festo Ceciliae v. et m. (22/11) (Seq.). Mit den Sequenzen Pangat nos a (Incipit) (AH 9:390), Omnis fidelium ecclesia (AH 40:191 3a–11), E(ia christi concio) (nicht in AH). Gedruckt: Eggen 1968 I, S. 302–305, 275–277, 277–278 (ms h).
 
