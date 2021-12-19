@@ -33,12 +33,12 @@ under Arbeid...
 | GG | Conceptio mariae virginis || Conceptio Mariae | AH 54, 188 |
 | GG | Regem coeli cantico || Lucia | nicht in AH |
 | GG | Comitis generosi || Translation Magni | nicht in AH |
-| GG | 
-| GG | 
-| GG | 
-| GG | 
-| GG | 
-| GG |
+| GG | Pure mentis gaudia || Agnes | AH 40,138 (8a–12b) |
+| GG | Martiris egregii || Vincentius | AH 55, 340 |
+| GG | Dixit dominus ex basan || Conversio Pauli |AH 50, 269 (1–7b, Lac., 9a–10) |
+| GG | O vere gratissima* || Octava Agnetis | AH 40, 138, Divisio: Pure mentis |
+| GG | Pangat nostra* || Iohn Crysostom | AH 9, 390 |
+| GG | Virginis venerandae* || Brigid| AH 53, 246 |
 | GG | 
 | GG | 
 | GG | 
