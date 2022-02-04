@@ -6,6 +6,6 @@ contains the following files:
 ---
 
 mss:
-- Missale Scardense (MSc)
-- Graduale Gufudalense (GG)
-- gradual (HS3)
+- MSc: Missale Scardense
+- GG: Graduale Gufudalense
+- HS3: gradual
