@@ -74,7 +74,7 @@
 
 <sup>8</sup> ikke i MGAs katalog - må tas med i beskrivelsen
 
-<sup>9</sup> hvordan oppgi fest når denne er ikke oppgitt eller usikker
+<sup>9</sup> hvordan oppgi fest når denne er ikke oppgitt eller usikker?
 
 
 
