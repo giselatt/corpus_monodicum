@@ -34,7 +34,7 @@
     
 ## Fragen:
 
-- ta med parenteser rundt folio-nummer ved rekonstruerte mss som mangler blader?
+- ta med parenteser rundt folio-nummer ved rekonstruerte mss som mangler blader? uansett?
 - sind mit "Linien" Textlinien oder Notensysteme gemeint? (hier angegeben: Nummer des Notensystems)
 - sollen Sequenzen, die auf einer fehlende Seite anfangen, Liniennummer 1 bekommen? (hier so gemacht)
 - sollen Initien vervollständigt werden was den Text betrifft? (hier so gemacht)
