@@ -72,7 +72,7 @@
 
 <sup>2</sup> CM har bare Infra octavam nativitatis
  
-<sup>3</sup> ikke CM, korrekt?
+<sup>3</sup> ikke CM - korrekt?
  
 <sup>4</sup> sjekk: CM har AH 7, 219 for O alma trinitas
 
