@@ -25,7 +25,8 @@
 |AM Acc. 7 HS 3-(13)v-11| Sponsa Christo dilecta | Sequenz | Caecilia | AH 40, 176 (1-3a) |   
 
 
-<sup>1</sup> sjekk:
+<sup>1</sup>
+
     CM: AH 7, 219  De communi unius sancti
     O alma trinitas, Deus et unitas,
    
