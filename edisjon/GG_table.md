@@ -2,12 +2,12 @@
 |--|--|--|--|--|
 | GG | Lauda Sion | Sequenz | Corpus Christi | AH 50, 385 |
 | GG | Benedicta semper sancta | Sequenz | Dominica II post Pentecostem | AH 7, 95, AH 53, 81 |
-| GG | O alma trinitas | Sequenz | Dominica III post Pentecostem | AH 7, 97  (jf. HS 3)|
+| GG | O alma trinitas | Sequenz | Dominica III post Pentecostem | AH 7, 97 |
 | GG | Voce iubilantes magna | Sequenz | Dominica IV post Pentecostem | AH 10, 37 |
 | GG | Benedicta sit beata* | Sequenz | Dominica VI post Pentecostem | AH 7, 96, AH 53, 81b |
 | GG | Benedicta semper sancta* | Sequenz | Dominica VII post Pentecostem | AH 7, 95, AH 53, 81 |
-| GG | O alma trinitas*  | Sequenz | Dominica VIII post Pentecostem | AH 7, 97  (jf. HS 3)|
-| GG | O alma trinitas*  | Sequenz | Dominica XIV post Pentecostem | AH 7, 97  (jf. HS 3)|
+| GG | O alma trinitas*  | Sequenz | Dominica VIII post Pentecostem | AH 7, 97 |
+| GG | O alma trinitas*  | Sequenz | Dominica XIV post Pentecostem | AH 7, 97 |
 | GG | Voce iubilantes magna* | Sequenz | Dominica XV post Pentecostem | AH 10, 37 |
 | GG | Iubilemus cordis* | Sequenz | Dominica XVI post Pentecostem | AH 54, 165 |
 | GG | Benedicta sit beata* | Sequenz | Dominica XVII post Pentecostem | AH 7, 96, AH 53, 81b | 
