@@ -55,7 +55,7 @@
 |MSc| Comitis generosi | Sequenz | Translatio Magni | nicht in AH |
 |MSc| ? | Sequenz | Thorlacus | nicht in AH |
 |Msc| Solennitas (solempnitas?) sancti pauli | Sequenz | Paulus | ? |
-|MSc| Praecursorum ... en baptista<sup>6</sup>| Sequenz | Iohannes Baptista | ? |
+|MSc| Praecursorum ... en baptista<sup>6</sup>| Sequenz | Iohannes Baptista<sup>4</sup> | ? |
 |MSc| Psallat eccelsia mater decora | Sequenz | Swithun<sup>3</sup> | AH 37, 306 (...) |
 |MSc| Iubar mundo geminatur | Sequenz | Octava Petri et Pauli | AH 42, 312 (...) |
 |MSc| Ecce pulchra* | Sequenz | Sancti in Selio<sup>3</sup> | ? |
@@ -74,8 +74,8 @@
  
 <sup>3</sup> ikke CM - korrekt?
  
-<sup>4</sup> ok
-
+<sup>4</sup> Eggen: plassert etter com st pauli -> oct. johanni
+ 
 <sup>5</sup> CM har ikke denne kombinasjonen, har bare "Martyres" og "Virgines" hver for seg, ikke entall
 
 <sup>6</sup> initium må sjekkes; melodi: In ecclesia hierarchia (Dominicus)
