@@ -74,7 +74,7 @@
  
 <sup>3</sup> ikke CM - korrekt?
  
-<sup>4</sup> sjekk: CM har AH 7, 219 for O alma trinitas
+<sup>4</sup> CM: AH 7, 219, jf. HS 3
 
 <sup>5</sup> CM har ikke denne kombinasjonen, har bare "Martyres" og "Virgines" hver for seg, ikke entall
 
