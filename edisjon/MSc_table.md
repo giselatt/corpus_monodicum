@@ -27,9 +27,9 @@
 |MSc| Veni spiritus eternorum | Sequenz | Feria V post Pentecosten | AH 53, 71 (1–3) |
 |MSc| rubrikk? jf MSG 2008 | Sequenz | Sabbato [post pentecosten] | ? |
 |MSc| Lauda Sion | Sequenz | Corpus Christi | AH 50, 385 |
-|MSc| O alma trinitas | Sequenz | Dominica III post Pentecosten | AH 7, 97 (1–4a)<sup>4</sup> |
+|MSc| O alma trinitas | Sequenz | Dominica III post Pentecosten | AH 7, 97 (1–4a) |
 |MSc| Voce iubilantes magna | Sequenz | Dominica IV post Pentecosten | AH 10, 37 |
-|MSc| O alma trinitas* | Sequenz | Dominica VIII post Pentecosten | AH 7, 97<sup>4</sup> |
+|MSc| O alma trinitas* | Sequenz | Dominica VIII post Pentecosten | AH 7, 97 |
 |MSc| Voce iubilantes magna* | Sequenz | Dominica IX post Pentecosten | AH 10, 37 |
 |MSc| Iubilemus cordis* | Sequenz | Dominica X post Pentecosten | AH 54, 165 |
 |MSc| Benedicta sit beata* | Sequenz | Dominica XI post Pentecosten | AH 7, 96, AH 53, 81b |
@@ -41,7 +41,7 @@
 |MSc| Iubilemus cordis* | Sequenz | Dominica XXI post Pentecosten | AH 54, 165 |
 |MSc| Benedicta sit beata* | Sequenz | Dominica XXII post Pentecosten | AH 7, 96, AH 53, 81b |
 |MSc| Benedicta semper sancta* | Sequenz | Dominica XXIII post Pentecosten | AH 7, 95, AH 53, 81 |
-|MSc| O alma trinitas* | Sequenz | Dominica XXIV post Pentecosten | AH 7, 97<sup>4</sup> |
+|MSc| O alma trinitas* | Sequenz | Dominica XXIV post Pentecosten | AH 7, 97 |
 |MSc| Caeli enarrant | Sequenz | Apostoli | AH 50, 267 |
 |MSc| Clare sanctorum | Sequenz | Apostoli | AH 53, 228 (1–5) |
 |MSc| Virginis venerandae | Sequenz | Virgo et martyr<sup>5</sup> ? | AH 53, 246 (2–12) |
@@ -74,7 +74,7 @@
  
 <sup>3</sup> ikke CM - korrekt?
  
-<sup>4</sup> CM: AH 7, 219, jf. HS 3
+<sup>4</sup> ok
 
 <sup>5</sup> CM har ikke denne kombinasjonen, har bare "Martyres" og "Virgines" hver for seg, ikke entall
 
