@@ -4,6 +4,7 @@ Dulci symphonia  AH 40, 191
 ## Feasts
 Edmundus
 
+
 CS:
 
 ## Abbreviataions
@@ -27,6 +28,4 @@ Virginis venerandae*    Sequenz         Brigid
 
 Congaudent angelorum*9  Sequenz         Infra octavam assumptionis Mariae
 
-Supernae matris         Sequenz         Sancti
-
-CM har sancti og plures sancti
+Supernae matris         Sequenz         Sancti  - CM har sancti og plures sancti
