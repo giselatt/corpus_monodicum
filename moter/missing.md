@@ -7,10 +7,11 @@ Edmundus
 
 CS:
 
-## Abbreviataions
+## Abbreviations
 
 
 
+## uferdig
 
 Adest nobis dies alma   Sequenz         Martyr
 
