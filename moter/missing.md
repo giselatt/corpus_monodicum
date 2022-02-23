@@ -1,7 +1,7 @@
 ## Sequences/Incipits
 Dulci symphonia  AH 40, 191
 
-Virgo mater gratuletur
+Virgo mater gratuletur AH 40, 246
 
 
 ## Feasts
