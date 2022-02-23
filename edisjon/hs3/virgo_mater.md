@@ -3,7 +3,7 @@
 1c	Laus il-li et glo-ri-a
 2a	Io-han-nis ev-an-ge-li-ste pre-| cel-sa sol-lemp-ni-tas
 2b	Ho-di-e per to-tum mun-dum lau-des ha-bet de-bi-tas
-2c	Et lau-dem pre-co-ni-a
+2c  Et lau-dem pre-co-ni-a
 3a  Qui uocatus pa-trem spre-uit et nauem et re-ti-a
 3b  Red-em-pto-irs uo-cem se-quens post uo-cem ue-sti-gi-a
 3c  O quan-ta fi-du-ci-a
