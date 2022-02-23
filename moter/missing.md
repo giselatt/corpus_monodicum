@@ -1,6 +1,9 @@
 ## Sequences/Incipits
 Dulci symphonia  AH 40, 191
 
+Virgo mater gratuletur
+
+
 ## Feasts
 Edmundus
 
