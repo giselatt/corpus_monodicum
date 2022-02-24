@@ -7,13 +7,13 @@
 - Alle cantabile sonet AH 8, 137, AH 53, 129
 - De profundis tenebrarum AH 55, 75
 - Ex(s?)ultet in gaudia (nicht in AH)
+- Eia Christi concio (nicht in AH)
 
 
-## Feasts
+## Feasts (HS 3)
 Edmundus
+Vigilia Epiphaniae
 
-
-CS:
 
 <hr>
 
