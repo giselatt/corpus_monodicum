@@ -9,3 +9,7 @@ mss:
 - MSc: Missale Scardense
 - GG: Graduale Gufudalense
 - HS3: gradual
+
+
+
+NB: the tables are not updated any more and contain misleading information
