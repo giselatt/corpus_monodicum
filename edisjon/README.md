@@ -12,5 +12,5 @@ mss:
 
 
 
-<b>NB: the tables are not updated any more in this place and contain misleading information</b>
+<b>NB: the tables are not updated any more in this place and contain misleading information</b><br>
  Die Metadaten werden nur in der Datei auf CM korrigiert, angepasst und ergänzt.
