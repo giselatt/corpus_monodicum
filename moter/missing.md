@@ -1,4 +1,4 @@
-## Sequences/Incipits
+## Sequences/Incipits (HS 3)
 
 - Dulci symphonia  AH 40, 191
 - Virgo mater gratuletur AH 40, 246
@@ -14,6 +14,8 @@ Edmundus
 
 
 CS:
+
+<hr>
 
 ## Abbreviations
 
