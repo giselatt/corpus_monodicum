@@ -13,8 +13,8 @@
 
 
 ## Feasts (HS 3)
-Edmundus
-Vigilia Epiphaniae
+- Edmundus
+- Vigilia Epiphaniae
 
 
 <hr>
