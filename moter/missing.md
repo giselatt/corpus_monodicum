@@ -10,7 +10,7 @@
 - Ex(s?)ultet in gaudia (nicht in AH)
 - Eia Christi concio (nicht in AH)
 - Praecursorum summi regis... huius ortum (AH 55, 179)
-  (AH 42, 252: Praecursorum summi regis... en baptista: kommt in MSc vor)
+  (AH 42, 252: Praecursorum summi regis... en baptista: kommt in MSc vor, deshalb die Unterscheidung)
 
 
 ## Feasts (HS 3)
