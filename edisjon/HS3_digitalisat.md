@@ -18,7 +18,7 @@
 |AM Acc. 7 HS 3-(10)v-5| Exultet in gloria | Aegidius | https://digitalesamlinger.hum.ku.dk/Home/Details/229602|
 |AM Acc. 7 HS 3-(11)-1| Alle caeleste necnon |  Nativitas Mariae | https://digitalesamlinger.hum.ku.dk/Home/Details/229603 https://digitalesamlinger.hum.ku.dk/Home/Details/229604 |
 |AM Acc. 7 HS 3-(11)v-6| Salve lignum sanctae crucis | Exaltatio Crucis | https://digitalesamlinger.hum.ku.dk/Home/Details/229604 |
-|AM Acc. 7 HS 3-(12)-1| Alludat letus ordo | Mauritius | https://digitalesamlinger.hum.ku.dk/Home/Details/229607 |
+|AM Acc. 7 HS 3-(12)-1| Alludat letus ordo | Mauritius | https://digitalesamlinger.hum.ku.dk/Home/Details/229607 https://digitalesamlinger.hum.ku.dk/Home/Details/229605|
 |AM Acc. 7 HS 3-(12)v-7| Ad caelebres rex | Michael | https://digitalesamlinger.hum.ku.dk/Home/Details/229608 |
 |AM Acc. 7 HS 3-(13)-1| Dulci symphonia | Edmundus| https://digitalesamlinger.hum.ku.dk/Home/Details/229609 |
 |AM Acc. 7 HS 3-(13)-7| Eia christi concio | Caecilia | https://digitalesamlinger.hum.ku.dk/Home/Details/229609 https://digitalesamlinger.hum.ku.dk/Home/Details/229610 |
