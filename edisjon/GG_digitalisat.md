@@ -1,7 +1,7 @@
 | Quelle-Folio-Zeile<sup>0</sup> | Textinitium | Digitalisat | Festtag | Nachweis Text |
 |--|--|--|--|--|
 | GG | Lauda Sion | https://digitalesamlinger.hum.ku.dk/Home/Details/229553 https://digitalesamlinger.hum.ku.dk/Home/Details/229554 https://digitalesamlinger.hum.ku.dk/Home/Details/229555 | Corpus Christi | AH 50, 385 |
-| GG | Benedicta semper sancta | Sequenz | Dominica II post Pentecostem | AH 7, 95, AH 53, 81 |
+| GG-3-13 | Benedicta semper sancta | Sequenz | Dominica II post Pentecostem | AH 7, 95, AH 53, 81 |
 | GG | O alma trinitas | Sequenz | Dominica III post Pentecostem | AH 7, 97 |
 | GG | Voce iubilantes magna | Sequenz | Dominica IV post Pentecostem | AH 10, 37 |
 | GG | Benedicta sit beata* | Sequenz | Dominica VI post Pentecostem | AH 7, 96, AH 53, 81b |
