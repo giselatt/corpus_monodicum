@@ -1,4 +1,4 @@
-| Quelle-Folio-Zeile<sup>0</sup> | Textinitium | Digitalisat | Festtag | Nachweis Text |
+| Quelle-Folio-Zeile | Textinitium | Digitalisat | Festtag | Nachweis Text |
 |--|--|--|--|--|
 | GG-3-13 | Lauda Sion | https://digitalesamlinger.hum.ku.dk/Home/Details/229553 https://digitalesamlinger.hum.ku.dk/Home/Details/229554 https://digitalesamlinger.hum.ku.dk/Home/Details/229555 | Corpus Christi | AH 50, 385 |
 | GG | Benedicta semper sancta | Sequenz | Dominica II post Pentecostem | AH 7, 95, AH 53, 81 |
@@ -13,17 +13,17 @@
 | GG | Benedicta sit beata* | Sequenz | Dominica XVII post Pentecostem | AH 7, 96, AH 53, 81b | 
 | GG | Benedicta sit beata* | Sequenz | Dominica XXII post Pentecostem | AH 7, 96, AH 53, 81b |
 | GG | Benedicta semper sancta* | Sequenz | Dominica XXIII post Pentecostem | AH 7, 95, AH 53, 81 |
-| GG | Caeli enarrant | Sequenz | Apostoli ?<sup>9</sup> | AH 50, 267 (11a–13) |
+| GG | Caeli enarrant | Sequenz | Apostoli ? | AH 50, 267 (11a–13) |
 | GG | Clare sanctorum senatus | Sequenz | Apostoli | AH 53, 228 |
 | GG | Iocundare plebs fidelis | Sequenz | Evangelistae | AH 55,7 |
-| GG | Unus amor et una concordia | Sequenz | Martyr<sup>1</sup> et episcopus<sup>2</sup> | AH 8, 281, AH 54, 79 |
-| GG | Adest nobis dies alma | Sequenz | Martyr<sup>1</sup> | AH 53:, 241 |
-| GG | Ecce pulcra | Sequenz | Plures martyres et virgines<sup>2</sup> | AH 7, 116, AH 53,114 |
+| GG | Unus amor et una concordia | Sequenz | Martyr et episcopus | AH 8, 281, AH 54, 79 |
+| GG | Adest nobis dies alma | Sequenz | Martyr| AH 53:, 241 |
+| GG | Ecce pulcra | Sequenz | Plures martyres et virgines | AH 7, 116, AH 53,114 |
 | GG | Agone triumphali | Sequenz | Plures martyres | AH 53, 229 |
-| GG | Supernae matris | Sequenz | Sancti<sup>3</sup> | AH 55, 37 (1–2) |
-| GG | Rex regum deus noster | Sequenz | Confessor<sup>4</sup> ?<sup>9</sup> | AH 53, 243 (15–18) |
-| GG | Virginis venerandae | Sequenz | Virgo et martyr<sup>5</sup> | AH 53, 246 |
-| GG | Laudes debitas deo nostro | Sequenz | Virgo et martyr<sup>5</sup> | AH 54, 62 |
+| GG | Supernae matris | Sequenz | Sancti | AH 55, 37 (1–2) |
+| GG | Rex regum deus noster | Sequenz | Confessor ?| AH 53, 243 (15–18) |
+| GG | Virginis venerandae | Sequenz | Virgo et martyr | AH 53, 246 |
+| GG | Laudes debitas deo nostro | Sequenz | Virgo et martyr | AH 54, 62 |
 | GG | Sacrosancta hodiernae | Sequenz | Andreas | AH 54, 30 (14–19) |
 | GG | Virginis venerandae | Sequenz | Barbara | AH 53, 246 |
 | GG | Congaudentes exultemus | Sequenz | Nicholaus | AH 54, 66 (1–21) |
@@ -34,9 +34,9 @@
 | GG | Martiris egregii | Sequenz | Vincentius | AH 55, 340 |
 | GG | Dixit dominus ex basan | Sequenz | Conversio Pauli |AH 50, 269 (1–7b, Lac., 9a–10) |
 | GG | O vere gratissima* | Sequenz | Octava Agnetis | AH 40, 138, Divisio: Pure mentis |
-| GG | Pangat nostra* | Sequenz | Iohn Crysostom<sup>6</sup>  | AH 9, 390 |
-| GG | Virginis venerandae* | Sequenz | Brigid<sup>6</sup> | AH 53, 246 |
-| GG | Exulta celum<sup>7</sup> | Sequenz | Iohannes Baptista | AH 9, 243 (1–9a) |
+| GG | Pangat nostra* | Sequenz | Iohn Crysostom  | AH 9, 390 |
+| GG | Virginis venerandae* | Sequenz | Brigid | AH 53, 246 |
+| GG | Exulta celum | Sequenz | Iohannes Baptista | AH 9, 243 (1–9a) |
 | GG | Petre summe | Sequenz | Petrus et Paulus | AH 53, 210 |
 | GG | Sollempnitas sancti pauli | Sequenz | Paulus | AH 53, 205 |
 | GG | Praecursorem summi regis | Sequenz | Octava Iohannis Baptistae | AH 42, 252 (1–10a) |
@@ -45,7 +45,7 @@
 | GG | Laurenti david magni | Sequenz | Laurentius | AH 53, 173 (12–14) |
 | GG | Agone triumphali* | Sequenz | Hippolytus | AH 53, 229 |
 | GG | Area virga prime | Sequenz | Assumptio Mariae | AH 7, 107, AH 53, 106a |
-| GG | Congaudent angelorum*<sup>9</sup> | Sequenz | Infra octavam assumptionis Mariae<sup>6</sup> | AH 53, 104 |
+| GG | Congaudent angelorum* | Sequenz | Infra octavam assumptionis Mariae | AH 53, 104 |
 | GG | Stola iocunditatis | Sequenz | Laurentius | AH 54, 61 (1–12) |
 | GG | Mera promat uranica | Sequenz | Leonardus | nicht in AH |
 | GG | Pangat nostra* | Sequenz | Brictius | AH 9, 390 |
