@@ -2,7 +2,7 @@
 
 <b>Handschriften:</b>
 
-- <b>AM Acc. 7 HS 2</b>: Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7, a alpha, HS 2 (34 Bl.)
+- <b>AM Acc. 7 HS 2</b>: Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7, α alpha, HS 2 (34 Bl.)
 - <b>AM 266 4to</b>: Reykjavik, Stofnun Árna Magnússonar 266 4to (2 Bl.)
 - <b>UB J 1650 8vo ex. 2</b>: Kopenhagen, Universitetsbibliotek J 1650 8vo ex. 2, (Bucheinband um <i>Catalogus Selectiorum omnis generis variique idiomatis Librorum, quorum Auctio, volente Deo, habibetur</i>, Hafniæ 1723) (1 Bl.)
 
