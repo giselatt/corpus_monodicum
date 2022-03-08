@@ -19,45 +19,45 @@ Alte Signaturen: "Cod. Scard.", "Codex E", "Codex F", "Codex G", "Codex J".  Die
 
 Zu diesen Codices gehören drei weitere Blätter, die am Arnamagnæanischen Institut in Reyjavik bzw. der Universitätsbibliothek in Kopenhagen aufbewahrt werden (s.o.).
 
-Rekonstruktion nach Geert Andersen (1979):
-
-- f.(1) AM 266 4°
-- f.(2) AM 266 4°
-- f.(3) AM 83 fol<sup>2</sup>
-- f.(4) AM 3 fol<sup>2</sup>
-- f.(5) AM 83 fol<sup>1</sup>
-- f.(6) KB 2-30 fol
-- f.(7) KB 2-30 fol
-- f.(8) AM 3 fol<sup>1</sup>
-- f.(9) AM 102 fol
-- f.(10) AM 102 fol
-- f.(11) AM 255 fol<sup>1</sup>
-- f.(12) AM 144 fol<sup>1</sup>
-- f.(13) AM 255 fol<sup>2</sup>
-- f.(14) AM 339 fol<sup>2</sup>
-- f.(15) AM 626 4°
-- f.(16) AM 112 4°
-- f.(17) UB J 1650 8vo ex. 2
-- f.(18) AM 333 fol<sup>1</sup>
-- f.(19) AM 333 fol<sup>2</sup>
-- f.(20) AM 381 4°
-- f.(21) AM 376 4°
-- f.(22) AM 108 fol<sup>1</sup>
-- f.(23) AM ohne Sekundärproveniens
-- f.(24) AM 532 4°
-- f.(25) AM 8 fol<sup>1</sup>
-- f.(26) AM 1dα fol
-- f.(27) AM 8 fol<sup>2</sup>
-- f.(28) AM 105 4°
-- f.(29) AM 166 fol<sup>1</sup>
-- f.(30) AM 166 fol<sup>2</sup>
-- f.(31) AM 339 fol<sup>1</sup>
-- f.(32) AM 108 fol<sup>2</sup>
-- f.(33) AM 105 4°
-- f.(34) AM 248 fol<sup>1</sup>
-- f.(35) AM 248 fol<sup>2</sup>
-- f.(36) AM 514 4°
-- f.(37) AM 732a V 4°
+| Rekonstruktion nach Geert Andersen (1979) | Foliierung von Accessoria 7, α alpha, HS 2 |
+| -- | -- |
+| f.(1) AM 266 4° | f.1 |
+| f.(2) AM 266 4° | f. 2|
+| f.(3) AM 83 fol<sup>2</sup> |  |
+| f.(4) AM 3 fol<sup>2</sup> |  |
+| f.(5) AM 83 fol<sup>1</sup> |  |
+| f.(6) KB 2-30 fol | f. |
+| f.(7) KB 2-30 fol | f. |
+| f.(8) AM 3 fol<sup>1</sup> | f. |
+| f.(9) AM 102 fol | f. |
+| f.(10) AM 102 fol | f. |
+| f.(11) AM 255 fol<sup>1</sup> | f. |
+| f.(12) AM 144 fol<sup>1</sup> | f. |
+| f.(13) AM 255 fol<sup>2</sup> | f. |
+| f.(14) AM 339 fol<sup>2</sup> | f. |
+| f.(15) AM 626 4° | f. |
+| f.(16) AM 112 4° | f. |
+| f.(17) UB J 1650 8vo ex. 2 |  |
+| f.(18) AM 333 fol<sup>1</sup> | f. |
+| f.(19) AM 333 fol<sup>2</sup> | f. |
+| f.(20) AM 381 4° | f. |
+| f.(21) AM 376 4° | f. |
+| f.(22) AM 108 fol<sup>1</sup> | f. |
+| f.(23) AM ohne Sekundärproveniens | f. |
+| f.(24) AM 532 4° | f. |
+| f.(25) AM 8 fol<sup>1</sup> | f. |
+| f.(26) AM 1dα fol | f. |
+| f.(27) AM 8 fol<sup>2</sup> | f. |
+| f.(28) AM 105 4° | f. |
+| f.(29) AM 166 fol<sup>1</sup> | f. |
+| f.(30) AM 166 fol<sup>2</sup> | f. |
+| f.(31) AM 339 fol<sup>1</sup> | f. |
+| f.(32) AM 108 fol<sup>2</sup> | f. |
+| f.(33) AM 105 4° | f. |
+| f.(34) AM 248 fol<sup>1</sup> | f. |
+| f.(35) AM 248 fol<sup>2</sup> | f. |
+| f.(36) AM 514 4° | f. |
+| f.(37) AM 732a V 4° | f. |
 
     
 ## Schriftraum – Notation – Textschrift
