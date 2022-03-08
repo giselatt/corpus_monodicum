@@ -23,68 +23,68 @@ Zu diesen Codices gehören fünf weitere Blätter und ein kleines Fragment, zum 
 
 | Rekonstruktion nach Geert Andersen (1979) | Foliierung von Accessoria 7, α alpha, HS 1 |
 | -- | -- |
-| f.(1) AM 166 4to | f.1 |
-| f.(2) AM 371 fol<sup>2</sup> | f.2 |
-| f.(3) AM 366 fol<sup>2</sup> | f.3 |
-| f.(4) AM 369 fol<sup>2</sup> | f.4 |
-| f.(5) AM 369 fol<sup>1</sup> | f.5 |
-| f.(6) AM 366 fol<sup>1</sup> | f.6 |
-| f.(7) AM 367 fol<sup>1</sup> | f.7 |
-| f.(8) AM 269 4° | f.8 |
-| f.(9) AM 370 fol<sup>1</sup> | f.9 |
-| f.(10) AM 368 fol<sup>1</sup>  | f.10 |
-| f.(11) AM 367 fol<sup>2</sup>  | f.11 |
-| f.(12) AM 368 fol<sup>2</sup> | f.12 |
-| f.(13) AM 371 fol<sup>1</sup> | f.13 |
-| f.(14) AM 370 fol<sup>2</sup> | f.14 |
-| f.(15) AM 389 4° | f.15 |
-| f.(16) AM 363 [4°] | f.16 |
-| f.(17) AM 259 fol<sup>1</sup> | f.17 |
-| f.(18) AM 493 4° | f.18 |
-| f.(19) AM 205 fol<sup>2</sup> | f.19 |
-| f.(20) AM 261 fol<sup>2</sup> | f.20 |
-| f.(21) AM 375 4° | f.21 |
-| f.(22) AM 205 fol<sup>1</sup> | f.22 |
-| f.(23) AM 30 fol<sup>2</sup> | f.23 |
-| f.(24) AM 144 fol<sup>2</sup> | f.24 |
-| f.(25) AM 261 fol<sup>1</sup> | f.25 |
+| f.(1) AM 166 4to | f. 1 |
+| f.(2) AM 371 fol<sup>2</sup> | f. 2 |
+| f.(3) AM 366 fol<sup>2</sup> | f. 3 |
+| f.(4) AM 369 fol<sup>2</sup> | f. 4 |
+| f.(5) AM 369 fol<sup>1</sup> | f. 5 |
+| f.(6) AM 366 fol<sup>1</sup> | f. 6 |
+| f.(7) AM 367 fol<sup>1</sup> | f. 7 |
+| f.(8) AM 269 4° | f. 8 |
+| f.(9) AM 370 fol<sup>1</sup> | f. 9 |
+| f.(10) AM 368 fol<sup>1</sup>  | f. 10 |
+| f.(11) AM 367 fol<sup>2</sup>  | f. 11 |
+| f.(12) AM 368 fol<sup>2</sup> | f. 12 |
+| f.(13) AM 371 fol<sup>1</sup> | f. 13 |
+| f.(14) AM 370 fol<sup>2</sup> | f. 14 |
+| f.(15) AM 389 4° | f. 15 |
+| f.(16) AM 363 [4°] | f. 16 |
+| f.(17) AM 259 fol<sup>1</sup> | f. 17 |
+| f.(18) AM 493 4° | f. 18 |
+| f.(19) AM 205 fol<sup>2</sup> | f. 19 |
+| f.(20) AM 261 fol<sup>2</sup> | f. 20 |
+| f.(21) AM 375 4° | f. 21 |
+| f.(22) AM 205 fol<sup>1</sup> | f. 22 |
+| f.(23) AM 30 fol<sup>2</sup> | f. 23 |
+| f.(24) AM 144 fol<sup>2</sup> | f. 24 |
+| f.(25) AM 261 fol<sup>1</sup> | f. 25 |
 | f.(26) UB Sg. 21701 (Vorderseite) |  |
-| f.(27) AM 637 4° | f.26 |
-| f.(28) AM 204 fol<sup>1</sup> | f.27 |
-| f.(29) AM 209 fol<sup>2</sup> | f.28 |
-| f.(30) AM 30 fol<sup>1</sup> | f.29 |
-| f.(31) AM 204 fol<sup>2</sup> | f.30 |
-| f.(32) UB Sg. 21701 (Rückseite) | f. |
-| f.(33) AM 209 fol<sup>1</sup> | f.31 |
-| f.(34) AM 117 fol<sup>2</sup> | f.32 |
-| f.(35) AM 118 fol<sup>1</sup> | f.33 |
-| f.(36) AM 328 4° | f.34 |
-| f.(37) AM 118 fol<sup>2</sup> | f.35 |
-| f.(38) AM 259 fol<sup>2</sup> | f.36 |
-| f.(39) AM 180 4° | f.37 |
-| f.(40) AM 179 4° | f.38 |
-| f.(41) AM 176a fol<sup>1</sup> | f.39 |
-| f.(42) AM 491 4° | f.40 |
-| f.(43) AM 528 4° | f.41 |
+| f.(27) AM 637 4° | f. 26 |
+| f.(28) AM 204 fol<sup>1</sup> | f. 27 |
+| f.(29) AM 209 fol<sup>2</sup> | f. 28 |
+| f.(30) AM 30 fol<sup>1</sup> | f. 29 |
+| f.(31) AM 204 fol<sup>2</sup> | f. 30 |
+| f.(32) UB Sg. 21701 (Rückseite) | f.  |
+| f.(33) AM 209 fol<sup>1</sup> | f. 31 |
+| f.(34) AM 117 fol<sup>2</sup> | f. 32 |
+| f.(35) AM 118 fol<sup>1</sup> | f. 33 |
+| f.(36) AM 328 4° | f. 34 |
+| f.(37) AM 118 fol<sup>2</sup> | f. 35 |
+| f.(38) AM 259 fol<sup>2</sup> | f. 36 |
+| f.(39) AM 180 4° | f. 37 |
+| f.(40) AM 179 4° | f. 38 |
+| f.(41) AM 176a fol<sup>1</sup> | f. 39 |
+| f.(42) AM 491 4° | f. 40 |
+| f.(43) AM 528 4° | f. 41 |
 | f.(44) Lbs fragm. 27 |  |
-| f.(45) AM 540 4° | f.42 |
-| f.(46) AM 539 4° | f.43 |
-| f.(47) AM 523 4° | f.44 |
-| f.(48) AM 537 4° | f.45 |
-| f.(49) AM 509 4° | f.46 |
-| f.(50) AM 492 4° | f.47 |
-| f.(51) AM 297a 4° | f.48 |
-| f.(52) AM 522 4° | f.49 |
-| f.(53) AM 156 fol<sup>2</sup> | f.50 |
-| f.(54) AM 156 fol<sup>1</sup> | f.51 |
-| f.(55) AM 530 4° | f.52 |
-| f.(56) AM 176a fol<sup>2</sup> | f.53 |
-| f.(57) AM 446 4° | f.54 |
-| f.(58) AM 728 4° | f.55 |
-| f.(59) AM 485 4° | f.56 |
-| f.(60) AM 402 4° | f.57 |
+| f.(45) AM 540 4° | f. 42 |
+| f.(46) AM 539 4° | f. 43 |
+| f.(47) AM 523 4° | f. 44 |
+| f.(48) AM 537 4° | f. 45 |
+| f.(49) AM 509 4° | f. 46 |
+| f.(50) AM 492 4° | f. 47 |
+| f.(51) AM 297a 4° | f. 48 |
+| f.(52) AM 522 4° | f. 49 |
+| f.(53) AM 156 fol<sup>2</sup> | f. 50 |
+| f.(54) AM 156 fol<sup>1</sup> | f. 51 |
+| f.(55) AM 530 4° | f. 52 |
+| f.(56) AM 176a fol<sup>2</sup> | f. 53 |
+| f.(57) AM 446 4° | f. 54 |
+| f.(58) AM 728 4° | f. 55 |
+| f.(59) AM 485 4° | f. 56 |
+| f.(60) AM 402 4° | f. 57 |
 | f.(61) NKS 1365 IIa fol | |
-| f.(62) AM 446 [4°] | f.58 |
+| f.(62) AM 446 [4°] | f. 58 |
 | f.(63) Lbs fragm. 19 I |  |
 | f.(64) Lbs fragm. 19 III |  |
 | f.(65) Lbs fragm. 19 II |  |
