@@ -19,32 +19,32 @@ Alte Signaturen: "Cod. Scard.", "Codex E", "Codex F", "Codex G", "Codex J".  Die
 
 Zu diesen Codices gehören drei weitere Blätter, die am Arnamagnæanischen Institut in Reyjavik bzw. der Universitätsbibliothek in Kopenhagen aufbewahrt werden (s.o.).
 
-| Siglum | Rekonstruktion nach Geert Andersen (1979) | Foliierung von Accessoria 7, α alpha, HS 2 |
+| Sekundärproviniens/Siglum | Rekonstruktion nach Geert Andersen (1979) | Foliierung von Accessoria 7, α alpha, HS 2 |
 | -- | -- | -- |
 | AM 266 4° | f.(1) | f. 1 |
 | AM 266 4° | f.(2) | f. 2|
 | AM 83 fol<sup>2</sup> | f.(3) | f. 3  |
 | AM 3 fol<sup>2</sup> | f.(4) | f. 4 |
 | AM 83 fol<sup>1</sup> | f.(5) | f. 5 |
-| f.(6) | KB 2-30 fol |  |
-| f.(7) | KB 2-30 fol |  |
-| f.(8) | AM 3 fol<sup>1</sup> | f. 6 |
-| f.(9) | AM 102 fol | f. 7 |
-| f.(10) | AM 102 fol | f. 8 |
-| f.(11) | AM 255 fol<sup>1</sup> | f. 9 |
-| f.(12) | AM 144 fol<sup>1</sup> | f. 10 |
-| f.(13) | AM 255 fol<sup>2</sup> | f. 11 |
-| f.(14) | AM 339 fol<sup>2</sup> | f. 12 |
-| f.(15) | AM 626 4° | f. 13 |
-| f.(16) | AM 112 4° | f. 14 |
-| f.(17) | UB J 1650 8vo ex. 2 |  |
-| f.(18) | AM 333 fol<sup>1</sup> | f. 15 |
-| f.(19) | AM 333 fol<sup>2</sup> | f. 16 |
-| f.(20) | AM 381 4° | f. 17 |
-| f.(21) | AM 376 4° | f. 18 |
-| f.(22) | AM 108 fol<sup>1</sup> | f. 19 |
-| f.(23) | AM ohne Sekundärproveniens | f. 20 |
-| f.(24) | AM 532 4° | f. 21 |
+| KB 2-30 fol | f.(6) |  |
+| KB 2-30 fol | f.(7) |  |
+| AM 3 fol<sup>1</sup> | f.(8) | f. 6 |
+| AM 102 fol | f.(9) | f. 7 |
+| AM 102 fol | f.(10) | f. 8 |
+| AM 255 fol<sup>1</sup> | f.(11) | f. 9 |
+| AM 144 fol<sup>1</sup> | f.(12) | f. 10 |
+| AM 255 fol<sup>2</sup> | f.(13) | f. 11 |
+| AM 339 fol<sup>2</sup> | f.(14) | f. 12 |
+| AM 626 4° | f.(15) | f. 13 |
+| AM 112 4° | f.(16) | f. 14 |
+| UB J 1650 8vo ex. 2 | f.(17) |  |
+| AM 333 fol<sup>1</sup> | f.(18) | f. 15 |
+| AM 333 fol<sup>2</sup> | f.(19) | f. 16 |
+| AM 381 4° | f.(20) | f. 17 |
+| AM 376 4° | f.(21) | f. 18 |
+| AM 108 fol<sup>1</sup> | f.(22) | f. 19 |
+| AM ohne Sekundärproveniens | f.(23) | f. 20 |
+| AM 532 4° | f.(24) | f. 21 |
 | f.(25) | AM 8 fol<sup>1</sup> | f. 22 |
 | f.(26) | AM 1dα fol | f. 23 |
 | f.(27) | AM 8 fol<sup>2</sup> | f. 24 |
