@@ -57,39 +57,39 @@ Die frühere Nummerierung (mit Tinte unten rechts auf die Blätter geschrieben) 
 | AM 30 fol<sup>1</sup> | f. 30 | f. 29 |
 | AM 204 fol<sup>2</sup> | f. 31 | f. 30 |
 | UB Sg. 21701 (Rückseite) | f. 32 |  |
-| f. 33 | AM 209 fol<sup>1</sup> | f. 31 |
-| f. 34 | AM 117 fol<sup>2</sup> | f. 32 |
-| f. 35 | AM 118 fol<sup>1</sup> | f. 33 |
-| f. 36 | AM 328 4° | f. 34 |
-| f. 37 | AM 118 fol<sup>2</sup> | f. 35 |
-| f. 38 | AM 259 fol<sup>2</sup> | f. 36 |
-| f. 39 | AM 180 4° | f. 37 |
-| f. 40 | AM 179 4° | f. 38 |
-| f. 41 | AM 176a fol<sup>1</sup> | f. 39 |
-| f. 42 | AM 491 4° | f. 40 |
-| f. 43 | AM 528 4° | f. 41 |
-| f. 44 | Lbs fragm. 27 |  |
-| f. 45 | AM 540 4° | f. 42 |
-| f. 46 | AM 539 4° | f. 43 |
-| f. 47 | AM 523 4° | f. 44 |
-| f. 48 | AM 537 4° | f. 45 |
-| f. 49 | AM 509 4° | f. 46 |
-| f. 50 | AM 492 4° | f. 47 |
-| f. 51 | AM 297a 4° | f. 48 |
-| f. 52 | AM 522 4° | f. 49 |
-| f. 53 | AM 156 fol<sup>2</sup> | f. 50 |
-| f. 54 | AM 156 fol<sup>1</sup> | f. 51 |
-| f. 55 | AM 530 4° | f. 52 |
-| f. 56 | AM 176a fol<sup>2</sup> | f. 53 |
-| f. 57 | AM 446 4° | f. 54 |
-| f. 58 | AM 728 4° | f. 55 |
-| f. 59 | AM 485 4° | f. 56 |
-| f. 60 | AM 402 4° | f. 57 |
-| f. 61 | NKS 1365 IIa fol | |
-| f. 62 | AM 446 [4°] | f. 58 |
-| f. 63 | Lbs fragm. 19 I |  |
-| f. 64 | Lbs fragm. 19 III |  |
-| f. 65 | Lbs fragm. 19 II |  |
+| AM 209 fol<sup>1</sup> | f. 33 | f. 31 |
+| AM 117 fol<sup>2</sup> | f. 34 | f. 32 |
+| AM 118 fol<sup>1</sup> | f. 35 | f. 33 |
+| AM 328 4° | f. 36 | f. 34 |
+| AM 118 fol<sup>2</sup> | f. 37 | f. 35 |
+| AM 259 fol<sup>2</sup> | f. 38 | f. 36 |
+| AM 180 4° | f. 39 | f. 37 |
+| AM 179 4° | f. 40 | f. 38 |
+| AM 176a fol<sup>1</sup> | f. 41 | f. 39 |
+| AM 491 4° | f. 42 | f. 40 |
+| AM 528 4° | f. 43 | f. 41 |
+| Lbs fragm. 27 | f. 44 |  |
+| AM 540 4° | f. 45 | f. 42 |
+| AM 539 4° | f. 46 | f. 43 |
+| AM 523 4° | f. 47 | f. 44 |
+| AM 537 4° | f. 48 | f. 45 |
+| AM 509 4° | f. 49 | f. 46 |
+| AM 492 4° | f. 50 | f. 47 |
+| AM 297a 4° | f. 51 | f. 48 |
+| AM 522 4° | f. 52 | f. 49 |
+| AM 156 fol<sup>2</sup> | f. 53 | f. 50 |
+| AM 156 fol<sup>1</sup> | f. 54 | f. 51 |
+| AM 530 4° | f. 55 | f. 52 |
+| AM 176a fol<sup>2</sup> | f. 56 | f. 53 |
+| AM 446 4° | f. 57 | f. 54 |
+| AM 728 4° | f. 58 | f. 55 |
+| AM 485 4° | f. 59 | f. 56 |
+| AM 402 4° | f. 60 | f. 57 |
+| NKS 1365 IIa fol | f. 61 | |
+| AM 446 [4°] | f. 62 | f. 58 |
+| Lbs fragm. 19 I | f. 63 |  |
+| Lbs fragm. 19 III | f. 64 |  |
+| Lbs fragm. 19 II | f. 65 |  |
 
     
 ## Schriftraum – Notation – Textschrift
