@@ -32,7 +32,7 @@ Die Blätter waren früher zum Einbinden arnamagnæanischer Handschriften verwen
 | AM 213 fol + AM 171 8° | f. 12 |
 | AM 515 4° | f. 13 |
 
-Die frühere Nummerierung neuern Datums (mit Tinte unten rechts auf die Blätter geschrieben) wird nicht beachtet.
+Die frühere Nummerierung neueren Datums (mit Tinte unten rechts auf die Blätter geschrieben) wird nicht beachtet.
     
 ## Schriftraum – Notation – Textschrift
 
