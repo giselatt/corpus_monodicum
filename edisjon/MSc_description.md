@@ -23,7 +23,7 @@ Zu diesen Codices gehören fünf weitere Blätter und ein kleines Fragment, zum 
 
 Die frühere Nummerierung (mit Tinte unten rechts auf die Blätter geschrieben) wird nicht beachtet.
 
-| Rekonstruktion <br> nach Geert Andersen (1979) | Foliierung von Accessoria 7, aα, HS 1 |
+| Rekonstruktion <br> (Geert Andersen 1979) | Foliierung von Accessoria 7, aα, HS 1 <br> (Geert Anderson 2008) |
 | -- | -- |
 | f.(1) AM 166 4to | f. 1 |
 | f.(2) AM 371 fol<sup>2</sup> | f. 2 |
