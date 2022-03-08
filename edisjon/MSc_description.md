@@ -21,7 +21,7 @@ Alte Signaturen: "Cod. Scard", "Codex B", "Codex D", "Codex J".  Diese Blätter 
 
 Zu diesen Codices gehören fünf weitere Blätter und ein kleines Fragment, zum größten Teil aus anderen Archiven (s.o).
 
-Die frühere Nummerierung (mit Tinte unten rechts auf die Blätter geschrieben) wird nicht beachtet.
+Die frühere Nummerierung neueren Datums (mit Tinte unten rechts auf die Blätter geschrieben) wird nicht beachtet.
 
 | Sekundärproveniens/Siglum | Rekonstruktion <br> (Geert Andersen 1979) | Foliierung von Accessoria 7, aα, HS 1 <br> (Geert Anderson 2008) |
 | -- | -- | -- |
