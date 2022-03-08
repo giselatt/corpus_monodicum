@@ -2,7 +2,7 @@
 
 <b>Handschriften:</b>
 
-- <b>AM Acc. 7 HS 2</b>: Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7, aβ, HS 2 (34 Bl.)
+- <b>AM Acc. 7 HS 2</b>: Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7 aβ, HS 2 (34 Bl.)
 - <b>AM 266 4to</b>: Reykjavik, Stofnun Árna Magnússonar 266 4to (2 Bl.)
 - <b>UB J 1650 8vo ex. 2</b>: Kopenhagen, Universitetsbibliotek J 1650 8vo ex. 2, (Bucheinband um <i>Catalogus Selectiorum omnis generis variique idiomatis Librorum, quorum Auctio, volente Deo, habibetur</i>, Hafniæ 1723) (1 Bl.)
 
@@ -21,7 +21,7 @@ Zu diesen Codices gehören drei weitere Blätter, die am Arnamagnæanischen Inst
 
 Die frühere Nummerierung neuern Datums (mit Tinte unten rechts auf die Blätter geschrieben) wird hier nicht beachtet.
 
-| Sekundärproviniens/Siglum | Rekonstruktion nach Geert Andersen (1979) | Foliierung von Accessoria 7, aβ, HS 2 |
+| Sekundärproviniens/Siglum | Rekonstruktion nach Geert Andersen (1979) | Foliierung von Accessoria 7 aβ, HS 2 |
 | -- | -- | -- |
 | AM 266 4° | f.(1) | f. 1 |
 | AM 266 4° | f.(2) | f. 2|
