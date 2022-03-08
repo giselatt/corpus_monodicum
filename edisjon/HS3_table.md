@@ -2,7 +2,7 @@
 |--|--|--|--|--|
 |AM Acc. 7 HS 3-(1)-11| Magnus deus in universa | Sequenz | Stephanus | AH 7, 201, AH 53, 220 |
 |AM Acc. 7 HS 3-(2)-10| Virgo mater gratuletur | Sequenz | Iohannes Evangelista | AH 40, 246 (1–11b) |
-|AM Acc. 7 HS 3-(3)-1]| Hanc concordi | Sequenz | Octava Stephani | AH 53, 205 (9-12) |
+|AM Acc. 7 HS 3-(3)-1]| Hanc concordi | Sequenz | Octava Stephani | AH 53, 215 (9-12) |
 |AM Acc. 7 HS 3-(3)-5| Virgo mater gratuletur* | Sequenz | Octava Iohannis Evangelistae |AH 40, 246 |
 |AM Acc. 7 HS 3-(3)-6| Iohannes Iesu Christo | Sequenz | Octava Iohannis Evangelistae | AH 53, 168 |
 |AM Acc. 7 HS 3-(3)v-1| Laus tibi Christe cui sapit| Sequenz | Octava innocentium | AH 53, 156 |
