@@ -14,7 +14,7 @@ Alte Signatur: "Codex A". Die Nummerierung (mit Tinte unten rechts auf die Blät
 
 Zu diesem Codex gehören drei weitere Blätter und ein kleines Fragment (AM 117 fol<sup>1</sup>, AM 724 4°, AM 146 4° und AM 171 8°), alle in Accessoria 7b gefunden.
 
-Die Blätter waren früher zum Einbinden folgender arnamagnæanischer Handschriften verwendet:
+Die Blätter waren früher zum Einbinden arnamagnæanischer Handschriften verwendet.
 
 | Sekundärproveniens | Foliierung von Accessoria 7, α beta, HS 3 
 | -- | -- |
@@ -32,7 +32,7 @@ Die Blätter waren früher zum Einbinden folgender arnamagnæanischer Handschrif
 | AM 213 fol + AM 171 8° | f. 12 |
 | AM 515 4° | f. 13 |
 
-Die frühere Nummerierung (mit Tinte unten rechts auf dei Blätter geschrieben) wird nicht beachtet.
+Die frühere Nummerierung (mit Tinte unten rechts auf die Blätter geschrieben) wird nicht beachtet.
     
 ## Schriftraum – Notation – Textschrift
 
