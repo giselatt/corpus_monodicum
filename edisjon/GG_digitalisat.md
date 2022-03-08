@@ -2,7 +2,7 @@
 |--|--|--|--|--|
 | GG-3-13 | Lauda Sion | https://digitalesamlinger.hum.ku.dk/Home/Details/229553 https://digitalesamlinger.hum.ku.dk/Home/Details/229554 https://digitalesamlinger.hum.ku.dk/Home/Details/229555 | Corpus Christi | AH 50, 385 |
 | GG-4v-10 | Benedicta semper sancta | https://digitalesamlinger.hum.ku.dk/Home/Details/229556 https://digitalesamlinger.hum.ku.dk/Home/Details/229557 | Dominica II post Pentecostem | AH 7, 95, AH 53, 81 |
-| GG | O alma trinitas | Sequenz | Dominica III post Pentecostem | AH 7, 97 |
+| GG-5v-5 | O alma trinitas | https://digitalesamlinger.hum.ku.dk/Home/Details/229558 https://digitalesamlinger.hum.ku.dk/Home/Details/229559 | Dominica III post Pentecostem | AH 7, 97 |
 | GG | Voce iubilantes magna | Sequenz | Dominica IV post Pentecostem | AH 10, 37 |
 | GG | Benedicta sit beata* | Sequenz | Dominica VI post Pentecostem | AH 7, 96, AH 53, 81b |
 | GG | Benedicta semper sancta* | Sequenz | Dominica VII post Pentecostem | AH 7, 95, AH 53, 81 |
