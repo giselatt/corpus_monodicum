@@ -16,7 +16,7 @@ Zu diesem Codex gehören drei weitere Blätter und ein kleines Fragment (AM 117 
 
 Die Blätter waren früher zum Einbinden arnamagnæanischer Handschriften verwendet.
 
-| Sekundärproveniens | Foliierung von Accessoria 7 aβ, HS 3 
+| Sekundärproveniens | Foliierung von Accessoria 7 aβ, HS 3 <br> (Geert Anderson 2008) |
 | -- | -- |
 | AM 257 fol<sup>2</sup> | f. 1 |
 | AM 258 fol<sup>2</sup> | f. 2 |
