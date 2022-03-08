@@ -2,7 +2,7 @@
 
 <b>Handschriften:</b>
 
-- <b>AM Acc. 7 HS 1</b>: Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7, α alpha, HS 1 (59 Bl.)
+- <b>AM Acc. 7 HS 1</b>: Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7, aα, HS 1 (59 Bl.)
 - <b>Lbs fragm. 19 I-III</b>: Reykjavik, Landsbókasafn, Lbs fragm. 19 (2 Bl. und ein kleineres Fragment eines dritten Blattes)
 - <b>Lbs fragm. 27</b>: Reykjavik, Landsbókasafn, Lbs fragm. 27 (1 Bl.)
 - <b>UB Sg. 21701</b>: Kopenhagen, Universitetsbiblioteket, UB Sg. 21701 (Bucheinband um <i>Carolii Lundii Notæ ac Observationes in Literas Rom. Pontificis Agapeti II.de Prærogativa atqve Eminentia Regis Upsalensis sive Svioniæ</i>, Upsalis 1703) (2 Bl.)
@@ -23,7 +23,7 @@ Zu diesen Codices gehören fünf weitere Blätter und ein kleines Fragment, zum 
 
 Die frühere Nummerierung (mit Tinte unten rechts auf dei Blätter geschrieben) wird nicht beachtet.
 
-| Rekonstruktion nach Geert Andersen (1979) | Foliierung von Accessoria 7, α alpha, HS 1 |
+| Rekonstruktion nach Geert Andersen (1979) | Foliierung von Accessoria 7, aα, HS 1 |
 | -- | -- |
 | f.(1) AM 166 4to | f. 1 |
 | f.(2) AM 371 fol<sup>2</sup> | f. 2 |
