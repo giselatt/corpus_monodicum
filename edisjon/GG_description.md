@@ -45,19 +45,19 @@ Zu diesen Codices gehören drei weitere Blätter, die am Arnamagnæanischen Inst
 | AM 108 fol<sup>1</sup> | f.(22) | f. 19 |
 | AM ohne Sekundärproveniens | f.(23) | f. 20 |
 | AM 532 4° | f.(24) | f. 21 |
-| f.(25) | AM 8 fol<sup>1</sup> | f. 22 |
-| f.(26) | AM 1dα fol | f. 23 |
-| f.(27) | AM 8 fol<sup>2</sup> | f. 24 |
-| f.(28) | AM 105 4° | f. 25 |
-| f.(29) | AM 166 fol<sup>1</sup> | f. 26 |
-| f.(30) | AM 166 fol<sup>2</sup> | f. 27 |
-| f.(31) | AM 339 fol<sup>1</sup> | f. 28 |
-| f.(32) | AM 108 fol<sup>2</sup> | f. 29 |
-| f.(33) | AM 105 4° | f. 30 |
-| f.(34) | AM 248 fol<sup>1</sup> | f. 31 |
-| f.(35) | AM 248 fol<sup>2</sup> | f. 32 |
-| f.(36) | AM 514 4° | f. 33 |
-| f.(37) | AM 732a V 4° | f. 34 |
+| AM 8 fol<sup>1</sup> | f.(25) | f. 22 |
+| AM 1dα fol | f.(26) | f. 23 |
+| AM 8 fol<sup>2</sup> | f.(27) | f. 24 |
+| AM 105 4° | f.(28) | f. 25 |
+| AM 166 fol<sup>1</sup> | f.(29) | f. 26 |
+| AM 166 fol<sup>2</sup> | f.(30) | f. 27 |
+| AM 339 fol<sup>1</sup> | f.(31) | f. 28 |
+| AM 108 fol<sup>2</sup> | f.(32) | f. 29 |
+| AM 105 4° | f.(33) | f. 30 |
+| AM 248 fol<sup>1</sup> | f.(34) | f. 31 |
+| AM 248 fol<sup>2</sup> | f.(35) | f. 32 |
+| AM 514 4° | f.(36) | f. 33 |
+| AM 732a V 4° | f.(37) | f. 34 |
 
     
 ## Schriftraum – Notation – Textschrift
