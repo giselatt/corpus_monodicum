@@ -9,7 +9,7 @@
 |AM Acc. 7 HS 3-(4)-1| Laetabundus exultet |  Vigilia epiphaniae | https://digitalesamlinger.hum.ku.dk/Home/Details/229617 |
 |AM Acc. 7 HS 3-(4)v-5| Epiphaniam domino |  Epiphania | https://digitalesamlinger.hum.ku.dk/Home/Details/229618 |
 |AM Acc. 7 HS 3-(5)-6| O alma trinitas* |  Dominica VIII post Pentecostem | https://digitalesamlinger.hum.ku.dk/Home/Details/229619 |
-|AM Acc. 7 HS 3-(5)v-?| Voce iubilantes* |  Dominica IX post Pentecostem | https://digitalesamlinger.hum.ku.dk/Home/Details/229620 |
+|AM Acc. 7 HS 3-(5)v-6| Voce iubilantes* |  Dominica IX post Pentecostem | https://digitalesamlinger.hum.ku.dk/Home/Details/229620 |
 |AM Acc. 7 HS 3-(6)-2| Stans a longe |  Dominica XII post Pentecostem | https://digitalesamlinger.hum.ku.dk/Home/Details/229621 |
 |AM Acc. 7 HS 3-(9)-8| Alle cantabile sonet|  Bartholomaeus | https://digitalesamlinger.hum.ku.dk/Home/Details/229627 |
 |AM Acc. 7 HS 3-(9)v-9| De profundis tenebrarum | Augustinus | https://digitalesamlinger.hum.ku.dk/Home/Details/229628 |
