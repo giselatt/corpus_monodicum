@@ -1,6 +1,6 @@
 # AM Acc. 7 HS 3
 
-Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7, aβ, HS 3
+Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7 aβ, HS 3
     
 Graduale (Fragment)
     
