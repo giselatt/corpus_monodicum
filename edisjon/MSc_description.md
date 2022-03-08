@@ -54,7 +54,7 @@ Zu diesen Codices gehören fünf weitere Blätter und ein kleines Fragment, zum 
 | f.(29) AM 209 fol<sup>2</sup> | f. 28 |
 | f.(30) AM 30 fol<sup>1</sup> | f. 29 |
 | f.(31) AM 204 fol<sup>2</sup> | f. 30 |
-| f.(32) UB Sg. 21701 (Rückseite) | f.  |
+| f.(32) UB Sg. 21701 (Rückseite) |  |
 | f.(33) AM 209 fol<sup>1</sup> | f. 31 |
 | f.(34) AM 117 fol<sup>2</sup> | f. 32 |
 | f.(35) AM 118 fol<sup>1</sup> | f. 33 |
