@@ -13,7 +13,7 @@
 |AM Acc. 7 HS 3-(6)-2| Stans a longe | Sequenz | Dominica XII post Pentecostem | AH 7, 231, AH 53, 93 |
 |AM Acc. 7 HS 3-(9)-8| Alle cantabile sonet| Sequenz | Bartholomaeus | AH 8, 137, AH 53, 129 |
 |AM Acc. 7 HS 3-(9)v-9| De profundis tenebrarum<sup>2</sup> | Sequenz | Augustinus | AH 55, 75 (1-5) |
-|AM Acc. 7 HS 3-(10)-1| Sequenzen Precursorem summi regis | Sequenz | Decollatio Iohannis Baptistae | AH 55, 179 (7-18) |
+|AM Acc. 7 HS 3-(10)-1| Precursorem summi regis | Sequenz | Decollatio Iohannis Baptistae | AH 55, 179 (7-18) |
 |AM Acc. 7 HS 3-(10)-13| Sancti baptiste* | Sequenz | Decollatio Iohannis Baptistae | AH 53, 163 |
 |AM Acc. 7 HS 3-(10)v-5| Exultet in gloria | Sequenz | Aegidius | nicht in AH |
 |AM Acc. 7 HS 3-(11)-1| Alle caeleste necnon | Sequenz | Nativitas Mariae | AH 7, 98 (6a-13), AH 53, 97 |
