@@ -41,22 +41,22 @@ Die frühere Nummerierung (mit Tinte unten rechts auf die Blätter geschrieben) 
 | AM 370 fol<sup>2</sup> | f. 14 | f. 14 |
 | AM 389 4° | f. 15 | f. 15 |
 | AM 363 [4°] | f. 16 | f. 16 |
-| f. 17 | AM 259 fol<sup>1</sup> | f. 17 |
-| f. 18 | AM 493 4° | f. 18 |
-| f. 19 | AM 205 fol<sup>2</sup> | f. 19 |
-| f. 20 | AM 261 fol<sup>2</sup> | f. 20 |
-| f. 21 | AM 375 4° | f. 21 |
-| f. 22 | AM 205 fol<sup>1</sup> | f. 22 |
-| f. 23 | AM 30 fol<sup>2</sup> | f. 23 |
-| f. 24 | AM 144 fol<sup>2</sup> | f. 24 |
-| f. 25 | AM 261 fol<sup>1</sup> | f. 25 |
-| f. 26 | UB Sg. 21701 (Vorderseite) |  |
-| f. 27 | AM 637 4° | f. 26 |
-| f. 28 | AM 204 fol<sup>1</sup> | f. 27 |
-| f. 29 | AM 209 fol<sup>2</sup> | f. 28 |
-| f. 30 | AM 30 fol<sup>1</sup> | f. 29 |
-| f. 31 | AM 204 fol<sup>2</sup> | f. 30 |
-| f. 32 | UB Sg. 21701 (Rückseite) |  |
+| AM 259 fol<sup>1</sup> | f. 17 | f. 17 |
+| AM 493 4° | f. 18 | f. 18 |
+| AM 205 fol<sup>2</sup> | f. 19 | f. 19 |
+| AM 261 fol<sup>2</sup> | f. 20 | f. 20 |
+| AM 375 4° | f. 21 | f. 21 |
+| AM 205 fol<sup>1</sup> | f. 22 | f. 22 |
+| AM 30 fol<sup>2</sup> | f. 23 | f. 23 |
+| AM 144 fol<sup>2</sup> | f. 24 | f. 24 |
+| AM 261 fol<sup>1</sup> | f. 25 | f. 25 |
+| UB Sg. 21701 (Vorderseite) | f. 26 |  |
+| AM 637 4° | f. 27 | f. 26 |
+| AM 204 fol<sup>1</sup> | f. 28 | f. 27 |
+| AM 209 fol<sup>2</sup> | f. 29 | f. 28 |
+| AM 30 fol<sup>1</sup> | f. 30 | f. 29 |
+| AM 204 fol<sup>2</sup> | f. 31 | f. 30 |
+| UB Sg. 21701 (Rückseite) | f. 32 |  |
 | f. 33 | AM 209 fol<sup>1</sup> | f. 31 |
 | f. 34 | AM 117 fol<sup>2</sup> | f. 32 |
 | f. 35 | AM 118 fol<sup>1</sup> | f. 33 |
