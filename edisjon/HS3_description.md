@@ -16,21 +16,23 @@ Zu diesem Codex gehören drei weitere Blätter und ein kleines Fragment (AM 117 
 
 Die Blätter waren früher zum Einbinden folgender arnamagnæanischer Handschriften verwendet:
 
-- AM 257 fol<sup>2</sup> (f. 1)
-- AM 258 fol<sup>2</sup> (f. 2)
-- AM 257 fol<sup>1</sup> (f. 3)
-- AM 258 fol<sup>1</sup> (f. 4)
-- AM 117 fol<sup>1</sup> (f. 5)
-- AM 111 4° (f. 6)
-- AM 724 4° (f. 7)
-- AM 146 4° (f. 8)
-- AM 213 fol (f. 9)
-- AM 256 fol<sup>1</sup>  (f. 10)
-- AM 256 fol<sup>2</sup>  (f. 11)
-- AM 213 fol + AM 171 8° (f. 12)
-- AM 515 4° (f. 13)
+| Sekundärproveniens | Foliierung von Accessoria 7, α beta, HS 3 
+| -- | -- |
+| AM 257 fol<sup>2</sup> | f. 1 |
+| AM 258 fol<sup>2</sup> | f. 2 |
+| AM 257 fol<sup>1</sup> | f. 3 |
+| AM 258 fol<sup>1</sup> | f. 4 |
+| AM 117 fol<sup>1</sup> | f. 5 |
+| AM 111 4° | f. 6 |
+| AM 724 4° | f. 7 |
+| AM 146 4° | f. 8 |
+| AM 213 fol | f. 9 |
+| AM 256 fol<sup>1</sup>  | f. 10 |
+| AM 256 fol<sup>2</sup>  | f. 11 |
+| AM 213 fol + AM 171 8° | f. 12 |
+| AM 515 4° | f. 13 |
 
-
+Die frühere Nummerierung (mit Tinte unten rechts auf dei Blätter geschrieben) wird nicht beachtet.
     
 ## Schriftraum – Notation – Textschrift
 
