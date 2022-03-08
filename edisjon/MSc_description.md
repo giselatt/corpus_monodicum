@@ -17,7 +17,7 @@ Pergament, 65 Bl., alle[?] Blätter sind beschnitten, in der Regel mit Textverlu
 
 ## Lagen – Foliierung
 
-Alte Signaturen: "Cod. Scard", "Codex B", "Codex D", "Codex J".  Diese Blätter waren früher zum Einbinden von arnamagnæanischen Handschriften verwendet.
+Alte Signaturen: "Cod. Scard", "Codex B", "Codex D", "Codex J".  Diese Blätter waren früher zum Einbinden von arnamagnæanischen Handschriften verwendet.  Die frühere Nummerierung (mit Tinte unten rechts auf dei Blätter geschrieben) wird nicht beachtet.
 
 Zu diesen Codices gehören fünf weitere Blätter und ein kleines Fragment, zum größten Teil aus anderen Archiven (s.o).
 
