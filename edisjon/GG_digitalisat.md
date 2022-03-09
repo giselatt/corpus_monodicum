@@ -11,8 +11,8 @@
 | GG-9-5 | Voce iubilantes magna* | https://digitalesamlinger.hum.ku.dk/Home/Details/229593 | Dominica XV post Pentecostem | AH 10, 37 |
 | GG-9v-2 | Iubilemus cordis* | https://digitalesamlinger.hum.ku.dk/Home/Details/229594 | Dominica XVI post Pentecostem | AH 54, 165 |
 | GG-9v-15 | Benedicta sit beata* | https://digitalesamlinger.hum.ku.dk/Home/Details/229594 | Dominica XVII post Pentecostem | AH 7, 96, AH 53, 81b | 
-| GG | Benedicta sit beata* | Sequenz | Dominica XXII post Pentecostem | AH 7, 96, AH 53, 81b |
-| GG | Benedicta semper sancta* | Sequenz | Dominica XXIII post Pentecostem | AH 7, 95, AH 53, 81 |
+| GG-10-4 | Benedicta sit beata* | https://digitalesamlinger.hum.ku.dk/Home/Details/229595 | Dominica XXII post Pentecostem | AH 7, 96, AH 53, 81b |
+| GG-10v-4 | Benedicta semper sancta* | https://digitalesamlinger.hum.ku.dk/Home/Details/229596 | Dominica XXIII post Pentecostem | AH 7, 95, AH 53, 81 |
 | GG | Caeli enarrant | Sequenz | Apostoli ? | AH 50, 267 (11a–13) |
 | GG | Clare sanctorum senatus | Sequenz | Apostoli | AH 53, 228 |
 | GG | Iocundare plebs fidelis | Sequenz | Evangelistae | AH 55,7 |
