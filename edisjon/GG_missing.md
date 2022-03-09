@@ -8,4 +8,4 @@
 
 
 ## Feasts (HS 3)
-- Magnus
+- Translatio Magni
