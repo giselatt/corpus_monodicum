@@ -9,8 +9,8 @@
 | GG-7v-11 | O alma trinitas*  | https://digitalesamlinger.hum.ku.dk/Home/Details/229562 | Dominica VIII post Pentecostem | AH 7, 97 |
 | GG-8v-9 | O alma trinitas*  | https://digitalesamlinger.hum.ku.dk/Home/Details/229592 | Dominica XIV post Pentecostem | AH 7, 97 |
 | GG-9-5 | Voce iubilantes magna* | https://digitalesamlinger.hum.ku.dk/Home/Details/229593 | Dominica XV post Pentecostem | AH 10, 37 |
-| GG | Iubilemus cordis* | Sequenz | Dominica XVI post Pentecostem | AH 54, 165 |
-| GG | Benedicta sit beata* | Sequenz | Dominica XVII post Pentecostem | AH 7, 96, AH 53, 81b | 
+| GG-9v-2 | Iubilemus cordis* | https://digitalesamlinger.hum.ku.dk/Home/Details/229594 | Dominica XVI post Pentecostem | AH 54, 165 |
+| GG-9v-15 | Benedicta sit beata* | https://digitalesamlinger.hum.ku.dk/Home/Details/229594 | Dominica XVII post Pentecostem | AH 7, 96, AH 53, 81b | 
 | GG | Benedicta sit beata* | Sequenz | Dominica XXII post Pentecostem | AH 7, 96, AH 53, 81b |
 | GG | Benedicta semper sancta* | Sequenz | Dominica XXIII post Pentecostem | AH 7, 95, AH 53, 81 |
 | GG | Caeli enarrant | Sequenz | Apostoli ? | AH 50, 267 (11a–13) |
