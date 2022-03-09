@@ -8,4 +8,4 @@
 
 
 ## Feasts (HS 3)
-- Translatio Magni
+- Translatio Magni (15.12.)
