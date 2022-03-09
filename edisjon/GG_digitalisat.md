@@ -26,7 +26,7 @@
 | GG | Laudes debitas deo nostro | Sequenz | Virgo et martyr | AH 54, 62 |
 | GG-24-1 | Sacrosancta hodiernae | https://digitalesamlinger.hum.ku.dk/Home/Details/229550 | Andreas | AH 54, 30 (14–19) |
 | GG-24-7 | Virginis venerandae | https://digitalesamlinger.hum.ku.dk/Home/Details/229550 | Barbara | AH 53, 246 |
-| GG-24-13 | Congaudentes exultemus | https://digitalesamlinger.hum.ku.dk/Home/Details/229550 https://digitalesamlinger.hum.ku.dk/Home/Details/229551 | Nicholaus | AH 54, 66 (1–21) |
+| GG-24-13 | Congaudentes exultemus vocali | https://digitalesamlinger.hum.ku.dk/Home/Details/229550 https://digitalesamlinger.hum.ku.dk/Home/Details/229551 | Nicholaus | AH 54, 66 (1–21) |
 | GG | Conceptio mariae virginis | Sequenz | Conceptio Mariae | AH 54, 188 |
 | GG | Regem coeli cantico | Sequenz | Lucia | nicht in AH |
 | GG | Comitis generosi | Sequenz | Translatio Magni | nicht in AH |
