@@ -27,9 +27,9 @@
 | GG-24-1 | Sacrosancta hodiernae | https://digitalesamlinger.hum.ku.dk/Home/Details/229550 | Andreas | AH 54, 30 (14–19) |
 | GG-24-7 | Virginis venerandae | https://digitalesamlinger.hum.ku.dk/Home/Details/229550 | Barbara | AH 53, 246 |
 | GG-24-13 | Congaudentes exsultemus vocali | https://digitalesamlinger.hum.ku.dk/Home/Details/229550 https://digitalesamlinger.hum.ku.dk/Home/Details/229551 | Nicholaus | AH 54, 66 (1–21) |
-| GG | Conceptio mariae virginis | Sequenz | Conceptio Mariae | AH 54, 188 |
-| GG | Regem coeli cantico | Sequenz | Lucia | nicht in AH |
-| GG | Comitis generosi | Sequenz | Translatio Magni | nicht in AH |
+| GG-25-5 | Conceptio mariae virginis | https://digitalesamlinger.hum.ku.dk/Home/Details/229563 https://digitalesamlinger.hum.ku.dk/Home/Details/229564 | Conceptio Mariae | AH 54, 188 |
+| GG-25v-9 | Regem coeli cantico | https://digitalesamlinger.hum.ku.dk/Home/Details/229564 https://digitalesamlinger.hum.ku.dk/Home/Details/229566 | Lucia | nicht in AH |
+| GG-26-12 | Comitis generosi | https://digitalesamlinger.hum.ku.dk/Home/Details/229566 https://digitalesamlinger.hum.ku.dk/Home/Details/229565 | Translatio Magni | nicht in AH |
 | GG | Pure mentis gaudia | Sequenz | Agnes | AH 40, 138 (8a–12b) |
 | GG | Martiris egregii | Sequenz | Vincentius | AH 55, 340 |
 | GG | Dixit dominus ex basan | Sequenz | Conversio Pauli |AH 50, 269 (1–7b, Lac., 9a–10) |
