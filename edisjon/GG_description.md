@@ -93,7 +93,7 @@ f.(3)r–f.(10)v Temporale
 
 - f.(7)r–v Dominica V [post oct. corporis christi] (All.) – Dominica VI – Dominica VII – Dominica VIII (Intr.).  Mit den Sequenzen <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81), <i>O alma</i> (Incipit) (AH 7:97). Gedruckt: Eggen 1968 I, S. 106–109, 109–112, 118–120.
 
-- f.(8)r–f.(9)v Dominica XII [post oct. corporis christi] (Gr.) – Dominica XIII – Dominica XIIII – Dominica XV – Dominica XVI (Off.). Mit den Sequenzen <i>O alma</i> (Incipit) (AH 7:97), <i>Voce iubilantes</i> (Incipit) (AH 10:37), <i>Iubilemus</i> (incipit; am Schreibrand vom Schreiber hinzugefügt) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b). Gedruckt: Eggen 1968 I, S. 118–120, 116–118, 112–114, 106–109.
+- f.(8)r–f.(9)v Dominica XII [post oct. corporis christi] (Gr.) – Dominica XIII – Dominica XIIII – Dominica XV – Dominica XVI (Off.). Mit den Sequenzen <i>O alma</i> (Incipit) (AH 7:97), <i>Voce iubilantes</i> (Incipit) (AH 10:37), <i>Iubilemus</i> (incipit; am Schreibrand vom Schreiber hinzugefügt) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b). Gedruckt: Eggen 1968 I, S. 118–120, 116–118, 112–114, 106–109. [MGA tar feil av søndagene her: må være XIII-XVI]
 
 - f.(10)r–v Dominica XXI [post oct. corporis christi] (Gr.) – Dominica XXII – Dominica XXIII – Dominica XXIIII – Dominica XXV (All.). Mit den Sequenzen <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81). Gedruckt: Eggen 1968 I, S. 106–109, 109–112.
 
