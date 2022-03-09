@@ -6,7 +6,7 @@
 | GG-6v-1 | Voce iubilantes magna | https://digitalesamlinger.hum.ku.dk/Home/Details/229560 | Dominica IV post Pentecostem | AH 10, 37 |
 | GG-7-2 | Benedicta sit beata* | https://digitalesamlinger.hum.ku.dk/Home/Details/229561 | Dominica VI post Pentecostem | AH 7, 96, AH 53, 81b |
 | GG-7-15 | Benedicta semper sancta* | https://digitalesamlinger.hum.ku.dk/Home/Details/229561 | Dominica VII post Pentecostem | AH 7, 95, AH 53, 81 |
-| GG | O alma trinitas*  | Sequenz | Dominica VIII post Pentecostem | AH 7, 97 |
+| GG-7v-11 | O alma trinitas*  | https://digitalesamlinger.hum.ku.dk/Home/Details/229562 | Dominica VIII post Pentecostem | AH 7, 97 |
 | GG | O alma trinitas*  | Sequenz | Dominica XIV post Pentecostem | AH 7, 97 |
 | GG | Voce iubilantes magna* | Sequenz | Dominica XV post Pentecostem | AH 10, 37 |
 | GG | Iubilemus cordis* | Sequenz | Dominica XVI post Pentecostem | AH 54, 165 |
