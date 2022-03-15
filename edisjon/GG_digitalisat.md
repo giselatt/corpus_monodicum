@@ -31,7 +31,7 @@
 | GG-25v-9 | Regem coeli cantico | https://digitalesamlinger.hum.ku.dk/Home/Details/229564 https://digitalesamlinger.hum.ku.dk/Home/Details/229566 | Lucia | nicht in AH |
 | GG-26-12 | Comitis generosi | https://digitalesamlinger.hum.ku.dk/Home/Details/229566 https://digitalesamlinger.hum.ku.dk/Home/Details/229565 | Translatio Magni | nicht in AH |
 | GG-27-1 | Pure mentis gaudia | https://digitalesamlinger.hum.ku.dk/Home/Details/229567 | Agnes | AH 40, 138 (8a–12b) |
-| GG-27-9 | Martiris egregii | https://digitalesamlinger.hum.ku.dk/Home/Details/229567 https://digitalesamlinger.hum.ku.dk/Home/Details/229568 | Vincentius | AH 55, 340 |
+| GG-27-9 | Martiris egregii triumphos | https://digitalesamlinger.hum.ku.dk/Home/Details/229567 https://digitalesamlinger.hum.ku.dk/Home/Details/229568 | Vincentius | AH 55, 340 |
 | GG-28-4 | Dixit dominus ex basan | https://digitalesamlinger.hum.ku.dk/Home/Details/229569 https://digitalesamlinger.hum.ku.dk/Home/Details/229570 | Conversio Pauli |AH 50, 269 (1–7b, Lac., 9a–10) |
 | GG | O vere gratissima* | Sequenz | Octava Agnetis | AH 40, 138, Divisio: Pure mentis |
 | GG | Pangat nostra* | Sequenz | Iohn Crysostom  | AH 9, 390 |
