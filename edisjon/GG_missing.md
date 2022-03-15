@@ -5,6 +5,7 @@
 - Regem coeli (nicht in AH)
 - Comitis generosi (nicht in AH)
 - Ex(s)ulta coelum (AH 9, 243) - sjekk AH 53 s. 167
+- Sollem(p)nitas sancti Pauli (AH 53, 205)
 
 
 
