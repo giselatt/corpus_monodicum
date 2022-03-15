@@ -5,4 +5,6 @@
 
 <b>Martyr egredii</b>: Aa 13-126v-10 9: Tuo ma_tyr - skrivefeil?
 
-<b>Dixit dominus ex basan</b>: AH 8a/b mangler og versene som følger har fått andre numre enn i AH
+<b>Dixit dominus ex basan</b>:
+- AH 8a/b mangler og versene som følger har fått andre numre enn i AH
+- Basan Convertam - soll Convertam wirklich großgeschrieben werden?
