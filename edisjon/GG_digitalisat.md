@@ -40,8 +40,8 @@
 | GG-31-10 | Petre summe | https://digitalesamlinger.hum.ku.dk/Home/Details/229576 https://digitalesamlinger.hum.ku.dk/Home/Details/229577 | Petrus et Paulus | AH 53, 210 |
 | GG-31v-14 | Sollempnitas sancti pauli | https://digitalesamlinger.hum.ku.dk/Home/Details/229577 https://digitalesamlinger.hum.ku.dk/Home/Details/229578 | Paulus | AH 53, 205 |
 | GG-32-13 | Praecursorem summi regis | https://digitalesamlinger.hum.ku.dk/Home/Details/229578 https://digitalesamlinger.hum.ku.dk/Home/Details/229579 | Octava Iohannis Baptistae | AH 42, 252 (1–10a) |
-| GG | Sacerdotem christi martinum | Sequenz | Translatio Martini |AH 53, 181 (1–6, Lac., 17–18) |
-| GG | Iubar mundo geminatur | Sequenz | Octava Petri et Pauli | AH 42, 312 (1a–2b) |
+| GG-33-1 | Sacerdotem christi martinum | https://digitalesamlinger.hum.ku.dk/Home/Details/229580 https://digitalesamlinger.hum.ku.dk/Home/Details/229581 | Translatio Martini |AH 53, 181 (1–6, Lac., 17–18) |
+| GG-33v-2 | Iubar mundo geminatur | https://digitalesamlinger.hum.ku.dk/Home/Details/229581 | Octava Petri et Pauli | AH 42, 312 (1a–2b) |
 | GG | Laurenti david magni | Sequenz | Laurentius | AH 53, 173 (12–14) |
 | GG | Agone triumphali* | Sequenz | Hippolytus | AH 53, 229 |
 | GG | Area virga prime | Sequenz | Assumptio Mariae | AH 7, 107, AH 53, 106a |
