@@ -37,7 +37,7 @@
 | GG-28 | Pangat nostra* | https://digitalesamlinger.hum.ku.dk/Home/Details/229570 | Iohn Crysostom  | AH 9, 390 |
 | GG-28 | Virginis venerandae* | https://digitalesamlinger.hum.ku.dk/Home/Details/229570 | Brigid | AH 53, 246 |
 | GG-30v | Exulta celum | https://digitalesamlinger.hum.ku.dk/Home/Details/229574 | Iohannes Baptista | AH 9, 243 (1–9a) |
-| GG | Petre summe | Sequenz | Petrus et Paulus | AH 53, 210 |
+| GG-31-10 | Petre summe | https://digitalesamlinger.hum.ku.dk/Home/Details/229576 https://digitalesamlinger.hum.ku.dk/Home/Details/229577 | Petrus et Paulus | AH 53, 210 |
 | GG | Sollempnitas sancti pauli | Sequenz | Paulus | AH 53, 205 |
 | GG | Praecursorem summi regis | Sequenz | Octava Iohannis Baptistae | AH 42, 252 (1–10a) |
 | GG | Sacerdotem christi martinum | Sequenz | Translatio Martini |AH 53, 181 (1–6, Lac., 17–18) |
