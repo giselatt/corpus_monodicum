@@ -9,3 +9,4 @@
 - Aa 13-163-5, Lü 11-132-9: AH 8a/b mangler og versene som følger har fått andre numre enn i AH
 - GG: 8a/b - umgekehrte Reihenfolge als in AH
 - Basan Convertam - Großschreibung?
+- w -> vv?
