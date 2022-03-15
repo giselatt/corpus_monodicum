@@ -33,10 +33,10 @@
 | GG-27-1 | Pure mentis gaudia | https://digitalesamlinger.hum.ku.dk/Home/Details/229567 | Agnes | AH 40, 138 (8a–12b) |
 | GG-27-9 | Martiris egregii triumphos | https://digitalesamlinger.hum.ku.dk/Home/Details/229567 https://digitalesamlinger.hum.ku.dk/Home/Details/229568 | Vincentius | AH 55, 340 |
 | GG-28-4 | Dixit dominus ex basan | https://digitalesamlinger.hum.ku.dk/Home/Details/229569 https://digitalesamlinger.hum.ku.dk/Home/Details/229570 | Conversio Pauli |AH 50, 269 (1–7b, Lac., 9a–10) |
-| GG | O vere gratissima* | https://digitalesamlinger.hum.ku.dk/Home/Details/229570 | Octava Agnetis | AH 40, 138, Divisio: Pure mentis |
-| GG | Pangat nostra* | https://digitalesamlinger.hum.ku.dk/Home/Details/229570 | Iohn Crysostom  | AH 9, 390 |
-| GG | Virginis venerandae* | https://digitalesamlinger.hum.ku.dk/Home/Details/229570 | Brigid | AH 53, 246 |
-| GG | Exulta celum | Sequenz | Iohannes Baptista | AH 9, 243 (1–9a) |
+| GG-28| O vere gratissima* | https://digitalesamlinger.hum.ku.dk/Home/Details/229570 | Octava Agnetis | AH 40, 138, Divisio: Pure mentis |
+| GG-28 | Pangat nostra* | https://digitalesamlinger.hum.ku.dk/Home/Details/229570 | Iohn Crysostom  | AH 9, 390 |
+| GG-28 | Virginis venerandae* | https://digitalesamlinger.hum.ku.dk/Home/Details/229570 | Brigid | AH 53, 246 |
+| GG-30v | Exulta celum | https://digitalesamlinger.hum.ku.dk/Home/Details/229574 | Iohannes Baptista | AH 9, 243 (1–9a) |
 | GG | Petre summe | Sequenz | Petrus et Paulus | AH 53, 210 |
 | GG | Sollempnitas sancti pauli | Sequenz | Paulus | AH 53, 205 |
 | GG | Praecursorem summi regis | Sequenz | Octava Iohannis Baptistae | AH 42, 252 (1–10a) |
