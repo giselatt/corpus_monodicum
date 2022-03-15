@@ -7,6 +7,7 @@
 - Ex(s)ulta coelum (AH 9, 243) - sjekk AH 53 s. 167
 - Sollem(p)nitas sancti Pauli (AH 53, 205)
 - Praecursorum summi regis... en baptista (AH 42, 252)
+- Iubar mundo geminatur (AH 42, 312)
 
 
 
