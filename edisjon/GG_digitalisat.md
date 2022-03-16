@@ -42,7 +42,7 @@
 | GG-32-13 | Praecursorem summi regis | https://digitalesamlinger.hum.ku.dk/Home/Details/229578 https://digitalesamlinger.hum.ku.dk/Home/Details/229579 | Octava Iohannis Baptistae | AH 42, 252 (1–10a) |
 | GG-33-1 | Sacerdotem christi martinum | https://digitalesamlinger.hum.ku.dk/Home/Details/229580 https://digitalesamlinger.hum.ku.dk/Home/Details/229581 | Translatio Martini |AH 53, 181 (1–6, Lac., 17–18) |
 | GG-33v-2 | Iubar mundo geminatur | https://digitalesamlinger.hum.ku.dk/Home/Details/229581 | Octava Petri et Pauli | AH 42, 312 (1a–2b) |
-| GG | Laurenti david magni | Sequenz | Laurentius | AH 53, 173 (12–14) |
+| GG-34-1 | Laurenti david magni | https://digitalesamlinger.hum.ku.dk/Home/Details/229582 | Laurentius | AH 53, 173 (12–14) |
 | GG | Agone triumphali* | Sequenz | Hippolytus | AH 53, 229 |
 | GG | Area virga prime | Sequenz | Assumptio Mariae | AH 7, 107, AH 53, 106a |
 | GG | Congaudent angelorum* | Sequenz | Infra octavam assumptionis Mariae | AH 53, 104 |
