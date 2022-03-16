@@ -48,6 +48,6 @@
 | GG-35v | Congaudent angelorum* (Rubrik ohne Notation) | https://digitalesamlinger.hum.ku.dk/Home/Details/229585 | Infra octavam assumptionis Mariae | AH 53, 104 |
 | GG-35v-6 | Stola iocunditatis | https://digitalesamlinger.hum.ku.dk/Home/Details/229585 | Octava Laurentii | AH 54, 61 (1–12) |
 | GG-36-7 | Mera promat uranica | https://digitalesamlinger.hum.ku.dk/Home/Details/229586 https://digitalesamlinger.hum.ku.dk/Home/Details/229587 | Leonardus | nicht in AH |
-| GG | Pangat nostra* | Sequenz | Brictius | AH 9, 390 |
-| GG | Omnis fidelium ecclesia | Sequenz | Edmundus<sup>6</sup> | AH 40, 191 (3a–11) |
-| GG | E< ia christi concio > | Sequenz | Caecilia | nicht in AH |
+| GG-37 | Pangat nostra* (Rubrik ohne Notation) | https://digitalesamlinger.hum.ku.dk/Home/Details/229588 | Brictius | AH 9, 390 |
+| GG-37-1 | Dulci symphonia | https://digitalesamlinger.hum.ku.dk/Home/Details/229589 | Edmundus | AH 40, 191 (3a–11) |
+| GG-37-14 | Eia christi concio (nur erster Buchstabe und eine Note) | https://digitalesamlinger.hum.ku.dk/Home/Details/229589 | Caecilia | nicht in AH |
