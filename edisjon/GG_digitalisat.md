@@ -44,7 +44,7 @@
 | GG-33v-2 | Iubar mundo geminatur | https://digitalesamlinger.hum.ku.dk/Home/Details/229581 | Octava Petri et Pauli | AH 42, 312 (1a–2b) |
 | GG-34-1 | Laurenti david magni | https://digitalesamlinger.hum.ku.dk/Home/Details/229582 | Laurentius | AH 53, 173 (12–14) |
 | GG | Agone triumphali* | Sequenz | Hippolytus | AH 53, 229 |
-| GG | Area virga prime | Sequenz | Assumptio Mariae | AH 7, 107, AH 53, 106a |
+| GG | Area virga prime | https://digitalesamlinger.hum.ku.dk/Home/Details/229583 https://digitalesamlinger.hum.ku.dk/Home/Details/229584 https://digitalesamlinger.hum.ku.dk/Home/Details/229585 | Assumptio Mariae | AH 7, 107, AH 53, 106a |
 | GG | Congaudent angelorum* | Sequenz | Infra octavam assumptionis Mariae | AH 53, 104 |
 | GG | Stola iocunditatis | Sequenz | Octava Laurentii | AH 54, 61 (1–12) |
 | GG | Mera promat uranica | Sequenz | Leonardus | nicht in AH |
