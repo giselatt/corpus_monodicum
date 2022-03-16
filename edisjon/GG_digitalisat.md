@@ -46,7 +46,7 @@
 | GG | Agone triumphali* | Sequenz | Hippolytus | AH 53, 229 |
 | GG | Area virga prime | Sequenz | Assumptio Mariae | AH 7, 107, AH 53, 106a |
 | GG | Congaudent angelorum* | Sequenz | Infra octavam assumptionis Mariae | AH 53, 104 |
-| GG | Stola iocunditatis | Sequenz | Laurentius | AH 54, 61 (1–12) |
+| GG | Stola iocunditatis | Sequenz | Octava Laurentii | AH 54, 61 (1–12) |
 | GG | Mera promat uranica | Sequenz | Leonardus | nicht in AH |
 | GG | Pangat nostra* | Sequenz | Brictius | AH 9, 390 |
 | GG | Omnis fidelium ecclesia | Sequenz | Edmundus<sup>6</sup> | AH 40, 191 (3a–11) |
