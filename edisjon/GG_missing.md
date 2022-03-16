@@ -8,8 +8,11 @@
 - Sollem(p)nitas sancti Pauli (AH 53, 205)
 - Praecursorum summi regis... en baptista (AH 42, 252)
 - Iubar mundo geminatur (AH 42, 312)
+- Mera promat uranica (nicht in AH)
 
 
 
 ## Feasts (HS 3)
 - Translatio Magni (15.12.)
+- Octava Laurentii
+- Leonardus
