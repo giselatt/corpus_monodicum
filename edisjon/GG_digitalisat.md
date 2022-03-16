@@ -43,8 +43,8 @@
 | GG-33-1 | Sacerdotem christi martinum | https://digitalesamlinger.hum.ku.dk/Home/Details/229580 https://digitalesamlinger.hum.ku.dk/Home/Details/229581 | Translatio Martini |AH 53, 181 (1–6, Lac., 17–18) |
 | GG-33v-2 | Iubar mundo geminatur | https://digitalesamlinger.hum.ku.dk/Home/Details/229581 | Octava Petri et Pauli | AH 42, 312 (1a–2b) |
 | GG-34-1 | Laurenti david magni | https://digitalesamlinger.hum.ku.dk/Home/Details/229582 | Laurentius | AH 53, 173 (12–14) |
-| GG | Agone triumphali* (Rubrik ohne Notation) | https://digitalesamlinger.hum.ku.dk/Home/Details/229583 | Hippolytus | AH 53, 229 |
-| GG | Area virga prime | https://digitalesamlinger.hum.ku.dk/Home/Details/229583 https://digitalesamlinger.hum.ku.dk/Home/Details/229584 https://digitalesamlinger.hum.ku.dk/Home/Details/229585 | Assumptio Mariae | AH 7, 107, AH 53, 106a |
+| GG-34 | Agone triumphali* (Rubrik ohne Notation) | https://digitalesamlinger.hum.ku.dk/Home/Details/229583 | Hippolytus | AH 53, 229 |
+| GG-34v-10 | Area virga prime | https://digitalesamlinger.hum.ku.dk/Home/Details/229583 https://digitalesamlinger.hum.ku.dk/Home/Details/229584 https://digitalesamlinger.hum.ku.dk/Home/Details/229585 | Assumptio Mariae | AH 7, 107, AH 53, 106a |
 | GG | Congaudent angelorum* | Sequenz | Infra octavam assumptionis Mariae | AH 53, 104 |
 | GG | Stola iocunditatis | Sequenz | Octava Laurentii | AH 54, 61 (1–12) |
 | GG | Mera promat uranica | Sequenz | Leonardus | nicht in AH |
