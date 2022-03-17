@@ -16,8 +16,8 @@
 | GG-17v-1 | Caeli enarrant | bokbind + https://digitalesamlinger.hum.ku.dk/Home/Details/229535 | Apostoli ? | AH 50, 267 (11a–13) |
 | GG-18r-8 | Clare sanctorum senatus | https://digitalesamlinger.hum.ku.dk/Home/Details/229535 https://digitalesamlinger.hum.ku.dk/Home/Details/229536 | Apostoli | AH 53, 228 |
 | GG-18v-2 | Iucundare plebs fidelis cuius |  https://digitalesamlinger.hum.ku.dk/Home/Details/229536 https://digitalesamlinger.hum.ku.dk/Home/Details/229537 | Evangelistae | AH 55,7 |
-| GG-19 | Unus amor et una concordia | https://digitalesamlinger.hum.ku.dk/Home/Details/229537 https://digitalesamlinger.hum.ku.dk/Home/Details/229538| Martyr et episcopus | AH 8, 281, AH 54, 79 |
-| GG-29v | Adest nobis dies alma | https://digitalesamlinger.hum.ku.dk/Home/Details/229538 https://digitalesamlinger.hum.ku.dk/Home/Details/229539 | Martyr| AH 53:, 241 |
+| GG-19-12 | Unus amor et una concordia | https://digitalesamlinger.hum.ku.dk/Home/Details/229537 https://digitalesamlinger.hum.ku.dk/Home/Details/229538| Martyr et episcopus | AH 8, 281, AH 54, 79 |
+| GG-19v | Adest nobis dies alma | https://digitalesamlinger.hum.ku.dk/Home/Details/229538 https://digitalesamlinger.hum.ku.dk/Home/Details/229539 | Martyr| AH 53:, 241 |
 | GG-20 | Ecce pulcra | https://digitalesamlinger.hum.ku.dk/Home/Details/229539 https://digitalesamlinger.hum.ku.dk/Home/Details/229540 | Plures martyres et virgines | AH 7, 116, AH 53,114 |
 | GG-20v | Agone triumphali | https://digitalesamlinger.hum.ku.dk/Home/Details/229540 | Plures martyres | AH 53, 229 |
 | GG-20v | Supernae matris | https://digitalesamlinger.hum.ku.dk/Home/Details/229540 | Sancti | AH 55, 37 (1–2) |
