@@ -23,13 +23,13 @@ Die frühere Nummerierung neuern Datums (mit Tinte unten rechts auf die Blätter
 
 | Sekundärproviniens/Siglum | Rekonstruktion nach Geert Andersen (1979) | Foliierung von Accessoria 7 aβ, HS 2 |
 | -- | -- | -- |
-| AM 266 4° | f.(1) | f. 1 |
-| AM 266 4° | f.(2) | f. 2|
-| AM 83 fol<sup>2</sup> | f.(3) | f. 3  |
-| AM 3 fol<sup>2</sup> | f.(4) | f. 4 |
-| AM 83 fol<sup>1</sup> | f.(5) | f. 5 |
-| KB 2-30 fol | f.(6) |  |
-| KB 2-30 fol | f.(7) |  |
+| AM 266 4° | f.(1) | |
+| AM 266 4° | f.(2) | |
+| AM 83 fol<sup>2</sup> | f.(3) | f. 1  |
+| AM 3 fol<sup>2</sup> | f.(4) | f. 2 |
+| AM 83 fol<sup>1</sup> | f.(5) | f. 3 |
+| KB 2-30 fol | f.(6) | f. 4 |
+| KB 2-30 fol | f.(7) | f. 5 |
 | AM 3 fol<sup>1</sup> | f.(8) | f. 6 |
 | AM 102 fol | f.(9) | f. 7 |
 | AM 102 fol | f.(10) | f. 8 |
