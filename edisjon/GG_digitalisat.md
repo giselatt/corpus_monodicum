@@ -17,13 +17,13 @@
 | GG-18r-8 | Clare sanctorum senatus | https://digitalesamlinger.hum.ku.dk/Home/Details/229535 https://digitalesamlinger.hum.ku.dk/Home/Details/229536 | Apostoli | AH 53, 228 |
 | GG-18v-2 | Iucundare plebs fidelis cuius |  https://digitalesamlinger.hum.ku.dk/Home/Details/229536 https://digitalesamlinger.hum.ku.dk/Home/Details/229537 | Evangelistae | AH 55,7 |
 | GG-19-12 | Unus amor et una concordia | https://digitalesamlinger.hum.ku.dk/Home/Details/229537 https://digitalesamlinger.hum.ku.dk/Home/Details/229538| Martyr et episcopus | AH 8, 281, AH 54, 79 |
-| GG-19v | Adest nobis dies alma | https://digitalesamlinger.hum.ku.dk/Home/Details/229538 https://digitalesamlinger.hum.ku.dk/Home/Details/229539 | Martyr| AH 53:, 241 |
-| GG-20 | Ecce pulcra | https://digitalesamlinger.hum.ku.dk/Home/Details/229539 https://digitalesamlinger.hum.ku.dk/Home/Details/229540 | Plures martyres et virgines | AH 7, 116, AH 53,114 |
-| GG-20v | Agone triumphali | https://digitalesamlinger.hum.ku.dk/Home/Details/229540 | Plures martyres | AH 53, 229 |
-| GG-20v | Supernae matris | https://digitalesamlinger.hum.ku.dk/Home/Details/229540 | Sancti | AH 55, 37 (1–2) |
-| GG-21 | Rex regum deus noster | https://digitalesamlinger.hum.ku.dk/Home/Details/229541 | Confessor ?| AH 53, 243 (15–18) |
-| GG-21 | Virginis venerandae | https://digitalesamlinger.hum.ku.dk/Home/Details/229541 | Virgo et martyr | AH 53, 246 |
-| GG-21 | Laudes debitas deo nostro | https://digitalesamlinger.hum.ku.dk/Home/Details/229541 https://digitalesamlinger.hum.ku.dk/Home/Details/229542 | Virgo et martyr | AH 54, 62 |
+| GG-19v-8 | Adest nobis dies alma | https://digitalesamlinger.hum.ku.dk/Home/Details/229538 https://digitalesamlinger.hum.ku.dk/Home/Details/229539 | Martyr| AH 53:, 241 |
+| GG-20-5 | Ecce pulcra | https://digitalesamlinger.hum.ku.dk/Home/Details/229539 https://digitalesamlinger.hum.ku.dk/Home/Details/229540 | Plures martyres et virgines | AH 7, 116, AH 53,114 |
+| GG-20v-4 | Agone triumphali | https://digitalesamlinger.hum.ku.dk/Home/Details/229540 | Plures martyres | AH 53, 229 |
+| GG-20v-14 | Supernae matris | https://digitalesamlinger.hum.ku.dk/Home/Details/229540 | Sancti | AH 55, 37 (1–2) |
+| GG-21-1 | Rex regum deus noster | https://digitalesamlinger.hum.ku.dk/Home/Details/229541 | Confessor ?| AH 53, 243 (15–18) |
+| GG-21-3 | Virginis venerandae | https://digitalesamlinger.hum.ku.dk/Home/Details/229541 | Virgo et martyr | AH 53, 246 |
+| GG-21-10 | Laudes debitas deo nostro | https://digitalesamlinger.hum.ku.dk/Home/Details/229541 https://digitalesamlinger.hum.ku.dk/Home/Details/229542 | Virgo et martyr | AH 54, 62 |
 | GG-24-1 | Sacrosancta hodiernae | https://digitalesamlinger.hum.ku.dk/Home/Details/229550 | Andreas | AH 54, 30 (14–19) |
 | GG-24-7 | Virginis venerandae* ((Rubrik ohne Notation) | https://digitalesamlinger.hum.ku.dk/Home/Details/229550 | Barbara | AH 53, 246 |
 | GG-24-13 | Congaudentes exsultemus vocali | https://digitalesamlinger.hum.ku.dk/Home/Details/229550 https://digitalesamlinger.hum.ku.dk/Home/Details/229551 | Nicholaus | AH 54, 66 (1–21) |
