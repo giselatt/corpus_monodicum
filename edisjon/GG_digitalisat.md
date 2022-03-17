@@ -14,16 +14,16 @@
 | GG-10-4 | Benedicta sit beata* | https://digitalesamlinger.hum.ku.dk/Home/Details/229595 | Dominica XXII post Pentecostem | AH 7, 96, AH 53, 81b |
 | GG-10v-4 | Benedicta semper sancta* | https://digitalesamlinger.hum.ku.dk/Home/Details/229596 | Dominica XXIII post Pentecostem | AH 7, 95, AH 53, 81 |
 | GG | Caeli enarrant | Sequenz | Apostoli ? | AH 50, 267 (11a–13) |
-| GG | Clare sanctorum senatus | Sequenz | Apostoli | AH 53, 228 |
-| GG | Iocundare plebs fidelis | Sequenz | Evangelistae | AH 55,7 |
-| GG | Unus amor et una concordia | Sequenz | Martyr et episcopus | AH 8, 281, AH 54, 79 |
-| GG | Adest nobis dies alma | Sequenz | Martyr| AH 53:, 241 |
-| GG | Ecce pulcra | Sequenz | Plures martyres et virgines | AH 7, 116, AH 53,114 |
-| GG | Agone triumphali | Sequenz | Plures martyres | AH 53, 229 |
-| GG | Supernae matris | Sequenz | Sancti | AH 55, 37 (1–2) |
-| GG | Rex regum deus noster | Sequenz | Confessor ?| AH 53, 243 (15–18) |
-| GG | Virginis venerandae | Sequenz | Virgo et martyr | AH 53, 246 |
-| GG | Laudes debitas deo nostro | Sequenz | Virgo et martyr | AH 54, 62 |
+| GG-17v | Clare sanctorum senatus | bokbind + https://digitalesamlinger.hum.ku.dk/Home/Details/229535 https://digitalesamlinger.hum.ku.dk/Home/Details/229536 | Apostoli | AH 53, 228 |
+| GG-18v | Iocundare plebs fidelis | https://digitalesamlinger.hum.ku.dk/Home/Details/229536 https://digitalesamlinger.hum.ku.dk/Home/Details/229536 https://digitalesamlinger.hum.ku.dk/Home/Details/229537 | Evangelistae | AH 55,7 |
+| GG-19 | Unus amor et una concordia | https://digitalesamlinger.hum.ku.dk/Home/Details/229537 https://digitalesamlinger.hum.ku.dk/Home/Details/229538| Martyr et episcopus | AH 8, 281, AH 54, 79 |
+| GG-29v | Adest nobis dies alma | https://digitalesamlinger.hum.ku.dk/Home/Details/229538 https://digitalesamlinger.hum.ku.dk/Home/Details/229539 | Martyr| AH 53:, 241 |
+| GG-20 | Ecce pulcra | https://digitalesamlinger.hum.ku.dk/Home/Details/229539 https://digitalesamlinger.hum.ku.dk/Home/Details/229540 | Plures martyres et virgines | AH 7, 116, AH 53,114 |
+| GG-20v | Agone triumphali | https://digitalesamlinger.hum.ku.dk/Home/Details/229540 | Plures martyres | AH 53, 229 |
+| GG-20v | Supernae matris | https://digitalesamlinger.hum.ku.dk/Home/Details/229540 | Sancti | AH 55, 37 (1–2) |
+| GG-21 | Rex regum deus noster | https://digitalesamlinger.hum.ku.dk/Home/Details/229541 | Confessor ?| AH 53, 243 (15–18) |
+| GG | Virginis venerandae | https://digitalesamlinger.hum.ku.dk/Home/Details/229541 | Virgo et martyr | AH 53, 246 |
+| GG | Laudes debitas deo nostro | https://digitalesamlinger.hum.ku.dk/Home/Details/229541 https://digitalesamlinger.hum.ku.dk/Home/Details/229542 | Virgo et martyr | AH 54, 62 |
 | GG-24-1 | Sacrosancta hodiernae | https://digitalesamlinger.hum.ku.dk/Home/Details/229550 | Andreas | AH 54, 30 (14–19) |
 | GG-24-7 | Virginis venerandae* ((Rubrik ohne Notation) | https://digitalesamlinger.hum.ku.dk/Home/Details/229550 | Barbara | AH 53, 246 |
 | GG-24-13 | Congaudentes exsultemus vocali | https://digitalesamlinger.hum.ku.dk/Home/Details/229550 https://digitalesamlinger.hum.ku.dk/Home/Details/229551 | Nicholaus | AH 54, 66 (1–21) |
