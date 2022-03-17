@@ -11,4 +11,4 @@
 
 <b>Clara sanctorum</b>: Aa 13-167-4: Schreibfehler (6a für 6b)
 
-<b>Iucundare</a>: 1b <-> 2a?  sjekk med AH 55, 7
+<b>Iucundare plebs</b>: 1b <-> 2a?  sjekk med AH 55, 7
