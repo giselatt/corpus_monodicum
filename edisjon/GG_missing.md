@@ -14,7 +14,7 @@
 
 
 
-## Feasts (HS 3)
+## Feasts (GG)
 - Translatio Magni (15.12.)
 - Octava Laurentii
 - Leonardus
