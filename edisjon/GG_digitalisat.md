@@ -20,7 +20,7 @@
 | GG-19v-8 | Adest nobis dies alma | https://digitalesamlinger.hum.ku.dk/Home/Details/229538 https://digitalesamlinger.hum.ku.dk/Home/Details/229539 | Martyr| AH 53:, 241 |
 | GG-20-5 | Ecce pulcra | https://digitalesamlinger.hum.ku.dk/Home/Details/229539 https://digitalesamlinger.hum.ku.dk/Home/Details/229540 | Plures martyres et virgines | AH 7, 116, AH 53,114 |
 | GG-20v-4 | Agone triumphali | https://digitalesamlinger.hum.ku.dk/Home/Details/229540 | Plures martyres | AH 53, 229 |
-| GG-20v-14 | Supernae matris | https://digitalesamlinger.hum.ku.dk/Home/Details/229540 | Sancti | AH 55, 37 (1) |
+| GG-20v-14 | Supernae matris | https://digitalesamlinger.hum.ku.dk/Home/Details/229540 | Sancti | AH 55, 37 (1a-b) |
 | GG-21-1 | Rex regum deus noster | https://digitalesamlinger.hum.ku.dk/Home/Details/229541 | Confessor ?| AH 53, 243 (15–18) |
 | GG-21-3 | Virginis venerandae | https://digitalesamlinger.hum.ku.dk/Home/Details/229541 | Virgo et martyr | AH 53, 246 |
 | GG-21-10 | Laudes debitas deo nostro | https://digitalesamlinger.hum.ku.dk/Home/Details/229541 https://digitalesamlinger.hum.ku.dk/Home/Details/229542 | Virgo et martyr | AH 54, 62 |
