@@ -13,4 +13,4 @@
 
 <b>Iucundare plebs</b>: 1b <-> 2a; 6a/b <-> 7a/b; 9a <-> 9b - sjekk med AH 55, 7
 
-<b>Ecce pulcra</b>: 3b: sancte sancte sante
+<b>Ecce pulcra</b>: Pa 1235-193-1, 3b: sancte sancte sante - Schreibfehler?
