@@ -25,7 +25,7 @@
 | GG-21-3 | Virginis venerandae | https://digitalesamlinger.hum.ku.dk/Home/Details/229541 | Virgo et martyr | AH 53, 246 |
 | GG-21-10 | Laudes debitas deo nostro | https://digitalesamlinger.hum.ku.dk/Home/Details/229541 https://digitalesamlinger.hum.ku.dk/Home/Details/229542 | Virgo et martyr | AH 54, 62 |
 | GG-24-1 | Sacrosancta hodiernae | https://digitalesamlinger.hum.ku.dk/Home/Details/229550 | Andreas | AH 54, 30 (14–19) |
-| GG-24-7 | Virginis venerandae* ((Rubrik ohne Notation) | https://digitalesamlinger.hum.ku.dk/Home/Details/229550 | Barbara | AH 53, 246 |
+| GG-24-7 | Virginis venerandae* (Rubrik ohne Notation) | https://digitalesamlinger.hum.ku.dk/Home/Details/229550 | Barbara | AH 53, 246 |
 | GG-24-13 | Congaudentes exsultemus vocali | https://digitalesamlinger.hum.ku.dk/Home/Details/229550 https://digitalesamlinger.hum.ku.dk/Home/Details/229551 | Nicholaus | AH 54, 66 (1–21) |
 | GG-25-5 | Conceptio mariae virginis | https://digitalesamlinger.hum.ku.dk/Home/Details/229563 https://digitalesamlinger.hum.ku.dk/Home/Details/229564 | Conceptio Mariae | AH 54, 188 |
 | GG-25v-9 | Regem coeli cantico | https://digitalesamlinger.hum.ku.dk/Home/Details/229564 https://digitalesamlinger.hum.ku.dk/Home/Details/229566 | Lucia | nicht in AH |
