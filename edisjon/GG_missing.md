@@ -10,6 +10,7 @@
 - Iubar mundo geminatur (AH 42, 312)
 - Mera promat uranica (nicht in AH)
 - Adest nobis dies alma (AH 53, 241)
+- Laudes debitas deo nostro (AH 54, 62)
 
 
 
