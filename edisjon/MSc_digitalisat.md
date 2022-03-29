@@ -1,15 +1,15 @@
-| Quelle-Folio-Zeile<sup>1</sup> | Textinitium | Gattung | Festtag | Nachweis Text |
+| Quelle-Folio-Zeile | Textinitium | Gattung | Festtag | Nachweis Text |
 |--|--|--|--|--|
 |MSc| Spe mercedis et corone | Sequenz | Thomas Cantuariensis | AH 55, 9 |
-|MSc| Lux fulget hodierna | Sequenz | Dominica infra octavam nativitatis<sup>2</sup> | AH 8, 6 |
+|MSc| Lux fulget hodierna | Sequenz | Dominica infra octavam nativitatis | AH 8, 6 |
 |MSc| Pangat nostra concio | Sequenz | Silvester | AH 9, 390 |
 |MSc| Eia recolamus | Sequenz | Circumcisio domini<sup>3</sup> | AH 53, 16 |
 |MSc| Hanc concordi famulatu | Sequenz | Stephanus | AH 53, 215 |
 |MSc| Iohannes ihesu christo | Sequenz | Iohannes Evangelista | AH 53, 168 |
 |MSc| Laus tibi christe cui sapit | Sequenz | Innocentes | AH 53, 156 | 
-|MSc| Laetabundus exultet | Sequenz | Vigilia epiphaniae<sup>3</sup> | AH 54. 2 |
+|MSc| Laetabundus exultet | Sequenz | Vigilia epiphaniae | AH 54. 2 |
 |MSc| Epiphaniam domino | Sequenz | Epiphania | AH 7, 37, AH 53, 28 |
-|MSc| O mira domini pietas | Sequenz | Infra octava Epiphaniae<sup>3</sup> | siehe AH 53:24 |
+|MSc| O mira domini pietas | Sequenz | Infra octava Epiphaniae | siehe AH 53:24 |
 |MSc| Festa christi omnis | Sequenz | Octava Epiphaniae | AH 53, 29 (1–8) |
 |MSc| Virgini Mariae … O beata | Sequenz | Beata Maria virgo | AH 54, 21 (6–7) |
 |MSc| Virgini Mariae … Eva tristis | Sequenz | Beata Maria virgo | AH 54: 18 |
@@ -44,7 +44,7 @@
 |MSc| O alma trinitas* | Sequenz | Dominica XXIV post Pentecosten | AH 7, 97 |
 |MSc| Caeli enarrant | Sequenz | Apostoli | AH 50, 267 |
 |MSc| Clare sanctorum | Sequenz | Apostoli | AH 53, 228 (1–5) |
-|MSc| Virginis venerandae | Sequenz | Virgo et martyr<sup>5</sup> ? | AH 53, 246 (2–12) |
+|MSc| Virginis venerandae | Sequenz | Virgo et martyr? | AH 53, 246 (2–12) |
 |MSc| Laudes debitas deo nostro | Sequenz | Virgo et martyr<sup>5</sup> | AH 54, 62 (1–14) |
 |MSc| Sancte syon assunt | Sequenz | Dedicatio ecclesiae | AH 55, 33 |
 |MSc| Sacrosancta hodiernae | Sequenz | Andreas | AH 54, 30 |
@@ -55,9 +55,9 @@
 |MSc| Comitis generosi | Sequenz | Translatio Magni | nicht in AH |
 |MSc| ? | Sequenz | Thorlacus | nicht in AH |
 |Msc| Solennitas (solempnitas?) sancti pauli | Sequenz | Paulus | ? |
-|MSc| Praecursorum ... en baptista<sup>6</sup>| Sequenz | Iohannes Baptista<sup>4</sup> | ? |
-|MSc| Psallat eccelsia mater decora | Sequenz | Swithun<sup>3</sup> | AH 37, 306 (...) |
+|MSc| Praecursorum ... en baptista| Sequenz | Iohannes Baptista<sup>4</sup> | ? |
+|MSc| Psallat eccelsia mater decora | Sequenz | Swithun | AH 37, 306 (...) |
 |MSc| Iubar mundo geminatur | Sequenz | Octava Petri et Pauli | AH 42, 312 (...) |
-|MSc| Ecce pulchra* | Sequenz | Sancti in Selio<sup>3</sup> | ? |
+|MSc| Ecce pulchra* | Sequenz | Sancti in Selio| ? |
 |MSc| Sancti merita benedicti | Sequenz | Translatio Benedicti | ? |
-|MSc| H< ac in die magnalia > | Sequenz | Margareta<sup>3</sup> | ? |
+|MSc| H< ac in die magnalia > | Sequenz | Margareta | ? |
