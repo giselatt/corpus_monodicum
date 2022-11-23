@@ -16,7 +16,7 @@
 |AM Acc. 7 HS 3-10-1| Precursorem summi regis |  Decollatio Iohannis Baptistae | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310998 |
 |AM Acc. 7 HS 3-10-13| Sancti baptiste* | Decollatio Iohannis Baptistae | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310998|
 |AM Acc. 7 HS 3-10v-5| Exultet in gloria | Aegidius | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310999|
-|AM Acc. 7 HS 3-11-1| Alle caeleste necnon |  Nativitas Mariae | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/229603 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311000 |
+|AM Acc. 7 HS 3-11-1| Alle caeleste necnon |  Nativitas Mariae | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311000 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311001 |
 |AM Acc. 7 HS 3-11v-6| Salve lignum sanctae crucis | Exaltatio Crucis | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311001 |
 |AM Acc. 7 HS 3-12-1| Alludat letus ordo | Mauritius | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311004|
 |AM Acc. 7 HS 3-12v-7| Ad caelebres rex | Michael | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311005 |
