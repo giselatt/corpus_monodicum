@@ -1,6 +1,6 @@
 | Quelle-Folio-Zeile | Textinitium | Festtag | Lenke til Digitalisat |
 |--|--|--|--|
-|AM Acc. 7 HS 3-1-11| Magnus deus in universa | Stephanus | https://digitalesamlinger.hum.ku.dk/Home/Details/229611 https://digitalesamlinger.hum.ku.dk/Home/Details/229612 |
+|AM Acc. 7 HS 3-1-11| Magnus deus in universa | Stephanus | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311008 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311009 |
 |AM Acc. 7 HS 3-2-10| Virgo mater gratuletur | Iohannes Evangelista | https://digitalesamlinger.hum.ku.dk/Home/Details/229613 https://digitalesamlinger.hum.ku.dk/Home/Details/229614  |
 |AM Acc. 7 HS 3-3-1]| Hanc concordi |  Octava Stephani | https://digitalesamlinger.hum.ku.dk/Home/Details/229615 |
 |AM Acc. 7 HS 3-3-5| Virgo mater gratuletur* | Octava Iohannis Evangelistae | https://digitalesamlinger.hum.ku.dk/Home/Details/229615 |
