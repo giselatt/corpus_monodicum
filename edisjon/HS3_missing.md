@@ -11,9 +11,6 @@
 - Eia Christi concio (nicht in AH)
 - Sponsa Christo dilecta (AH 40, 176)
 - Salve lignum sancte crucis (?AH 54, 122; gleicher Anfang, sonst nicht viel gemeinsam)
-- Praecursorum summi regis... huius ortum (AH 55, 179)
-  (AH 42, 252: Praecursorum summi regis... en baptista: kommt in GG/MSc vor, deshalb die Unterscheidung)
-
 
 ## Feasts (HS 3)
 - Edmundus
