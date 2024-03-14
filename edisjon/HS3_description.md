@@ -88,10 +88,9 @@ Einband nicht erhalten.
 
 Transkription anhand von Digitalisat von schwarz-weiß Photographien, am Original überprüft [hoffentlich].
 
-Online (Stand: 20211206):
+Online (Stand: 20240314):
 
-- https://digitalesamlinger.hum.ku.dk/Home/Samlingerne/13188
-- https://digitalesamlinger.hum.ku.dk/Home/Samlingerne/13189
+- [https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/16802](https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/16802)
 
 Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand des Originals [hoffentlich].
 
