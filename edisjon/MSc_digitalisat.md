@@ -1,6 +1,6 @@
 | Quelle-Folio-Zeile | Textinitium | Digitalisat | Festtag | Nachweis Text |
 |--|--|--|--|--|
-|MSc| Spe mercedis et corone | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310776 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310777 | Thomas Cantuariensis | AH 55, 9 |
+|MSc-1- | Spe mercedis et corone | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310776 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310777 | Thomas Cantuariensis | AH 55, 9 |
 |MSc| Lux fulget hodierna | Sequenz | Dominica infra octavam nativitatis | AH 8, 6 |
 |MSc| Pangat nostra concio | Sequenz | Silvester | AH 9, 390 |
 |MSc| Eia recolamus | Sequenz | Circumcisio domini<sup>3</sup> | AH 53, 16 |
