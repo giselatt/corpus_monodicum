@@ -2,11 +2,11 @@
 |--|--|--|--|--|
 | GG-3-13 | Lauda Sion | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310950 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310951 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310952 | Corpus Christi | AH 50, 385 |
 | GG-4v-10 | Benedicta semper sancta | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310953 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310954 | Dominica II post Pentecostem | AH 7, 95, AH 53, 81 |
-| GG-5v-5 | O alma trinitas | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/229558 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/229559 | Dominica III post Pentecostem | AH 7, 97 |
-| GG-6v-1 | Voce iubilantes magna | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/229560 | Dominica IV post Pentecostem | AH 10, 37 |
-| GG-7-2 | Benedicta sit beata* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/229561 | Dominica VI post Pentecostem | AH 7, 96, AH 53, 81b |
-| GG-7-15 | Benedicta semper sancta* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/229561 | Dominica VII post Pentecostem | AH 7, 95, AH 53, 81 |
-| GG-7v-11 | O alma trinitas*  | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/229562 | Dominica VIII post Pentecostem | AH 7, 97 |
+| GG-5v-5 | O alma trinitas | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310955 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310956 | Dominica III post Pentecostem | AH 7, 97 |
+| GG-6v-1 | Voce iubilantes magna | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310957 | Dominica IV post Pentecostem | AH 10, 37 |
+| GG-7-2 | Benedicta sit beata* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310958 | Dominica VI post Pentecostem | AH 7, 96, AH 53, 81b |
+| GG-7-15 | Benedicta semper sancta* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310958 | Dominica VII post Pentecostem | AH 7, 95, AH 53, 81 |
+| GG-7v-11 | O alma trinitas*  | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310959 | Dominica VIII post Pentecostem | AH 7, 97 |
 | GG-8v-9 | O alma trinitas*  | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/229592 | Dominica XIV post Pentecostem | AH 7, 97 |
 | GG-9-5 | Voce iubilantes magna* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/229593 | Dominica XV post Pentecostem | AH 10, 37 |
 | GG-9v-2 | Iubilemus cordis* (am Rand hinzugefügt, ohne Notation) | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/229594 | Dominica XVI post Pentecostem | AH 54, 165 |
