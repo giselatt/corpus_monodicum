@@ -23,43 +23,43 @@ Die frühere Nummerierung neuern Datums (mit Tinte unten rechts auf die Blätter
 
 | Sekundärproviniens/Siglum | Rekonstruktion nach Geert Andersen (1979) | Foliierung von Accessoria 7 aβ, HS 2 |
 | -- | -- | -- |
-| AM 266 4° | f.(1) | |
-| AM 266 4° | f.(2) | |
-| AM 83 fol<sup>2</sup> | f.(3) | f. 1  |
-| AM 3 fol<sup>2</sup> | f.(4) | f. 2 |
-| AM 83 fol<sup>1</sup> | f.(5) | f. 3 |
-| KB 2-30 fol | f.(6) | f. 4 |
-| KB 2-30 fol | f.(7) | f. 5 |
-| AM 3 fol<sup>1</sup> | f.(8) | f. 6 |
-| AM 102 fol | f.(9) | f. 7 |
-| AM 102 fol | f.(10) | f. 8 |
-| AM 255 fol<sup>1</sup> | f.(11) | f. 9 |
-| AM 144 fol<sup>1</sup> | f.(12) | f. 10 |
-| AM 255 fol<sup>2</sup> | f.(13) | f. 11 |
-| AM 339 fol<sup>2</sup> | f.(14) | f. 12 |
-| AM 626 4° | f.(15) | f. 13 |
-| AM 112 4° | f.(16) | f. 14 |
-| UB J 1650 8vo ex. 2 | f.(17) |  |
-| AM 333 fol<sup>1</sup> | f.(18) | f. 15 |
-| AM 333 fol<sup>2</sup> | f.(19) | f. 16 |
-| AM 381 4° | f.(20) | f. 17 |
-| AM 376 4° | f.(21) | f. 18 |
-| AM 108 fol<sup>1</sup> | f.(22) | f. 19 |
-| AM ohne Sekundärproveniens | f.(23) | f. 20 |
-| AM 532 4° | f.(24) | f. 21 |
-| AM 8 fol<sup>1</sup> | f.(25) | f. 22 |
-| AM 1dα fol | f.(26) | f. 23 |
-| AM 8 fol<sup>2</sup> | f.(27) | f. 24 |
-| AM 105 4° | f.(28) | f. 25 |
-| AM 166 fol<sup>1</sup> | f.(29) | f. 26 |
-| AM 166 fol<sup>2</sup> | f.(30) | f. 27 |
-| AM 339 fol<sup>1</sup> | f.(31) | f. 28 |
-| AM 108 fol<sup>2</sup> | f.(32) | f. 29 |
-| AM 105 4° | f.(33) | f. 30 |
-| AM 248 fol<sup>1</sup> | f.(34) | f. 31 |
-| AM 248 fol<sup>2</sup> | f.(35) | f. 32 |
-| AM 514 4° | f.(36) | f. 33 |
-| AM 732a V 4° | f.(37) | f. 34 |
+| AM 266 4° | f. 1 | |
+| AM 266 4° | f. 2 | |
+| AM 83 fol<sup>2</sup> | f. 3 | f. 1  |
+| AM 3 fol<sup>2</sup> | f. 4 | f. 2 |
+| AM 83 fol<sup>1</sup> | f. 5 | f. 3 |
+| KB 2-30 fol | f. 6 | f. 4 |
+| KB 2-30 fol | f. 7 | f. 5 |
+| AM 3 fol<sup>1</sup> | f. 8 | f. 6 |
+| AM 102 fol | f. 9 | f. 7 |
+| AM 102 fol | f. 10 | f. 8 |
+| AM 255 fol<sup>1</sup> | f. 11 | f. 9 |
+| AM 144 fol<sup>1</sup> | f. 12 | f. 10 |
+| AM 255 fol<sup>2</sup> | f. 13 | f. 11 |
+| AM 339 fol<sup>2</sup> | f. 14 | f. 12 |
+| AM 626 4° | f. 15 | f. 13 |
+| AM 112 4° | f. 16 | f. 14 |
+| UB J 1650 8vo ex. 2 | f. 17 |  |
+| AM 333 fol<sup>1</sup> | f. 18 | f. 15 |
+| AM 333 fol<sup>2</sup> | f. 19 | f. 16 |
+| AM 381 4° | f. 20 | f. 17 |
+| AM 376 4° | f. 21 | f. 18 |
+| AM 108 fol<sup>1</sup> | f. 22 | f. 19 |
+| AM ohne Sekundärproveniens | f. 23 | f. 20 |
+| AM 532 4° | f. 24 | f. 21 |
+| AM 8 fol<sup>1</sup> | f. 25 | f. 22 |
+| AM 1dα fol | f. 26 | f. 23 |
+| AM 8 fol<sup>2</sup> | f. 27 | f. 24 |
+| AM 105 4° | f. 28 | f. 25 |
+| AM 166 fol<sup>1</sup> | f. 29 | f. 26 |
+| AM 166 fol<sup>2</sup> | f. 30 | f. 27 |
+| AM 339 fol<sup>1</sup> | f. 31 | f. 28 |
+| AM 108 fol<sup>2</sup> | f. 32 | f. 29 |
+| AM 105 4° | f. 33 | f. 30 |
+| AM 248 fol<sup>1</sup> | f. 34 | f. 31 |
+| AM 248 fol<sup>2</sup> | f. 35 | f. 32 |
+| AM 514 4° | f. 36 | f. 33 |
+| AM 732a V 4° | f. 37 | f. 34 |
 
     
 ## Schriftraum – Notation – Textschrift
