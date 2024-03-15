@@ -33,9 +33,9 @@
 | GG-27-1 | Pure mentis gaudia | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310964 | Agnes | AH 40, 138 (8a–12b) |
 | GG-27-9 | Martiris egregii triumphos | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310964 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310965 | Vincentius | AH 55, 340 |
 | GG-28-4 | Dixit dominus ex basan | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310966 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310967 | Conversio Pauli |AH 50, 269 (1–7b, Lac., 9a–10) |
-| GG-28-? | O vere gratissima* (Rubrik ohne Notation) | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310967 | Octava Agnetis | AH 40, 138, Divisio: Pure mentis |
-| GG-28-? | Pangat nostra* (Rubrik ohne Notation) | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310967 | Iohn Crysostom  | AH 9, 390 |
-| GG-28-? | Virginis venerandae* (Rubrik ohne Notation) | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310967 | Brigid | AH 53, 246 |
+| GG-28-8a | O vere gratissima* (Rubrik ohne Notation) | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310967 | Octava Agnetis | AH 40, 138, Divisio: Pure mentis |
+| GG-28-8b | Pangat nostra* (Rubrik ohne Notation) | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310967 | Iohn Crysostom  | AH 9, 390 |
+| GG-28-8c | Virginis venerandae* (Rubrik ohne Notation) | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310967 | Brigid | AH 53, 246 |
 | GG-30v-2 | Exulta celum | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310972 | Iohannes Baptista | AH 9, 243 (1–9a) |
 | GG-31-10 | Petre summe | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310973 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310974 | Petrus et Paulus | AH 53, 210 |
 | GG-31v-14 | Sollempnitas sancti pauli | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310974 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310975 | Paulus | AH 53, 205 |
