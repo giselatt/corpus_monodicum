@@ -3,4 +3,4 @@
 
 
 ## Feasts (MSc)
-- 
+- Sexto die natalis domine (CM har Nativitas domini - skal denne brukes?)
