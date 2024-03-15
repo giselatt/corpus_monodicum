@@ -1,4 +1,4 @@
-| Quelle-Folio-Zeile | Textinitium | Gattung | Festtag | Nachweis Text |
+| Quelle-Folio-Zeile | Textinitium | Digitalisat | Festtag | Nachweis Text |
 |--|--|--|--|--|
 |MSc| Spe mercedis et corone | Sequenz | Thomas Cantuariensis | AH 55, 9 |
 |MSc| Lux fulget hodierna | Sequenz | Dominica infra octavam nativitatis | AH 8, 6 |
