@@ -19,7 +19,7 @@ Alte Signaturen: "Cod. Scard.", "Codex E", "Codex F", "Codex G", "Codex J".  Die
 
 Zu diesen Codices gehören drei weitere Blätter, die am Arnamagnæanischen Institut in Reyjavik bzw. der Universitätsbibliothek in Kopenhagen aufbewahrt werden (s.o.).
 
-Die frühere Nummerierung neuern Datums (mit Tinte unten rechts auf die Blätter geschrieben) wird hier nicht beachtet.
+Die frühere Nummerierung neueren Datums (mit Tinte unten rechts auf die Blätter geschrieben) wird hier nicht beachtet.
 
 | Sekundärproviniens/Siglum | Rekonstruktion nach Geert Andersen (1979) | Foliierung von Accessoria 7 aβ, HS 2 |
 | -- | -- | -- |
