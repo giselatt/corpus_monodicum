@@ -15,7 +15,7 @@
 | GG-10v-4 | Benedicta semper sancta* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310993 | Dominica XXIII post Pentecostem | AH 7, 95, AH 53, 81 |
 | GG-17v-1 | Caeli enarrant | bokbind + https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310932 | Apostoli ? | AH 50, 267 (?5a-10b; 10b–13) |
 | GG-18r-8 | Clare sanctorum senatus | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310933 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310936 | Apostoli | AH 53, 228 |
-| GG-18v-2 | Iucundare plebs fidelis cuius |  https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310933 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310937 | Evangelistae | AH 55,7 |
+| GG-18v-2 | Iucundare plebs fidelis cuius |  https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310936 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310937 | Evangelistae | AH 55,7 |
 | GG-19-12 | Unus amor et una concordia | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310937 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310934| Martyr et episcopus | AH 8, 281, AH 54, 79 |
 | GG-19v-8 | Adest nobis dies alma | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310938 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310935 | Martyr| AH 53:, 241 |
 | GG-20-5 | Ecce pulcra | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310939 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310936 | Plures martyres et virgines | AH 7, 116, AH 53,114 |
