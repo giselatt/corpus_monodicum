@@ -18,7 +18,7 @@
 | GG-18v-2 | Iucundare plebs fidelis cuius |  https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310933 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310934 | Evangelistae | AH 55,7 |
 | GG-19-12 | Unus amor et una concordia | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310934 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310935| Martyr et episcopus | AH 8, 281, AH 54, 79 |
 | GG-19v-8 | Adest nobis dies alma | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310935 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310936 | Martyr| AH 53:, 241 |
-| GG-20-5 | Ecce pulcra | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310936 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310936 | Plures martyres et virgines | AH 7, 116, AH 53,114 |
+| GG-20-5 | Ecce pulcra | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310936 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310937 | Plures martyres et virgines | AH 7, 116, AH 53,114 |
 | GG-20v-4 | Agone triumphali | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310937 | Plures martyres | AH 53, 229 |
 | GG-20v-14 | Supernae matris | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310937 | Sancti | AH 55, 37 (1a-b) |
 | GG-21-1 | Rex regum deus noster | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310938 | Confessor ?| AH 53, 243 (15–18) |
