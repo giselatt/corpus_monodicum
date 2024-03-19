@@ -17,7 +17,7 @@ Pergament,  37 Bl.
 
 Alte Signaturen: "Cod. Scard.", "Codex E", "Codex F", "Codex G", "Codex J".  Diese Blätter waren früher zum Einbinden von arnamagnæanischen Handschriften verwendet.
 
-Zu diesen Codices gehören drei weitere Blätter, die am Arnamagnæanischen Institut in Reyjavik bzw. der Universitätsbibliothek in Kopenhagen aufbewahrt werden (s.o.).
+Zu diesen Codices gehören drei weitere Blätter. Eines ist ein Buchumschlag (nur die verso-Seite ist sichtbar). Die zwei anderen befinden sich am Arnamagnæanischen Institut in Reyjavik.
 
 Die frühere Nummerierung neueren Datums (mit Tinte unten rechts auf die Blätter geschrieben) wird hier nicht beachtet.
 
