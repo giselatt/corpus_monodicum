@@ -64,7 +64,7 @@ Die frühere Nummerierung neueren Datums (mit Tinte unten rechts auf die Blätte
     
 ## Schriftraum – Notation – Textschrift
 
-Schreiber: Jón Þorláksson
+Schreiber: Jón Þorláksson (Jón í Langeyjarnesi)
 
 28/29 x 17,5/18 cm, 15 Notensysteme (= 30 Linien). Quadratnotation auf vier schwarzen Linien, Schlüssel: c- und F-Schlüssel [må sjekkes], vertikale Striche. Textualis formata.
 
