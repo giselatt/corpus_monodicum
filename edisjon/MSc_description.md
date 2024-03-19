@@ -98,7 +98,7 @@ Das Missale ist von 2 Schreibern geschrieben:
 
 ### 1) f.(1)r-f.(15)r, f.(41)r<sup>19</sup>-f.(65)v
 
-Schreiber A: Jón Þorláksson (gleicher Schreiber wie Graduale Gufudalense)
+Schreiber A: Jón Þorláksson (Jón í Langeyjarnesi).  Dieser Schreiber hat auch das Graduale Gufudalense geschrieben.
 
 28/29 x 19/19,5 cm, 32 Linien oder 16 Notensysteme. Quadratnotation auf vier schwarzen Linien (rote Linien auf f.(42)v-f.(43)v), Schlüssel: c- und F-Schlüssel [må sjekkes], vertikale Striche. Textualis formata.
 
@@ -106,14 +106,14 @@ Schreiber A: Jón Þorláksson (gleicher Schreiber wie Graduale Gufudalense)
     
 ### 2) f.(15)v-f.(41)<sup>19</sup>
     
-Schreiber B: gleicher Schreiber wie AM Acc. 7 HS 3   
+Schreiber B: Jón Þorláksson (Jón í Hóli).  Dieser Schreiber hat auch die Handschrift AM Acc. 7 HS 3 geschrieben.
     
 26,5/27 x 17,5/18,5 cm, 28 Linien (27 und 29 kommen vor) oder 14 Notensysteme. Quadratnotation auf vier roten Linien, Schlüssel: c- und F-Schlüssel [må sjekkes.] Rezitationszeichen: c + s, vertikale Striche. Textualis formata.
     
 
 ## Ausstattung
 
-Durchgehend rubriziert von Jón Þorláksson. Rote Rubriken. Anmerkungen für den Rubrikenschreiber an mehreren Stellen in den Seitenrändern erhalten (cursiva, schwarze Tinte).  Korrekturen von Jón Þorlákssons Hand.
+Durchgehend rubriziert von Schreiber A. Rote Rubriken. Anmerkungen für den Rubrikenschreiber an mehreren Stellen in den Seitenrändern erhalten (cursiva, schwarze Tinte).  Korrekturen von Schreiber A.
 
 ### 1) f.(1)r-f.(15)r, f.(41)r<sup>19</sup>-f.(65)v
 
