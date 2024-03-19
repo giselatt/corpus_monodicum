@@ -38,7 +38,7 @@ Die frühere Nummerierung neueren Datums (mit Tinte unten rechts auf die Blätte
 
 27/28 x 18/18,5 cm, dreizehn Notensysteme. Quadratnotation auf vier roten Linien, Schlüssel: F-, c-, b- und g-Schlüssel, c-Schlüssel auch in Verbindung mit b-Vorzeichen, außerdem D-Schlüssel in einem Gradualegesang. Textualis formata.
 
-Der Schreiber hat auch Teile des Missale Scardense (MSc) geschrieben.
+Schreiber: Jón Þorláksson (Jón á Hóli).  Der Schreiber hat auch Teile des Missale Scardense (MSc) geschrieben  (Schreiber B).
     
 ## Ausstattung
 
