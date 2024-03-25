@@ -6,7 +6,7 @@
 |MSc| Eia recolamus | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310783 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310784 | Circumcisio domini<sup>3</sup> | AH 53, 16 |
 |MSc| Hanc concordi famulatu | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310784 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310785 | Stephanus | AH 53, 215 |
 |MSc| Iohannes ihesu christo | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310785 | Iohannes Evangelista | AH 53, 168 |
-|MSc| Laus tibi christe cui sapit | Sequenz | Innocentes | AH 53, 156 | 
+|MSc| Laus tibi christe cui sapit | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310785 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310872 | Innocentes | AH 53, 156 | 
 |MSc| Laetabundus exultet | Sequenz | Vigilia epiphaniae | AH 54. 2 |
 |MSc| Epiphaniam domino | Sequenz | Epiphania | AH 7, 37, AH 53, 28 |
 |MSc| O mira domini pietas | Sequenz | Infra octava Epiphaniae | siehe AH 53:24 |
