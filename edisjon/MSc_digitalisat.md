@@ -1,7 +1,7 @@
 | Quelle-Folio-Zeile | Textinitium | Digitalisat | Festtag | Nachweis Text |
 |--|--|--|--|--|
 |MSc| Spe mercedis et corone | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310776 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310777 | Thomas Cantuariensis | AH 55, 9 |
-|MSc| Lux fulget hodierna | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310779 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310780| Dominica infra octavam nativitatis | AH 8, 6 |
+|MSc| Lux fulget hodierna | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310779 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310780| ? Dominica infra octavam nativitatis - ? Sexto die | AH 8, 6 |
 |MSc| Pangat nostra concio | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310781 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310782 | Silvester | AH 9, 390 |
 |MSc| Eia recolamus | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310783 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310784 | Circumcisio domini<sup>3</sup> | AH 53, 16 |
 |MSc| Hanc concordi famulatu | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310784 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310785 | Octava Stephani | AH 53, 215 |
