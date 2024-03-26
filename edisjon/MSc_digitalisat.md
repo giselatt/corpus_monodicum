@@ -7,7 +7,7 @@
 |MSc| Hanc concordi famulatu | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310784 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310785 | Octava Stephani | AH 53, 215 |
 |MSc| Iohannes Iesu Christo | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310785 | Octava Iohannis Evangelistea | AH 53, 168 |
 |MSc| Laus tibi Christe cui sapit | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310785 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310872 | Octava innocentium | AH 53, 156 | 
-|MSc| Laetabundus exultet | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310872 [6r missing] | Vigilia epiphaniae | AH 54. 2 |
+|MSc| Laetabundus exultet | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310872 [6r missing] | Vigilia Epiphaniae | AH 54. 2 |
 |MSc| Epiphaniam domino | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310873 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310874 | Epiphania | AH 7, 37, AH 53, 28 |
 |MSc| O mira domini pietas | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310875 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310876 | Dominica infra octava Epiphaniae | siehe AH 53:24 |
 |MSc| Festa christi omnis | Sequenz | Octava Epiphaniae | AH 53, 29 (1–8) |
