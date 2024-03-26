@@ -104,7 +104,7 @@ f.(11)r–f.(23)v Commune Sanctorum
 
 - f.(14)r–f.(16)v Gradualserie – (f.(12)r) Alleluiaserie – (14r) Traktsserie.
 
-- f.(17)r-v [verso-side av bokbind: <i>Celi enarrant gloriam</i> (AH 50:267 6a–10b)]
+- f.(17)r-v [bokbind: verso-side av bladet synlig: <i>Celi enarrant gloriam</i> (AH 50:267 6a–10b)]
 
 - f.(18)r–f.(20)v Sequenzserie. Mit den Sequenzen <i>Celi enarrant gloriam</i> (AH 50:267 11a–13), <i>Clare sanctorum senatus</i> (AH 53:228), <i>Iocundare plebs fidelis</i> (AH 55:7), <i>Unus amor et una concordia</i> (AH 8:281, 54:79), <i>Adest nobis dies alma</i> (AH 53:241), <i>Ecce pulcra</i> (AH 7:116, 53:114), <i>Agone  triumphali</i> (AH 53:229), <i>Superne matris gaudia</i> (AH 55:37 1). Gedruckt: Eggen 1968 I, S. 201–205, 285–286, 288–291, 295–296, 296–299, 264–266, 292–293, 270 (ms h).
 
