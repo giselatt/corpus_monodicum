@@ -157,7 +157,7 @@ f.(1)r–f.(43)r Temporale
 
 - f.(25)r–v Sabbato [post pentecosten] (Ep.–Seq. (Rubrik)). [sekvens?]
 
-- f.(26) [UB Sg. 21701 - bare én side synlig? recto eller verso? innhold: Lauda sion]
+- f.(26) [UB Sg. 21701 - bare én side synlig - recto eller verso? innhold: Lauda sion]
 
 - f.(27)r–v Dominica I [post trinitatem] (Ev.) – Dominica II (Seq.). Mit der Sequenz <i>O alma trinitas</i> (AH 7:97 1–4a). Gedruckt: Eggen 1968 I, S. 118–120 (ms j).
 
@@ -165,7 +165,7 @@ f.(1)r–f.(43)r Temporale
 
 - f.(29)r–f.(31)v Dominica VII [post trinitatem] (Ep.) – Dominica VIII – Dominica IX – Dominica X (Postcom.). Mit den Sequenzen  <i>O alma trinitas deitas</i> (Incipit) (AH 7:97), <i>Voce iubilantes magna</i> (Incipit) (AH 10:37), <i>Iubilemus cordis</i> (Incipit) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b). Gedruckt: Eggen 1968 I, S. 118–120, 116–118, 112–114, 106–109.
 
-- f.(32) [UB... - bare én side synlig? recto eller verso? innhold?]
+- f.(32) [UB... - bare én side synlig - recto eller verso? innhold? Stans a longe (bare beg.)]
 
 - f.(33)r–v Dominica XI [post trinitatem] (Com.) – Dominica XII – Dominica XIII (Intr.). Mit der Sequenz <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81). Gedruckt: Eggen 1968 I, S. 109–112.
 
