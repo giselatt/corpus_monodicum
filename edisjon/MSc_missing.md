@@ -6,4 +6,5 @@
 ## Feasts (MSc)
 - ? Sexto die natalis domine (CM har Nativitas domini - skal denne brukes?)
 - Circumcisio domini (skal Nativitas domini brukes?)
-- Vigilia epiphaniae
+- Vigilia Epiphaniae
+- Dominica infra octava Epiphaniae
