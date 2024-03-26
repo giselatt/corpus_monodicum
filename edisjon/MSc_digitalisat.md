@@ -10,7 +10,7 @@
 |MSc| Laetabundus exultet | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310872 [6r missing] | Vigilia Epiphaniae | AH 54. 2 |
 |MSc| Epiphaniam domino | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310873 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310874 | Epiphania | AH 7, 37, AH 53, 28 |
 |MSc| O mira domini pietas | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310875 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310876 | Dominica infra octava Epiphaniae | siehe AH 53:24 |
-|MSc| Festa christi omnis | Sequenz | Octava Epiphaniae | AH 53, 29 (1–8) |
+|MSc| Festa christi omnis | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310877 | Octava Epiphaniae | AH 53, 29 (1–8) |
 |MSc| Virgini Mariae … O beata | Sequenz | Beata Maria virgo | AH 54, 21 (6–7) |
 |MSc| Virgini Mariae … Eva tristis | Sequenz | Beata Maria virgo | AH 54: 18 |
 |MSc| Surgit christus cum | Sequenz | Pascha | AH 54, 230 |
