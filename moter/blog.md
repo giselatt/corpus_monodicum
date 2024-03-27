@@ -16,4 +16,4 @@
   - noen av tekstene i MSc
 - Jeg merker at jeg har glemt en del av de tekniske detaljene men tror at jeg har funnet bruksanvisningene på CMs goggle drive og skal studere dem...
 
-- Fargebildene jeg fikk i fjor hjelper veldig når det gjelder å lese hva som står på fragmentene.  Men: fragmentene ser ut til å ha blitt «restaurert» med papir som ødelegger litt noen steder :(  OBS: merking av recto og verso stemmer ikke alltid, har lagt notater om det i de aktuelle bildemappene men må samle dette et annet sted òg slik at jeg kan gi tilbakemelding til AM i København når jeg er ferdig med alle transkriptsjonenene.
+- Fargebildene jeg fikk i fjor hjelper veldig når det gjelder å lese hva som står på fragmentene.  Men: fragmentene ser ut til å ha blitt «restaurert» med papir som ødelegger litt noen steder :(  <i>OBS: merking av recto og verso stemmer ikke alltid, har lagt notater om det i de aktuelle bildemappene men må samle dette et annet sted òg slik at jeg kan gi tilbakemelding til AM i København når jeg er ferdig med alle transkriptsjonenene</i>
