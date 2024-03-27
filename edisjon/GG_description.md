@@ -150,9 +150,9 @@ Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand der Origi
 
 Transkription anhand von Digitalisat von schwarz-weiß Photographien, am Original überprüft [hoffentlich].
 
-Online (Stand: 20211210):
+Online (Stand: 20240326):
 
-- https://digitalesamlinger.hum.ku.dk/Home/Samlingerne/13178
+- https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/16794
 - https://www.ismus.is/i/book/id-1001467
 
 
