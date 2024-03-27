@@ -12,7 +12,7 @@
 
 - Andreas P bekreftet siste helg at transkripsjonene ser ok ut; det som må avklares er om/hvordan dobbeltnoter skal markeres, og hvordan lakuner skal håndteres.
 - De siste dagene har jeg transkribert
-  - de første to sekvensene av GG (jeg <i>ble<i> ferdig med tekstene i 2022)
+  - de første to sekvensene av GG (jeg <i>ble</i> ferdig med tekstene i 2022)
   - noen av tekstene i MSc
 - Jeg merker at jeg har glemt en del av de tekniske detaljene men tror at jeg har funnet bruksanvisningene på CMs goggle drive og skal studere dem...
 
