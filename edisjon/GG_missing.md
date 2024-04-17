@@ -1,6 +1,7 @@
 ## Sequences/Incipits (GG)
 - O alma trinitas deitas (AH 7, 97)
 - Voce iubilantes magna (AH 10, 37)
+- Unus amor et una concordia (AH 8, 281;  AH 54, 79)
 - Sacrosancta hodiernae (AH 54, 30)
 - Conceptio mariae virginis (AH 54, 188)
 - Regem coeli (nicht in AH)
