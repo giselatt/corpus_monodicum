@@ -74,7 +74,7 @@ Schreiber: Jón Þorláksson (Jón í Langeyjarnesi)
 
 Durchgehend rubriziert. Rote Rubriken. Anmerkungen für den Rubrikenschreiber an mehreren Stellen in den Seitenrändern erhalten (cursiva, schwarze Tinte).  Korrekturen im Schriftrand von Jón Þorlákssons Hand.
 
-Zwei- bis fünfzeilige Initialen in grün, rot, gold oder blau, mehrere mit Palmettenmuster in gegenteilger Farbe. Rote Linienfüller.
+Zwei- bis fünfzeilige Initialen in grün, rot, gold oder blau, mehrere mit Palmettenmuster in gegenteiliger Farbe. Rote Linienfüller.
 
 
 ## Einband
