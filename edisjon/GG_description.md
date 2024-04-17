@@ -1,4 +1,4 @@
-?# Graduale Gufudalense (GG)
+# Graduale Gufudalense (GG)
 
 <b>Handschriften:</b>
 
@@ -8,7 +8,7 @@
 
 Graduale (Fragment)
     
-Gufurdalur, Barðastrandarsýsla, Island | 3/4 15. Jahrhundert
+Gufudalur, Barðastrandarsýsla, Island | 3/4 15. Jahrhundert
     
 Pergament,  37 Bl.
 
