@@ -208,7 +208,7 @@ f.(56)v<sup>27</sup>–f.(65)v Sanctorale [sjekk linjenummer]
 f.(63)-f.(65) Lbs fragm. 19 I-III
 
 
-[Sequenzen tabellarisch]([(https://github.com/giselatt/corpus_monodicum/blob/main/edisjon/MSc_digitalisat.md)](https://github.com/giselatt/corpus_monodicum/blob/main/edisjon/MSc_digitalisat.md))
+[Sequenzen tabellarisch] (https://github.com/giselatt/corpus_monodicum/blob/main/edisjon/MSc_digitalisat.md)
 
 ## Herkunft und Geschichte
 
