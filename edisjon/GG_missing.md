@@ -14,7 +14,7 @@
 - Iubar mundo geminatur (AH 42, 312)
 - Mera promat uranica (nicht in AH)
 - Adest nobis dies alma (AH 53, 241)
-- Omnis fidelis ecclesia (AH 40, 191)
+- Dulci symphonia/Omnis fidelis ecclesia (AH 40, 191)
 
 
 
