@@ -22,4 +22,3 @@
 ## Feasts (GG)
 - Translatio Magni (15.12.)
 - Octava Laurentii
-- Leonardus
