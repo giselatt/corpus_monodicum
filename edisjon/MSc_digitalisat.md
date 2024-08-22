@@ -19,29 +19,29 @@
 |MSc| Zima vetus expurgetur | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310769 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310770 | Feria II post Pascha | AH 54, 149 (1–17) |
 |MSc| Laudes christo redempti | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310771 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310772 | Feria IV post Pascha | AH 53, 45 |
 |MSc| Sancta cunctis leticia | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310773 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310774 | Feria VI post Pascha | AH 40, 24 |
-|MSc| Pangamus creatoris | Sequenz | Sabbatum post Pascha | AH 53, 46 |
-|MSc| Laudes salvatori | Sequenz | Dominica I post Pascha | AH 53, 36 (1–14) |
-|MSc| Pangamus creatoris* | Sequenz | Dominica IV post Pascha | AH 53, 46 |
-|MSc| Sancti spiritus assit | Sequenz | Pentecoste | AH 53, 70 |
-|MSc| Almiphona iam gaudia | Sequenz | Feria IV post Pentecosten | AH 7, 79, AH 53, 76 |
-|MSc| Veni spiritus eternorum | Sequenz | Feria V post Pentecosten | AH 53, 71 (1–3) |
+|MSc| Pangamus creatoris | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310786 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310787 | Sabbatum post Pascha | AH 53, 46 |
+|MSc| Laudes salvatori | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310788 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310789 | Dominica I post Pascha | AH 53, 36 (1–14) |
+|MSc| Pangamus creatoris* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310791 | Dominica IV post Pascha | AH 53, 46 |
+|MSc| Sancti spiritus assit | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310792 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310793 | Pentecoste | AH 53, 70 |
+|MSc| Almiphona iam gaudia | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310794 | Feria IV post Pentecosten | AH 7, 79, AH 53, 76 |
+|MSc| Veni spiritus eternorum | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310795 | Feria V post Pentecosten | AH 53, 71 (1–3) |
 |MSc| rubrikk? jf MSG 2008 | Sequenz | Sabbato [post pentecosten] | ? |
 |MSc| Lauda Sion | Sequenz | Corpus Christi | AH 50, 385 |
-|MSc| O alma trinitas | Sequenz | Dominica III post Pentecosten | AH 7, 97 (1–4a) |
-|MSc| Voce iubilantes magna | Sequenz | Dominica IV post Pentecosten | AH 10, 37 |
-|MSc| O alma trinitas* | Sequenz | Dominica VIII post Pentecosten | AH 7, 97 |
-|MSc| Voce iubilantes magna* | Sequenz | Dominica IX post Pentecosten | AH 10, 37 |
-|MSc| Iubilemus cordis* | Sequenz | Dominica X post Pentecosten | AH 54, 165 |
-|MSc| Benedicta sit beata* | Sequenz | Dominica XI post Pentecosten | AH 7, 96, AH 53, 81b |
+|MSc| O alma trinitas | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310799 | Dominica III post Pentecosten | AH 7, 97 (1–4a) |
+|MSc| Voce iubilantes magna | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310800 | Dominica IV post Pentecosten | AH 10, 37 |
+|MSc| O alma trinitas* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310802 | Dominica VIII post Pentecosten | AH 7, 97 |
+|MSc| Voce iubilantes magna* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310803 | Dominica IX post Pentecosten | AH 10, 37 |
+|MSc| Iubilemus cordis* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310805 | Dominica X post Pentecosten | AH 54, 165 |
+|MSc| Benedicta sit beata* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310807 | Dominica XI post Pentecosten | AH 7, 96, AH 53, 81b |
 |MSc| Stans a longa | Sequenz | Dominica XII post Pentecosten | AH 53, 93 |
-|MSc| Benedicta semper sancta* | Sequenz | Dominica XIII post Pentecosten | AH 7, 95, AH 53, 81 |
-|MSc| Voce iubilantes magna* | Sequenz | Dominica XV post Pentecosten | AH 10, 37 |
-|MSc| Iubilemus cordis* | Sequenz | Dominica XVI post Pentecosten | AH 54, 165 |
-|MSc| Voce iubilantes magna* | Sequenz | Dominica XX post Pentecosten | AH 10, 37 |
-|MSc| Iubilemus cordis* | Sequenz | Dominica XXI post Pentecosten | AH 54, 165 |
-|MSc| Benedicta sit beata* | Sequenz | Dominica XXII post Pentecosten | AH 7, 96, AH 53, 81b |
-|MSc| Benedicta semper sancta* | Sequenz | Dominica XXIII post Pentecosten | AH 7, 95, AH 53, 81 |
-|MSc| O alma trinitas* | Sequenz | Dominica XXIV post Pentecosten | AH 7, 97 |
+|MSc| Benedicta semper sancta* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310808 | Dominica XIII post Pentecosten | AH 7, 95, AH 53, 81 |
+|MSc| Voce iubilantes magna* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310810 | Dominica XV post Pentecosten | AH 10, 37 |
+|MSc| Iubilemus cordis* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310812 | Dominica XVI post Pentecosten | AH 54, 165 |
+|MSc| Voce iubilantes magna* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310815 | Dominica XX post Pentecosten | AH 10, 37 |
+|MSc| Iubilemus cordis* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310816 | Dominica XXI post Pentecosten | AH 54, 165 |
+|MSc| Benedicta sit beata* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310818 | Dominica XXII post Pentecosten | AH 7, 96, AH 53, 81b |
+|MSc| Benedicta semper sancta* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310820 | Dominica XXIII post Pentecosten | AH 7, 95, AH 53, 81 |
+|MSc| O alma trinitas* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310821 | Dominica XXIV post Pentecosten | AH 7, 97 |
 |MSc| Caeli enarrant | Sequenz | Apostoli | AH 50, 267 |
 |MSc| Clare sanctorum | Sequenz | Apostoli | AH 53, 228 (1–5) |
 |MSc| Virginis venerandae | Sequenz | Virgo et martyr? | AH 53, 246 (2–12) |
