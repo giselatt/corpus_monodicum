@@ -25,15 +25,15 @@
 |MSc| Sancti spiritus assit | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310792 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310793 | Pentecoste | AH 53, 70 |
 |MSc| Almiphona iam gaudia | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310794 | Feria IV post Pentecosten | AH 7, 79, AH 53, 76 |
 |MSc| Veni spiritus eternorum | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310795 | Feria V post Pentecosten | AH 53, 71 (1–3) |
-|MSc| rubrikk? jf MSG 2008 | Sequenz | Sabbato [post pentecosten] | ? |
-|MSc| Lauda Sion | Sequenz | Corpus Christi | AH 50, 385 |
+|MSc| bare rubrikk | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310797 | Sabbato [post pentecosten] | ? |
+|MSc| Lauda Sion | kein Bild zugänglich | Corpus Christi | AH 50, 385 |
 |MSc| O alma trinitas | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310799 | Dominica III post Pentecosten | AH 7, 97 (1–4a) |
 |MSc| Voce iubilantes magna | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310800 | Dominica IV post Pentecosten | AH 10, 37 |
 |MSc| O alma trinitas* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310802 | Dominica VIII post Pentecosten | AH 7, 97 |
 |MSc| Voce iubilantes magna* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310803 | Dominica IX post Pentecosten | AH 10, 37 |
 |MSc| Iubilemus cordis* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310805 | Dominica X post Pentecosten | AH 54, 165 |
 |MSc| Benedicta sit beata* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310807 | Dominica XI post Pentecosten | AH 7, 96, AH 53, 81b |
-|MSc| Stans a longa | Sequenz | Dominica XII post Pentecosten | AH 53, 93 |
+|MSc| Stans a longa | kein Bild zugänglich | Dominica XII post Pentecosten | AH 53, 93 |
 |MSc| Benedicta semper sancta* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310808 | Dominica XIII post Pentecosten | AH 7, 95, AH 53, 81 |
 |MSc| Voce iubilantes magna* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310810 | Dominica XV post Pentecosten | AH 10, 37 |
 |MSc| Iubilemus cordis* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310812 | Dominica XVI post Pentecosten | AH 54, 165 |
@@ -42,18 +42,18 @@
 |MSc| Benedicta sit beata* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310818 | Dominica XXII post Pentecosten | AH 7, 96, AH 53, 81b |
 |MSc| Benedicta semper sancta* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310820 | Dominica XXIII post Pentecosten | AH 7, 95, AH 53, 81 |
 |MSc| O alma trinitas* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310821 | Dominica XXIV post Pentecosten | AH 7, 97 |
-|MSc| Caeli enarrant | Sequenz | Apostoli | AH 50, 267 |
-|MSc| Clare sanctorum | Sequenz | Apostoli | AH 53, 228 (1–5) |
-|MSc| Virginis venerandae | Sequenz | Virgo et martyr? | AH 53, 246 (2–12) |
-|MSc| Laudes debitas deo nostro | Sequenz | Virgo et martyr<sup>5</sup> | AH 54, 62 (1–14) |
-|MSc| Sancte syon assunt | Sequenz | Dedicatio ecclesiae | AH 55, 33 |
-|MSc| Sacrosancta hodiernae | Sequenz | Andreas | AH 54, 30 |
-|MSc| Laudes debitas* | Sequenz | Barbara | AH 54, 62 |
-|MSc| Congaudentes exultemus | Sequenz | Nicholaus | AH 54, 66 |
-|MSc| Conceptio mariae virginis | Sequenz | Conceptio Mariae | AH 54, 188 |
-|MSc| Regem celi cantico | Sequenz | Lucia | nicht in AH |
-|MSc| Comitis generosi | Sequenz | Translatio Magni | nicht in AH |
-|MSc| ? | Sequenz | Thorlacus | nicht in AH |
+|MSc| Caeli enarrant | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310848 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310849 | Apostoli | AH 50, 267 |
+|MSc| Clare sanctorum | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310849 | Apostoli | AH 53, 228 (1–5) |
+|MSc| Virginis venerandae | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310850 | Virgo et martyr? | AH 53, 246 (2–12) |
+|MSc| Laudes debitas deo nostro | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310850 | Virgo et martyr<sup>5</sup> | AH 54, 62 (1–14) |
+|MSc| Sancte syon assunt | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310856 | Dedicatio ecclesiae | AH 55, 33 |
+|MSc| Sacrosancta hodiernae | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310860 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310863 | Andreas | AH 54, 30 |
+|MSc| Laudes debitas* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310864 | Barbara | AH 54, 62 |
+|MSc| Congaudentes exultemus | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310864 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310865 | Nicholaus | AH 54, 66 |
+|MSc| Conceptio mariae virginis | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310867 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310868 | Conceptio Mariae | AH 54, 188 |
+|MSc| Regem celi cantico* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310869 | Lucia | nicht in AH |
+|MSc| Comitis generosi | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310869 | Translatio Magni | nicht in AH |
+|MSc| ? | kein Bild zugänglich | Thorlacus | nicht in AH |
 |Msc| Solennitas (solempnitas?) sancti pauli | Sequenz | Paulus | ? |
 |MSc| Praecursorum ... en baptista| Sequenz | Iohannes Baptista<sup>4</sup> | ? |
 |MSc| Psallat eccelsia mater decora | Sequenz | Swithun | AH 37, 306 (...) |
