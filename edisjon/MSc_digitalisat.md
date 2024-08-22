@@ -54,7 +54,7 @@
 |MSc| Regem celi cantico* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310869 | Lucia | nicht in AH |
 |MSc| Comitis generosi | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310869 | Translatio Magni | nicht in AH |
 |MSc| ? | kein Bild zugänglich | Thorlacus | nicht in AH |
-|Msc| Solennitas (solempnitas?) sancti pauli | Sequenz | Paulus | ? |
+|Msc| Sollempnitas sancti pauli | Sequenz | Paulus | AH 53, 205 |
 |MSc| Praecursorum ... en baptista| Sequenz | Iohannes Baptista<sup>4</sup> | ? |
 |MSc| Psallat eccelsia mater decora | Sequenz | Swithun | AH 37, 306 (...) |
 |MSc| Iubar mundo geminatur | Sequenz | Octava Petri et Pauli | AH 42, 312 (...) |
