@@ -20,6 +20,7 @@
 
 
 ## Feasts (GG)
+- Virgo et martyr -> Virgines?
 - Translatio Magni (15.12.)
 - Octava Laurentii
 - Edmundus
