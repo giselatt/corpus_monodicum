@@ -13,7 +13,7 @@
 |MSc| Festa christi omnis | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310877 | Octava Epiphaniae | AH 53, 29 (1–8) |
 |MSc| Virgini Mariae … O beata | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310764 | Beata Maria virgo | AH 54, 21 (6–7) |
 |MSc| Virgini Mariae … Eva tristis | (https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310764) | Beata Maria virgo | AH 54, 18 |
-|MSc| Surgit christus cum | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310765 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310766 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310767 | Pascha | AH 54, 230 |
+|MSc| Surgit christus cum | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310765 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310766 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310767 | Pascha | AH 54, 230b |
 |MSc| Resurrexit leo fortis | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310767 | Pascha | nicht in AH |
 |MSc| Fulgens preclara | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310767 | Pascha | AH 7, 44 (1–5b); AH 53, 35 (1–9) |
 |MSc| Zima vetus expurgetur | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310769 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310770 | Feria II post Pascha | AH 54, 149 (1–17) |
