@@ -9,3 +9,5 @@
 - Circumcisio domini (skal Nativitas domini eller Infra octavam nativitatis brukes?)
 - Vigilia Epiphaniae
 - Dominica infra octava Epiphania (Infra octavam epiphanie?)
+- Dom. Resurrectionis - vorhanden aber nicht in Verbindung mit Sequenzen
+- Feria II oder Fer. 2?  Fehlende Konsequenz bei CM
