@@ -2,6 +2,7 @@
 - Spe mercedis et corone (AH 55, 9)
 - Pangat nostra (AH 9, 390)
 - O mira domini pietas (siehe AH 53, 24)
+- Resurrexit leo fortis (nicht in AH)
 
 
 ## Feasts (MSc)
