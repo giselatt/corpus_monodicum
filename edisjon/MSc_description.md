@@ -155,7 +155,7 @@ f.(1)r–f.(43)r Temporale
 
 - f.(24)r–v Feria IV [post pentecosten] (All.) – Feria V (Seq.). Mit den Sequenzen <i>Almiphona iam gaudia</i> (AH 7:79, 53:76), <i>Veni spiritus eternorum</i> (AH 53:71 1–3). Gedruckt: Eggen 1968 I, S. 104–105, 105–106 (ms j).
 
-- f.(25)r–v Sabbato [post pentecosten] (Ep.–Seq. (Rubrik)). [sekvens?]
+- f.(25)r–v Sabbato [post pentecosten] (Ep.–Seq. (Rubrik)). [bare rubrikk nederst på 25v, hvilken sekvens forblir ukjent]
 
 - f.(26) [UB Sg. 21701 - bare én side synlig - recto eller verso? innhold: Lauda sion]
 
