@@ -3,6 +3,7 @@
 - Pangat nostra (AH 9, 390)
 - O mira domini pietas (siehe AH 53, 24)
 - Resurrexit leo fortis (nicht in AH)
+- Clare sanctorum (AH 53, 228) (+ GG)
 
 
 ## Feasts (MSc)
