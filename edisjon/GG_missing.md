@@ -1,5 +1,4 @@
 ## Sequences/Incipits (GG)
-- O alma trinitas deitas (AH 7, 97)
 - Voce iubilantes magna (AH 10, 37)
 - Unus amor et una concordia (AH 8, 281;  AH 54, 79)
 - Laudes debitas deo nostro (AH 54, 62)
