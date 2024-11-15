@@ -2,7 +2,6 @@
 - Clare sanctorum (AH 53, 228)
 - Voce iubilantes magna (AH 10, 37)
 - Unus amor et una concordia (AH 8, 281;  AH 54, 79)
-- Virginis venerandae (AH 53, 246)
 - Laudes debitas deo nostro (AH 54, 62)
 - Sacrosancta hodiernae (AH 54, 30)
 - Conceptio mariae virginis (AH 54, 188)
