@@ -4,7 +4,7 @@
 - O mira domini pietas (siehe AH 53, 24)
 - Resurrexit leo fortis (nicht in AH)
 - Clare sanctorum (AH 53, 228) (+ GG)
-- Sacrosancto hodierna (AH 54, 30) (+ GG)
+- Sacrosancta hodierna (AH 54, 30) (+ GG)
 
 
 ## Feasts (MSc)
