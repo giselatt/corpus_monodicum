@@ -4,6 +4,7 @@
 - O mira domini pietas (siehe AH 53, 24)
 - Resurrexit leo fortis (nicht in AH)
 - Clare sanctorum (AH 53, 228) (+ GG)
+- Virginis venerandae (AH 53, 246) (+GG)
 
 
 ## Feasts (MSc)
