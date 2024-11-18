@@ -5,6 +5,7 @@
 - Resurrexit leo fortis (nicht in AH)
 - Clare sanctorum (AH 53, 228) (+ GG)
 - Sacrosancta hodierna (AH 54, 30) (+ GG)
+- Conceptio Mariae (AH 54, 188) (+GG)
 
 
 ## Feasts (MSc)
