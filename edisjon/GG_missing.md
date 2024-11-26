@@ -5,7 +5,7 @@
 - Laudes debitas deo nostro (AH 54, 62)
 - Sacrosancta hodiernae (AH 54, 30)
 - Conceptio mariae virginis (AH 54, 188)
-- Regem coeli (nicht in AH)
+- Regem caeli cantico (nicht in AH)
 - Comitis generosi (nicht in AH)
 - Pure mentis gaudia (AH 40, 138)
 - Ex(s?)ulta coelum (AH 9, 243)
