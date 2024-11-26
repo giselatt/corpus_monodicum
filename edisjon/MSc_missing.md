@@ -8,6 +8,9 @@
 - Conceptio Mariae (AH 54, 188) (+GG)
 - Regem caeli cantico (nicht in AH) (+GG)
 - Comitis generosi (nicht in AH) (+GG)
+- Sollemnitas sancti Pauli (AH 53, 205) (+GG)
+- Praecursorum summi regis... en baptista (AH 42, 252) (+GG)
+- Iubar mundo geminatur (AH 42, 312) (+GG)
 
 
 ## Feasts (MSc)
