@@ -17,3 +17,4 @@
 - Dominica infra octava Epiphania (Infra octavam epiphanie?)
 - Dom. Resurrectionis - vorhanden aber nicht in Verbindung mit Sequenzen
 - Feria II oder Fer. 2?  Fehlende Konsequenz bei CM
+- Translatio Magni (15.12.) (+GG)
