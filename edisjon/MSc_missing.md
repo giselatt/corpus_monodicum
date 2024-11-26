@@ -6,6 +6,7 @@
 - Clare sanctorum (AH 53, 228) (+ GG)
 - Sacrosancta hodierna (AH 54, 30) (+ GG)
 - Conceptio Mariae (AH 54, 188) (+GG)
+- Regem caeli cantico (nicht in AH) (+GG)
 
 
 ## Feasts (MSc)
