@@ -11,7 +11,7 @@
 - Sollemnitas sancti Pauli (AH 53, 205) (+GG)
 - Praecursorum summi regis... en baptista (AH 42, 252) (+GG)
 - Iubar mundo geminatur (AH 42, 312) (+GG)
-- Psallat ecclesia mater decora (
+- Psallat ecclesia mater decora (AH 37, 306) - CM hat Psallat ecclesia mater illibata (AH 53, 247)
 
 
 ## Feasts (MSc)
