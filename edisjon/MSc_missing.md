@@ -12,6 +12,7 @@
 - Praecursorum summi regis... en baptista (AH 42, 252) (+GG)
 - Iubar mundo geminatur (AH 42, 312) (+GG)
 - Psallat ecclesia mater decora (AH 37, 306) - CM hat Psallat ecclesia mater illibata (AH 53, 247)
+- Hac in die magnalia (AH 40, 284) [nur erste Note - nicht mitnehmen?]
 
 
 ## Feasts (MSc)
