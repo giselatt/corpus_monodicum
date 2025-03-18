@@ -88,7 +88,7 @@ Einband nicht erhalten.
 
 Transkription anhand von Digitalisat von schwarz-weiß Photographien, an neueren Farbdigitalisaten überprüft.
 
-Online (Stand: 20240314):
+Online (Stand: 20250318):
 
 - [https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/16802](https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/16802)
 
