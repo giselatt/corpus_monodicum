@@ -86,13 +86,13 @@ Einband nicht erhalten.
 
 ## Vorlagen
 
-Transkription anhand von Digitalisat von schwarz-weiß Photographien, am Original überprüft [hoffentlich].
+Transkription anhand von Digitalisat von schwarz-weiß Photographien, an neueren Farbdigitalisaten überprüft.
 
 Online (Stand: 20240314):
 
 - [https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/16802](https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/16802)
 
-Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand des Originals [hoffentlich].
+Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand neuerer Farbdigitalisate.
 
 ## Literatur
 
