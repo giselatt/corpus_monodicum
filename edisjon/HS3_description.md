@@ -10,7 +10,7 @@ Pergament, 13 Bl. (ein Doppelblatt, 11 Einzelblätter und ein kleines Fragment),
     
 ## Lagen – Foliierung
 
-Alte Signatur: "Codex A". Die Nummerierung (mit Tinte unten rechts auf die Blätter geschrieben) wird hier nicht beachtet.
+Alte Signatur: "Codex A".
 
 Zu diesem Codex gehören drei weitere Blätter und ein kleines Fragment (AM 117 fol<sup>1</sup>, AM 724 4°, AM 146 4° und AM 171 8°), alle in Accessoria 7b gefunden.
 
