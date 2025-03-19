@@ -10,7 +10,8 @@ Pergament, 13 Bl. (ein Doppelblatt, 11 Einzelblätter und ein kleines Fragment),
     
 ## Lagen – Foliierung
 
-Alte Signatur: "Codex A".
+Alte Signatur: "Codex A". 
+Die frühere Nummerierung neueren Datums (mit Tinte unten rechts auf die Blätter geschrieben) wird nicht beachtet.
 
 Zu diesem Codex gehören drei weitere Blätter und ein kleines Fragment (AM 117 fol<sup>1</sup>, AM 724 4°, AM 146 4° und AM 171 8°), alle in Accessoria 7b gefunden.
 
@@ -31,8 +32,6 @@ Die Blätter waren früher zum Einbinden arnamagnæanischer Handschriften verwen
 | AM 256 fol<sup>2</sup>  | f. 11 |
 | AM 213 fol + AM 171 8° | f. 12 |
 | AM 515 4° | f. 13 |
-
-Die frühere Nummerierung neueren Datums (mit Tinte unten rechts auf die Blätter geschrieben) wird nicht beachtet.
     
 ## Schriftraum – Notation – Textschrift
 
