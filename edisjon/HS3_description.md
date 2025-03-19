@@ -11,11 +11,12 @@ Pergament, 13 Bl. (ein Doppelblatt, 11 Einzelblätter und ein kleines Fragment),
 ## Lagen – Foliierung
 
 Alte Signatur: "Codex A". 
-Die frühere Nummerierung neueren Datums (mit Tinte unten rechts auf die Blätter geschrieben) wird nicht beachtet.
 
 Zu diesem Codex gehören drei weitere Blätter und ein kleines Fragment (AM 117 fol<sup>1</sup>, AM 724 4°, AM 146 4° und AM 171 8°), alle in Accessoria 7b gefunden.
 
-Die Blätter waren früher zum Einbinden arnamagnæanischer Handschriften verwendet.
+Die frühere Nummerierung neueren Datums (mit Tinte unten rechts auf die Blätter geschrieben) wird nicht beachtet.
+
+Die Blätter waren zum Einbinden arnamagnæanischer Handschriften verwendet.
 
 | Sekundärproveniens | Foliierung von Accessoria 7 aβ, HS 3 <br> (Geert Anderson 2008) |
 | -- | -- |
