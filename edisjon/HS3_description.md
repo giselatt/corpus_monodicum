@@ -82,7 +82,7 @@ Einband nicht erhalten.
 
 ## Herkunft und Geschichte
 
---- kommt ingendwann---
+--- kommt irgendwann---
 
 ## Vorlagen
 
