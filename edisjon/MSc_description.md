@@ -2,7 +2,7 @@
 
 <b>Handschriften:</b>
 
-- <b>AM Acc. 7 HS 1</b>: Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7 aα, HS 1 (57 Bl. und ein kleineres Fragment)
+- <b>AM Acc. 7 Hs 1</b>: Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7, Hs 1 (57 Bl. und ein kleineres Fragment)
 - <b>Lbs fragm. 19 I-III</b>: Reykjavik, Landsbókasafn, Lbs fragm. 19 (2 Bl. und ein kleineres Fragment eines dritten Blattes)
 - <b>Lbs fragm. 27</b>: Reykjavik, Landsbókasafn, Lbs fragm. 27 (1 Bl.)
 - <b>UB Sg. 21701</b>: Kopenhagen, Universitetsbiblioteket, UB Sg. 21701 (Bucheinband um <i>Carolii Lundii Notæ ac Observationes in Literas Rom. Pontificis Agapeti II.de Prærogativa atqve Eminentia Regis Upsalensis sive Svioniæ</i>, Upsalis 1703) (2 Bl., nur jeweils eine Seite sichtbar)
@@ -23,7 +23,7 @@ Zu diesen Codices gehören fünf weitere Blätter und ein kleines Fragment, zum 
 
 Die frühere Nummerierung neueren Datums (mit Tinte unten rechts auf die Blätter geschrieben) wird nicht beachtet.
 
-| Sekundärproveniens/Siglum | Rekonstruktion <br> (Geert Andersen 1979) | Foliierung von Accessoria 7 aα, HS 1 <br> (Geert Anderson 2008) |
+| Sekundärproveniens/Siglum | Rekonstruktion <br> (Geert Andersen 1979) | Foliierung von Accessoria 7, Hs 1 <br> (Geert Anderson 2008) |
 | -- | -- | -- |
 | AM 166 4to | f. 1 | f. 1 |
 | AM 371 fol<sup>2</sup> | f. 2 | f. 2 |
@@ -106,7 +106,7 @@ Schreiber A: Jón Þorláksson (Jón í Langeyjarnesi).  Dieser Schreiber hat au
     
 ### 2) f.(15)v-f.(41)<sup>19</sup>
     
-Schreiber B: Jón Þorláksson (Jón á Hóli).  Dieser Schreiber hat auch die Handschrift AM Acc. 7 HS 3 geschrieben.
+Schreiber B: Jón Þorláksson (Jón á Hóli).  Dieser Schreiber hat auch die Handschrift AM Acc. 7 Hs 3 geschrieben.
     
 26,5/27 x 17,5/18,5 cm, 28 Linien (27 und 29 kommen vor) oder 14 Notensysteme. Quadratnotation auf vier roten Linien, Schlüssel: c- und F-Schlüssel [må sjekkes.] Rezitationszeichen: c + s, vertikale Striche. Textualis formata.
     
