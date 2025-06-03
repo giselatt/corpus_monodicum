@@ -1,6 +1,6 @@
-# AM Acc. 7 HS 3
+# AM Acc. 7 Hs 3
 
-Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7 aβ, HS 3
+Kopenhagen, Den Arnamagnæanske Håndskriftsamling, Accessoria 7, Hs 3
     
 Graduale (Fragment)
     
@@ -18,7 +18,7 @@ Die Blätter waren zum Einbinden arnamagnæanischer Handschriften verwendet.
 
 Die frühere Nummerierung neueren Datums (mit Tinte unten rechts auf die Blätter geschrieben) wird nicht beachtet.
 
-| Sekundärproveniens | Foliierung von Accessoria 7 aβ, HS 3 <br> (Geert Anderson 2008) |
+| Sekundärproveniens | Foliierung von Accessoria 7, Hs 3 <br> (Geert Anderson 2008) |
 | -- | -- |
 | AM 257 fol<sup>2</sup> | f. 1 |
 | AM 258 fol<sup>2</sup> | f. 2 |
