@@ -22,7 +22,7 @@ Das dritte ist der Umschlag eines Buches, das an der Königlichen Bibliothek in 
 
 Die frühere Nummerierung neueren Datums (mit Tinte unten rechts auf die Blätter geschrieben) wird hier nicht beachtet.
 
-| Sekundärproviniens/Siglum | Rekonstruktion nach Geert Andersen (1979) | Foliierung von Accessoria 7 aβ, HS 2 |
+| Sekundärproviniens/Siglum | Rekonstruktion nach Geert Andersen (1979) | Foliierung von Accessoria 7, Hs 2 |
 | -- | -- | -- |
 | AM 266 4° | f. 1 | |
 | AM 266 4° | f. 2 | |
