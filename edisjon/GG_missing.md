@@ -8,7 +8,7 @@
 - Regem caeli cantico (nicht in AH)
 - Comitis generosi (nicht in AH)
 - Pure mentis gaudia (AH 40, 138)
-- Ex(s?)ulta coelum (AH 9, 243)
+- Ex(s?)ulta caelum (AH 9, 243)
 - Sollemnitas sancti Pauli (AH 53, 205)
 - Praecursorum summi regis... en baptista (AH 42, 252)
 - Iubar mundo geminatur (AH 42, 312)
