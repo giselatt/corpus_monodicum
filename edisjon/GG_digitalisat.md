@@ -37,7 +37,7 @@
 | GG-28-8b | Pangat nostra* (Rubrik ohne Notation) | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310967 | Iohn Crysostom  | AH 9, 390 |
 | GG-28-8c | Virginis venerandae* (Rubrik ohne Notation) | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310967 | Brigid | AH 53, 246 |
 | GG-30v-2 | Exulta caelum | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310972 | Iohannes Baptista | AH 9, 243 (1–9a) |
-| GG-31-10 | Petre summe | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310973 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310974 | Petrus et Paulus | AH 53, 210 |
+| GG-31-10 | Petre summe Christi | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310973 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310974 | Petrus et Paulus | AH 53, 210 |
 | GG-31v-14 | Sollemnitas sancti pauli | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310974 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310975 | Paulus | AH 53, 205 |
 | GG-32-13 | Praecursorem summi regis | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310975 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310976 | Octava Iohannis Baptistae | AH 42, 252 (1–10a) |
 | GG-33-1 | Sacerdotem christi martinum | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310977 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310978 | Translatio Martini |AH 53, 181 (1–6, Lac., 17–18) |
