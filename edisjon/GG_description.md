@@ -122,7 +122,7 @@ f. 1r - f. 2v [må sjekkes]
 
 - f. 29r–v Scolasticae v. (10/2) (Tr.) – Valentini (14/2) – Iulianae v. (16/2) – In cathedra s. Petri apl. (22/2) – In vigilia b. Mathiae apl. (23/2) – Mathiae apl. (24/2) – Translatio Iohannis ep. (3/3) – Gregorii pp. cf. (12/3) – Cuthberti ep. (20/3) – Benedicti abb. cf. (21/3) – <i>In annunciacione beatissime virginis Marie</i> (25/3) (Gr.).
 
-- f. 30r–v In vigilia s. Iohannis baptistae (23/6) (Intr.) – In die s. Iohannis baptistae (24/6) (Seq.). Mit der Sequenz <i>Exulta celum</i> (AH 9:243). Gedruckt: Eggen 1968 I, S. 191–193 (ms h).
+- f. 30r–v In vigilia s. Iohannis baptistae (23/6) (Intr.) – In die s. Iohannis baptistae (24/6) (Seq.). Mit der Sequenz <i>Exulta caelum</i> (AH 9:243). Gedruckt: Eggen 1968 I, S. 191–193 (ms h).
 
 - f. 31r – f. 32v In vigilia apostolorum Petri et Pauli (28/6) (Intr.) – In die sanctorum apostolorum Petri et Pauli (29/6) – In celebratione s. Pauli (30/6) – (In oct. s. Iohannis baptistae) (1/7) (Seq.). Mit den Sequenzen <i>Petre summe christi pastor</i> (AH 53:210), <i>Sollempnitas sancti pauli</i> (AH 53:205), <i>Precursorem summi regis</i> (AH 42:252). Gedruckt: Eggen 1968 I, S. 197–198, 199–201, 193–196 (ms h).
 
