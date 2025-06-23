@@ -6,7 +6,7 @@
 |AM Acc. 7 HS 3-3-5| Virgo mater gratuletur* | Octava Iohannis Evangelistae | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311012 |
 |AM Acc. 7 HS 3-3-6| Iohannes Iesu Christo | Octava Iohannis Evangelistae | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311012 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311013 |
 |AM Acc. 7 HS 3-3v-1| Laus tibi Christe cui sapit|  Octava innocentium | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311013 |
-|AM Acc. 7 HS 3-4-1| Laetabundus exultet |  Vigilia epiphaniae | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311014 |
+|AM Acc. 7 HS 3-4-1| Laetabundus exsultet |  Vigilia epiphaniae | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311014 |
 |AM Acc. 7 HS 3-4v-5| Epiphaniam domino |  Epiphania | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311015 |
 |AM Acc. 7 HS 3-5-6| O alma trinitas* |  Dominica VIII post Pentecostem | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311016 |
 |AM Acc. 7 HS 3-5v-6| Voce iubilantes* |  Dominica IX post Pentecostem | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311017 |
