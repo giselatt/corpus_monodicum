@@ -18,7 +18,7 @@
 |AM Acc. 7 HS 3-10v-5| Exultet in gloria | Aegidius | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310999|
 |AM Acc. 7 HS 3-11-1| Alle caeleste necnon |  Nativitas Mariae | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311000 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311001 |
 |AM Acc. 7 HS 3-11v-6| Salve lignum sanctae crucis | Exaltatio Crucis | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311001 |
-|AM Acc. 7 HS 3-12-1| Alludat letus ordo | Mauritius | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311004 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311002 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311003
+|AM Acc. 7 HS 3-12-1| Alludat laetus ordo | Mauritius | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311004 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311002 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311003
 |AM Acc. 7 HS 3-12v-7| Ad caelebres rex | Michael | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311005 |
 |AM Acc. 7 HS 3-13-1| Dulci symphonia | Edmundus| https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311006 |
 |AM Acc. 7 HS 3-13-7| Eia christi concio | Caecilia | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311006 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/311007 |
