@@ -42,7 +42,7 @@
 | GG-32-13 | Praecursorem summi regis | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310975 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310976 | Octava Iohannis Baptistae | AH 42, 252 (1–10a) |
 | GG-33-1 | Sacerdotem christi martinum | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310977 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310978 | Translatio Martini |AH 53, 181 (1–6, Lac., 17–18) |
 | GG-33v-2 | Iubar mundo geminatur | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310978 | Octava Petri et Pauli | AH 42, 312 (1a–2b) |
-| GG-34-1 | Laurenti david magni | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310979 | Laurentius | AH 53, 173 (12–14) |
+| GG-34-1 | Laurenti David magni | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310979 | Laurentius | AH 53, 173 (12–14) |
 | GG-34-3 | Agone triumphali* (Rubrik ohne Notation) | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310979 | Hippolytus | AH 53, 229 |
 | GG-34v-10 | Area virga prime | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310980 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310981 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310982 | Assumptio Mariae | AH 7, 107, AH 53, 106a |
 | GG-35v | Congaudent angelorum* (Rubrik ohne Notation) [mgl. i MGA 2008]| https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310985 | Infra octavam assumptionis Mariae | AH 53, 104 |
