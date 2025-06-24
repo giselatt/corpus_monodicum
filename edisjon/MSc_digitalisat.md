@@ -10,14 +10,14 @@
 |MSc| Laetabundus exsultet | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310872 [6r missing] | Vigilia Epiphaniae | AH 54. 2 |
 |MSc| Epiphaniam domino | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310873 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310874 | Epiphania | AH 7, 37, AH 53, 28 |
 |MSc| O mira domini pietas | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310875 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310876 | Dominica infra octava Epiphaniae | siehe AH 53:24 |
-|MSc| Festa christi omnis | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310877 | Octava Epiphaniae | AH 53, 29 (1–8) |
+|MSc| Festa Christi | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310877 | Octava Epiphaniae | AH 53, 29 (1–8) |
 |MSc| Virgini Mariae … O beata | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310764 | Beata Maria virgo | AH 54, 21 (6–7) |
 |MSc| Virgini Mariae … Eva tristis | (https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310764) | Beata Maria virgo | AH 54, 18 |
 |MSc| Surgit christus cum | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310765 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310766 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310767 | Pascha | AH 54, 230b |
 |MSc| Resurrexit leo fortis | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310767 | Pascha | nicht in AH |
 |MSc| Fulgens preclara | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310767 | Pascha | AH 7, 44 (1–5b); AH 53, 35 (1–9) |
 |MSc| Zima vetus expurgetur | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310769 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310770 | Feria II post Pascha | AH 54, 149 (1–17) |
-|MSc| Laudes christo redempti | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310771 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310772 | Feria IV post Pascha | AH 53, 45 |
+|MSc| Laudes Christo redempti | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310771 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310772 | Feria IV post Pascha | AH 53, 45 |
 |MSc| Sancta cunctis leticia | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310773 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310774 | Feria VI post Pascha | AH 40, 24 |
 |MSc| Pangamus creatoris | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310786 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310787 | Sabbatum post Pascha | AH 53, 46 |
 |MSc| Laudes salvatori | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310788 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310789 | Dominica I post Pascha | AH 53, 36 (1–14) |
@@ -46,11 +46,11 @@
 |MSc| Clare sanctorum | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310849 | Apostoli | AH 53, 228 (1–5) |
 |MSc| Virginis venerandae | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310850 | Virgo et martyr? | AH 53, 246 (2–12) |
 |MSc| Laudes debitas deo nostro | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310850 | Virgo et martyr<sup>5</sup> | AH 54, 62 (1–14) |
-|MSc| Sancte syon assunt | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310856 | Dedicatio ecclesiae | AH 55, 33 |
+|MSc| Sancte Sion assunt | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310856 | Dedicatio ecclesiae | AH 55, 33 |
 |MSc| Sacrosancta hodiernae | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310860 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310863 | Andreas | AH 54, 30 |
 |MSc| Laudes debitas* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310864 | Barbara | AH 54, 62 |
 |MSc| Congaudentes exultemus | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310864 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310865 | Nicholaus | AH 54, 66 |
-|MSc| Conceptio mariae virginis | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310867 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310868 | Conceptio Mariae | AH 54, 188 |
+|MSc| Conceptio Mariae virginis | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310867 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310868 | Conceptio Mariae | AH 54, 188 |
 |MSc| Regem celi cantico* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310869 | Lucia | nicht in AH |
 |MSc| Comitis generosi | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310869 | Translatio Magni | nicht in AH |
 |MSc| ? | kein Bild zugänglich | Thorlacus | nicht in AH |
@@ -59,5 +59,5 @@
 |MSc| Psallat eccelsia mater decora | Sequenz | Swithun | AH 37, 306 (...) |
 |MSc| Iubar mundo geminatur | Sequenz | Octava Petri et Pauli | AH 42, 312 (...) |
 |MSc| Ecce pulchra* | Sequenz | Sancti in Selio| ? |
-|MSc| Sancti merita benedicti | Sequenz | Translatio Benedicti | ? |
+|MSc| Sancti merita Benedicti | Sequenz | Translatio Benedicti | ? |
 |MSc| H< ac in die magnalia > | Sequenz | Margareta | ? |
