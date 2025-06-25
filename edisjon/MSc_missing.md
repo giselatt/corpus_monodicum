@@ -4,6 +4,7 @@
 - O mira domini pietas (siehe AH 53, 24)
 - Resurrexit leo fortis (nicht in AH)
 - Clare sanctorum (AH 53, 228) (+ GG)
+- Voce iubilantes magna? (fant det ikke 25.6.25)
 - Sacrosancta hodierna (AH 54, 30) (+ GG)
 - Conceptio Mariae (AH 54, 188) (+GG)
 - Regem caeli cantico (nicht in AH) (+GG)
