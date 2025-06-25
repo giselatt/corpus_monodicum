@@ -24,7 +24,7 @@
 |MSc| Pangamus creatoris* | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310791 | Dominica IV post Pascha | AH 53, 46 |
 |MSc| Sancti spiritus assit | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310792 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310793 | Pentecoste | AH 53, 70 |
 |MSc| Almiphona iam gaudia | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310794 | Feria IV post Pentecosten | AH 7, 79, AH 53, 76 |
-|MSc| Veni spiritus eternorum | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310795 | Feria V post Pentecosten | AH 53, 71 (1–3) |
+|MSc| Veni spiritus aeternorum | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310795 | Feria V post Pentecosten | AH 53, 71 (1–3) |
 |MSc| bare rubrikk | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310797 | Sabbato [post pentecosten] | ? |
 |MSc| Lauda Sion | kein Bild zugänglich | Corpus Christi | AH 50, 385 |
 |MSc| O alma trinitas | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310799 | Dominica III post Pentecosten | AH 7, 97 (1–4a) |
