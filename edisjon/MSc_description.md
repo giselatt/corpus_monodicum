@@ -217,13 +217,13 @@ f.(63)-f.(65) Lbs fragm. 19 I-III
 
 ## Vorlagen
 
-Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand der Originale [hoffentlich].
+Handschriftenbeschreibung auf Basis von Geert Andersen 2008.
 
-Transkription hauptsächlich anhand von Digitalisat von schwarz-weiß Photographien, am Original überprüft [hoffentlich].
+Transkription hauptsächlich anhand von Digitalisat von schwarz-weiß Photographien und Farbdigitalisat.
 
-Online (Stand: 20211209):
+Online (Stand: 20251110):
 
-- https://digitalesamlinger.hum.ku.dk/Home/Samlingerne/13154
+- [https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/16770](https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/16770)
 - [https://handrit.is/manuscript/view/is/LbsFragm-0019/0#mode/2up](https://handrit.is/manuscript/view/is/LbsFragm-0019/0#mode/2up)
 
 
