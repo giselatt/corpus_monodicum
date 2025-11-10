@@ -224,7 +224,7 @@ Transkription hauptsächlich anhand von Digitalisat von schwarz-weiß Photograph
 Online (Stand: 20211209):
 
 - https://digitalesamlinger.hum.ku.dk/Home/Samlingerne/13154
-- https://www.ismus.is/i/book/uid-5fe4aecf-f675-4a98-94b4-211964b263e9
+- [https://handrit.is/manuscript/view/is/LbsFragm-0019/0#mode/2up](https://handrit.is/manuscript/view/is/LbsFragm-0019/0#mode/2up)
 
 
 ## Literatur
