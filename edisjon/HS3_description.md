@@ -84,13 +84,14 @@ Einband nicht erhalten.
 
 ## Vorlagen
 
+Handschriftenbeschreibung auf Basis von Geert Andersen 2008.
+
 Transkription anhand von Digitalisat von schwarz-weiß Photographien und neuerem Farbdigitalisat.
 
 Online (Stand: 20250318):
 
 - [https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/16802](https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/16802)
 
-Handschriftenbeschreibung auf Basis von Geert Andersen 2008.
 
 ## Literatur
 
