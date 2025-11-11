@@ -136,7 +136,7 @@ Einband nicht erhalten.
 
 ## Herkunft und Geschichte
 
----
+--- ## ---
 
 
 ## Vorlagen
