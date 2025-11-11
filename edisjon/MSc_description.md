@@ -100,7 +100,7 @@ Das Missale ist von 2 Schreibern geschrieben:
 
 Schreiber A: Jón Þorláksson (Jón í Langeyjarnesi).  Dieser Schreiber hat auch das Graduale Gufudalense geschrieben.
 
-28/29 x 19/19,5 cm, 32 Linien oder 16 Notensysteme. Quadratnotation auf vier schwarzen Linien (rote Linien auf f.(42)v-f.(43)v), Schlüssel: c-, g- und F-Schlüssel [må sjekkes; g-Schlüssel in Lux fulget, Precursorem, Letabundus], vertikale Striche. Textualis formata.
+28/29 x 19/19,5 cm, 32 Linien oder 16 Notensysteme. Quadratnotation auf vier schwarzen Linien (rote Linien auf f.(42)v-f.(43)v), Schlüssel: c-, F- und g-Schlüssel [må sjekkes; g-Schlüssel in Lux fulget, Precursorem [ok], Letabundus], vertikale Striche. Textualis formata.
 
 [sjekk: F-Schlüssel für die Sequenz <i>Comitis generosi</i> (f.()) ist die Hand von Schreiber B?]
     
