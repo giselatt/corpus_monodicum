@@ -84,8 +84,6 @@ Einband nicht erhalten.
 
 ## Inhalt
 
---- unter Arbeit ---
-
 f. 1r - f. 2v erste Seite ursprünglich blank (später beschrieben mit u.a. vier Kopialbucheinträgen (*máldagi*)) – Ordo für die Karwoche (isländisch) – Kyriale
 
 ### f. 3r – f. 10v Temporale
@@ -135,11 +133,9 @@ f. 1r - f. 2v erste Seite ursprünglich blank (später beschrieben mit u.a. vier
 - f. 37r–v Infra oct. s. Martini (Intr.) – Brictii ep. cf. (13/11) – Eadmundi m. (20/11) (mit Lac.) – In festo Ceciliae v. et m. (22/11) (Seq.). Mit den Sequenzen <i>Pangat nostra</i> (Rubrik) (AH 9:390), <i>Dulci symphonia</i> (AH 40:191), <i>E(ia christi concio)</i> (nur erster Buchstabe/zwei Noten) (nicht in AH). Gedruckt: Eggen 1968 I, S. 302–305, 275–277, 277–278 (ms h).
 
 
-[Sequenzen tabellarisch](https://github.com/giselatt/corpus_monodicum/blob/main/edisjon/GG_digitalisat.md)
-
 ## Herkunft und Geschichte
 
---- kommt irgendwann ---
+---
 
 
 ## Vorlagen
