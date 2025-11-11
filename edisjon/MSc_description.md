@@ -102,7 +102,6 @@ Schreiber A: Jón Þorláksson (Jón í Langeyjarnesi).  Dieser Schreiber hat au
 
 28/29 x 19/19,5 cm, 32 Linien oder 16 Notensysteme. Quadratnotation auf vier schwarzen Linien (rote Linien auf f.(42)v-f.(43)v). Schlüssel: c-, F- und g-Schlüssel. Vertikale Striche. Textualis formata.
 
-[sjekk: F-Schlüssel für die Sequenz <i>Comitis generosi</i> (f.(60v)) ist die Hand von Schreiber B?]
     
 ### 2) f.(15)v-f.(41)<sup>19</sup>
     
