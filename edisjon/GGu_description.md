@@ -128,11 +128,11 @@ f. 1r - f. 2v erste Seite ursprünglich blank (später beschrieben mit u.a. vier
 
 - f. 33r–v In translatione Martini (4/7) (All., mit Lac.) – In oct. apostolorum Petri et Pauli (6/7) (Seq.). Mit den Sequenzen <i>Sacerdotem Christi</i> (AH 53:181), <i>Iubar mundo geminatur</i> (AH 42:312). Gedruckt: Eggen 1968 I, S. 273–275, 198–199 (ms h).
 
-- f. 34r – f. 35v Laurentii (10/8) (Seq.) – Ypoliti sociorumque eius m. (13/8) – <i>In vigilia assumpcionis s. Marie matris domini nostri ihesu christi</i> (14/8) – <i>In sollempnitate assumpcionis b. Marie virginis</i>(15/8) (mit Lac.) – Infra oct. Secunda die (16/8) – Octava Laurentii archidiaconi m. (17/8) (Seq.). Mit den Sequenzen <i>Laurenti David magni</i> (AH 53:173), <i>Agone  triumphali</i> (Rubrik) (AH 53:229), <i>Aurea virga primae</i> (AH 7:107, 53:106a), <i>Stola iocunditatis</i> (AH 54:61). Gedruckt: Eggen 1968 I, S. 232, 292–293, 236–239, 234–235 (ms h).
+- f. 34r – f. 35v Laurentii (10/8) (Seq.) – Ypoliti sociorumque eius m. (13/8) – <i>In vigilia assumpcionis s. Marie matris domini nostri ihesu christi</i> (14/8) – <i>In sollempnitate assumpcionis b. Marie virginis</i>(15/8) (mit Lac.) – Infra oct. Secunda die (16/8) – Octava Laurentii archidiaconi m. (17/8) (Seq.). Mit den Sequenzen <i>Laurenti David magni</i> (AH 53:173), <i>Agone  triumphali</i> (Rubrik) (AH 53:229), <i>Aurea virga primae</i> (AH 7:107, 53:106a), <i>Congaudent angelorum</i> (Rubrik) (AH 53:104) <i>Stola iocunditatis</i> (AH 54:61). Gedruckt: Eggen 1968 I, S. 232, 292–293, 236–239, 234–235 (ms h).
 
 - f. 36r–v In commemoratione animarum (2/11) (Off.) – Eustachii m. (2/11) – Leonardi abb. (6/11) – De quattuor coronatorum (8/11) – Villehadi ep. cf. (8/11) – Theodori m. (9/11) – Mennae m. (11/11) – Martini ep. cf. (11/11) (Seq. (nur Rubrik)). Mit der Sequenz <i>Mera promat uranica</i> (für Leonardi abb.) (nicht in AH). Gedruckt: Eggen 1968 I, S. 270–272 (ms h).
 
-- f. 37r–v Infra oct. s. Martini (Intr.) – Brictii ep. cf. (13/11) – Eadmundi m. (20/11) (mit Lac.) – In festo Ceciliae v. et m. (22/11) (Seq.). Mit den Sequenzen <i>Pangat nos a</i> (Rubrik) (AH 9:390), <i>Omnis fidelium ecclesia</i> (AH 40:191), <i>E(ia christi concio)</i> (nicht in AH). Gedruckt: Eggen 1968 I, S. 302–305, 275–277, 277–278 (ms h).
+- f. 37r–v Infra oct. s. Martini (Intr.) – Brictii ep. cf. (13/11) – Eadmundi m. (20/11) (mit Lac.) – In festo Ceciliae v. et m. (22/11) (Seq.). Mit den Sequenzen <i>Pangat nostra</i> (Rubrik) (AH 9:390), <i>Dulci symphonia</i> (AH 40:191), <i>E(ia christi concio)</i> (nur erster Buchstabe/zwei Noten) (nicht in AH). Gedruckt: Eggen 1968 I, S. 302–305, 275–277, 277–278 (ms h).
 
 
 [Sequenzen tabellarisch](https://github.com/giselatt/corpus_monodicum/blob/main/edisjon/GG_digitalisat.md)
