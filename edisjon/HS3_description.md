@@ -86,7 +86,7 @@ Einband nicht erhalten.
 
 ## Vorlagen
 
-Transkription anhand von Digitalisaten von schwarz-weiß Photographien, an neueren Farbdigitalisaten überprüft.
+Transkription anhand von Digitalisat von schwarz-weiß Photographien und neuerem Farbdigitalisat.
 
 Online (Stand: 20250318):
 
