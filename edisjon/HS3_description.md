@@ -80,7 +80,7 @@ Einband nicht erhalten.
 
 ## Herkunft und Geschichte
 
---- (noch?) nicht geschrieben ---
+--- nicht geschrieben ---
 
 ## Vorlagen
 
