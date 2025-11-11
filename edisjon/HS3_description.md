@@ -78,8 +78,6 @@ Einband nicht erhalten.
 
 
 
-[Sequenzen tabellarisch](https://github.com/giselatt/corpus_monodicum/blob/main/edisjon/HS3_digitalisat.md)
-
 ## Herkunft und Geschichte
 
 --- (noch?) nicht geschrieben ---
