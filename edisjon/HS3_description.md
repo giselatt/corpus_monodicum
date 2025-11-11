@@ -90,7 +90,7 @@ Online (Stand: 20250318):
 
 - [https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/16802](https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/16802)
 
-Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand neuerer Farbdigitalisate.
+Handschriftenbeschreibung auf Basis von Geert Andersen 2008.
 
 ## Literatur
 
