@@ -235,7 +235,7 @@ Eggen 1968 I. Erik Eggen, <i>Bibliotheca Arnamagnæana</i>, Bd. 21: <i>The Seque
 
 Eggen 1968 II. Erik Eggen, <i>Bibliotheca Arnamagnæana</i>, Bd. 22: <i>The Sequences of the Archbishopric of Nidarós 2. Facsimiles</i>.  Hafniae 1968.
 
-Geert Andersen 1979. Merete Geert Andersen, Colligere fragmenta, ne pereant, in: <i>Bibliotheca Arnamagnæana</i>, Bd. 34: <i>Opuscula VII</i>,  S. 1-35. København[?] 1979.
+Geert Andersen 1979. Merete Geert Andersen, Colligere fragmenta, ne pereant, in: <i>Bibliotheca Arnamagnæana</i>, Bd. 34: <i>Opuscula VII</i>,  S. 1-35. Hafniae 1979.
 
 Geert Andersen 2008. Merete Geert Andersen, <i>Bibliotheca Arnamagnæana</i>, Bd 46: <i>Katalog over AM Accessoria 7. De Latinske Fragmenter</i>. Hafniae 2008.
 
