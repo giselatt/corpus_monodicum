@@ -84,7 +84,7 @@ Einband nicht erhalten.
 
 ## Inhalt
 
-f. 1r - f. 2v erste Seite ursprünglich blank (später beschrieben mit u.a. vier Kopialbucheinträgen (*máldagi*)) – Ordo für die Karwoche (isländisch) – Kyriale
+f. 1r - f. 2v erste Seite ursprünglich blank (später beschrieben u.a. mit vier Kopialbucheinträgen (*máldagi*)) – Ordo für die Karwoche (isländisch) – Kyriale
 
 ### f. 3r – f. 10v Temporale
 
