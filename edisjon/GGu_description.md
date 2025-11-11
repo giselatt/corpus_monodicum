@@ -1,4 +1,4 @@
-# Graduale Gufudalense (GG)
+# Graduale Gufudalense (GGu)
 
 <b>Handschriften:</b>
 
