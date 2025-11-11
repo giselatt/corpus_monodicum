@@ -140,11 +140,11 @@ f. 1r - f. 2v erste Seite ursprünglich blank (später beschrieben mit u.a. vier
 
 ## Vorlagen
 
-Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand der Originale [hoffentlich].
+Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand von Farbdigitalisaten.
 
-Transkription anhand von Digitalisat von schwarz-weiß Photographien, am Original überprüft [hoffentlich].
+Transkription anhand von Digitalisat von schwarz-weiß Photographien, an Farbdigitalisaten überprüft.
 
-Online (Stand: 202451111):
+Online (Stand: 20251111):
 
 - [https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/16794](https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/mapper/16794)
 - Folio 1-2: [https://www.ismus.is/i/book/id-1001467](https://www.ismus.is/i/book/id-1001467)
