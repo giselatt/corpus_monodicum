@@ -50,25 +50,25 @@ Einband nicht erhalten.
 
 ## Inhalt
 
-1r–7v Temporale
+### 1r–7v Temporale
 
 - 1r–2v In nativitate domini ad tertiam missam (25/12) (Off.) – In festo s. Stephani (26/12) – In festo s. Iohannis apl. et ev. (27/12) (Seq.). Mit den Sequenzen <i>Magnus deus in universa</i> (AH 7, 201; 53, 220), <i>Virgo mater gratuletur</i> (AH 40, 246). Gedruckt: Eggen 1968 I, S. 128–31, 182–184.
 
-- 3r–4v In oct. s. Stephani (2/1) (Seq.) – In oct. s. Iohannis apl. et ev. (3/1) – In oct. Innocentium (4/1) – In vigilia epiphaniae (5/1) – In die s. epiphaniae domini (6/1) (Seq.). Mit den Sequenzen <i>Hanc concordi</i> (AH 53, 215), <i>Virgo mater gratuletur</i> (Incipit) (AH 40, 246), <i>Iohannes Iesu Christo</i> (AH 53, 168), <i>Laus tibi christe cui sapit</i> (AH 53, 156), <i>Laetabundus exultet</i> (AH 54, 2), <i>Epiphaniam domino</i> (AH 7, 37; 53, 28). Gedruckt: Eggen 1968 I, S. 31–33, 182–184, 33–35, 38–40, 18–21, 44–47.
+- 3r–4v In oct. s. Stephani (2/1) (Seq.) – In oct. s. Iohannis apl. et ev. (3/1) – In oct. Innocentium (4/1) – In vigilia epiphaniae (5/1) – In die s. epiphaniae domini (6/1) (Seq.). Mit den Sequenzen <i>Hanc concordi</i> (AH 53, 215), <i>Virgo mater gratuletur</i> (Incipit) (AH 40, 246), <i>Iohannes Iesu Christo</i> (AH 53, 168), <i>Laus tibi Christe cui sapit</i> (AH 53, 156), <i>Laetabundus exsultet</i> (AH 54, 2), <i>Epiphaniam domino</i> (AH 7, 37; 53, 28). Gedruckt: Eggen 1968 I, S. 31–33, 182–184, 33–35, 38–40, 18–21, 44–47.
 
 - 5r–v Dominica VII [post trinitatem] (Int.) – Dominica VIII – Dominica IX (Gr.). Mit den Sequenzen <i>O alma trinitas deitas</i> (Incipit) (AH 7, 97), <i>Voce iubilantes magna</i> (Incipit) (AH 10, 37).
 
-- 6r–7v Dominica XI [post trinitatem] (All.) – Dominica XII – Dominica XII – Dominica XIIII (Off.). Mit der Sequenz <i>Stans a longe</i> (für Dominica XI) (AH 7, 231; 53, 93). Gedruckt: Eggen 1968 I, S. 125–126.
+- 6r–7v Dominica XI [post trinitatem] (All.) – Dominica XII – Dominica XII – Dominica XIIII (Off.). Mit der Sequenz <i>Stans a longe qui plurima</i> (für Dominica XI) (AH 7, 231; 53, 93). Gedruckt: Eggen 1968 I, S. 125–126.
 
-8r–v Commune Sanctorum
+### 8r–v Commune Sanctorum
 
 - Alleluia- und Offertorieserie.
 
-9r–13v Sanctorale
+### 9r–13v Sanctorale
 
 - 9r–v Octava assumptionis Mariae (22/8) (All.) – In vigilia Bartholomaei apl. (23/8) – In festo s. Bartholomaei apl. (24/8) – Audoeni ep. et cf. (24/8) – Hermetis (28/8) – Augustini (28/8) (Seq.). Mit den Sequenzen <i>Alle cantabile sonet</i> (AH 8, 137; 53, 129), <i>De profundis tenebrarum</i> (AH 55, 75). Gedruckt: Eggen 1968 I, S. 239–241, 241–243.
 
-- 10r–v Decollatio b. Iohannis baptistae (29/8) (Seq.) – Egidii abb. (1/9) (Seq.). Mit den Sequenzen <i>Precursorum summi regis ... huius ortum</i> (AH 55, 179), <i>Sancti Baptistae Christi</i> (Incipit) (AH 53, 163), <i>Exultet in gloria</i> (nicht in AH). Gedruckt: Eggen 1968 I, S. 245–246, 189–191, 246–247.
+- 10r–v Decollatio b. Iohannis baptistae (29/8) (Seq.) – Egidii abb. (1/9) (Seq.). Mit den Sequenzen <i>Praecursorum summi regis ... huius ortum</i> (AH 55, 179), <i>Sancti Baptistae Christi</i> (Incipit) (AH 53, 163), <i>Exultet in gloria</i> (nicht in AH). Gedruckt: Eggen 1968 I, S. 245–246, 189–191, 246–247.
 
 - 11r–v In nativitate b. Mariae (8/9) (Seq.) – In exaltatione s. Crucis (14/9) (Seq.). Mit den Sequenzen <i>Alle caeleste necnon</i> (AH 7, 98; 53, 97), <i>Salve lignum sanctae crucis</i> (siehe AH 54, 122). Gedruckt: Eggen 1968 I, S. 250–253, 256–257.
 
