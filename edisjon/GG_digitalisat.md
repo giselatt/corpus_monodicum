@@ -28,7 +28,7 @@
 | GG-24-7 | Virginis venerandae* (Rubrik ohne Notation) | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310947 | Barbara | AH 53, 246 |
 | GG-24-13 | Congaudentes exsultemus vocali | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310947 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310951 | Nicholaus | AH 54, 66 (1–21) |
 | GG-25-5 | Conceptio mariae virginis | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310960 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310964 | Conceptio Mariae | AH 54, 188 |
-| GG-25v-9 | Regem coeli cantico | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310961 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310962 | Lucia | nicht in AH |
+| GG-25v-9 | Regem caeli cantico | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310961 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310962 | Lucia | nicht in AH |
 | GG-26v-12 | Comitis generosi | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310963 | Translatio Magni | nicht in AH |
 | GG-27-1 | Pure mentis gaudia | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310964 | Agnes | AH 40, 138 (8a–12b) |
 | GG-27-9 | Martiris egregii triumphos | https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310964 https://sprogsamlinger.ku.dk/q.php?p=ds/hjem/billed/310965 | Vincentius | AH 55, 340 |
