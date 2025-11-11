@@ -140,9 +140,9 @@ f. 1r - f. 2v erste Seite ursprünglich blank (später beschrieben mit u.a. vier
 
 ## Vorlagen
 
-Handschriftenbeschreibung auf Basis von Geert Andersen 2008 und anhand von Farbdigitalisaten.
+Handschriftenbeschreibung auf Basis von Geert Andersen 2008.
 
-Transkription anhand von Digitalisat von schwarz-weiß Photographien, an Farbdigitalisaten überprüft.
+Transkription anhand von Digitalisat von schwarz-weiß Photographien und Farbdigitalisaten.
 
 Online (Stand: 20251111):
 
