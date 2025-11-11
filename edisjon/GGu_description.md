@@ -86,11 +86,11 @@ Einband nicht erhalten.
 
 --- unter Arbeit ---
 
-f. 1r - f. 2v [må sjekkes]
+f. 1r - f. 2v erste Seite ursprünglich blank (später beschrieben mit u.a. vier Kopialbucheinträgen (*máldagi*)) – Ordo für die Karwoche (isländisch) – Kyriale
 
 ### f. 3r – f. 10v Temporale
 
-- f. 2r – f. 6v In die s. trinitatis (Off.) – In festo corporis christi – Dominica I post oct. corporis christi – Dominica II – Dominica III – Dominica IIII (Intr.). Mit den Sequenzen <i>Lauda syon salvatorem</i> (AH 50:385), <i>Benedicta semper sancta</i> (AH 7:95, 53:81), <i>O alma trinitas</i> (AH 7:97), <i>Voce iubilantes magna</i> (AH 10:37). Gedruckt: Eggen 1968 I, A. 121–123, 109–112, 118–120, 116–118 (ms h).
+- f. 2r – f. 6v In die s. trinitatis (Off.) – In festo corporis christi – Dominica I post oct. corporis christi – Dominica II – Dominica III – Dominica IIII (Intr.). Mit den Sequenzen <i>Lauda Sion</i> (AH 50:385), <i>Benedicta semper sancta</i> (AH 7:95, 53:81), <i>O alma trinitas</i> (AH 7:97), <i>Voce iubilantes magna</i> (AH 10:37). Gedruckt: Eggen 1968 I, A. 121–123, 109–112, 118–120, 116–118 (ms h).
 
 - f. 7r–v Dominica V [post oct. corporis christi] (All.) – Dominica VI – Dominica VII – Dominica VIII (Intr.).  Mit den Sequenzen <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81), <i>O alma</i> (Incipit) (AH 7:97). Gedruckt: Eggen 1968 I, S. 106–109, 109–112, 118–120.
 
