@@ -156,15 +156,13 @@ Einband nicht erhalten.
 
 - f.(25)r–v Sabbato [post pentecosten] (Ep.–Seq. (Rubrik ohne Angabe der Sequenz)).
 
-- f.(26)r [UB Sg. 21701 - bare én side synlig - recto eller verso? innhold: Lauda Sion]
+- f.(26)r Corpus Christi.  Mit der Sequenz <i>Lauda Sion</i> (AH 50:385).
 
 - f.(27)r–v Dominica I [post trinitatem] (Ev.) – Dominica II (Seq.). Mit der Sequenz <i>O alma trinitas deitas</i> (AH 7:97). Gedruckt: Eggen 1968 I, S. 118–120.
 
 - f.(28)r–v Dominica III [post trinitatem] (Gr.) – Dominica IIII (Ep.). Mit der Sequenz <i>Voce iubilantes magna</i> (AH 10:37). Gedruckt: Eggen 1968 I, S. 116–118.
 
-- f.(29)r–f.(31)v Dominica VII [post trinitatem] (Ep.) – Dominica VIII – Dominica IX – Dominica X (Postcom.). Mit den Sequenzen  <i>O alma trinitas deitas</i> (Incipit) (AH 7:97), <i>Voce iubilantes magna</i> (Incipit) (AH 10:37), <i>Iubilemus cordis</i> (Incipit) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b). Gedruckt: Eggen 1968 I, S. 118–120, 116–118, 112–114, 106–109.
-
-- f.(32)r [UB... - bare rectosiden synlig (henger sammen med 31v): Stans a longe (bare beg.)]
+- f.(29)r–f.(32)r Dominica VII [post trinitatem] (Ep.) – Dominica VIII – Dominica IX – Dominica X – Dominica XI (Seq.). Mit den Sequenzen  <i>O alma trinitas deitas</i> (Incipit) (AH 7:97), <i>Voce iubilantes magna</i> (Incipit) (AH 10:37), <i>Iubilemus cordis</i> (Incipit) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Stans a longe qui plurima</i> (AH 53:93). Gedruckt: Eggen 1968 I, S. 118–120, 116–118, 112–114, 106–109.
 
 - f.(33)r–v Dominica XI [post trinitatem] (Com.) – Dominica XII – Dominica XIII (Intr.). Mit der Sequenz <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81). Gedruckt: Eggen 1968 I, S. 109–112.
 
