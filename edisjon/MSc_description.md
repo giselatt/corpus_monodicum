@@ -184,7 +184,7 @@ Einband nicht erhalten.
 - f.(45)r–f.(51)v Epistelserie – (f.(46)v) Gradualserie – (f.(49)r) Alleluiaserie.
 
 - f.(52)r–v Alleluiaserie – (f.(52)r) Sequenzserie. Mit den Sequenzen <i>Caeli enarrant</i> (AH 50:267), <i>Clare sanctorum </i> (AH 53:228 1–5). Gedruckt: Eggen 1968 I, S. 201–205, 285–286.
-- 
+ 
 - f.(53)r–f.(54)v Sequenzserie. Mit den Sequenzen <i>Virginis venerandae</i> (AH 53:246 2–12), <i>Laudes debitas deo nostro</i> (AH 54:62 1–14). Gedruckt: Eggen 1968 I, S. 305–306, 307–309. - f.(53r) Traktserie – f.(54r) Evangelienserie.
 
 - f.(55)r–v Offertorieserie – (f.(55)r) Sekretserie – (f.(56)v) Communioserie.
@@ -199,11 +199,11 @@ Einband nicht erhalten.
 
 - f.(62)r–v Policarpi ep. m. (26/1) (Intr.) – In oct. s. Agnetis (28/1) (Coll.) (lac.); (f.(62)v) In purificatione b. Mariae (2/2) (Coll.–Ep.).
 
-- f.(63)r-v
+- f.(63)r-v Mit den Sequenzen <i>Sollemnitas sancti pauli</i> (AH 53:205), <i>Praecursorum summi regis ... en baptista</i> (AH 42:252), <i>Psallat ecclesia mater decora</i> (AH 37:306).
 
-- f.(64)r-v
+- f.(64)r-v Mit der Sequenz <i>Iubar mundo geminatur</i> (AH 42:312).
 
-- f.(65)r-v
+- f.(65)r-v Mit den Sequenzen <i>Ecce pulchra<i> (Rubrik) (AH 7:116, AH 53:114), <i>Sancti merita Benedicti</i> (AH 54:35), <i>Hac in die magnalia</i> (nur erste Buchstabe) (AH 40:284).
 
 
 
