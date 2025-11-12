@@ -203,7 +203,7 @@ Einband nicht erhalten.
 
 - f.(64)r-v Octava Petri et Pauli apl. Mit der Sequenz <i>Iubar mundo geminatur</i> (AH 42:312).
 
-- f.(65)r-v Sancti in Selio (8/7) – Translatio Benedicti ab. (11/7) – Margarete v. (20/7). Mit den Sequenzen <i>Ecce pulchra<i> (Rubrik) (AH 7:116, AH 53:114), <i>Sancti merita Benedicti</i> (AH 54:35), <i>Hac in die magnalia</i> (nur erste Buchstabe) (AH 40:284).
+- f.(65)r-v Sancti in Selio (8/7) – Translatio Benedicti ab. (11/7) – Margarete v. (20/7). Mit den Sequenzen <i>Ecce pulchra</i> (Rubrik) (AH 7:116, AH 53:114), <i>Sancti merita Benedicti</i> (AH 54:35), <i>Hac in die magnalia</i> (nur erste Buchstabe) (AH 40:284).
 
 
 
