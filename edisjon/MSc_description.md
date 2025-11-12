@@ -134,23 +134,23 @@ Einband nicht erhalten.
 
 ### f.(1)r–f.(43)r Temporale
 
-- f.(1)r–f.(8)v Thomae protom. (29/12) (Intr.) – Sexto die natalis domini (30/12) – In festo s. Silvestri (31/12) – Circumcisio domini (1/1) – De s. Maria (1/1) – Octava Stephani (2/1) – Octava Iohannis apl. et ev. (3/1) – Octava Innocentium (4/1) – In vigilia epiphaniae domini (5/1) – (6r) Epiphania domini (6/1) – Dominica infra oct. epiphaniae – Octava epiphaniae (13/1) (Seq.). Mit den Sequenzen <i>Spe mercedis et corone</i> (AH 55:9), <i>Lux fulget hodierna</i> (AH 8:6), <i>Pangat nostra concio</i> (AH 9:390), <i>Eia recolamus</i> (AH 53:16), <i>Hanc concordi famulatu</i> (AH 53:215), <i>Iohannes Iesu Christo</i> (AH 53:168), <i>Laus tibi Christe cui sapit</i> (AH 53:156), <i>Laetabundus exsultet</i> (AH 54:2), <i>Epiphaniam domino</i> (AH 7:37, 53:28), <i>O mira domini pietas</i> (siehe AH 53:24), <i>Festa Christi</i> (AH 53:29). Gedruckt: Eggen 1968 I, S. 40–42, 26–28, 302–305, 16–18, 31–33, 33–35, 38–40, 18–21, 44–47, 55–56, 47–49 (ms h).
+- f.(1)r–f.(8)v Thomae protom. (29/12) (Intr.) – Sexto die natalis domini (30/12) – In festo s. Silvestri (31/12) – Circumcisio domini (1/1) – De s. Maria (1/1) – Octava Stephani (2/1) – Octava Iohannis apl. et ev. (3/1) – Octava Innocentium (4/1) – In vigilia epiphaniae domini (5/1) – (6r) Epiphania domini (6/1) – Dominica infra oct. epiphaniae – Octava epiphaniae (13/1) (Seq.). Mit den Sequenzen <i>Spe mercedis et corone</i> (AH 55:9), <i>Lux fulget hodierna</i> (AH 8:6), <i>Pangat nostra concio</i> (AH 9:390), <i>Eia recolamus</i> (AH 53:16), <i>Hanc concordi famulatu</i> (AH 53:215), <i>Iohannes Iesu Christo</i> (AH 53:168), <i>Laus tibi Christe cui sapit</i> (AH 53:156), <i>Laetabundus exsultet</i> (AH 54:2), <i>Epiphaniam domino</i> (AH 7:37, 53:28), <i>O mira domini pietas</i> (siehe AH 53:24), <i>Festa Christi</i> (AH 53:29). Gedruckt: Eggen 1968 I, S. 40–42, 26–28, 302–305, 16–18, 31–33, 33–35, 38–40, 18–21, 44–47, 55–56, 47–49.
 
 - f.(9)r–f.(11)v Feria vi [post dominicam passionis] (Postcom.) – Sabbato – Dominica palmarum (Ev.).
 
 - f.(12)r–f.(14)v Dominica palmarum (Ev.) – Feria II – Feria III (Ev.).
 
-- f.(15)r–f.(16)v De beata virgine tempore paschali (Introitus <i>Salve sancta parens</i>) (Seq.–Postcom.) – (15v) In die s. resurrectionis domini nostri (Intr.-Seq.). Mit den Sequenzen <i>Virgini Mariae … O beata</i> (AH 54:21), <i>Virgini Mariae … Eva tristis</i> (AH 54:18), <i>Surgit Christus cum tropaeo … Dic Maria</i> (AH 54:230), <i>Resurrexit leo fortis</i> (nicht in AH), <i>Fulgens praeclara</i> (AH 7:44, 53:35). Gedruckt: Eggen 1968 I, S. 167–168, 168–169, 63–66, 66–68, 68–71 (ms h).
+- f.(15)r–f.(16)v De beata virgine tempore paschali (Introitus <i>Salve sancta parens</i>) (Seq.–Postcom.) – (15v) In die s. resurrectionis domini nostri (Intr.-Seq.). Mit den Sequenzen <i>Virgini Mariae … O beata</i> (AH 54:21), <i>Virgini Mariae … Eva tristis</i> (AH 54:18), <i>Surgit Christus cum tropaeo … Dic Maria</i> (AH 54:230), <i>Resurrexit leo fortis</i> (nicht in AH), <i>Fulgens praeclara</i> (AH 7:44, 53:35). Gedruckt: Eggen 1968 I, S. 167–168, 168–169, 63–66, 66–68, 68–71.
 
-- f.(17)r–v Feria II [post pascha] (Ep.–Seq.). Mit der Sequenz <i>Zyma vetus</i> (AH 54:149). Gedruckt: Eggen 1968 I, S. 71–74 (ms j).
+- f.(17)r–v Feria II [post pascha] (Ep.–Seq.). Mit der Sequenz <i>Zyma vetus</i> (AH 54:149). Gedruckt: Eggen 1968 I, S. 71–74.
 
-- f.(18)r–v Feria III [post pascha] (Com.) – Feria IV (Ev.). Mit der Sequenz <i>Laudes Christo redempti</i> (AH 53:45). Gedruckt: Eggen 1968 I, S. 76–78 (ms j).
+- f.(18)r–v Feria III [post pascha] (Com.) – Feria IV (Ev.). Mit der Sequenz <i>Laudes Christo redempti</i> (AH 53:45). Gedruckt: Eggen 1968 I, S. 76–78.
 
-- f.(19)r–f.(21)v Feria VI [post pascha] (Ep.) – Sabbato – Dominica in oct. paschae (Seq.). Mit den Sequenzen <i>Sancta cunctis laeticia</i> (AH 40:24), <i>Pangamus creatoris</i> (AH 53:46), <i>Laudes salvatori</i> (AH 53:36 1–14). Gedruckt: Eggen 1968 I, S. 78–80, 80–81, 82–85 (ms j).
+- f.(19)r–f.(21)v Feria VI [post pascha] (Ep.) – Sabbato – Dominica in oct. paschae (Seq.). Mit den Sequenzen <i>Sancta cunctis laeticia</i> (AH 40:24), <i>Pangamus creatoris</i> (AH 53:46), <i>Laudes salvatori</i> (AH 53:36 1–14). Gedruckt: Eggen 1968 I, S. 78–80, 80–81, 82–85.
 
 - f.(22)r–v Feria II [post dominicam iii post pascha] (Intr.) – Dominica IV – <i>›In diebus ferialibus‹</i> (Coll. (Rubrik)). Mit der Sequenz <i>Pangamus creatoris</i> (Incipit) (AH 53:46). Gedruckt: Eggen 1968 I, S. 80–81.
 
-- f.(23)r–v In die s. pentecosten (Ep.–Ev.). Mit der Sequenz <i>Sancti spiritus ... Quae corda</i> (AH 53:70). Gedruckt: Eggen 1968 I, S. 92–98 (ms j).
+- f.(23)r–v In die s. pentecosten (Ep.–Ev.). Mit der Sequenz <i>Sancti spiritus ... Quae corda</i> (AH 53:70). Gedruckt: Eggen 1968 I, S. 92–98.
 
 - f.(24)r–v Feria IV [post pentecosten] (All.) – Feria V (Seq.). Mit den Sequenzen <i>Almiphona iam gaudia</i> (AH 7:79, 53:76), <i>Veni spiritus aeternorum</i> (AH 53:71). Gedruckt: Eggen 1968 I, S. 104–105, 105–106.
 
@@ -191,9 +191,9 @@ Einband nicht erhalten.
 
 - f.(55)r–v Offertorieserie – (f.(55)r) Sekretserie – (f.(56)v) Communioserie.
 
-- f.(56)r–v<sup>28</sup> In dedicatione ecclesiae (All.–Postcom.). Mit der Sequenz <i>Sanctae Sion assunt</i> (AH 55:33). Gedruckt: Eggen 1968 I, S. 311–313 (ms h). [sjekk linjenummer]
+- f.(56)r–v<sup>28</sup> In dedicatione ecclesiae (All.–Postcom.). Mit der Sequenz <i>Sanctae Sion assunt</i> (AH 55:33). Gedruckt: Eggen 1968 I, S. 311–313.
 
-### f.(56)v<sup>27</sup>–f.(65)v Sanctorale [sjekk linjenummer]
+### f.(56)v<sup>27</sup>–f.(65)v Sanctorale
 
 - f.(56)v<sup>27</sup>–f.(60)v In vigilia Andreae apl. (29/11) (Intr.) – Saturnini (29/11) – ›In die sancto‹ (30/11) – Festum Barbarae v. et m. (4/12) – In festo Nicholai (6/12) – Octava Andreae apl. (7/12) – Conceptio b. Mariae v. (8/12) – Damasi pp. (11/12) – <i>›De martiribus‹</i> [Victorici et Fusciani m.] (11/12) – Luciae v. et m. (13/12) – In festo Magni ducis m. (13/12) (Seq.). Mit den Sequenzen <i>Sacrosancta hodiernae</i> (AH 54:30), <i>Laudes debitas</i> (Incipit) (AH 54:62), <i>Congaudentes exultemus</i> (AH 54:66), <i>Conceptio Mariae virginis</i> (AH 54:188), <i>Regem caeli cantico</i> (nicht in AH), <i>Comitis generosi</i> (nicht in AH). Gedruckt: Eggen 1968 I, S. 129–131, 307–309, 131–135, 135–137, 140–141, 141–143.
 
