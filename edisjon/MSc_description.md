@@ -187,7 +187,7 @@ Einband nicht erhalten.
 
 - f.(53)r–f.(54)v Sequenzserie. Mit den Sequenzen <i>Virginis venerandae</i> (AH 53:246 2–12), <i>Laudes debitas deo nostro</i> (AH 54:62 1–14). Gedruckt: Eggen 1968 I, S. 305–306, 307–309.
 
-– f.(53r) Traktserie – f.(54r) Evangelienserie.
+- f.(53r) Traktserie – f.(54r) Evangelienserie.
 
 - f.(55)r–v Offertorieserie – (f.(55)r) Sekretserie – (f.(56)v) Communioserie.
 
