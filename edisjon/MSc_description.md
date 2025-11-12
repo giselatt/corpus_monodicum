@@ -208,7 +208,7 @@ f.(63)-f.(65) Lbs fragm. 19 I-III
 
 ## Herkunft und Geschichte
 
---- (noch?) nicht geschrieben ---
+--- nicht geschrieben ---
 
 
 ## Vorlagen
