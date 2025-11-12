@@ -199,11 +199,11 @@ Einband nicht erhalten.
 
 - f.(62)r–v Policarpi ep. m. (26/1) (Intr.) – In oct. s. Agnetis (28/1) (Coll.) (lac.); (f.(62)v) In purificatione b. Mariae (2/2) (Coll.–Ep.).
 
-- f.(63)r-v Mit den Sequenzen <i>Sollemnitas sancti pauli</i> (AH 53:205), <i>Praecursorum summi regis ... en baptista</i> (AH 42:252), <i>Psallat ecclesia mater decora</i> (AH 37:306).
+- f.(63)r-v Pauli apl. (30/6) – Octava Iohannis bapt. (1/7) – Suithuni cf. et p. (2/7). Mit den Sequenzen <i>Sollemnitas sancti pauli</i> (AH 53:205), <i>Praecursorum summi regis ... en baptista</i> (AH 42:252), <i>Psallat ecclesia mater decora</i> (AH 37:306).
 
-- f.(64)r-v Mit der Sequenz <i>Iubar mundo geminatur</i> (AH 42:312).
+- f.(64)r-v Octava Petri et Pauli apl. Mit der Sequenz <i>Iubar mundo geminatur</i> (AH 42:312).
 
-- f.(65)r-v Mit den Sequenzen <i>Ecce pulchra<i> (Rubrik) (AH 7:116, AH 53:114), <i>Sancti merita Benedicti</i> (AH 54:35), <i>Hac in die magnalia</i> (nur erste Buchstabe) (AH 40:284).
+- f.(65)r-v Sancti in Selio (8/7) – Translatio Benedicti ab. (11/7) – Margarete v. (20/7). Mit den Sequenzen <i>Ecce pulchra<i> (Rubrik) (AH 7:116, AH 53:114), <i>Sancti merita Benedicti</i> (AH 54:35), <i>Hac in die magnalia</i> (nur erste Buchstabe) (AH 40:284).
 
 
 
