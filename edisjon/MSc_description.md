@@ -186,7 +186,7 @@ Einband nicht erhalten.
 - f.(52)r–v Alleluiaserie – (f.(52)r) Sequenzserie. Mit den Sequenzen <i>Caeli enarrant</i> (AH 50:267), <i>Clare sanctorum </i> (AH 53:228 1–5). Gedruckt: Eggen 1968 I, S. 201–205, 285–286. [sjekk hvor sekvensene begynner - f.(52)recto eller verso?]
 
 - f.(53)r–f.(54)v Sequenzserie. Mit den Sequenzen <i>Virginis venerandae</i> (AH 53:246 2–12), <i>Laudes debitas deo nostro</i> (AH 54:62 1–14). Gedruckt: Eggen 1968 I, S. 305–306, 307–309.
- 
+
 – f.(53r) Traktserie – f.(54r) Evangelienserie.
 
 - f.(55)r–v Offertorieserie – (f.(55)r) Sekretserie – (f.(56)v) Communioserie.
