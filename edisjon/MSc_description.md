@@ -174,17 +174,17 @@ Einband nicht erhalten.
 
 - f.(41)r<sup>1-19</sup> In sabbato [quattuor temporum septembris] (Ev.–Postcom.).
 
-- f.(42)r<sup>19</sup>–f.(43)r<sup>32</sup> Missa pro defunctis (Intr.) – Feria III – Feria IIII – Feria V – Feria VI – Sabbato (Secr.). [sjekk om linje 32 er korrekt]
+- f.(41)r<sup>19</sup>–f.(43)r<sup>32</sup> Missa pro defunctis (Intr.) – Feria III – Feria IIII – Feria V – Feria VI – Sabbato (Secr.).
  
 
-### f.(43)r<sup>31</sup>–f.(55)v Commune Sanctorum [sjekk om linje 31 er korrekt]
+### f.(43)r<sup>31</sup>–f.(55)v Commune Sanctorum
 
 - f.(43)r<sup>31</sup>–f.(44)v Officieserie.
 
 - f.(45)r–f.(51)v Epistelserie – (f.(46)v) Gradualserie – (f.(49)r) Alleluiaserie.
 
-- f.(52)r–v Alleluiaserie – (f.(52)r) Sequenzserie. Mit den Sequenzen <i>Caeli enarrant</i> (AH 50:267), <i>Clare sanctorum </i> (AH 53:228 1–5). Gedruckt: Eggen 1968 I, S. 201–205, 285–286. [sjekk hvor sekvensene begynner - f.(52)recto eller verso?]
-
+- f.(52)r–v Alleluiaserie – (f.(52)r) Sequenzserie. Mit den Sequenzen <i>Caeli enarrant</i> (AH 50:267), <i>Clare sanctorum </i> (AH 53:228 1–5). Gedruckt: Eggen 1968 I, S. 201–205, 285–286.
+- 
 - f.(53)r–f.(54)v Sequenzserie. Mit den Sequenzen <i>Virginis venerandae</i> (AH 53:246 2–12), <i>Laudes debitas deo nostro</i> (AH 54:62 1–14). Gedruckt: Eggen 1968 I, S. 305–306, 307–309.
 
 - f.(53r) Traktserie – f.(54r) Evangelienserie.
