@@ -195,7 +195,7 @@ Einband nicht erhalten.
 
 - f.(56)v<sup>27</sup>–f.(60)v In vigilia Andreae apl. (29/11) (Intr.) – Saturnini (29/11) – ›In die sancto‹ (30/11) – Festum Barbarae v. et m. (4/12) – In festo Nicholai (6/12) – Octava Andreae apl. (7/12) – Conceptio b. Mariae v. (8/12) – Damasi pp. (11/12) – <i>›De martiribus‹</i> [Victorici et Fusciani m.] (11/12) – Luciae v. et m. (13/12) – In festo Magni ducis m. (13/12) (Seq.). Mit den Sequenzen <i>Sacrosancta hodiernae</i> (AH 54:30), <i>Laudes debitas</i> (Incipit) (AH 54:62), <i>Congaudentes exultemus</i> (AH 54:66), <i>Conceptio Mariae virginis</i> (AH 54:188), <i>Regem caeli cantico</i> (nicht in AH), <i>Comitis generosi</i> (nicht in AH). Gedruckt: Eggen 1968 I, S. 129–131, 307–309, 131–135, 135–137, 140–141, 141–143.
 
-- f.(61) Mit der Sequenz <i>... Thorlaci memoria</i> (nicht in AH). Faksimile: Gjerløw 1980 II, S. 36-27.  Inhaltsangabe des Blattes in Gjerløw 1980 I, S. 59-60.
+- f.(61) Thorlaci ep. (23/12). Mit der Sequenz <i>... Thorlaci memoria</i> (nicht in AH). Faksimile: Gjerløw 1980 II, S. 36-27.  Vollständige Inhaltsangabe des Blattes in Gjerløw 1980 I, S. 59-60.
 
 - f.(62)r–v Policarpi ep. m. (26/1) (Intr.) – In oct. s. Agnetis (28/1) (Coll.) (lac.); (f.(62)v) In purificatione b. Mariae (2/2) (Coll.–Ep.).
 
