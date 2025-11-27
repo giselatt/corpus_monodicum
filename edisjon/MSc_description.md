@@ -107,7 +107,7 @@ Schreiber A: Jón Þorláksson (Jón í Langeyjarnesi).  Dieser Schreiber hat au
     
 ### 2) f.(15)v-f.(41)<sup>19</sup>
     
-Schreiber B: Jón Þorláksson (Jón á Hóli).  Dieser Schreiber hat auch die Handschrift AM Acc. 7 Hs 3 geschrieben.
+Schreiber B: Jón Þorláksson (Jón á Hóli).  Dieser Schreiber hat auch die Handschrift AM Acc. 7 Hs 3 geschrieben.  Die Musiknotation ist aber nicht durchgehend von Schreiber B geschrieben; es ist mindestens noch ein Schreiber beteiligt, möglicherweise auch Schreiber A.
     
 26,5/27 x 17,5/18,5 cm, 28 Linien (27 und 29 kommen vor) oder 14 Notensysteme. Quadratnotation auf vier roten Linien. Schlüssel: c- und F-Schlüssel, c-Schlüssel auch in Verbindung mit b-Vorzeichen (an einer Stelle b-Vorzeichen ohne Schlüssel). Rezitationszeichen: c + s. Vertikale Striche. Textualis formata.
     
