@@ -98,14 +98,14 @@ Die frühere Nummerierung neueren Datums (mit Tinte unten rechts auf die Blätte
 
 Das Missale ist von 2 Schreibern geschrieben:
 
-### 1) f.(1)r-f.(15)r, f.(41)r<sup>19</sup>-f.(65)v
+### 1) f.1r-f.15r, f.41r<sup>19</sup>-f.65v
 
 Schreiber A: Jón Þorláksson (Jón í Langeyjarnesi).  Dieser Schreiber hat auch das Graduale Gufudalense geschrieben.
 
-28/29 x 19/19,5 cm, 32 Linien oder 16 Notensysteme. Quadratnotation auf vier schwarzen Linien (rote Linien auf f.(42)v-f.(43)v). Schlüssel: c-, F- und g-Schlüssel. Vertikale Striche. Textualis formata.
+28/29 x 19/19,5 cm, 32 Linien oder 16 Notensysteme. Quadratnotation auf vier schwarzen Linien (rote Linien auf f.42v-f.43v). Schlüssel: c-, F- und g-Schlüssel. Vertikale Striche. Textualis formata.
 
     
-### 2) f.(15)v-f.(41)<sup>19</sup>
+### 2) f.15v-f.41<sup>19</sup>
     
 Schreiber B: Jón Þorláksson (Jón á Hóli).  Dieser Schreiber hat auch die Handschrift AM Acc. 7 Hs 3 geschrieben.  Die Musiknotation ist aber nicht durchgehend von Schreiber B geschrieben; es ist mindestens noch ein Schreiber beteiligt, möglicherweise auch Schreiber A.
     
@@ -116,13 +116,13 @@ Schreiber B: Jón Þorláksson (Jón á Hóli).  Dieser Schreiber hat auch die H
 
 Durchgehend rubriziert von Schreiber A. Rote Rubriken. Anmerkungen für den Rubrikenschreiber an mehreren Stellen in den Seitenrändern erhalten (cursiva, schwarze Tinte).  Korrekturen von Schreiber A.
 
-### 1) f.(1)r-f.(15)r, f.(41)r<sup>19</sup>-f.(65)v
+### 1) f.1r-f.15r, f.41r<sup>19</sup>-f.65v
 
-Sechszeilige Initiale in rot, grün og gold mit Palmettenmuster in rot und blau (f.(6)r). Ein- bis fünfzeilige Lombarden in grün, blau, rot, rubinrot oder gold, mehrere mit Palmettenmuster in gegenteiliger Farbe. Rote Linienfüller.
+Sechszeilige Initiale in rot, grün og gold mit Palmettenmuster in rot und blau (f.6r). Ein- bis fünfzeilige Lombarden in grün, blau, rot, rubinrot oder gold, mehrere mit Palmettenmuster in gegenteiliger Farbe. Rote Linienfüller.
     
-### 2) f.(15)v-f.(41)<sup>19</sup>
+### 2) f.15v-f.41<sup>19</sup>
 
-Zehnzeilige Initiale mit Ranken, Farben: gold, rot, grün, azurblau (f.(15)v).  Zwei- bis fünfzeilige Lombarden in gold, blau, grün oder rot. Rote Linienfüller.
+Zehnzeilige Initiale mit Ranken, Farben: gold, rot, grün, azurblau (f.15v).  Zwei- bis fünfzeilige Lombarden in gold, blau, grün oder rot. Rote Linienfüller.
 
 
 ## Einband
@@ -132,78 +132,78 @@ Einband nicht erhalten.
 
 ## Inhalt
 
-### f.(1)r–f.(43)r Temporale
+### f.1r–f.43r Temporale
 
-- f.(1)r–f.(8)v Thomae protom. (29/12) (Intr.) – Sexto die natalis domini (30/12) – In festo s. Silvestri (31/12) – Circumcisio domini (1/1) – De s. Maria (1/1) – Octava Stephani (2/1) – Octava Iohannis apl. et ev. (3/1) – Octava Innocentium (4/1) – In vigilia epiphaniae domini (5/1) – (6r) Epiphania domini (6/1) – Dominica infra oct. epiphaniae – Octava epiphaniae (13/1) (Seq.). Mit den Sequenzen <i>Spe mercedis et corone</i> (AH 55:9), <i>Lux fulget hodierna</i> (AH 8:6), <i>Pangat nostra concio</i> (AH 9:390), <i>Eia recolamus</i> (AH 53:16), <i>Hanc concordi famulatu</i> (AH 53:215), <i>Iohannes Iesu Christo</i> (AH 53:168), <i>Laus tibi Christe cui sapit</i> (AH 53:156), <i>Laetabundus exsultet</i> (AH 54:2), <i>Epiphaniam domino</i> (AH 7:37, 53:28), <i>O mira domini pietas</i> (siehe AH 53:24), <i>Festa Christi</i> (AH 53:29). Gedruckt: Eggen 1968 I, S. 40–42, 26–28, 302–305, 16–18, 31–33, 33–35, 38–40, 18–21, 44–47, 55–56, 47–49.
+- f.1r–f.8v Thomae protom. (29/12) (Intr.) – Sexto die natalis domini (30/12) – In festo s. Silvestri (31/12) – Circumcisio domini (1/1) – De s. Maria (1/1) – Octava Stephani (2/1) – Octava Iohannis apl. et ev. (3/1) – Octava Innocentium (4/1) – In vigilia epiphaniae domini (5/1) – (6r) Epiphania domini (6/1) – Dominica infra oct. epiphaniae – Octava epiphaniae (13/1) (Seq.). Mit den Sequenzen <i>Spe mercedis et corone</i> (AH 55:9), <i>Lux fulget hodierna</i> (AH 8:6), <i>Pangat nostra concio</i> (AH 9:390), <i>Eia recolamus</i> (AH 53:16), <i>Hanc concordi famulatu</i> (AH 53:215), <i>Iohannes Iesu Christo</i> (AH 53:168), <i>Laus tibi Christe cui sapit</i> (AH 53:156), <i>Laetabundus exsultet</i> (AH 54:2), <i>Epiphaniam domino</i> (AH 7:37, 53:28), <i>O mira domini pietas</i> (siehe AH 53:24), <i>Festa Christi</i> (AH 53:29). Gedruckt: Eggen 1968 I, S. 40–42, 26–28, 302–305, 16–18, 31–33, 33–35, 38–40, 18–21, 44–47, 55–56, 47–49.
 
-- f.(9)r–f.(11)v Feria vi [post dominicam passionis] (Postcom.) – Sabbato – Dominica palmarum (Ev.).
+- f.9r–f.11v Feria vi [post dominicam passionis] (Postcom.) – Sabbato – Dominica palmarum (Ev.).
 
-- f.(12)r–f.(14)v Dominica palmarum (Ev.) – Feria II – Feria III (Ev.).
+- f.12r–f.14v Dominica palmarum (Ev.) – Feria II – Feria III (Ev.).
 
-- f.(15)r–f.(16)v De beata virgine tempore paschali (Introitus <i>Salve sancta parens</i>) (Seq.–Postcom.) – (15v) In die s. resurrectionis domini nostri (Intr.-Seq.). Mit den Sequenzen <i>Virgini Mariae … O beata</i> (AH 54:21), <i>Virgini Mariae … Eva tristis</i> (AH 54:18), <i>Surgit Christus cum tropaeo … Dic Maria</i> (AH 54:230), <i>Resurrexit leo fortis</i> (nicht in AH), <i>Fulgens praeclara</i> (AH 7:44, 53:35). Gedruckt: Eggen 1968 I, S. 167–168, 168–169, 63–66, 66–68, 68–71.
+- f.15r–f.16v De beata virgine tempore paschali (Introitus <i>Salve sancta parens</i>) (Seq.–Postcom.) – (15v) In die s. resurrectionis domini nostri (Intr.-Seq.). Mit den Sequenzen <i>Virgini Mariae … O beata</i> (AH 54:21), <i>Virgini Mariae … Eva tristis</i> (AH 54:18), <i>Surgit Christus cum tropaeo … Dic Maria</i> (AH 54:230), <i>Resurrexit leo fortis</i> (nicht in AH), <i>Fulgens praeclara</i> (AH 7:44, 53:35). Gedruckt: Eggen 1968 I, S. 167–168, 168–169, 63–66, 66–68, 68–71.
 
-- f.(17)r–v Feria II [post pascha] (Ep.–Seq.). Mit der Sequenz <i>Zyma vetus</i> (AH 54:149). Gedruckt: Eggen 1968 I, S. 71–74.
+- f.17r–v Feria II [post pascha] (Ep.–Seq.). Mit der Sequenz <i>Zyma vetus</i> (AH 54:149). Gedruckt: Eggen 1968 I, S. 71–74.
 
-- f.(18)r–v Feria III [post pascha] (Com.) – Feria IV (Ev.). Mit der Sequenz <i>Laudes Christo redempti</i> (AH 53:45). Gedruckt: Eggen 1968 I, S. 76–78.
+- f.18r–v Feria III [post pascha] (Com.) – Feria IV (Ev.). Mit der Sequenz <i>Laudes Christo redempti</i> (AH 53:45). Gedruckt: Eggen 1968 I, S. 76–78.
 
-- f.(19)r–f.(21)v Feria VI [post pascha] (Ep.) – Sabbato – Dominica in oct. paschae (Seq.). Mit den Sequenzen <i>Sancta cunctis laeticia</i> (AH 40:24), <i>Pangamus creatoris</i> (AH 53:46), <i>Laudes salvatori</i> (AH 53:36 1–14). Gedruckt: Eggen 1968 I, S. 78–80, 80–81, 82–85.
+- f.19r–f.21v Feria VI [post pascha] (Ep.) – Sabbato – Dominica in oct. paschae (Seq.). Mit den Sequenzen <i>Sancta cunctis laeticia</i> (AH 40:24), <i>Pangamus creatoris</i> (AH 53:46), <i>Laudes salvatori</i> (AH 53:36 1–14). Gedruckt: Eggen 1968 I, S. 78–80, 80–81, 82–85.
 
-- f.(22)r–v Feria II [post dominicam iii post pascha] (Intr.) – Dominica IV – <i>›In diebus ferialibus‹</i> (Coll. (Rubrik)). Mit der Sequenz <i>Pangamus creatoris</i> (Incipit) (AH 53:46). Gedruckt: Eggen 1968 I, S. 80–81.
+- f.22r–v Feria II [post dominicam iii post pascha] (Intr.) – Dominica IV – <i>›In diebus ferialibus‹</i> (Coll. (Rubrik)). Mit der Sequenz <i>Pangamus creatoris</i> (Incipit) (AH 53:46). Gedruckt: Eggen 1968 I, S. 80–81.
 
-- f.(23)r–v In die s. pentecosten (Ep.–Ev.). Mit der Sequenz <i>Sancti spiritus ... Quae corda</i> (AH 53:70). Gedruckt: Eggen 1968 I, S. 92–98.
+- f.23r–v In die s. pentecosten (Ep.–Ev.). Mit der Sequenz <i>Sancti spiritus ... Quae corda</i> (AH 53:70). Gedruckt: Eggen 1968 I, S. 92–98.
 
-- f.(24)r–v Feria IV [post pentecosten] (All.) – Feria V (Seq.). Mit den Sequenzen <i>Almiphona iam gaudia</i> (AH 7:79, 53:76), <i>Veni spiritus aeternorum</i> (AH 53:71). Gedruckt: Eggen 1968 I, S. 104–105, 105–106.
+- f.24r–v Feria IV [post pentecosten] (All.) – Feria V (Seq.). Mit den Sequenzen <i>Almiphona iam gaudia</i> (AH 7:79, 53:76), <i>Veni spiritus aeternorum</i> (AH 53:71). Gedruckt: Eggen 1968 I, S. 104–105, 105–106.
 
-- f.(25)r–v Sabbato [post pentecosten] (Ep.–Seq. (Rubrik ohne Angabe der Sequenz)).
+- f.25r–v Sabbato [post pentecosten] (Ep.–Seq. (Rubrik ohne Angabe der Sequenz)).
 
-- f.(26)r Corpus Christi.  Mit der Sequenz <i>Lauda Sion</i> (AH 50:385).
+- f.26r Corpus Christi.  Mit der Sequenz <i>Lauda Sion</i> (AH 50:385).
 
-- f.(27)r–v Dominica I [post trinitatem] (Ev.) – Dominica II (Seq.). Mit der Sequenz <i>O alma trinitas deitas</i> (AH 7:97). Gedruckt: Eggen 1968 I, S. 118–120.
+- f.27r–v Dominica I [post trinitatem] (Ev.) – Dominica II (Seq.). Mit der Sequenz <i>O alma trinitas deitas</i> (AH 7:97). Gedruckt: Eggen 1968 I, S. 118–120.
 
-- f.(28)r–v Dominica III [post trinitatem] (Gr.) – Dominica IIII (Ep.). Mit der Sequenz <i>Voce iubilantes magna</i> (AH 10:37). Gedruckt: Eggen 1968 I, S. 116–118.
+- f.28r–v Dominica III [post trinitatem] (Gr.) – Dominica IIII (Ep.). Mit der Sequenz <i>Voce iubilantes magna</i> (AH 10:37). Gedruckt: Eggen 1968 I, S. 116–118.
 
-- f.(29)r–f.(32)r Dominica VII [post trinitatem] (Ep.) – Dominica VIII – Dominica IX – Dominica X – Dominica XI (Seq.). Mit den Sequenzen  <i>O alma trinitas deitas</i> (Incipit) (AH 7:97), <i>Voce iubilantes magna</i> (Incipit) (AH 10:37), <i>Iubilemus cordis</i> (Incipit) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Stans a longe qui plurima</i> (AH 53:93). Gedruckt: Eggen 1968 I, S. 118–120, 116–118, 112–114, 106–109.
+- f.29r–f.32r Dominica VII [post trinitatem] (Ep.) – Dominica VIII – Dominica IX – Dominica X – Dominica XI (Seq.). Mit den Sequenzen  <i>O alma trinitas deitas</i> (Incipit) (AH 7:97), <i>Voce iubilantes magna</i> (Incipit) (AH 10:37), <i>Iubilemus cordis</i> (Incipit) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Stans a longe qui plurima</i> (AH 53:93). Gedruckt: Eggen 1968 I, S. 118–120, 116–118, 112–114, 106–109.
 
-- f.(33)r–v Dominica XI [post trinitatem] (Com.) – Dominica XII – Dominica XIII (Intr.). Mit der Sequenz <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81). Gedruckt: Eggen 1968 I, S. 109–112.
+- f.33r–v Dominica XI [post trinitatem] (Com.) – Dominica XII – Dominica XIII (Intr.). Mit der Sequenz <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81). Gedruckt: Eggen 1968 I, S. 109–112.
 
-- f.(34)r–f.(35)v Dominica XIII [post trinitatem] (Postcom.) – Dominica XIIII– Dominica XV – Dominica XVI (Coll.). Mit den Sequenzen <i>Voce iubilantes magna</i> (Incipit) (AH 10:37), <i>Iubilemus cordis</i> (Incipit) (AH 54:165). Gedruckt: Eggen 1968 I, S. 116–118, 112–114.
+- f.34r–f.35v Dominica XIII [post trinitatem] (Postcom.) – Dominica XIIII– Dominica XV – Dominica XVI (Coll.). Mit den Sequenzen <i>Voce iubilantes magna</i> (Incipit) (AH 10:37), <i>Iubilemus cordis</i> (Incipit) (AH 54:165). Gedruckt: Eggen 1968 I, S. 116–118, 112–114.
 
-- f.(36)r–f.(39)v Dominica XVIII [post trinitatem] (Ev.) – Dominica XIX – Dominica XX – Dominica XXI – Dominica XXII (Seq.). Mit den Sequenzen <i>Voce iubilantes magna</i> (Incipit) (AH 10:37), <i>Iubilemus cordis</i> (Incipit) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81), <i>O alma trinitas deitas</i> (Incipit) (AH 7:97). Gedruckt: Eggen 1968 I, S. 116–118, 112–114, 106–109, 109–112, 118–120.
+- f.36r–f.39v Dominica XVIII [post trinitatem] (Ev.) – Dominica XIX – Dominica XX – Dominica XXI – Dominica XXII (Seq.). Mit den Sequenzen <i>Voce iubilantes magna</i> (Incipit) (AH 10:37), <i>Iubilemus cordis</i> (Incipit) (AH 54:165), <i>Benedicta sit beata</i> (Incipit) (AH 7:96, 53:81b), <i>Benedicta semper sancta</i> (Incipit) (AH 7:95, 53:81), <i>O alma trinitas deitas</i> (Incipit) (AH 7:97). Gedruckt: Eggen 1968 I, S. 116–118, 112–114, 106–109, 109–112, 118–120.
 
-- f.(40)r–v Feria VI [quattuor temporum septembris] (Ep.) – In sabbato (Gr.).
+- f.40r–v Feria VI [quattuor temporum septembris] (Ep.) – In sabbato (Gr.).
 
-- f.(41)r<sup>1-19</sup> In sabbato [quattuor temporum septembris] (Ev.–Postcom.).
+- f.41r<sup>1-19</sup> In sabbato [quattuor temporum septembris] (Ev.–Postcom.).
 
-- f.(41)r<sup>19</sup>–f.(43)r<sup>32</sup> Missa pro defunctis (Intr.) – Feria III – Feria IIII – Feria V – Feria VI – Sabbato (Secr.).
+- f.41r<sup>19</sup>–f.43r<sup>32</sup> Missa pro defunctis (Intr.) – Feria III – Feria IIII – Feria V – Feria VI – Sabbato (Secr.).
  
 
-### f.(43)r<sup>31</sup>–f.(55)v Commune Sanctorum
+### f.43r<sup>31</sup>–f.55v Commune Sanctorum
 
-- f.(43)r<sup>31</sup>–f.(44)v Officieserie.
+- f.43r<sup>31</sup>–f.44v Officieserie.
 
-- f.(45)r–f.(51)v Epistelserie – (f.(46)v) Gradualserie – (f.(49)r) Alleluiaserie.
+- f.45r–f.51v Epistelserie – (f.46v) Gradualserie – (f.49r) Alleluiaserie.
 
-- f.(52)r–v Alleluiaserie – (f.(52)r) Sequenzserie. Mit den Sequenzen <i>Caeli enarrant</i> (AH 50:267), <i>Clare sanctorum </i> (AH 53:228 1–5). Gedruckt: Eggen 1968 I, S. 201–205, 285–286.
+- f.52r–v Alleluiaserie – (f.52r) Sequenzserie. Mit den Sequenzen <i>Caeli enarrant</i> (AH 50:267), <i>Clare sanctorum </i> (AH 53:228 1–5). Gedruckt: Eggen 1968 I, S. 201–205, 285–286.
  
-- f.(53)r–f.(54)v Sequenzserie. Mit den Sequenzen <i>Virginis venerandae</i> (AH 53:246 2–12), <i>Laudes debitas deo nostro</i> (AH 54:62 1–14). Gedruckt: Eggen 1968 I, S. 305–306, 307–309. - f.(53r) Traktserie – f.(54r) Evangelienserie.
+- f.53r–f.54v Sequenzserie. Mit den Sequenzen <i>Virginis venerandae</i> (AH 53:246 2–12), <i>Laudes debitas deo nostro</i> (AH 54:62 1–14). Gedruckt: Eggen 1968 I, S. 305–306, 307–309. - f.53r) Traktserie – f.54r) Evangelienserie.
 
-- f.(55)r–v Offertorieserie – (f.(55)r) Sekretserie – (f.(56)v) Communioserie.
+- f.55r–v Offertorieserie – (f.55r) Sekretserie – (f.56v) Communioserie.
 
-- f.(56)r–v<sup>28</sup> In dedicatione ecclesiae (All.–Postcom.). Mit der Sequenz <i>Sanctae Sion assunt</i> (AH 55:33). Gedruckt: Eggen 1968 I, S. 311–313.
+- f.56r–v<sup>28</sup> In dedicatione ecclesiae (All.–Postcom.). Mit der Sequenz <i>Sanctae Sion assunt</i> (AH 55:33). Gedruckt: Eggen 1968 I, S. 311–313.
 
-### f.(56)v<sup>27</sup>–f.(65)v Sanctorale
+### f.56v<sup>27</sup>–f.65v Sanctorale
 
-- f.(56)v<sup>27</sup>–f.(60)v In vigilia Andreae apl. (29/11) (Intr.) – Saturnini (29/11) – ›In die sancto‹ (30/11) – Festum Barbarae v. et m. (4/12) – In festo Nicholai (6/12) – Octava Andreae apl. (7/12) – Conceptio b. Mariae v. (8/12) – Damasi pp. (11/12) – <i>›De martiribus‹</i> [Victorici et Fusciani m.] (11/12) – Luciae v. et m. (13/12) – In festo Magni ducis m. (13/12) (Seq.). Mit den Sequenzen <i>Sacrosancta hodiernae</i> (AH 54:30), <i>Laudes debitas</i> (Incipit) (AH 54:62), <i>Congaudentes exultemus</i> (AH 54:66), <i>Conceptio Mariae virginis</i> (AH 54:188), <i>Regem caeli cantico</i> (nicht in AH), <i>Comitis generosi</i> (nicht in AH). Gedruckt: Eggen 1968 I, S. 129–131, 307–309, 131–135, 135–137, 140–141, 141–143.
+- f.56v<sup>27</sup>–f.60v In vigilia Andreae apl. (29/11) (Intr.) – Saturnini (29/11) – ›In die sancto‹ (30/11) – Festum Barbarae v. et m. (4/12) – In festo Nicholai (6/12) – Octava Andreae apl. (7/12) – Conceptio b. Mariae v. (8/12) – Damasi pp. (11/12) – <i>›De martiribus‹</i> [Victorici et Fusciani m.] (11/12) – Luciae v. et m. (13/12) – In festo Magni ducis m. (13/12) (Seq.). Mit den Sequenzen <i>Sacrosancta hodiernae</i> (AH 54:30), <i>Laudes debitas</i> (Incipit) (AH 54:62), <i>Congaudentes exultemus</i> (AH 54:66), <i>Conceptio Mariae virginis</i> (AH 54:188), <i>Regem caeli cantico</i> (nicht in AH), <i>Comitis generosi</i> (nicht in AH). Gedruckt: Eggen 1968 I, S. 129–131, 307–309, 131–135, 135–137, 140–141, 141–143.
 
-- f.(61) Thorlaci ep. (23/12). Mit der Sequenz <i>... Thorlaci memoria</i> (nicht in AH). Faksimile: Gjerløw 1980 II, S. 36-37.  Vollständige Inhaltsangabe des Blattes in Gjerløw 1980 I, S. 59-60.
+- f.61r-v Thorlaci ep. (23/12). Mit der Sequenz <i>... Thorlaci memoria</i> (nicht in AH). Faksimile: Gjerløw 1980 II, S. 36-37.  Vollständige Inhaltsangabe des Blattes in Gjerløw 1980 I, S. 59-60.
 
-- f.(62)r–v Policarpi ep. m. (26/1) (Intr.) – In oct. s. Agnetis (28/1) (Coll.) (lac.); (f.(62)v) In purificatione b. Mariae (2/2) (Coll.–Ep.).
+- f.62r–v Policarpi ep. m. (26/1) (Intr.) – In oct. s. Agnetis (28/1) (Coll.) (lac.); (f.62v) In purificatione b. Mariae (2/2) (Coll.–Ep.).
 
-- f.(63)r-v Pauli apl. (30/6) – Octava Iohannis bapt. (1/7) – Suithuni cf. et p. (2/7). Mit den Sequenzen <i>Sollemnitas sancti pauli</i> (AH 53:205), <i>Praecursorum summi regis ... en baptista</i> (AH 42:252), <i>Psallat ecclesia mater decora</i> (AH 37:306).
+- f.63r-v Pauli apl. (30/6) – Octava Iohannis bapt. (1/7) – Suithuni cf. et p. (2/7). Mit den Sequenzen <i>Sollemnitas sancti pauli</i> (AH 53:205), <i>Praecursorum summi regis ... en baptista</i> (AH 42:252), <i>Psallat ecclesia mater decora</i> (AH 37:306).
 
-- f.(64)r-v Octava Petri et Pauli apl. Mit der Sequenz <i>Iubar mundo geminatur</i> (AH 42:312).
+- f.64r-v Octava Petri et Pauli apl. Mit der Sequenz <i>Iubar mundo geminatur</i> (AH 42:312).
 
-- f.(65)r-v Sancti in Selio (8/7) – Translatio Benedicti ab. (11/7) – Margarete v. (20/7). Mit den Sequenzen <i>Ecce pulchra</i> (Rubrik) (AH 7:116, AH 53:114), <i>Sancti merita Benedicti</i> (AH 54:35), <i>Hac in die magnalia</i> (nur erste Buchstabe) (AH 40:284).
+- f.65r-v Sancti in Selio (8/7) – Translatio Benedicti ab. (11/7) – Margarete v. (20/7). Mit den Sequenzen <i>Ecce pulchra</i> (Rubrik) (AH 7:116, AH 53:114), <i>Sancti merita Benedicti</i> (AH 54:35), <i>Hac in die magnalia</i> (nur erste Buchstabe) (AH 40:284).
 
 
 
